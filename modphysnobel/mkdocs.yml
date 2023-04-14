@@ -2,7 +2,7 @@ site_name: Modern Physics thru Nobel Prizes
 site_url: https://modphysnobel.github.io
 theme: 
   name: material
-nav:
+  nav:
     - Home: index.md
     - About: about.md
 
