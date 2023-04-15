@@ -1,17 +1,47 @@
-# Welcome to MkDocs
+# Modern Physics through Nobel Prizes
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<img src="./figs/Nobel_Prize.png" width=256>
 
-## Commands
+A journey in Modern Physics based on the works of Physics Nobel Prize recipients.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## I.	MOTION
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1. Dictatorial and democratic conceptualizations of spaces 
+2. Production and control of electronic motions
+3. Detection of signals with the eye and the microscope 
+4. Geometrization of the description of motion
+          
+## II.	ENERGY
+
+5.  Black body radiation and photoelectric effect
+6.  Spectroscopies and perturbation theories
+7.  Brownian motions and specific heats 
+8.  Lever principle, conservation laws and dissipative systems
+
+## III.	WAVES
+
+9.  Matter waves and electron diffraction 
+10. Optical and gravitational waves
+11. Collective waves in condensed matter 
+12. Quantum waves and entanglement
+
+## IV.	UNIVERSE
+
+13. On Earth and other planets  
+14. Exploring the cosmic zoo with chambers and colliders 
+15. Structure and evolution of the universe
+16. Models of multiverses
+
+<img src="./figs/IntroFig1.png" width=480 >
+
+***
+
+Created: 2023-03-12; Updated: 2023-03-13 
+
+Jorge R. Barojas-Weber, Carlos Lizárraga-Celaya
+
+[Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+
+<img src="./figs/cc-by-nc-sa_icon.png">
+

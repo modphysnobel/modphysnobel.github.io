@@ -1,4 +1,4 @@
-site_name: Modern Physics thru Nobel Prizes
+site_name: Modern Physics through Nobel Prizes
 site_url: https://modphysnobel.github.io
 theme: 
   name: material
@@ -18,8 +18,8 @@ theme:
   language: en
   palette: 
     - scheme: default
-      primary: teal
-      accent: blue
+      primary: indigo
+      accent: deep purple
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
