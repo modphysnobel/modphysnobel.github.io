@@ -1,7 +1,7 @@
 
 # I. MOTION
 
-<p><img src="../figs/Leonardo_Diffusion_Motion.jpg" width=840></p>
+[!](../figs/Leonardo_Diffusion_Motion.jpg){width="840"}{target=_blank}
 
 (Image credit: [Leonardo AI](https://leonardo.ai/))
 
