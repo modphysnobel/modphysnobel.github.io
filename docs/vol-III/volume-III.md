@@ -1,6 +1,6 @@
 # III.  WAVES
 
-<p><img src="../figs/Leonardo_Difussion_Waves.jpg" width=840></p>
+<p><img src="../figs/Leonardo_Diffusion_Waves.jpg" width=840></p>
 
 (Image credit: [Leonardo AI](https://leonardo.ai/))
 
