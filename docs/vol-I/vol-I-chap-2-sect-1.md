@@ -234,24 +234,18 @@ The so-called Compton effect was produced, observed and calculated in 1920 by Ar
 
 What follows is a scheme describing the experimental setting where the three regions of production, transformation and detection and measurement are shown (Figure 2.4a). A vectorial diagram indicates the collision condition (Figure 2.4b). 
 
-<!-- HTML Table 1.1.1-->
-<table width="100%">
-  <tr>
-    <th width="50%">
-   <img src="./figs/Vol-I-chap-2-sect-1-Fig13.PNG" width=400 align=center>
-    </th>
-    <th width="50%">
-<img src="./figs/Vol-I-chap-2-sect-1-Fig14.PNG" width=400 align=center>
-    </th>
-  </tr>
-</table>
-Source: https://upload.wikimedia.org/wikipedia/commons/c/c2/Compton-en.svg
+
+<figure markdown>
+  ![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13.PNG){ width="400" }
+   ![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="400" }
+  <figcaption>Image credit: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c2/Compton-en.svg)</figcaption>
+</figure>
 
 **Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
 
-The photons are first produced in a X ray tube with a wavelength in between 0.1 Å and 100 Å. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
+The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(cosθ)$.
+Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos θ)$.
 
 Assume that the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $p$ in the direction of the angle $Φ$.
 
@@ -263,17 +257,17 @@ $Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) n_i= (\frac{Q}{c}) n_f+ p$
 
 Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0n_i- Qn_f )= cp$
 
-Then, taking into account that $(n_i).(n_f)=(cosθ)$, we obtain in previous equation: 
+Then, taking into account that $(n_i).(n_f)=(\cos θ)$, we obtain in previous equation: 
 
 $(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ ..... (1)
 
-$(Q_0)^2- 2(Q_0Q)(cosθ)+ (Q)^2 = c^2p^2$ ..... (2)
+$(Q_0)^2- 2(Q_0Q)(\cos θ)+ (Q)^2 = c^2p^2$ ..... (2)
 
-Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- cosθ)= (Q_0-Q)(m_0c^2 )$.
+Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- \cos θ)= (Q_0-Q)(m_0c^2 )$.
 
-For the electron $Q_0=\frac{hc}{λ_0}$ and for the photon $Q=hν=\frac{hc}{λ}$. Previous equation is now transformed into the following $(\frac{hc}{λλ_0})(1-cosθ)=(\frac{λ- λ_0}{λλ_0})(m_0c^2 )$
+For the electron $Q_0=\frac{hc}{λ_0}$ and for the photon $Q=hν=\frac{hc}{λ}$. Previous equation is now transformed into the following $(\frac{hc}{λλ_0})(1- \cos θ)=(\frac{λ- λ_0}{λλ_0})(m_0c^2 )$
 
-If $Δλ= λ- λ_0$ is the Compton shift and $Λ_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $Δλ= (Λ_C )(1- cosθ)$.
+If $Δλ= λ- λ_0$ is the Compton shift and $Λ_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $Δλ= (Λ_C )(1- \cos θ)$.
 
 Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $Λ_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $Λ_C=\frac{h}{m_0c}$ can be obtained if $Δλ$ is measured for different values of the angle $θ$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
 
