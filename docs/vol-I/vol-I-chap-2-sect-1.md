@@ -72,18 +72,13 @@ We present the procedure *Knowledge domains for understanding* and apply it to t
 
 According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
-<blockquote>
-<p>
 
-*1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.*
+1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.*
 
-*2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.*
+2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.*
 
-*3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.*
+3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.*
 
-
-</p>
-</blockquote>
 
 ### What does it mean to do an experiment?  
 
@@ -110,41 +105,43 @@ Revolutionary experiments penetrate the unknown; they generate new ideas and dem
 
 Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
 
-<img src="./figs/Vol-I-chap-2-sect-1-Fig8.PNG" width=480 align=center>
+<figure markdown>
+![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8.PNG){width="480"}
+  <figcaption>Source: adaptation by the authors of the image taken [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/JJ_Thomson_crookes_tube.jpg)
+</figcaption>
+</figure>
 
-Source: adaptation by the authors of the imagen taken from https://upload.wikimedia.org/wikipedia/commons/b/b9/JJ_Thomson_crookes_tube.jpg
+
 
 **Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 
 In Figure 2.1 the letters indicate the following variables: 
 
-•	(d) is the distance traveled by the electro inside the plates of the condenser where an external electric field (E) is applied. It is in this region that an external magnetic field (B) will be applied in the third type of experiments.
+* _d_ is the distance traveled by the electro inside the plates of the condenser where an external electric field (_E_) is applied. It is in this region that an external magnetic field (_B_) will be applied in the third type of experiments.
 
-•	 (s) is the distance traveled by the electron when the electron leaves the condenser and hits a phosphorescent screen at the end of the tube; when there are not external fields applied there is no deviation of the trajectory.
+* _s_ is the distance traveled by the electron when the electron leaves the condenser and hits a phosphorescent screen at the end of the tube; when there are not external fields applied there is no deviation of the trajectory.
 
-•	 (l) is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (E) is applied. 
+* _l_ is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (_E_) is applied. 
 
-•	(θ) is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $θ$ is such that $tan(θ) = l/s$.
+* _θ_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $θ$ is such that $tan(θ) = l/s$.
 
-The region of **Preparation** consisted in a vacuum tube containing a negative cathode (C), a positive anode (A) and a slit (S): when C is heated, a radiation is emitted, attracted by A and collimated trough S. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates D and E.
+The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
 
-The region of **Transformation** corresponds to the inside of two charged metallic plates of a condenser (D and E) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{electric} = qE$. is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{transversal} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{transversal}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$ is acquired by the particle.       
+The region of **Transformation** corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm electric} = qE$. is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm transversal} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm transversal}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$ is acquired by the particle.       
 
-Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = ½(a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y = ½(a_t)t^2=½(\frac{qE}{m})[(\frac{x}{v_0})^2]=½(\frac{qE}{mv_0 ^2})(x^2)$ which correspond to the form $y = Ax^2$.
+Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
 
-The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $θ$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $tan(θ)=\frac{dy}{dx}=½(\frac{qE}{mv_0 ^2})(2x)=\frac{qEx}{mv_0 ^2}$. Then, using the result $tan(θ)=l/s$ it can be obtained $tan(𝜃)=(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
+The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $θ$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $tan(θ) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $tan(θ) = l/s$ it can be obtained $tan(0) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
 
-To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0B = F_{electric} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$ we get 
+To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0 B = F_{\mathrm electric} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2}) = \frac{l}{s}$ we get 
 
-<blockquote>
-<p>
 
-$\frac{q}{m}=\frac{El}{B^2ds}$
+$$
+\frac{q}{m}=\frac{El}{B^2ds}
+$$
 
-</p>
-</blockquote>
 
-It is interesting to observe that in this equation the ratio of two very small and unknown quantities (q/m) can be calculated by measuring three distances (l, s and d) and the intensity of two fields (E and B). These experiments made possible to change a very difficult question into a feasible and relevant procedure.   
+It is interesting to observe that in this equation the ratio of two very small and unknown quantities (_q/m_) can be calculated by measuring three distances (_l_, _s_ and _d_) and the intensity of two fields (_E_ and _B_). These experiments made possible to change a very difficult question into a feasible and relevant procedure.   
 
 ### Measurement of the elementary electric charge of the electron by Millikan.
 
@@ -171,15 +168,15 @@ In the region of **Transformation** a condenser inside the chamber has two metal
 
 In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
 
-Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{gravity} = mg$), the viscous drag force ($F_{viscosity}$) produced by friction with the air inside the chamber, and the electric force $F_{electric field} = qE$ exerted by the external field E. 
+Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{\mathrm gravity} = mg$), the viscous drag force ($F_{\mathrm viscosity}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm electric field} = qE$ exerted by the external field _E_. 
 
-According to Stokes law, the force of fluid friction is $F_{viscosity} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{viscosity})/κη$. If the external field E is zero the force $F_{electric field} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{viscosity} = F_{gravity} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
+According to Stokes law, the force of fluid friction is $F_{\mathrm viscosity} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{\mathrm viscosity})/κη$. If the external field _E_ is zero the force $F_{\mathrm electric field} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{\mathrm viscosity} = F_{\mathrm gravity} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
 
-However, when the external field is not zero the net force $F_{viscosity} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $Δv_a$ are considered the changes in the charge are $Δq = [(6πrη)/E](Δ v_a)$.
+However, when the external field is not zero the net force $F_{\mathrm viscosity} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $Δv_a$ are considered the changes in the charge are $Δq = [(6πrη)/E](Δ v_a)$.
 
 The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope (Figure 2.2b). Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
 
-### Stationary electronic energy levels demonstrated by Franck and Hertz.
+### Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz.
 
 Spectral lines are observed in atoms because certain transitions between electronic discrete energy levels are produced. Is this a consequence of the emission or absorption of photons or is it a quantized property that electrons have by themselves?
 
@@ -187,29 +184,24 @@ In 1914 Franck and Hertz provided experimental evidence of the existence of stat
 
 The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
 
-<!-- HTML Table 1.1.1-->
-<table width="100%">
-  <tr>
-    <th width="50%">
-   <img src="./figs/Vol-I-chap-2-sect-1-Fig11.png" width=400 align=center>
-    </th>
-    <th width="50%">
-<img src="./figs/Vol-I-chap-2-sect-1-Fig12.PNG" width=400 align=center>
-    </th>
-  </tr>
-</table>
-Source: https://upload.wikimedia.org/wikipedia/commons/e/e9/Exp_franck_hertz.JPG
-https://upload.wikimedia.org/wikipedia/commons/9/9a/FHZ_katse_tulemused.jpg
+<figure markdown>
+  ![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig11.png){ width="400" }
+  ![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="400" }
+  <figcaption>Image credit: Wikimedia Commons [Fig 11](https://upload.wikimedia.org/wikipedia/commons/e/e9/Exp_franck_hertz.JPG), [Fig 12](https://upload.wikimedia.org/wikipedia/commons/9/9a/FHZ_katse_tulemused.jpg)
+</figcaption>
+</figure>
+
+
 
 **Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
 
-The region of **Preparation** contains a triode with a heated filament (F) for emitting electrons, a negative cathode (C), a collecting anode (A) and in between them a polarized grid (G).
+The region of **Preparation** contains a triode with a heated filament (_F_) for emitting electrons, a negative cathode (_C_), a collecting anode (_A_) and in between them a polarized grid (_G_).
 
-The region of **Transformation** is the space surrounding F and G filled with atoms of Mercury vapor. An external variable potential (V) accelerates the electrons from F towards G provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between G and A.
+The region of **Transformation** is the space surrounding _F_ and _G_ filled with atoms of Mercury vapor. An external variable potential (_V_) accelerates the electrons from _F_ towards _G_ provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between _G_ and _A_.
 
-The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at A after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
+The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at _A_ after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
 
-In normal conditions an atom has its electrons in their lowest energy state; they go to a higher energy level when they receive extra energy for their excitation. Franck and Hertz accomplished this effect by generating inelastic collisions between two types of electrons: the external electrons produced by the filament F that have been accelerated by the potential V and the internal electrons belonging to the atoms of Mercury contained inside the triode. Franck and Hertz changed the accelerating voltage (V) and then measured in the galvanometer the intensity of the current (I) produced by those electrons that arrived at the anode A (Figure 2.3b). 
+In normal conditions an atom has its electrons in their lowest energy state; they go to a higher energy level when they receive extra energy for their excitation. Franck and Hertz accomplished this effect by generating inelastic collisions between two types of electrons: the external electrons produced by the filament F that have been accelerated by the potential V and the internal electrons belonging to the atoms of Mercury contained inside the triode. Franck and Hertz changed the accelerating voltage (_V_) and then measured in the galvanometer the intensity of the current (_I_) produced by those electrons that arrived at the anode A (Figure 2.3b). 
 
 What was observed in the experiment was the following: When the accelerating potential V started to increase the current, I also increased. At a critical value $V_c = 4.9$ volts the current went down sharply; however, when the voltage increased again the current increased also. In arriving at a new critical value $2V_c = 9.8$ volts, the same strong diminution of the current was observed. These observations can be interpreted as follows:
 
