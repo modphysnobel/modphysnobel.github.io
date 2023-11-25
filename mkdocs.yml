@@ -5,8 +5,8 @@ site_description: >-
   Book that explores and describes Modern Physics from the scientific contributions of known scientists that have received Nobel Prizes.
 
 # Repository
-#repo_name: Modern-Physics-through-Nobel-Prizes
-#repo_url:https://github.com/modphysnobel/modphysnobel.github.io
+repo_name: Modern-Physics-through-Nobel-Prizes
+repo_url: https://github.com/modphysnobel/modphysnobel.github.io
 
 theme: 
   name: material
