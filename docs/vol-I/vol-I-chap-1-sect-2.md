@@ -111,30 +111,18 @@ Next, for each Nobel Laureate we include a brief description of his work as pres
  
   MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
-<blockquote>
-<p>
 
-**BOX 1: Accepted knowledge or questions under discussion in Pauli´s times.**
+!!! info "BOX 1: Accepted knowledge or questions under discussion in Pauli´s times."
 
-<ul type = "circle">
-<li>Einstein relativity theories were not well understood.</li>
-<li>The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$.</li>         
-<li>Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).</li>
-<li>Three crucial contributions to quantum mechanics have been made:</li>
-</ul>
 
-- Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
+* Einstein relativity theories were not well understood.
+* The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$.
+Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
+* Three crucial contributions to quantum mechanics have been made:
+  - Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
+  - Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
+  - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
-- Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
-
-- Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
-  
-</p>
-</blockquote>
-
-   
-<blockquote>
-<p>
 
 **BOX 2: Pauli´s contributions or explanations.**
 
