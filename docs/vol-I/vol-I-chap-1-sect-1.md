@@ -221,37 +221,17 @@ mentioned approaches: in a dictatorial approach the distance from any point $P(x
 in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally
 satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be followed are now described.
 
-<!-- HTML Table 1.1.1-->
-<table width="100%">
-  <tr>
-    <th width="50%">
-   <img src="./figs/Vol-I-chap-1-sect-1-Fig8.PNG" width=300 align=center>
-    </th>
-    <th width="50%">
-<img src="./figs/Vol-I-chap-1-sect-1-Fig9.PNG" width=300 align=center>
-    </th>
-  </tr>
-</table>
-
-
-(Markdown+HTML)
 
 (option 1)
 
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
 
 (option 2)
 
 ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
 ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
 
-(option table)
-
-|    |
-| :--: |
-|   ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} 
-   ![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="200"} |
 
 Source: drawings made by the authors.
 
