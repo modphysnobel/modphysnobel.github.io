@@ -32,16 +32,16 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/orcid
-      link: https://orcid.org/0000-0002-0893-4268
+#    - icon: fontawesome/brands/orcid
+#      link: https://orcid.org/0000-0002-0893-4268
     - icon: fontawesome/brands/github
       link: https://github.com/modphysnobel
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/carloslizarragac/
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/carlos.lizarragac/
-    - icon: fontawesome/brands/mastodon
-      link: https://mastodon.online/@clizarraga
+#    - icon: fontawesome/brands/linkedin
+#      link: https://www.linkedin.com/in/carloslizarragac/
+#    - icon: fontawesome/brands/facebook
+#      link: https://www.facebook.com/carlos.lizarragac/
+#    - icon: fontawesome/brands/mastodon
+#      link: https://mastodon.online/@clizarraga
     
 
 # Extensions
