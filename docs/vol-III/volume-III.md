@@ -16,24 +16,24 @@ The content of this Volume is the following:
 
 
 ## 9.   Matter waves and quantum mechanics principles.
-### 9.1 [From a theoretical proposition to an experimental demonstration](./vol-III/vol-III-chap-9-sect-1.md).
-### 9.2  [Correspondence and uncertainty principles in Quantum Physics](./vol-III/vol-III-chap-9-sect-2.md).
-### 9.3  [Communication formats for describing scientific texts](./vol-III/vol-III-chap-9-sect-3.md).
+### 9.1 [From a theoretical proposition to an experimental demonstration](vol-III-chap-9-sect-1.md).
+### 9.2  [Correspondence and uncertainty principles in Quantum Physics](vol-III-chap-9-sect-2.md).
+### 9.3  [Communication formats for describing scientific texts](vol-III-chap-9-sect-3.md).
 
 ## 10.  Interferences of electromagnetic and gravitational waves
-### 10.1  [Michelson interferometer and the Michelson-Morley experiment](./vol-III/vol-III-chap-10-sect-1.md).
-### 10.2  [Gravitational astronomy](./vol-III/vol-III-chap-10-sect-2.md).
-### 10.3  [Organization and evaluation of learning communities](./vol-III/vol-III-chap-10-sect-3.md).
+### 10.1  [Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
+### 10.2  [Gravitational astronomy](vol-III-chap-10-sect-2.md).
+### 10.3  [Organization and evaluation of learning communities](vol-III-chap-10-sect-3.md).
        
 ## 11.  Quantum waves in condensed matter physics.
-### 11.1  [Microscopic observation of solids](./vol-III/vol-III-chap-11-sect-1.md).
-### 11.2  [Production of new materials and study of individual quantum systems](./vol-III/vol-III-chap-11-sect-2.md).
-### 11.3  [Phases in learning and research processes](./vol-III/vol-III-chap-11-sect-3.md).
+### 11.1  [Microscopic observation of solids](vol-III-chap-11-sect-1.md).
+### 11.2  [Production of new materials and study of individual quantum systems](vol-III-chap-11-sect-2.md).
+### 11.3  [Phases in learning and research processes](vol-III-chap-11-sect-3.md).
         
 ## 12.  Bosons or fermions in condensed matter.
-### 12.1 [Bose-Einstein condensation, superfluidity and superconductivity](./vol-III/vol-III-chap-12-sect-1.md).
-### 12.2  [Quantum Hall effects](./vol-III/vol-III-chap-12-sect-2.md).
-### 12.3  [Schools for education and learning trajectories](./vol-III/vol-III-chap-12-sect-3.md).
+### 12.1 [Bose-Einstein condensation, superfluidity and superconductivity](vol-III-chap-12-sect-1.md).
+### 12.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
+### 12.3  [Schools for education and learning trajectories](vol-III-chap-12-sect-3.md).
 
 ***
 
