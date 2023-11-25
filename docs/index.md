@@ -2,7 +2,7 @@
 
 <img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
 
-(Image credit: Leonardo.AI)
+(Image credit: [Leonardo.AI](https://leonardo.ai/))
 
 ***
 
