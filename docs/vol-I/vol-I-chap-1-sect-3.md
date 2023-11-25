@@ -1,3 +1,7 @@
+
+[** Volume I: Motion](https://modphysnobel.github.io/vol-I/volume-I/)
+[** Previous: 1.2.  Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-1.md)
+
 ## 1.3.  Contexts learning for conceptualizing cognitive spaces.
 
 ### Meaning of context.
@@ -5,7 +9,7 @@
 
 Previous dicotomy in the conceptualization of spaces as dictatorial or democratic has been translated in Section 1.2 into the classification scheme for elementary particles that separates fermions from bosons. In Physics we also have other couples of interrelated concepts such as matter - energy, order - disorder, space - time, particles - waves, individuality - collectivity, objective - subjective, deterministic - probabilistic, antagonistic - complementary, particular - universal… 
 
-In this section we deal with the procedure named *Context learning for conceptualizing cognitive spaces*. The word context, *contexto* in Spanish, comes from Latín *contextus*, derived from the verb *téxere*, to knitt- tejer. Playing with the words con-text is what comes with the text. In connection to writings, and not to textiles, it means the conducting threads that communicate sense and meaning in written texts. It refers to material, human, and social conditions framing the generation of products or services.
+In this section we deal with the procedure named *Context learning for conceptualizing cognitive spaces*. The word context,( *contexto* in Spanish), comes from Latin *contextus*, derived from the verb *téxere*, to knitt (*tejer* in Spanish). Playing with the words *con-texto* is what comes with the text. In connection to writings, and not to textiles, it means the conducting threads that communicate sense and meaning in written texts. It refers to material, human, and social conditions framing the generation of products or services.
 
 ### Components of context learning.
 
@@ -38,13 +42,15 @@ Archimedes experimental procedures could be considered as being democratic if he
 
 The solution obtained by Archimedes can be summarized in terms of two processes: the analysis of the problem and the solution of the problem.
 
-<img src="./figs/Figura 1.3.1.PNG" width=300 align=center>
+<figure markdown>
+![Fig 1.3.1](./figs/Figura 1.3.1.PNG){width=480}
 
-<img src="./figs/Figura 1.3.2.PNG" width=300 align=center>
+![Fig 1.3.2](./figs/Figura 1.3.2.PNG){width=480}
 
-```
-The description of cognitive spaces for context learning serves for analyzing concepts to be proposed and tested as well as for comparing models to be contrasted and improved.
-```
+  <figcaption>The description of cognitive spaces for context learning serves for analyzing concepts to be proposed and tested as well as for comparing models to be contrasted and improved.</figcaption>
+</figure>
+
+
 
 - It can be assumed that Archimedes was involved in the following **activities**: he weighted the finished crown and took a block of gold of the same weight; therefore, they had the same mass. He knew that the density of a golden crown will be higher than the density of a silver crown.  Then, a crown made of gold will occupy a lesser volume than a crown made of silver.
 
@@ -66,5 +72,6 @@ CONCLUSION
 4. DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simon and Schuster, (1966).
 5. HELLEMANS, A. y BUNCH, B. The Timetables of SCIENCE. A Chronology of the Most Important People and Events in the History of Science. , New York, Simon and Schuster, (1988).
 
+[**Next: 1.4 Geometrization of the description of motion].(vol-I-chap-4-sect-1/)
 
 

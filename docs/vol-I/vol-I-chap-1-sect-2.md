@@ -1,3 +1,7 @@
+
+[** Volume I: Motion](https://modphysnobel.github.io/vol-I/volume-I/)
+[** Previous: 1.1. Mathematics and science in ancient Greece.**](./vol-I-chap-1-sect-1.md)
+
 ## 1.2.	Conceptualizations of spaces and quantum statistics.
 
 ### Conceptual developments in ancient Greece.
@@ -70,7 +74,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 </table>
 (Images credit: CC Wikimedia Commons)
 
-**Figure 1.3.** Plans of different archeological sites: (a) Mileto in Asia Minor, nearby 490 BC.; (b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; (c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and (d) Massada in Israel, nearby 20 BC.
+**Figure 1.3.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
 
 ### Astronomical and geometrical spaces.
 
@@ -134,9 +138,9 @@ Next, for each Nobel Laureate we include a brief description of his work as pres
 !!! info "BOX 2: Pauli´s contributions or explanations."
     - *As soon as the symmetry classes for electrons were cleared, the question arose which are the symmetry classes for other particles with symmetrical wave functions like photons. We note that the symmetrical class for photons occurs together with the integer value 1 for their spin, while the antisymmetrical class for the electron occurs together with the half-integer value ½ for the spin.*
     - *In order to prepare for the discussion of more fundamental questions, we want to stress here a law of Nature which is generally valid, namely, the connection between spin and symmetry class. A half-integer value of the spin quantum number is always connected with antisymmetric states (exclusion principle), an integer spin with symmetrical states. This law holds not only for protons and neutrons but also for protons and electrons. Moreover, it can easily be seen that it holds for compound systems, if it holds for all of its constituents. If we search for a theoretical explanation of this law, we must pass to the discussion of relativistic wave mechanics, since we saw that it can certainly not be explained by non-relativistic wave mechanics.*
-    - *In his lecture delivered here in Stockholm * he himself explained his proposal of a new interpretation of his theory, according to which in the actual vacuum all the states of negative energy should be occupied and only deviations of this state of smallest energy, namely holes in the sea of these occupied states are assumed to be observable. It is the exclusion principle which guarantees the stability of the vacuum, in which all states of negative energy are occupied. Furthermore, the holes have all properties of particles with positive energy and positive electric charge, which in external electromagnetic fields can be produced and annihilated in pairs. These predicted positrons, the exact mirror images of the electrons, have been actually discovered experimentally.*
+    - *In his lecture delivered here in Stockholm (*) he himself explained his proposal of a new interpretation of his theory, according to which in the actual vacuum all the states of negative energy should be occupied and only deviations of this state of smallest energy, namely holes in the sea of these occupied states are assumed to be observable. It is the exclusion principle which guarantees the stability of the vacuum, in which all states of negative energy are occupied. Furthermore, the holes have all properties of particles with positive energy and positive electric charge, which in external electromagnetic fields can be produced and annihilated in pairs. These predicted positrons, the exact mirror images of the electrons, have been actually discovered experimentally.*
 
-*** Pauli refers to a lecture delivered by Dirac.
+(*) Pauli refers to a lecture delivered by Dirac.
 
 
 #### Max Born (1882-1970).
@@ -163,4 +167,4 @@ MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2
     - The statistical interpretation of quantum mechanics indicates that transition probabilities can be calculated if the wave function is time and space dependent as well as a function of the discrete index $n$ which enumerates the electronic stationary states.
     - Discussion of the essentially indeterministic statistical interpretation of quantum mechanics and the questions of reality, indeterminacy, and complementarity.
 
-[**1.3.  Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md)
+[**Next: 1.3.  Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md)
