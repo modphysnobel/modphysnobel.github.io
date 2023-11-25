@@ -7,10 +7,10 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
 
 ## I.	MOTION
 
-1. [Dictatorial and democratic conceptualizations of spaces ](./Vol-I/volume-I.md)
-2. [Production and control of electronic motions](./Vol-II/volume-II.md)
-3. [Detection of signals with the eye and the microscope](./Vol-III/volume-III.md)
-4. [Geometrization of the description of motion](./Vol-IV/volume-IV.md)
+1. [Dictatorial and democratic conceptualizations of spaces ](./vol-I/volume-I.md)
+2. [Production and control of electronic motions](./vol-II/volume-II.md)
+3. [Detection of signals with the eye and the microscope](./vol-III/volume-III.md)
+4. [Geometrization of the description of motion](./vol-IV/volume-IV.md)
           
 ## II.	ENERGY
 
