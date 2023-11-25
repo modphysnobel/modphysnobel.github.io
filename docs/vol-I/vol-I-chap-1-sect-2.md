@@ -21,6 +21,14 @@ When Greek cities were built (_the polis_) writing was used as a transforming in
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg" width=240 align=center>
 (Image credit: CC Wikimedia Commons)
 
+(option 2)
+
+<figure markdown>
+  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="240" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
+
+
 Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Polycrates of Samos died, his successor asked all the citizens to meet in an assembly and informed them that he will behave in a democratic way in total disagreement with his predecessor.
 
 #### Homer (VIII century).
