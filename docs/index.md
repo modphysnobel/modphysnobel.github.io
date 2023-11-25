@@ -1,6 +1,7 @@
 # Modern Physics through Nobel Prizes
 
 <img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
+(Image credit: Leonardo.AI)
 
 A journey in Modern Physics based on the works of Physics Nobel Prize recipients.
 
