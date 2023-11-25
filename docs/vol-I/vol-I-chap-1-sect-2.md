@@ -14,6 +14,15 @@ Before political institutions were established in Greece, the highest level in t
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg" width=240 align=center>
 (Image credit: CC Wikimedia Commons)
 
+(option 2)
+
+<figure markdown>
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="300" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
+
+
+
 When Greek cities were built (_the polis_) writing was used as a transforming instrument that made public private issues. Probably it was Pherecydes of Syros (580 BC – 520 BC) the first writer to publish a philosophical work in prose. He wrote books for transforming private knowledges into public possibilities for discussion.
 
 #### Herodotus of Halicarnassus (484 BC- 425 BC).
