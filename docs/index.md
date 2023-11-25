@@ -1,16 +1,16 @@
 # Modern Physics through Nobel Prizes
 
-<img src="./figs/Nobel_Prize.png" width=256>
+<img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
 
 A journey in Modern Physics based on the works of Physics Nobel Prize recipients.
 
 
 ## I.	MOTION
 
-1. Dictatorial and democratic conceptualizations of spaces 
-2. Production and control of electronic motions
-3. Detection of signals with the eye and the microscope 
-4. Geometrization of the description of motion
+1. [Dictatorial and democratic conceptualizations of spaces ](./Vol-I/volume-I.md)
+2. [Production and control of electronic motions](./Vol-II/volume-II.md)
+3. [Detection of signals with the eye and the microscope](./Vol-III/volume-III.md)
+4. [Geometrization of the description of motion](./Vol-IV/volume-IV.md)
           
 ## II.	ENERGY
 
@@ -37,7 +37,7 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
 
 ***
 
-Created: 2023-03-12; Updated: 2023-03-13 
+Created: 2023-03-12; Updated: 2023-11-24 
 
 Jorge R. Barojas-Weber, Carlos Lizárraga-Celaya
 
