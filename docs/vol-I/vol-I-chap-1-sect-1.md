@@ -184,7 +184,7 @@ According to Durant (1966), the ten Archimedes´ books that survived had the fol
 | Archimides' Books |
 | :--               |
 |    1. _The Method_: to explain how mechanical experiments can extend geometrical knowledge. |
-|    2. _A Colecction of Lemas_: to discuss alternative hypothesis in plane geometry. |
+|    2. _A Collection of Lemas_: to discuss alternative hypothesis in plane geometry. |
 |    3. _The Measurement of a Circle_: to calculate de value of π by using the method of exhaustion: he obtained the following bound values: 3 + 10/71 < π < 3 + 10/70. |
 |    4. _The Quadrature of the Parabola studies_: to calculate the area cut off from a parabola by a chord and the area of an ellipse. |
 |    5. _On Spirals_: to define the procedure to draw a spiral and find the area enclosed by such a figure by methods approximating differential calculus. |
@@ -216,7 +216,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
 ### A geometrical example.
 
 The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian
-coordinates we have $ x^2 + y^2 = R^2 $, test equation.. \( x^{2} + y^{2} = R^{2} \). This equation could be described according to the previously
+coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously
 mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center
 in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally
 satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be followed are now described.
@@ -237,15 +237,14 @@ satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be f
 (Markdown+HTML)
 
 <figure markdown>
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} \ \ ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
 </figure>
 
 
 |  |  |
 | :--: | :--: |
-|   ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"} |
-   ![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="300"} |
+|   ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} |
+   ![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="200"} |
 
 Source: drawings made by the authors.
 
