@@ -11,13 +11,9 @@ Before political institutions were established in Greece, the highest level in t
 
 #### Pherecydes of Syros (580 BC – 520 BC).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg" width=240 align=center>
-(Image credit: CC Wikimedia Commons)
-
-(option 2)
 
 <figure markdown>
-  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="300" }
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="200" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -27,13 +23,8 @@ When Greek cities were built (_the polis_) writing was used as a transforming in
 
 #### Herodotus of Halicarnassus (484 BC- 425 BC).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg" width=240 align=center>
-(Image credit: CC Wikimedia Commons)
-
-(option 2)
-
 <figure markdown>
-  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="240" }
+  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="200" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -44,6 +35,14 @@ Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Pol
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg" width=240 align=center>
 (Image credit: CC Wikimedia Commons)
+
+
+<figure markdown>
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="200" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
+
+
 
 Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses and Penelope, was worried because many pretenders to the throne were harassing his mother. He asked soldiers to protect her by forming an agora (Greek word for an assembly). It is attributed to the same writer the use of the word _ageirien laon_, that means to congregate the army.
 
@@ -91,12 +90,28 @@ However, Greek ancient astronomy was looking for explanations about the structur
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg" width=240 align=center>
 (Image credit: CC Wikimedia Commons)
 
+
+<figure markdown>
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="200" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
+
+
+
 Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatise describing the origin of gods. According to him the Earth was a vessel whose interior contained a structured world enclosed by Zeus to avoid the perception of light in the disordered world: at the upper level lived Zeus and immortal gods, then the human beings and downward death and underground gods.
 
 #### Anaximander of Miletus, Ionia, (619 – 546).
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg" width=240 align=center>
 (Image credit: CC Wikimedia Commons)
+
+
+
+<figure markdown>
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="200" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
+
 
 Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
 
@@ -122,15 +137,13 @@ Next, for each Nobel Laureate we include a brief description of his work as pres
 
 
 !!! info "BOX 1: Accepted knowledge or questions under discussion in Pauli´s times."
-
-
-* Einstein relativity theories were not well understood.
-* The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$.
+    * Einstein relativity theories were not well understood.
+    * The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$.
 Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
-* Three crucial contributions to quantum mechanics have been made:
-  - Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
-  - Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
-  - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
+    * Three crucial contributions to quantum mechanics have been made:
+      - Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
+      - Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
+      - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
 
 **BOX 2: Pauli´s contributions or explanations.**
