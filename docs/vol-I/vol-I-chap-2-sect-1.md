@@ -1,9 +1,10 @@
 
 [**Volume I: Motion**](./volume-I.md)
 
-[**Previous: 1.3. Contexts learning for conceptualizing cognitive spaces.](./vol-I-chap-1-sect-3.md)) 
+[**Previous: 1.3. Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md) 
 
 ***
+
 
 ## 2. Production and control of electronic motions. 
 
@@ -17,31 +18,33 @@ This Chapter deals with the principal characteristics of electronic motions unde
 
 After this Chapter you should be able to: 
 
-•	Explain what happens on different interaction regions in those revolutionary experiments that were critical in the determination of electronic properties at the beginning of last century.
-
-•	Describe the Nobel Lectures presented by Thomson, Millikan, Franck, Hertz, and Compton in terms of the accepted knowledge or questions under discussion in laureates’ times and the personal contributions or explanations made by the laureates.
-
-•	Identify the knowledge domains (factual, analytic, conceptual, and operational) that have been applied for understanding experiments for the calculation of electronic properties and the description of interactions of radiation with electrons.
+* Explain what happens on different interaction regions in those revolutionary experiments that were critical in the determination of electronic properties at the beginning of last century.
+* Describe the Nobel Lectures presented by Thomson, Millikan, Franck, Hertz, and Compton in terms of the accepted knowledge or questions under discussion in laureates’ times and the personal contributions or explanations made by the laureates.
+* Identify the knowledge domains (factual, analytic, conceptual, and operational) that have been applied for understanding experiments for the calculation of electronic properties and the description of interactions of radiation with electrons.
 
 ### Description of content of Chapter 2.
 
-<!-- HTML code -->
-<blockquote>
-<p>
 
-### 2.  Production and control of electronic motions.<br>
-**2.1.  Regions for doing experiments.**<br>
-        Experiments made by Thomson for discovering the electron.<br> 
-        Measurement of the elementary electric charge of the electron by Millikan.<br>
-        Stationary electronic energy levels demonstrated by Franck and Hertz.<br> 
-        Dispersion of radiation in collisions electron-photon explained by Compton.<br>
-**2.2.  Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**<br>
-**2.3.   Knowledge domains for understanding.**<br>
-Experiments for the calculation of electronic properties.<br>
-         Experiments for the description of interactions of radiation with electrons.
+### 2.  Production and control of electronic motions.
 
-</p>
-</blockquote>
+* 2.1.  Regions for doing experiments.
+
+        Experiments made by Thomson for discovering the electron. 
+
+	Measurement of the elementary electric charge of the electron by Millikan.
+
+	Stationary electronic energy levels demonstrated by Franck and Hertz. 
+
+	Dispersion of radiation in collisions electron-photon explained by Compton.
+
+* 2.2.  Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.
+
+* 2.3.   Knowledge domains for understanding.
+
+  	 Experiments for the calculation of electronic properties.
+
+	 Experiments for the description of interactions of radiation with electrons.
+
 
 #### Section 2.1. Regions for doing experiments.
 
