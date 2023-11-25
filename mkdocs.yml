@@ -1,5 +1,13 @@
 site_name: Modern Physics through Nobel Prizes
 site_url: https://modphysnobel.github.io
+site_author: Baroja Weber, J.R., Lizárraga-Celaya, C.
+site_description: >-
+  Book that explores and describes Modern Physics from the scientific contributions of known scientists that have received Nobel Prizes.
+
+# Repository
+repo_name: Modern-Physics-through-Nobel-Prizes
+repo_url:https://github.com/modphysnobel/modphysnobel.github.io
+
 theme: 
   name: material
   nav:
@@ -15,6 +23,8 @@ theme:
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
+    - navigation.footer
+    - navigation.top
     - toc.follow
   # Default values, taken from mkdocs_theme.yml
   language: en
@@ -87,6 +97,14 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Book volumes:
+     - Motion: docs/vol-I/volume-I.md
+     - Energy: docs/vol-II/volume-II.md
+     - Waves: docs/vol-III/volume-III.md
+     - Universe: docs/vol-IV/volume-IV.md
 
 plugins:
     - search
