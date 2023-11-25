@@ -1,6 +1,12 @@
 
 # I. MOTION
 
+<img src="./figs/Leonardo_Diffusion_Motion.jpg" width=840>
+
+(Image credit: [Leonardo AI](https://leonardo.ai/))
+
+***
+
 This is the first Volume of the series _EXPLORING MODERN PHYSICS VIA NOBEL PRIZES_. It refers to movement and concerns the relationship between Mathematics, mostly Geometry, and Mechanics. We consider how mathematics has been useful in understanding and describing motion.
 
 Mathematics means the discovery and application of properties of abstract objects such as numbers and their relationships, figures and their structures, quantities and theirs changes. The word is derived from ancient Greek _μάθημα_-máthēma: knowledge, study or  learning.  Geometry (from _γεωμετία_, from _γῆ_-earth and _μετρέω_-measure) is the study of properties related to spatial forms and to measurements associated with their extensions. Geometry requires precise observations, experimental control, exact measurement, and appropriate mathematical treatment. 

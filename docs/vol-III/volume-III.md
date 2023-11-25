@@ -1,5 +1,12 @@
 # III.  WAVES
 
+<img src="./figs/Leonardo_Difussion_Waves.jpg" width=840>
+
+(Image credit: [Leonardo AI](https://leonardo.ai/))
+
+
+***
+
 
 This is the third book of the series _EXPLORING MODERN PHYSICS VIA NOBEL PRIZES_. It concerns waves which are both: mathematical representations of oscillatory processes and physical descriptions of phenomena involving transfer of matter, energy, information, and more.
 
@@ -38,4 +45,6 @@ _Modern Physics through Nobel Prizes_.
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 <img src="../figs/cc-by-nc-sa_icon.png">
+
+
 

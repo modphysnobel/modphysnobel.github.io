@@ -1,5 +1,11 @@
 ## IV. UNIVERSE
 
+<img src="./figs/Leonardo_Diffusion_Universe.jpg" width=840>
+
+(Image credit: [Leonardo AI](https://leonardo.ai/))
+
+***
+
 This is the fourth book of the series _EXPLORING MODERN PHYSICS VIA NOBEL PRIZES_. It refers to understanding the universe. According to Carl Sagan: “the universe is all that existed, exists and will exist”. Understanding requires asking questions and proposing answers that foster the improvement of knowledge. It means to bite the unknown.
 
 The study of the universe is like archaeology in the sense that it concerns the reconstruction of what is past and like history because it consists in the interpretation of what has been registered. Natural sciences deal with objects and forces acting in macroscopic regions at the beginning of time and in microscopic regions observed in modern accelerators of particles. Social sciences refer to individuals and their evolving groups whose properties and tendencies are studied in terms of these microscopic or macroscopic reference systems. The traces of the past serve to interpret the present and propose radiographies of possible futures.
