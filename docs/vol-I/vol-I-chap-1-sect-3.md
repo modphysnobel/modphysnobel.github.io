@@ -77,6 +77,6 @@ CONCLUSION
 
 ***
 
-[**Next: 1.4 Geometrization of the description of motion.**](vol-I-chap-4-sect-1/)
+[**Next: 2. Production and control of electronic motions.**](vol-I-chap-2-sect-1/)
 
 
