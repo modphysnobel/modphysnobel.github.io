@@ -1,5 +1,5 @@
 
-[**Volume I: Motion**](./volume-I/)
+[**Volume I: Motion**](./volume-I.md)
 
 [**Previous: 1.1. Mathematics and science in ancient Greece.**](./vol-I-chap-1-sect-1.md)
 
