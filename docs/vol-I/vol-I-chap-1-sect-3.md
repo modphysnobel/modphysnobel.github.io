@@ -1,7 +1,7 @@
 
-[** Volume I: Motion.**](https://modphysnobel.github.io/vol-I/volume-I/)
+[**Volume I: Motion.**](./volume-I/)
 
-[** Previous: 1.2.  Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-1.md)
+[**Previous: 1.2.  Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-1.md)
 
 ***
 
@@ -77,6 +77,6 @@ CONCLUSION
 
 ***
 
-[**Next: 2. Production and control of electronic motions.**](vol-I-chap-2-sect-1/)
+[**Next: 2.1 Production and control of electronic motions.**](vol-I-chap-2-sect-1/)
 
 

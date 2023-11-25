@@ -238,4 +238,6 @@ Source: drawings made by the authors.
 - Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
 - Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
 
+***
+
 [**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-2.md)

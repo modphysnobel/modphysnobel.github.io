@@ -1,6 +1,9 @@
 
-[** Volume I: Motion](https://modphysnobel.github.io/vol-I/volume-I/)
-[** Previous: 1.1. Mathematics and science in ancient Greece.**](./vol-I-chap-1-sect-1.md)
+[**Volume I: Motion**](./volume-I/)
+
+[**Previous: 1.1. Mathematics and science in ancient Greece.**](./vol-I-chap-1-sect-1.md)
+
+***
 
 ## 1.2.	Conceptualizations of spaces and quantum statistics.
 
@@ -166,5 +169,7 @@ MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2
     - Introduction of the square arrays of quantities called matrices and applied to Heisenberg’s quantum condition requiring that coordinates $q$ and momenta $p$ cannot be represented by figure values but by symbols, and that their product depends upon the order of multiplication - they are “non-commuting”.
     - The statistical interpretation of quantum mechanics indicates that transition probabilities can be calculated if the wave function is time and space dependent as well as a function of the discrete index $n$ which enumerates the electronic stationary states.
     - Discussion of the essentially indeterministic statistical interpretation of quantum mechanics and the questions of reality, indeterminacy, and complementarity.
+
+***
 
 [**Next: 1.3.  Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md)
