@@ -1,6 +1,9 @@
 
-[** Volume I: Motion](https://modphysnobel.github.io/vol-I/volume-I/)
+[** Volume I: Motion.**](https://modphysnobel.github.io/vol-I/volume-I/)
+
 [** Previous: 1.2.  Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-1.md)
+
+***
 
 ## 1.3.  Contexts learning for conceptualizing cognitive spaces.
 
@@ -72,6 +75,8 @@ CONCLUSION
 4. DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simon and Schuster, (1966).
 5. HELLEMANS, A. y BUNCH, B. The Timetables of SCIENCE. A Chronology of the Most Important People and Events in the History of Science. , New York, Simon and Schuster, (1988).
 
-[**Next: 1.4 Geometrization of the description of motion].(vol-I-chap-4-sect-1/)
+***
+
+[**Next: 1.4 Geometrization of the description of motion.**](vol-I-chap-4-sect-1/)
 
 
