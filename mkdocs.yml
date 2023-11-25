@@ -9,31 +9,33 @@ docs_dir: docs/
 repo_name: Modern-Physics-through-Nobel-Prizes
 repo_url: https://github.com/modphysnobel/modphysnobel.github.io
 
-theme: 
-  name: material
-  nav:
+
+nav:
+  - 'Home':
     - 'Home': index.md
     - 'About': about.md
-    - 'Book volumes':
-      - 'Motion': vol-I/volume-I.md
-      - 'Energy': vol-II/volume-II.md
-      - 'Waves': vol-III/volume-III.md
-      - 'Universe': vol-IV/volume-IV.md
+  - 'Book volumes':
+    - 'Motion': vol-I/volume-I.md
+    - 'Energy': vol-II/volume-II.md
+    - 'Waves': vol-III/volume-III.md
+    - 'Universe': vol-IV/volume-IV.md
 
-
+theme: 
+  name: material
 
   # setting features for the navigation tab
   features:
     - navigation.tabs
     - navigation.instant
     - navigation.instant.progess
-    - navigation.expand
+    # - navigation.expand
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
     - navigation.footer
     - navigation.top
-    - toc.follow
+    # - toc.follow
+  favicon: assets/favicon.png  
   # Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
@@ -49,6 +51,9 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Regular
 
 extra:
   social:
