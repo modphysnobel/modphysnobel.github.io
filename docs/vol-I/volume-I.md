@@ -1,4 +1,8 @@
 
+[**Home**](../index.md)
+
+***
+
 # I. MOTION
 
 ![Motion](../figs/Leonardo_Diffusion_Motion.jpg){width="840"}
