@@ -1,3 +1,4 @@
+
 # I. MOTION
 
 This is the first Volume of the series _EXPLORING MODERN PHYSICS VIA NOBEL PRIZES_. It refers to movement and concerns the relationship between Mathematics, mostly Geometry, and Mechanics. We consider how mathematics has been useful in understanding and describing motion.
@@ -10,39 +11,38 @@ Mechanics (from _μεχανικός_ derived from _μεχανή_-machine) is a b
 
 The content of this Volume is the following:
 
-## Table of Content
 
-### 1. Dictatorial and democratic conceptualizations of spaces.</strong>
+## 1. Dictatorial and democratic conceptualizations of spaces.</strong>
 
-1.1 [Mathematics and science in ancient Greece](./vol-I-chap-1-sect-1.md).
+### 1.1 [Mathematics and science in ancient Greece](./vol-I-chap-1-sect-1.md).
 
-1.2 [Conceptualizations of spaces and quantum statistics](./vol-I-chap-1-sect-2.md).
+### 1.2 [Conceptualizations of spaces and quantum statistics](./vol-I-chap-1-sect-2.md).
 
-1.3 [Context learning for conceptualizing cognitive spaces](./vol-I-chap-1-sect-3.md).
+### 1.3 [Context learning for conceptualizing cognitive spaces](./vol-I-chap-1-sect-3.md).
   	
-### 2. Production and control of electronic motions.</strong>
+## 2. Production and control of electronic motions.</strong>
 
-2.1  [Regions for doing experiments](./vol-I-chap-2-sect-1.md).
+### 2.1  [Regions for doing experiments](./vol-I-chap-2-sect-1.md).
 
-2.2  [Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton](./vol-I-chap-2-sect-2.md).
+### 2.2  [Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton](./vol-I-chap-2-sect-2.md).
 
-2.3  [Knowledge domains for understanding](./vol-I-chap-2-sect-3.md).
+### 2.3  [Knowledge domains for understanding](./vol-I-chap-2-sect-3.md).
 
-### 3. Detecting signals in the eye and creating maps in the brain</strong>
+## 3. Detecting signals in the eye and creating maps in the brain</strong>
 
-3.1  [Understanding the mechanisms of vision](./vol-I-chap-3-sect-1.md).
+### 3.1  [Understanding the mechanisms of vision](./vol-I-chap-3-sect-1.md).
 
-3.2  [Existence of a mental Global Positioning System (GPS)](./vol-I-chap-3-sect-2.md).
+### 3.2  [Existence of a mental Global Positioning System (GPS)](./vol-I-chap-3-sect-2.md).
 
-3.3  [Cognitive procedures for creating scientific knowledge](./vol-I-chap-3-sect-3.md).
+### 3.3  [Cognitive procedures for creating scientific knowledge](./vol-I-chap-3-sect-3.md).
          
-### 4. Geometrization of the description of motion.
+## 4. Geometrization of the description of motion.
 
-4.1  [On Euclidean geometry and non-Euclidean geometries](./vol-I-chap-4-sect-1.md).
+### 4.1  [On Euclidean geometry and non-Euclidean geometries](./vol-I-chap-4-sect-1.md).
 
-4.2  [Einstein´s theories of relativity](./vol-I-chap-4-sect-2.md).
+### 4.2  [Einstein´s theories of relativity](./vol-I-chap-4-sect-2.md).
 
-4.3  [Factors and Aspects distinguishing scientific theories](./vol-I-chap-4-sect-3.md).
+### 4.3  [Factors and Aspects distinguishing scientific theories](./vol-I-chap-4-sect-3.md).
 
 
 ***

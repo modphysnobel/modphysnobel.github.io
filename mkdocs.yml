@@ -8,8 +8,10 @@ theme:
 
   # setting features for the navigation tab
   features:
+    - navigation.tabs
     - navigation.instant
-      #- navigation.expand
+    - navigation.instant.progess
+    - navigation.expand
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
