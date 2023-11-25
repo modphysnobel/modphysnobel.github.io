@@ -1,6 +1,6 @@
 ## IV. UNIVERSE
 
-[!](../figs/Leonardo_Diffusion_Universe.jpg){width="840"}
+![Universe](../figs/Leonardo_Diffusion_Universe.jpg){width="840"}
 
 (Image credit: [Leonardo AI](https://leonardo.ai/))
 
