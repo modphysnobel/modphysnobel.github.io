@@ -224,13 +224,13 @@ satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be f
 
 (option 1)
 
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="400"}
+![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="400"}
 
 (option 2)
 
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:400px"}
+![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){: style="height:400px"}
 
 
 Source: drawings made by the authors.
