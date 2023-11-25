@@ -5,14 +5,22 @@ site_description: >-
   Book that explores and describes Modern Physics from the scientific contributions of known scientists that have received Nobel Prizes.
 
 # Repository
+docs_dir: docs/
 repo_name: Modern-Physics-through-Nobel-Prizes
 repo_url: https://github.com/modphysnobel/modphysnobel.github.io
 
 theme: 
   name: material
   nav:
-    - Home: index.md
-    - About: about.md
+    - 'Home': index.md
+    - 'About': about.md
+    - 'Book volumes':
+      - 'Motion': vol-I/volume-I.md
+      - 'Energy': vol-II/volume-II.md
+      - 'Waves': vol-III/volume-III.md
+      - 'Universe': vol-IV/volume-IV.md
+
+
 
   # setting features for the navigation tab
   features:
@@ -97,14 +105,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-
-nav:
-  - Home: index.md
-  - Book volumes:
-     - Motion: ./docs/vol-I/volume-I.md
-     - Energy: ./docs/vol-II/volume-II.md
-     - Waves: ./docs/vol-III/volume-III.md
-     - Universe: ./docs/vol-IV/volume-IV.md
 
 plugins:
     - search
