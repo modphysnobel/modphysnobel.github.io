@@ -16,10 +16,10 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
           
 ## II.	ENERGY
 
-5.  [Energy quantization in the black body radiation](./vol-II/volume-II-chap-5-sect-1.md).
-6.  [Spectroscopic studies of atomic structures](./vol-II/volume-II-chap-6-sect-1.md).
-7.  [Brownian motion and specific heat](./vol-II/volume-II-chap-7-sect-1.md). 
-8.  [Conservation and transformation of energy](./vol-II/volume-II-chap-8-sect-1.md)
+5.  [Energy quantization in the black body radiation](./vol-II/vol-II-chap-5-sect-1.md).
+6.  [Spectroscopic studies of atomic structures](./vol-II/vol-II-chap-6-sect-1.md).
+7.  [Brownian motion and specific heat](./vol-II/vol-II-chap-7-sect-1.md). 
+8.  [Conservation and transformation of energy](./vol-II/vol-II-chap-8-sect-1.md)
 
 ## III.	WAVES
 
