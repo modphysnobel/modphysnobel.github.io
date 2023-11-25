@@ -36,7 +36,8 @@ theme:
     - navigation.top
     # - toc.follow
   favicon: assets/favicon.png  
-  # Default values, taken from mkdocs_theme.yml
+
+# Default values, taken from mkdocs_theme.yml
   language: en
   palette: 
     - scheme: default
@@ -110,6 +111,15 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/katex.js 
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
+
 
 plugins:
     - search
