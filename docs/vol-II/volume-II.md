@@ -1,6 +1,6 @@
 # II.  ENERGY
 
-<p><img src="../figs/Leonardo_Diffusion_energy.jpg" width=840></p>
+<p><img src="../figs/Leonardo_Diffusion_Energy.jpg" width=840></p>
 
 (Image credit: [Leonardo AI](https://leonardo.ai/))
 

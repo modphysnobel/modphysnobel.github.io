@@ -101,10 +101,10 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Book volumes:
-     - Motion: docs/vol-I/volume-I.md
-     - Energy: docs/vol-II/volume-II.md
-     - Waves: docs/vol-III/volume-III.md
-     - Universe: docs/vol-IV/volume-IV.md
+     - Motion: ./docs/vol-I/volume-I.md
+     - Energy: ./docs/vol-II/volume-II.md
+     - Waves: ./docs/vol-III/volume-III.md
+     - Universe: ./docs/vol-IV/volume-IV.md
 
 plugins:
     - search
