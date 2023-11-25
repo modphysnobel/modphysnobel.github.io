@@ -38,3 +38,4 @@ _Modern Physics through Nobel Prizes_.
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 <img src="../figs/cc-by-nc-sa_icon.png">
+

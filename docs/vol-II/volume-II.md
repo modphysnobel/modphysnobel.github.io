@@ -27,15 +27,16 @@ The content of this Volume is the following:
 ## 8.	  Conservation and transformation of energy.
 
 ### 8.1	 [Conservation laws and the existence of symmetries](./vol-II/vol-II-chap-8-sect-1.md).
-### 8.2	Energy transformations in photocells and in Light Emitting Diodes (LED)](./vol-II/vol-II-chap-8-sect-2.md).
+### 8.2	[Energy transformations in photocells and in Light Emitting Diodes (LED)](./vol-II/vol-II-chap-8-sect-2.md).
 ### 8.3	[Anthropological spaces for the development of collective intelligence](./vol-II/vol-II-chap-8-sect-3.md).
 
 ***
 
-Created: 20-03-12; Updated: 2023-11-23
+Created: 2023-03-12; Updated: 2023-11-23
 
 Barojas-Weber, J.R., & Lizárraga-Celaya, C. (2023). _Modern Physics through Nobel Prizes_.
 
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 <img src="../figs/cc-by-nc-sa_icon.png">
+
