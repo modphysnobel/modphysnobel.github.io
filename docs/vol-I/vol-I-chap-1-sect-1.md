@@ -236,14 +236,21 @@ satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be f
 
 (Markdown+HTML)
 
-<figure markdown>
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} \ \ ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
-</figure>
+(option 1)
 
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"}
 
-|  |  |
-| :--: | :--: |
-|   ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} |
+(option 2)
+
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
+![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){: style="height:300px"}
+
+(option table)
+
+|    |
+| :--: |
+|   ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="200"} 
    ![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="200"} |
 
 Source: drawings made by the authors.
