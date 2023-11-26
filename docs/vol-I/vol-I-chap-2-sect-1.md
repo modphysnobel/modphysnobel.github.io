@@ -123,7 +123,7 @@ In Figure 2.1 the letters indicate the following variables:
 
 * _l_ is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (_E_) is applied. 
 
-* _θ_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $θ$ is such that $\tan(θ) = l/s$.
+* _\theta_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
 
 The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
 
@@ -131,7 +131,7 @@ The region of **Transformation** corresponds to the inside of two charged metall
 
 Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
 
-The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $θ$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(θ) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(θ) = l/s$ it can be obtained $\tan(0) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
+The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $\theta$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(\theta) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(\theta) = l/s$ it can be obtained $\tan(\theta) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
 
 To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0 B = F_{\mathrm{electric}} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2}) = \frac{l}{s}$ we get 
 
@@ -172,7 +172,7 @@ Inside the chamber the drop experiments three forces (Figure 2.2b): the weight d
 
 According to Stokes law, the force of fluid friction is $F_{\mathrm{viscosity}} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{\mathrm{viscosity}})/κη$. If the external field _E_ is zero the force $F_{\mathrm{electric field}} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{\mathrm{viscosity}} = F_{\mathrm{gravity}} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
 
-However, when the external field is not zero the net force $F_{\mathrm{viscosity}} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $Δv_a$ are considered the changes in the charge are $Δq = [(6πrη)/E](Δ v_a)$.
+However, when the external field is not zero the net force $F_{\mathrm{viscosity}} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $\Deltav_a$ are considered the changes in the charge are $\Deltaq = [(6πrη)/E](\Delta v_a)$.
 
 The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope (Figure 2.2b). Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
 
@@ -211,7 +211,7 @@ What was observed in the experiment was the following: When the accelerating pot
 
 - If now $V > V_c$ the current I increases until $V = 2V_c$ and the collisions become inelastic again. These fluctuations in the current repeat when the voltage V attains a multiple value of $V_c$.
 
-It is interesting to note that in the atom of Mercury the difference between the lowest energy level and the first excited energy level corresponds to a spectral line whose wavelength is $λ = 2536 Å$.  For photons $E = hν = hc/λ$, if now we make $E = qV_c$ where $q$ is the charge of the electron, we can get $λ = (hc)/(qV_c) = 2,536 \times 10^{-10} m = 2536 Å$.
+It is interesting to note that in the atom of Mercury the difference between the lowest energy level and the first excited energy level corresponds to a spectral line whose wavelength is $\lambda = 2536 Å$.  For photons $E = hν = hc/\lambda$, if now we make $E = qV_c$ where $q$ is the charge of the electron, we can get $\lambda = (hc)/(qV_c) = 2,536 \times 10^{-10} m = 2536 Å$.
 
 More details concerning Bohr´s atomic theory will be discussed in section 6.1. *Electronic energy levels in the hydrogen atom* corresponding to chapter *6. Spectroscopical studies of atomic structures.* Also, in section 6.3 of that chapter the Bohr´s Nobel Lecture *The structure of the atom* will be considered. 
 
@@ -245,7 +245,7 @@ What follows is a scheme describing the experimental setting where the three reg
 
 The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos θ)$.
+Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos \theta)$.
 
 Assume that the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $p$ in the direction of the angle $Φ$.
 
@@ -257,19 +257,19 @@ $Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) n_i= (\frac{Q}{c}) n_f+ p$
 
 Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0n_i- Qn_f )= cp$
 
-Then, taking into account that $(n_i).(n_f)=(\cos θ)$, we obtain in previous equation: 
+Then, taking into account that $(n_i).(n_f)=(\cos \theta)$, we obtain in previous equation: 
 
 $(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ ..... (1)
 
-$(Q_0)^2- 2(Q_0Q)(\cos θ)+ (Q)^2 = c^2p^2$ ..... (2)
+$(Q_0)^2- 2(Q_0Q)(\cos \theta)+ (Q)^2 = c^2p^2$ ..... (2)
 
-Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- \cos θ)= (Q_0-Q)(m_0c^2 )$.
+Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- \cos \theta)= (Q_0-Q)(m_0c^2 )$.
 
-For the electron $Q_0=\frac{hc}{λ_0}$ and for the photon $Q=hν=\frac{hc}{λ}$. Previous equation is now transformed into the following $(\frac{hc}{λλ_0})(1- \cos θ)=(\frac{λ- λ_0}{λλ_0})(m_0c^2 )$
+For the electron $Q_0=\frac{hc}{\lambda_0}$ and for the photon $Q=hν=\frac{hc}{\lambda}$. Previous equation is now transformed into the following $(\frac{hc}{\lambda\lambda_0})(1- \cos \theta)=(\frac{\lambda- \lambda_0}{\lambda\lambda_0})(m_0c^2 )$
 
-If $Δλ= λ- λ_0$ is the Compton shift and $Λ_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $Δλ= (Λ_C )(1- \cos θ)$.
+If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\LAMBDA_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $\Delta\lambda= (\LAMBDA_C )(1- \cos \theta)$.
 
-Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $Λ_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $Λ_C=\frac{h}{m_0c}$ can be obtained if $Δλ$ is measured for different values of the angle $θ$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
+Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $\LAMBDA_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\LAMBDA_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
 
 ***
 
