@@ -58,12 +58,16 @@ theme:
 
 extra:
   social:
-#    - icon: fontawesome/brands/orcid
-#      link: https://orcid.org/0000-0002-0893-4268
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0009-0009-4616-9243
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jorge-barojas-weber-b8926534/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0002-0893-4268
     - icon: fontawesome/brands/github
       link: https://github.com/modphysnobel
-#    - icon: fontawesome/brands/linkedin
-#      link: https://www.linkedin.com/in/carloslizarragac/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/carloslizarragac/
 #    - icon: fontawesome/brands/facebook
 #      link: https://www.facebook.com/carlos.lizarragac/
 #    - icon: fontawesome/brands/mastodon
