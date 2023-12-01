@@ -40,7 +40,7 @@ theme:
     - toc.integrate
     # - toc.follow
   hide:
-    - toc
+    - navigation
   favicon: assets/favicon.png  
 
 # Default values, taken from mkdocs_theme.yml
