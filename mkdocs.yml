@@ -38,9 +38,9 @@ theme:
     - navigation.footer
     - navigation.top
     - toc.integrate
-    # - toc.follow
+    - toc.follow
   hide:
-    - navigation
+    - toc
   favicon: assets/favicon.png  
 
 # Default values, taken from mkdocs_theme.yml
