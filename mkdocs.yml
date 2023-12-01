@@ -26,15 +26,21 @@ theme:
   # setting features for the navigation tab
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
-    - navigation.instant.progess
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     # - navigation.expand
+    - navigation.path
     - navigation.tracking
     - navigation.sections
     - navigation.indexes
     - navigation.footer
     - navigation.top
+    - toc.integrate
     # - toc.follow
+  hide:
+    - toc
   favicon: assets/favicon.png  
 
 # Default values, taken from mkdocs_theme.yml
