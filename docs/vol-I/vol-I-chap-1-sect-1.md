@@ -1,19 +1,17 @@
 
 !!! abstract "Volume I: Motion"
 
-[**Volume I: Motion**](./volume-I.md)
-
 ***
 
 !!! note "Dictatorial and democratic conceptualizations of spaces."
 
-## Introduction
+!!! info "Introduction"
 
 What are the main characteristics of dictatorial or democratic conceptualizations?
 
 We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
 
-### Learning objectives of Chapter 1.
+!!! info "Learning objectives of Chapter 1."
 
 After this Chapter you should be able to: 
 
@@ -23,28 +21,28 @@ After this Chapter you should be able to:
 
 * Identify Archimedes steps followed by him to solve the golden crown problem presented by King Heron.
 
-### Description of content of Chapter 1.
+!!! info "Description of content of Chapter 1."
 
-#### Section 1.1. Mathematics and science in ancient Greece.
+!!! success "Section 1.1. Mathematics and science in ancient Greece."
 
 We consider early Greek contributions to mathematics and science, in particular some works made by Archimedes. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying Pythagoras theorem.
 
-#### Section 1.2. Conceptualizations of spaces and quantum statistics.
+!!! success "Section 1.2. Conceptualizations of spaces and quantum statistics."
 
 We explain two ancient Greek conceptualizations concerning dictatorial or democratic approaches for building circular spaces in family life and community and for using the concept of circularity in the definition of astronomical spaces. 
  
 The same two conceptualizations of space are applied in a different context: the notion of quantum statistics in Physics. Elementary particles are classified as belonging to different families: fermions like electrons obey the exclusion principle according to a sort of dictatorial conceptualization and bosons like photons show condensation according to a sort of democratic conceptualization.  We consider Nobel Lectures by Wolfgang Pauli (1945 Prize) and Max Born (1954 Prize), awarded for their contributions to the development of quantum statistics.
 
-#### Section 1.3. Context learning for conceptualizing cognitive spaces.
+!!! success "Section 1.3. Context learning for conceptualizing cognitive spaces."
 
 We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron.
 
 
-## 1.1.	Mathematics and science in ancient Greece.
+!!! note "1.1.	Mathematics and science in ancient Greece."
 
-### Ancient Greece.
+!!! info "Ancient Greece."
 
-#### Important builders in ancient Greece.
+!!! success "Important builders in ancient Greece."
 
 According to Bernal (1954): _“modern science comes directly from Greeks science; they provided a scheme, a method and a language”_. Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
@@ -103,7 +101,7 @@ According to Bernal (1954): _“modern science comes directly from Greeks scienc
 
 **Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
 
-#### Timeline of ancient Greece.
+!!! success "Timeline of ancient Greece."
 
 Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
@@ -179,7 +177,7 @@ AND PHYSICS
   </tr>
 </table>
 
-### Archimedes
+!!! note "Archimedes"
 
 The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
 
