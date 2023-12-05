@@ -3,7 +3,7 @@
 
 ***
 
-!!! note Dictatorial and democratic conceptualizations of spaces.
+!!! note "Dictatorial and democratic conceptualizations of spaces."
 
 ## Introduction
 
