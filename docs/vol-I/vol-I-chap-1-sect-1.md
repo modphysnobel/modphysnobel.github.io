@@ -245,3 +245,6 @@ Source: drawings made by the authors.
 ***
 
 [**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-2.md)
+
+octicons/tag-16
+
