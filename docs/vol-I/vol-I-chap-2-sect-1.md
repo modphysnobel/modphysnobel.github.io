@@ -107,7 +107,7 @@ Thomson performed a sequence of three types of experiments: the first type for a
 
 <figure markdown>
 ![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8.PNG){width="480"}
-  <figcaption>**Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
+  <figcaption>Figure 2.1. Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 </figcaption>
 </figure>
 
