@@ -18,37 +18,18 @@ MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023.
 
 MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-      <td>
- <li>BOX 2.1: Accepted knowledge or questions under discussion in Thomson´s times.</li>
-   <li>When an electric discharge is sent through a highly exhausted tube, a current of corpuscles of negative electricity comes out in straight lines from the cathode; these are the cathode rays which can be modified by external actions of magnetic and electric forces. 
-</li>
-   <li>The charged corpuscles obtained from cathode rays were produced in other circumstances; for instances, when alkali metals were exposed to light and where radioactive salts were put into flames. These corpuscles seemed to be part of all type of atoms.</li> 
-</td>
-  </tr>
-   </tbody>
-</table> 
+!!! info "BOX 2.1: Accepted knowledge or questions under discussion in Thomson´s times."
+	- When an electric discharge is sent through a highly exhausted tube, a current of corpuscles of negative electricity comes out in straight lines from the cathode; these are the cathode rays which can be modified by external actions of magnetic and electric forces. 
+	- The charged corpuscles obtained from cathode rays were produced in other circumstances; for instances, when alkali metals were exposed to light and where radioactive salts were put into flames. These corpuscles seemed to be part of all type of atoms.</li> 
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-      <td>
-  <li>BOX 2.2: Thomson´s contributions or explanations.</li>
-<li> - When a particle of charge e moves with velocity $v$ across the lines of force of a magnetic field of intensity $H$, it experiments a force $Hev$. If an extra electric field of intensity $X$ is applied, a force $Xe$ will act upon the cathode rays. If these two forces are balanced ($Hev = Xe$) the rays are not deflected but they move with a velocity $v = H/X$. By measuring both intensities this velocity can be determined. In a very highly exhausted tube $v$ may be 1/3 the velocity of light.</li>
 
-<li> - Under the interaction with only the electric field $X$, during a time $t$ the particles of mass $m$ forming the rays will experience a force $F = ma$ where $F = Xe$, then $a = Xe/m$. During this time $t$ the particle falls down a distance $d = ½ at^2$ and moves a distance $l$ with velocity $v = l/t$. Then $d = ½ (Xe/m)(l/v)^2$ and finally $e/m = (2d/X) (v/l)^2$.</li>
+!!! info "BOX 2.2: Thomson´s contributions or explanations."
+	- When a particle of charge e moves with velocity $v$ across the lines of force of a magnetic field of intensity $H$, it experiments a force $Hev$. If an extra electric field of intensity $X$ is applied, a force $Xe$ will act upon the cathode rays. If these two forces are balanced ($Hev = Xe$) the rays are not deflected but they move with a velocity $v = H/X$. By measuring both intensities this velocity can be determined. In a very highly exhausted tube $v$ may be 1/3 the velocity of light.
+	- Under the interaction with only the electric field $X$, during a time $t$ the particles of mass $m$ forming the rays will experience a force $F = ma$ where $F = Xe$, then $a = Xe/m$. During this time $t$ the particle falls down a distance $d = ½ at^2$ and moves a distance $l$ with velocity $v = l/t$. Then $d = ½ (Xe/m)(l/v)^2$ and finally $e/m = (2d/X) (v/l)^2$.
+	- *For the corpuscle in the cathode rays the value for the ratio* $e/m$ *was* $1.7 \times 10^7$; *however, the corresponding value for a charged atom of hydrogen was of the order of* $10^4$. *Therefore, assuming that the electric charge was practically the same in the two cases, the mass of the corpuscle is only about 1/1,700 of that of the hydrogen atom.*
+	- *The very large value of* $e/m$ *for the charged corpuscles, as compared with that for the atom of hydrogen, is due to the smallness of* $m$ *the mass, and not to the greatness of e the charge*.
+	- *In all known cases in which negative electricity occurs in gases at very low pressures, it occurs in the form of corpuscles, small bodies with an invariable charge and mass.*
 
-<li> - *For the corpuscle in the cathode rays the value for the ratio* $e/m$ *was* $1.7 \times 10^7$; *however, the corresponding value for a charged atom of hydrogen was of the order of* $10^4$. *Therefore, assuming that the electric charge was practically the same in the two cases, the mass of the corpuscle is only about 1/1,700 of that of the hydrogen atom.*</li>
-
-<li> - *The very large value of* $e/m$ *for the charged corpuscles, as compared with that for the atom of hydrogen, is due to the smallness of* $m$ *the mass, and not to the greatness of e the charge*.</li> 
-
-<li> - *In all known cases in which negative electricity occurs in gases at very low pressures, it occurs in the form of corpuscles, small bodies with an invariable charge and mass.*</li>
-</td>
-  </tr>
-   </tbody>
-</table> 
 
 ### R. A. Millikan (1868-1953).
 
