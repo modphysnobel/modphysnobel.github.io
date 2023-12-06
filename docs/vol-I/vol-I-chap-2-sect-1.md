@@ -29,7 +29,7 @@ After this Chapter you should be able to:
 
 * 2.1.  Regions for doing experiments.
 
-        Experiments made by Thomson for discovering the electron. 
+    Experiments made by Thomson for discovering the electron. 
 
 	Measurement of the elementary electric charge of the electron by Millikan.
 
