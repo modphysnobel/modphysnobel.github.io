@@ -267,9 +267,9 @@ Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 +
 
 For the electron $Q_0=\frac{hc}{\lambda_0}$ and for the photon $Q=hν=\frac{hc}{\lambda}$. Previous equation is now transformed into the following $(\frac{hc}{\lambda\lambda_0})(1- \cos \theta)=(\frac{\lambda- \lambda_0}{\lambda\lambda_0})(m_0c^2 )$
 
-If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\Lambda_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $\Delta\lambda= (\LAMBDA_C )(1- \cos \theta)$.
+If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\Lambda_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $\Delta\lambda= (\Lambda_C )(1- \cos \theta)$.
 
-Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $\LAMBDA_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\LAMBDA_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
+Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $\Lambda_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\Lambda_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
 
 ***
 
