@@ -128,13 +128,13 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 
 
 !!! bug "BOX 1.1: Accepted knowledge or questions under discussion in Pauli´s times."
-	• Einstein relativity theories were not well understood.
-	• The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
-	• Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
-	• Three crucial contributions to quantum mechanics have been made:
-      - Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
-      - Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
-      - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
+	- Einstein relativity theories were not well understood.
+	- The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
+	- Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
+	- Three crucial contributions to quantum mechanics have been made:
+    - Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
+    - Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
+    - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
 
 !!! quote "BOX 1.2: Pauli´s contributions or explanations."
