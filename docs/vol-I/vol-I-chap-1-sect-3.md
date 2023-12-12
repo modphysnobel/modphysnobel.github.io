@@ -61,7 +61,6 @@
 
 ![Fig 1.3.2](./figs/Figura 1.3.2.PNG){width=480}
 
-  <figcaption>The description of cognitive spaces for context learning serves for analyzing concepts to be proposed and tested as well as for comparing models to be contrasted and improved.</figcaption>
 </figure>
 
 !!! success "What can we assume that was made by Archimedes?" 
