@@ -7,17 +7,17 @@
 
 ## 1.2.	Conceptualizations of spaces and quantum statistics.
 
-### Conceptual developments in ancient Greece.
+!!! info "Conceptual developments in ancient Greece."
+	The first part of this section is based on the conference *Géométrie et astronomie sphérique dans la première cosmologie grecque* by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: 
+	
+	(1) the building of circular spaces in family life and community (the reference is made to the philosopher Pherecydes, the poet Homer, the historian and geographer Herodotus and the architect Hippodamus), and 
+	
+	(2) the concept of circularity in the definition of astronomical spaces (reference is made to the poet and philosopher Hesiod and to the philosopher, geographer and physicist Anaximander).
 
-
-The first part of this section is based on the conference _Géométrie et astronomie sphérique dans la première cosmologie grecque_ by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: (1) the building of circular spaces in family life and community (the reference is made to the philosopher Pherecydes, the poet Homer, the historian and geographer Herodotus and the architect Hippodamus), and (2) the concept of circularity in the definition of astronomical spaces (reference is made to the poet and philosopher Hesiod and to the philosopher, geographer and physicist Anaximander).
-
-### Building circular spaces according to political organizations.
-
-Before political institutions were established in Greece, the highest level in the social organization was occupied by the king-priest. The entire population was always under conditions of domination and submission. There were no spaces for communications. Public affairs were not discussed, they were imposed. However, laws and rules were promulgated and made public in written.
+!!! info "Building circular spaces according to political organizations."
+	Before political institutions were established in Greece, the highest level in the social organization was occupied by the king-priest. The entire population was always under conditions of domination and submission. There were no spaces for communications. Public affairs were not discussed, they were imposed. However, laws and rules were promulgated and made public in written.
 
 #### Pherecydes of Syros (580 BC – 520 BC).
-
 
 <figure markdown>
   ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="240" }
