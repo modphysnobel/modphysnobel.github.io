@@ -7,34 +7,36 @@
 
 !!! abstract "Learning objectives of Chapter 1."
 	After this Chapter you should be able to: 
+	
 	- Describe some ancient Greece contributions in mathematics and science in terms of democratic and dictatorial conceptualizations of space.
+	
 	- Explain the Nobel Prizes awarded to Wolfgang Pauli and Max Born for their development of quantum statistics.
+	
 	- Identify Archimedes steps followed by him to solve the golden crown problem presented by King Heron.
 
-!!! info "Description of content of Chapter 1."
+!!! abstract "Description of content of Chapter 1."
+	**Section 1.1. Mathematics and science in ancient Greece.**
 
-!!! success "Section 1.1. Mathematics and science in ancient Greece."
+	We consider early Greek contributions to mathematics and science, in particular some works made by Archimedes. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying Pythagoras theorem.
 
-We consider early Greek contributions to mathematics and science, in particular some works made by Archimedes. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying Pythagoras theorem.
+	**Section 1.2. Conceptualizations of spaces and quantum statistics.**
 
-!!! success "Section 1.2. Conceptualizations of spaces and quantum statistics."
+	We explain two ancient Greek conceptualizations concerning dictatorial or democratic approaches for building circular spaces in family life and community and for using the concept of circularity in the definition of astronomical spaces. 
 
-We explain two ancient Greek conceptualizations concerning dictatorial or democratic approaches for building circular spaces in family life and community and for using the concept of circularity in the definition of astronomical spaces. 
- 
-The same two conceptualizations of space are applied in a different context: the notion of quantum statistics in Physics. Elementary particles are classified as belonging to different families: fermions like electrons obey the exclusion principle according to a sort of dictatorial conceptualization and bosons like photons show condensation according to a sort of democratic conceptualization.  We consider Nobel Lectures by Wolfgang Pauli (1945 Prize) and Max Born (1954 Prize), awarded for their contributions to the development of quantum statistics.
+	The same two conceptualizations of space are applied in a different context: the notion of quantum statistics in Physics. Elementary particles are classified as belonging to different families: fermions like electrons obey the exclusion principle according to a sort of dictatorial conceptualization and bosons like photons show condensation according to a sort of democratic conceptualization.  We consider Nobel Lectures by Wolfgang Pauli (1945 Prize) and Max Born (1954 Prize), awarded for their contributions to the development of quantum statistics.
 
-!!! success "Section 1.3. Context learning for conceptualizing cognitive spaces."
+	**Section 1.3. Context learning for conceptualizing cognitive spaces.**
 
-We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron.
+	We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron.
 
 
-!!! note "1.1.	Mathematics and science in ancient Greece."
+!!! info "1.1.	Mathematics and science in ancient Greece."
 
-!!! info "Ancient Greece."
+	**Ancient Greece.**
 
-!!! success "Important builders in ancient Greece."
+	**Important builders in ancient Greece.**
 
-According to Bernal (1954): _“modern science comes directly from Greeks science; they provided a scheme, a method and a language”_. Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
+	According to Bernal (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
 <table cellspacing="0" cellpadding="0">
 <tbody>
@@ -91,9 +93,8 @@ According to Bernal (1954): _“modern science comes directly from Greeks scienc
 
 **Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
 
-!!! success "Timeline of ancient Greece."
-
-Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
+!!! info "Timeline of ancient Greece."
+	Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
 <!-- HTML Table 1.1.1-->
 <table width="100%">
@@ -167,26 +168,23 @@ AND PHYSICS
   </tr>
 </table>
 
-!!! note "Archimedes"
+!!! info "Archimedes"
 
-The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
+	The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
 
-### Archimedes´ books
+!!! note "Archimedes´ books"
 
-According to Durant (1966), the ten Archimedes´ books that survived had the following purposes:
-
-| Archimides' Books |
-| :--               |
-|    1. _The Method_: to explain how mechanical experiments can extend geometrical knowledge. |
-|    2. _A Collection of Lemas_: to discuss alternative hypothesis in plane geometry. |
-|    3. _The Measurement of a Circle_: to calculate de value of π by using the method of exhaustion: he obtained the following bound values: 3 + 10/71 < π < 3 + 10/70. |
-|    4. _The Quadrature of the Parabola studies_: to calculate the area cut off from a parabola by a chord and the area of an ellipse. |
-|    5. _On Spirals_: to define the procedure to draw a spiral and find the area enclosed by such a figure by methods approximating differential calculus. |
-|    6. _The Sphere and the Cylinder_: to calculate the volume and the surface of these figures as well as those of a Pyramid and a cone. |
-|    7. _On Conoids and Spheroids_: to study the solids generated by the revolution of conic sections about their axes. |
-|    8. _The Sand-Reckoner_: to represent very large numbers like the number of sand grains in the universe. |
-|    9. _On Plane Equilibrium_: to apply geometry to mechanics and to calculate the center of gravity of various bodies. |
-|    10. _On Floating Bodies_: to find the position of equilibrium of a floating body. |
+	According to Durant (1966), the ten Archimedes´ books that survived had the following purposes:
+	1. *The Method*: to explain how mechanical experiments can extend geometrical knowledge. |
+	2. *A Collection of Lemas*: to discuss alternative hypothesis in plane geometry. |
+	3. *The Measurement of a Circle*: to calculate de value of π by using the method of exhaustion: he obtained the following bound values: 3 + 10/71 < π < 3 + 10/70. |
+	4. *The Quadrature of the Parabola studies*: to calculate the area cut off from a parabola by a chord and the area of an ellipse. |
+	5. *On Spirals*: to define the procedure to draw a spiral and find the area enclosed by such a figure by methods approximating differential calculus. |
+	6. *The Sphere and the Cylinder*: to calculate the volume and the surface of these figures as well as those of a Pyramid and a cone. |
+	7. *On Conoids and Spheroids*: to study the solids generated by the revolution of conic sections about their axes. |
+	8. *The Sand-Reckoner*: to represent very large numbers like the number of sand grains in the universe. |
+	9. *On Plane Equilibrium*: to apply geometry to mechanics and to calculate the center of gravity of various bodies. |
+	10. *On Floating Bodies*: to find the position of equilibrium of a floating body. |
 
 
 ### Archimedes´ contributions
