@@ -64,10 +64,10 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 <table width="100%">
   <tr>
     <th width="50%">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=400 align=center> 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=300 align=center> 
     </th>
     <th width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=400 align=center> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=200 align=center> 
     </th>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=350 align=center> 
     </td>
     <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=350 align=center> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=450 align=center> 
     </td>
   </tr>
 </table>
