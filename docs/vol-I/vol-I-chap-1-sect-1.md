@@ -31,7 +31,7 @@
 
 ## 1.1.	Mathematics and science in ancient Greece.
 
-!!! info ""Ancient Greece."
+!!! info "Ancient Greece."
 
 	**Important builders in ancient Greece.**
 
