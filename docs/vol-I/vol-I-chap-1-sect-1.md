@@ -196,16 +196,18 @@ AND PHYSICS
 	
 	10. *On Floating Bodies*: to find the position of equilibrium of a floating body. 
 
+!!! info "Mental experiments and working principles."
 
-### Archimedes´ contributions
+	To calculate Archimedes made a kind of mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”.*
 
-Furthermore, Archimedes used to perform mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. 
+!!! info "Archimedes´ contributions"
 
-Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2). 
+	Furthermore, Archimedes used to perform mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. 
 
-### Mental experiments and working principles.
+	Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2). 
 
-To calculate Archimedes made a kind of mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”.*
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=120 align=center>
+    
 
 ## Dictatorial and democratic approaches in mathematical reasoning.
 
