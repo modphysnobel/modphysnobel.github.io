@@ -127,7 +127,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
 
-!!! question "BOX 1.1: Accepted knowledge or questions under discussion in Pauli´s times."
+!!! bug "BOX 1.1: Accepted knowledge or questions under discussion in Pauli´s times."
 	• Einstein relativity theories were not well understood.
 	• The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	• Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
@@ -154,7 +154,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 
 	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
 
-!!! question "BOX 1.3: Accepted knowledge or questions under discussion in Born´s times."
+!!! bug "BOX 1.3: Accepted knowledge or questions under discussion in Born´s times."
     * Niels Bohr introduced the idea that electronic energy levels were discrete stationary states. This assumption explained the stability of the atoms, the structure of their electronic shells, and the Periodic System of the elements. Transition between these discrete levels corresponded to quantized emissions or absorptions.
     * Bohr also formulated his principle of correspondence which requires that for transitions in between energy levels with very high quantum numbers the changes in energy are so small that practically coincide with the continuum of values predicted by classical mechanics.
     * Einstein proposed that the concept of intensity of radiation must be replaced by the statistical concept of transition probability. For each transition there must be a corresponding intensity. However, the idea of an amplitude of oscillation associated with each transition was indispensable.
