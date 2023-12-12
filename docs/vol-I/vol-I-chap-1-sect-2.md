@@ -127,7 +127,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
 
-!!! question "BOX 1: Accepted knowledge or questions under discussion in Pauli´s times."
+!!! question "BOX 1.1: Accepted knowledge or questions under discussion in Pauli´s times."
 	• Einstein relativity theories were not well understood.
 	• The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	• Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
@@ -137,7 +137,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
       - Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
 
-!!! quote "BOX 2: Pauli´s contributions or explanations."
+!!! quote "BOX 1.2: Pauli´s contributions or explanations."
     - "As soon as the symmetry classes for electrons were cleared, the question arose which are the symmetry classes for other particles with symmetrical wave functions like photons. We note that the symmetrical class for photons occurs together with the integer value 1 for their spin, while the antisymmetrical class for the electron occurs together with the half-integer value ½ for the spin."
     - "In order to prepare for the discussion of more fundamental questions, we want to stress here a law of Nature which is generally valid, namely, the connection between spin and symmetry class. A half-integer value of the spin quantum number is always connected with antisymmetric states (exclusion principle), an integer spin with symmetrical states. This law holds not only for protons and neutrons but also for protons and electrons. Moreover, it can easily be seen that it holds for compound systems, if it holds for all of its constituents. If we search for a theoretical explanation of this law, we must pass to the discussion of relativistic wave mechanics, since we saw that it can certainly not be explained by non-relativistic wave mechanics."
     - "In his lecture delivered here in Stockholm (*) he himself explained his proposal of a new interpretation of his theory, according to which in the actual vacuum all the states of negative energy should be occupied and only deviations of this state of smallest energy, namely holes in the sea of these occupied states are assumed to be observable. It is the exclusion principle which guarantees the stability of the vacuum, in which all states of negative energy are occupied. Furthermore, the holes have all properties of particles with positive energy and positive electric charge, which in external electromagnetic fields can be produced and annihilated in pairs. These predicted positrons, the exact mirror images of the electrons, have been actually discovered experimentally."
@@ -145,25 +145,23 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	(*) Pauli refers to a lecture delivered by Dirac.
 
 
-#### Max Born (1882-1970).
+!!! tip "Max Born (1882-1970)."
+	WORK: In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables.*
 
-**WORK:** *In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables.*
+	MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/facts/>
 
-MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/facts/>
+	NOBEL LECTURE: *The Statistical Interpretations of Quantum Mechanics.*
 
-**NOBEL LECTURE:** *The Statistical Interpretations of Quantum Mechanics.*
+	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
 
-MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
-
-
-!!! info "BOX 1: Accepted knowledge or questions under discussion in Born´s times."
+!!! question "BOX 1.3: Accepted knowledge or questions under discussion in Born´s times."
     * Niels Bohr introduced the idea that electronic energy levels were discrete stationary states. This assumption explained the stability of the atoms, the structure of their electronic shells, and the Periodic System of the elements. Transition between these discrete levels corresponded to quantized emissions or absorptions.
     * Bohr also formulated his principle of correspondence which requires that for transitions in between energy levels with very high quantum numbers the changes in energy are so small that practically coincide with the continuum of values predicted by classical mechanics.
     * Einstein proposed that the concept of intensity of radiation must be replaced by the statistical concept of transition probability. For each transition there must be a corresponding intensity. However, the idea of an amplitude of oscillation associated with each transition was indispensable.
     * Heisenberg disregarded the picture of electron orbits with definite radii and periods of rotation because these quantities were not observable.  Instead of describing the motion by giving a coordinate as a function of time, $x(t)$, an array of transition amplitudes $x_{nm}$ should be determined.
     * By solving his equation, Schrödinger obtained the stationary states of the hydrogen atom and demonstrated the complete equivalence of the two systems of explanation: matrix mechanics and wave mechanics. Instead of speaking of electrons as particles, he considered them as continuous density distributions $‖ψ‖^2$.
 
-!!! info "BOX 2: Born´s contributions or explanations."
+!!! quote "BOX 1.4: Born´s contributions or explanations."
     - By following Einstein’s idea that for photons the square of the optical wave amplitude represents the probability density for their occurrence, $‖ψ‖^2$ could represent the probability density for electrons (or other particles).
     - Introduction of the square arrays of quantities called matrices and applied to Heisenberg’s quantum condition requiring that coordinates $q$ and momenta $p$ cannot be represented by figure values but by symbols, and that their product depends upon the order of multiplication - they are “non-commuting”.
     - The statistical interpretation of quantum mechanics indicates that transition probabilities can be calculated if the wave function is time and space dependent as well as a function of the discrete index $n$ which enumerates the electronic stationary states.
