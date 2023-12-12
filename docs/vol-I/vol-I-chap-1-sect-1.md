@@ -29,10 +29,9 @@
 
 	We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron.
 
+## 1.1.	Mathematics and science in ancient Greece.
 
-!!! info "1.1.	Mathematics and science in ancient Greece."
-
-	**Ancient Greece.**
+!!! info ""Ancient Greece."
 
 	**Important builders in ancient Greece.**
 
@@ -169,11 +168,9 @@ AND PHYSICS
 </table>
 
 !!! info "Archimedes"
-
 	The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
 
-!!! note "Archimedes´ books"
-
+!!! success "Archimedes´ books"
 	According to Durant (1966), the ten Archimedes´ books that survived had the following purposes:
 	
 	1. *The Method*: to explain how mechanical experiments can extend geometrical knowledge. 
@@ -197,50 +194,54 @@ AND PHYSICS
 	10. *On Floating Bodies*: to find the position of equilibrium of a floating body. 
 
 !!! info "Mental experiments and working principles."
-
 	To calculate Archimedes made a kind of mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”.*
 
 !!! info "Archimedes´ contributions"
-
 	Furthermore, Archimedes used to perform mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. 
 
 	Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2). 
 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=120 align=center>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=600 align=center>
     
+	(Images credit: CC Wikimedia Commons)
+	
+	**Figure 1.2.**
 
-## Dictatorial and democratic approaches in mathematical reasoning.
+!!! info "Dictatorial and democratic approaches in mathematical reasoning."
 
-### Description of approaches.
+	**Description of approaches.**
 
-Mathematics is a language for explaining nature, a way of thinking for doing science and a practical instrument for solving problems. We might teach by imposing rules of thinking and presenting solutions to problems according to prescribed procedures or we start by understanding what the students know and then build concepts and answer questions.
+	Mathematics is a language for explaining nature, a way of thinking for doing science and a practical instrument for solving problems. We might teach by imposing rules of thinking and presenting solutions to problems according to prescribed procedures or we start by understanding what the students know and then build concepts and answer questions.
 
-As an example of diametral approaches for interpreting mathematical concepts and procedures let us consider two possibilities for explaining the meaning of the equation of a circumference: (1) in a *dictatorial* approach all the distances between the center and any point in the curve must be a constant, and (2) in a *democratic* approach all the points in a circumference are at equal distances to the center. Dictatorial approaches are repulsive, restrictive, centrifugal and go from the center to the periphery. Democratic approaches are attractive, liberating, centripetal and go from the periphery to the center.  
+	As an example of diametral approaches for interpreting mathematical concepts and procedures let us consider two possibilities for explaining the meaning of the equation of a circumference: (1) in a *dictatorial* approach all the distances between the center and any point in the curve must be a constant, and (2) in a *democratic* approach all the points in a circumference are at equal distances to the center. Dictatorial approaches are repulsive, restrictive, centrifugal and go from the center to the periphery. Democratic approaches are attractive, liberating, centripetal and go from the periphery to the center.  
 
-### A geometrical example.
+!!! example "A geometrical example."
+	The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.3). The main steps to be followed are now described.
 
-The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian
-coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously
-mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center
-in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally
-satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.2). The main steps to be followed are now described.
+!!! example "STEP 1"
+	- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
 
+	- Draw a circumference of radio $R$ with center in $O$.
 
+	- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
 
-![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="420"}
-![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="420"}
+	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="420"}
 
+	(Images credit: drawings made by the authors.)
 
-Source: drawings made by the authors.
+!!! example "STEP 2"
+	- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
 
-**Figure 1.2** Geometrical meaning of Pythagoras theorem.
+	- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
 
-- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
-- Draw a circumference of radio $R$ with center in $O$.
-- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
-- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
-- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
-- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
+	- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
+
+	![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="420"}
+
+	(Images credit: drawings made by the authors.)
+
+**Figure 1.3** Geometrical meaning of Pythagoras theorem.
+
 
 ***
 
