@@ -170,7 +170,7 @@ AND PHYSICS
 !!! info "Archimedes"
 	The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
 
-!!! success "Archimedes´ books"
+!!! note "Archimedes´ books"
 	According to Durant (1966), the ten Archimedes´ books that survived had the following purposes:
 	
 	1. *The Method*: to explain how mechanical experiments can extend geometrical knowledge. 
