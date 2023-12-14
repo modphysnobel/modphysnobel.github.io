@@ -48,13 +48,15 @@ Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Pol
 
 Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses and Penelope, was worried because many pretenders to the throne were harassing his mother. He asked soldiers to protect her by forming an agora (Greek word for an assembly). It is attributed to the same writer the use of the word _ageirien laon_, that means to congregate the army.
 
-As a part of a demystification and rationalization process of the social life, the agora was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions.
-
 ### Hippodamus of Miletus (498 BC- 408 BC).
 
-*Falta imagen de Hipodamo*
+<figure markdown>
+  ![Hippodamus](https://i0.wp.com/www.arkiplus.com/wp-content/uploads/2017/09/hipodamo-de-mileto.jpg?resize=264%2C292){ width="240" }
+  <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
+</figure>
 
-One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild Miletus around 479 BC. The city was sacked and destroyed by Persians in 490 BC. The map made by Hippodamus shows an ordered reticular structure having an agora as its center with broader and straight streets (Figure 1.3a). For comparison, plans of other old sites are shown in Figure 1.3, b, c and d.
+
+One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild Miletus around 479 BC. The city was sacked and destroyed by Persians in 490 BC. The map made by Hippodamus shows an ordered reticular structure having an agora as its center with broader and straight streets (Figure 1.4a). For comparison, plans of other old sites are shown in Figure 1.4, b, c and d.
 
 !!! question "The agora."
 
@@ -110,7 +112,7 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
 
 
-!!! abstract ""
+!!! abstract "Cognitive spaces in quantum statistics: fermions or bosons."
 	The notion of quantum statistics is now analyzed by looking at two Physics Nobel Prizes: the 1945 Prize to Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”, and the 1954 Prize to Max Born “for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction”. The 1945 Prize was also awarded to Walther Bothe "for the coincidence method and his discoveries made therewith".
 
 	Next, for each Nobel Laureate we include a brief description of his work as presented in the document called *Works* published in the Nobel wave page and indicate the titles of heir Nobel Lectures. References for both documents are mentioned in MLA format (MLA means Modern Language Association).  
@@ -118,7 +120,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Complete quoted paragraphs are indicated in in between quotation marks.
 
 !!! tip "Wolfgang Pauli (1900 -1958)."
-	WORK: In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too.
+	WORK: "In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too."
 
 	MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/facts/>
  
@@ -133,11 +135,11 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	- Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	- Three crucial contributions to quantum mechanics have been made:
     
-	Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
+	* Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
 	
-	Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
+	* Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
     
-	Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
+	* Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
 
 !!! quote "BOX 1.2: Pauli´s contributions or explanations."
@@ -149,7 +151,7 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 
 
 !!! tip "Max Born (1882-1970)."
-	WORK: In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables.*
+	WORK: "In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables."
 
 	MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/facts/>
 
