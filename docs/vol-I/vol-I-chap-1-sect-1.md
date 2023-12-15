@@ -200,7 +200,7 @@ AND PHYSICS
     
 	(Images credit: CC Wikimedia Commons)
 	
-	**Figure 1.2.**
+	**Figure 1.2.**  An artistic representation of contributions made by Archimedes combining mathematics and physics. How Archimedes used sun light to burn enemy ships.
 
 !!! info "Dictatorial and democratic approaches in mathematical reasoning."
 
