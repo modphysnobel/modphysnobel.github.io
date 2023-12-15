@@ -45,11 +45,11 @@
 !!! info "Rules of the game to understand nature."
 	According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
-	1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.*
+	1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.
 
-	2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.*
+	2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.
 
-	3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.*
+	3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.
 
 !!! info "Interacting regions of the experimental setting."
 
