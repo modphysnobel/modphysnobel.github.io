@@ -93,7 +93,8 @@ In what follows, we consider two kinds of publications that are available in the
 !!! tip "G. L. Hertz (1987-1975)."
 	WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, Gustav Hertz and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."	
 
-	MLA style: Gustav Hertz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
+	MLA style: Gustav Hertz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. 
+	<https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
 
 	MLA style: Gustav Hertz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
