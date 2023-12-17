@@ -1,19 +1,18 @@
 ## 2.3. Knowledge domains for understanding. 
 
-Galileo Galilei (1564 -1642) once wrote that “mathematics is the language in which the book of nature is written”. To read that book as any other one, we need to follow at least three steps: to open the book with an intention of learning and understanding (to be prepared), to read it with interest and delight (to be attentive and have had some experience in reading) and then to think about what has been read and understood (to reflect on the knowledge derived from the information that has been read). 
+!!! abstract "Description of knowledge domains for understanding."
+	Galileo Galilei (1564 -1642) once wrote that “mathematics is the language in which the book of nature is written”. To read that book as any other one, we need to follow at least three steps: to open the book with an intention of learning and understanding (to be prepared), to read it with interest and delight (to be attentive and have had some experience in reading) and then to think about what has been read and understood (to reflect on the knowledge derived from the information that has been read). 
 
-### Description of knowledge domains for understanding.
+	Reading information and understanding the knowledge it implies is a meaningful process consisting of four knowledge domains: 
 
-Reading information and understanding the knowledge it implies is a meaningful process to be traveled by understanding the following knowledge domains: 
+	- Factual domain for the description of facts and their relationships (past information); 
+	- Analytic domain for the representation and interpretation of data (current information); 
+	- Conceptual domain for the explanation of concepts, their logical structures and their mathematical expressions (accepted or debatable knowledge); and 
+	- Operational domain for an integrated review of methodological procedures (critical contributions). 
 
-- Factual domain for the description of facts and their relationships (past information); 
-- Analytic domain for the representation and interpretation of data (current information); 
-- Conceptual domain for the explanation of concepts, their logical structures and their mathematical expressions (accepted or debatable knowledge); and 
-- Operational domain for an integrated review of methodological procedures (critical contributions). 
+	In this Section 2.3, the three regions considered in the experiments discussed in the Chapter (Preparation, Transformation and Detection and Measurement) are related in the following way to the previously described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains. 
 
-In this Section 2.3, the three regions considered in the experiments discussed in the Chapter (Preparation, Transformation and Detection and measurement) are related in the following way to the previously described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains. 
-
-The knowledge obtained from analyzing previously considered information is now concentrated in two Tables where the rows correspond to the knowledge domains and the columns contain the knowledge obtained from reading the documents describing each one of the four experiments considered in this Chapter. Table 2.1 concerns the calculation of electronic properties and refers to the experiments made by Thomson and Millikan. Table 2.2 deals with the description of electronic interactions and is about the experiments made by Franck-Hertz, and Compton.
+	The knowledge obtained from analyzing the information described previously in Section 2.1 is now concentrated in two Tables where the rows correspond to the knowledge domains and the columns refers to the experiments considered in this Chapter. Table 2.1 concerns the calculation of electronic properties and in connection with the experiments made by Thomson and Millikan. Table 2.2 deals with the description of electronic interactions and is about the experiments made by Franck-Hertz and Compton.
 
 ### Experiments for the calculation of electronic properties.
 
@@ -165,7 +164,7 @@ X-ray photons behave as particles of zero mass and show corpuscular properties.
         (critical contributions)
    </td>
     <td>
-    As for photons $E = hν = hc/λ$. If $E = qVc$ where $q$ is the charge of the electron, then $λ = (hc)/(qVc)$.
+    As for photons $E = hν = hc/λ$. If $E = qV_c$ where $q$ is the charge of the electron, then $λ = (hc)/(qV_c)$.
     </td>
     <td>
     From the relativistic conservation of energy and momentum conditions it follows $Δλ= (Λ_C )(1- cosθ)$.
