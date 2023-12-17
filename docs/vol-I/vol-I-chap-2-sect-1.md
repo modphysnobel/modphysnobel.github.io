@@ -72,11 +72,9 @@
 
 	<figure markdown>
 	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8.PNG){width="480"}
-	<figcaption>Figure 2.1. Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
+	<figcaption> Source: adaptation by the authors of the image taken from CC Wikimedia Commons.
 	</figcaption>
 	</figure>
-
-	Source: adaptation by the authors of the image taken [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/JJ_Thomson_crookes_tube.jpg)
 
 	**Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 	
