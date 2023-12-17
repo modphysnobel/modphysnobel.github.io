@@ -100,11 +100,15 @@ In what follows, we consider two kinds of publications that are available in the
 
 
 !!! bug "BOX 2.7: Accepted knowledge or questions under discussion in Hertz´s times."
-   Atoms contains electrons: negative electrical charges in quantized energy levels.  Atoms exchange energy with electromagnetic radiation producing observed spectral lines representing the absorption or emission of photons of frequency $ν$. These photons have quantized energies ($E_n = nhν$) that correspond to the differences in the electronic energy levels participating in each transition: $E_1 – E_2 = nhν$.  </li>
-   Bohr´s atomic theory is based on the following assumptions:
-(1)	"For every atom there is an infinite number of discrete stationary states, which are characterized by given internal energy levels in which the atom can exist without emitting radiation."
-(2) "Emission and absorption of radiation are always connected with a transition of the atom from one stationary state to another, emission involving transition to a state of lower energy, and absorption involving transition to a state of higher energy." 
-(3) "The frequency of the radiation emitted or absorbed respectively during such a transition is given by the equation where h is Planck’s constant and EI and E2 denote the energy of the atom in the two stationary states."
+	- Atoms contains electrons: negative electrical charges in quantized energy levels.  Atoms exchange energy with electromagnetic radiation producing observed spectral lines representing the absorption or emission of photons of frequency $ν$. These photons have quantized energies ($E_n = nhν$) that correspond to the differences in the electronic energy levels participating in each transition: $E_1 – E_2 = nhν$.  </li>
+	
+	- Bohr´s atomic theory is based on the following assumptions:
+
+	(1)	"For every atom there is an infinite number of discrete stationary states, which are characterized by given internal energy levels in which the atom can exist without emitting radiation.
+	
+	(2) Emission and absorption of radiation are always connected with a transition of the atom from one stationary state to another, emission involving transition to a state of lower energy, and absorption involving transition to a state of higher energy.
+	
+	(3) The frequency of the radiation emitted or absorbed respectively during such a transition is given by the equation where h is Planck’s constant and EI and E2 denote the energy of the atom in the two stationary states."
 
 
 !!! quote "BOX 2.8: Hertz´s contributions or explanations."
