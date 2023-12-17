@@ -1,6 +1,6 @@
 ## 2.3. Knowledge domains for understanding. 
 
-!!! abstract "Description of knowledge domains for understanding."
+!!! info "Description of knowledge domains for understanding."
 	Galileo Galilei (1564 -1642) once wrote that “mathematics is the language in which the book of nature is written”. To read that book as any other one, we need to follow at least three steps: to open the book with an intention of learning and understanding (to be prepared), to read it with interest and delight (to be attentive and have had some experience in reading) and then to think about what has been read and understood (to reflect on the knowledge derived from the information that has been read). 
 
 	Reading information and understanding the knowledge it implies is a meaningful process consisting of four knowledge domains: 
