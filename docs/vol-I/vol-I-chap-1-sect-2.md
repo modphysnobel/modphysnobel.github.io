@@ -112,7 +112,7 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
 
 
-!!! abstract "Cognitive spaces in quantum statistics: fermions or bosons."
+!!! info "Cognitive spaces in quantum statistics: fermions or bosons."
 	The notion of quantum statistics is now analyzed by looking at two Physics Nobel Prizes: the 1945 Prize to Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”, and the 1954 Prize to Max Born “for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction”. The 1945 Prize was also awarded to Walther Bothe "for the coincidence method and his discoveries made therewith".
 
 	Next, for each Nobel Laureate we include a brief description of his work as presented in the document called *Works* published in the Nobel wave page and indicate the titles of heir Nobel Lectures. References for both documents are mentioned in MLA format (MLA means Modern Language Association).  
