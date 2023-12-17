@@ -135,9 +135,9 @@ In what follows, we consider two kinds of publications that are available in the
 
 
 !!! bug "BOX 2.9: Accepted knowledge or questions under discussion in Compton´s times." 
-	In what sense and to what extend X-rays have shown the same characteristics as light? Such extension brought more knowledge about the laws of optics, the structure of matter and the nature of radiation. </li>
-	Experiments on refraction and reflection of X-rays can be understood by assuming that X rays consist of electromagnetic waves much shorter than those of light.
-	Extending the optical phenomenon of diffraction into the region of X-rays had two important consequences: crystals are appropriate gratings for diffracting X-rays and X-rays can be used for spectroscopical purposes.</li> 
+	- In what sense and to what extend X-rays have shown the same characteristics as light? Such extension brought more knowledge about the laws of optics, the structure of matter and the nature of radiation. </li>
+	- Experiments on refraction and reflection of X-rays can be understood by assuming that X rays consist of electromagnetic waves much shorter than those of light.
+	- Extending the optical phenomenon of diffraction into the region of X-rays had two important consequences: crystals are appropriate gratings for diffracting X-rays and X-rays can be used for spectroscopical purposes.</li> 
  
  !!! quote "BOX 2.10: Compton´s contributions or explanations."
 	- Experiments performed in Compton´s laboratory indicate that the spectrum of the secondary X-rays shows that the primary beam has been split into two parts, one of the same wavelength and the other of increased wavelength.*</li> 
