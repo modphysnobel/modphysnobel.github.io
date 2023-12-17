@@ -1,3 +1,7 @@
+[**Volume I: Motion**](./volume-I.md)
+
+***
+
 # 1.   Dictatorial and democratic conceptualizations of spaces.
 
 !!! abstract "Introduction"
