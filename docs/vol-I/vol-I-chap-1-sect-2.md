@@ -153,11 +153,13 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 !!! tip "Max Born (1882-1970)."
 	WORK: "In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables."
 
-	MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/facts/>
+	MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. 
+	<https://www.nobelprize.org/prizes/physics/1954/born/facts/>
 
 	NOBEL LECTURE: *The Statistical Interpretations of Quantum Mechanics.*
 
-	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
+	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. 
+	<https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
 
 !!! bug "BOX 1.3: Accepted knowledge or questions under discussion in Born´s times."
     * Niels Bohr introduced the idea that electronic energy levels were discrete stationary states. This assumption explained the stability of the atoms, the structure of their electronic shells, and the Periodic System of the elements. Transition between these discrete levels corresponded to quantized emissions or absorptions.
