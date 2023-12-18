@@ -14,8 +14,9 @@ nav:
   - 'Home':
     - 'Home': index.md
     - 'About': about.md
-#  - 'Book volumes':
-  - 'Motion': 'vol-I/volume-I.md'
+#  - 'Book volumes'
+  - 'Motion':
+    - 'Table of Contents': 'vol-I/volume-I.md'
     - 'Dictatorial and democratic conceptualizations of spaces' :'vol-I-chap-1-sect-1.md'
     - 'Production and control of electronic motions' :'vol-I-chap-2-sect-1.md'
     - 'Detecting signals in the eye and creating maps in the brain' :'vol-I-chap-3-sect-1.md'
