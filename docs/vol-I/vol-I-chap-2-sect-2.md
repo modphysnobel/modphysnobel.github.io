@@ -66,6 +66,7 @@ In what follows, we consider two kinds of publications that are available in the
 !!! bug "BOX 2.5: Accepted knowledge or questions under discussion in Franck’s times."
 	- Discharges of electricity through gases are due to collisions between slow electrons and atoms. Two key concepts in a kinetic theory of electrons in gases are the free path-length and the ionization energy. </li>
 	- The free path-length is the average distance that an electron travels in a straight line in between two successive collisions with atoms. </li> 
+		
 	Due to the small mass of the electron, the transfer of momentum from the slow electron to the atom at rest of the inert gases is very small and the collision is an elastic one. However, by accumulation of collisions, the energy loss can be significant and measurable.
 
 
