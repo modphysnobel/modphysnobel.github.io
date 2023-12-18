@@ -71,7 +71,7 @@
 	Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
 
 	<figure markdown>
-	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8.PNG){width="480"}
+	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8b.PNG){width="480"}
 	<figcaption> Source: adaptation by the authors of the image taken from CC Wikimedia Commons.
 	</figcaption>
 	</figure>
@@ -111,7 +111,7 @@
 	<table width="100%">
 	<tr>
 	<th width="50%">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Simplified_scheme_of_Millikan%E2%80%99s_oil-drop_experiment.svg" width=480 align=center>
+	<img src="./figs/Vol-I-chap-2-sect-1-Fig8b.PNG" width=480 align=center>
 	</th>
 	<th width="50%">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Forces_Millikan.png" width=240 align=center>
