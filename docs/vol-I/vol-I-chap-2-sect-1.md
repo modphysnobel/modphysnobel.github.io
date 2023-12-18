@@ -111,7 +111,7 @@
 	<table width="100%">
 	<tr>
 	<th width="50%">
-	<img src="./figs/Vol-I-chap-2-sect-1-Fig8b.PNG" width=480 align=center>
+	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig9b.PNG){width="420"}
 	</th>
 	<th width="50%">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Forces_Millikan.png" width=240 align=center>
@@ -145,7 +145,7 @@
 	The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
 
 	<figure markdown>
-	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig11.png){ width="400" }
+	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="400" }
 	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="400" }
 	<figcaption>Image credit: Wikimedia Commons [Fig 11](https://upload.wikimedia.org/wikipedia/commons/e/e9/Exp_franck_hertz.JPG), [Fig 12](https://upload.wikimedia.org/wikipedia/commons/9/9a/FHZ_katse_tulemused.jpg)
 	</figcaption>
