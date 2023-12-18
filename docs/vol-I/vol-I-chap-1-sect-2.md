@@ -52,7 +52,7 @@ Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses
 
 <figure markdown>
   ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="240" }
-  <figcaption>(Image credit: Geogebra.org</figcaption>
+  <figcaption>(Image credit: Geogebra.org)</figcaption>
 </figure>
 
 
