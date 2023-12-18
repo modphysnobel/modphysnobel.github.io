@@ -52,7 +52,7 @@ Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses
 
 <figure markdown>
   ![Hippodamus of Miletus](https://i0.wp.com/www.arkiplus.com/wp-content/uploads/2017/09/hipodamo-de-mileto.jpg?resize=264%2C292){ width="240" }
-  <figcaption>(Image credit: https://i0.wp.com/www.arkiplus.com/wp-content/uploads/2017/09/hipodamo-de-mileto.jpg?resize=264%2C292)</figcaption>
+  <figcaption>(Image credit: CC Wikimedia Commons</figcaption>
 </figure>
 
 
