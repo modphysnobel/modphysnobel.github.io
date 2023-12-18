@@ -111,7 +111,9 @@
 	<table width="100%">
 	<tr>
 	<th width="50%">
+	<figure markdown>
 	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig9b.PNG){width="420"}
+	</figure>
 	</th>
 	<th width="50%">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Forces_Millikan.png" width=240 align=center>
