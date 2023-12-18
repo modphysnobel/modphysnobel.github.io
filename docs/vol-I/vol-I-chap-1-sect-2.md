@@ -51,8 +51,8 @@ Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses
 ### Hippodamus of Miletus (498 BC- 408 BC).
 
 <figure markdown>
-  ![Hippodamus of Miletus](https://i0.wp.com/www.arkiplus.com/wp-content/uploads/2017/09/hipodamo-de-mileto.jpg?resize=264%2C292){ width="240" }
-  <figcaption>(Image credit: https://i0.wp.com/www.arkiplus.com/wp-content/uploads/2017/09/hipodamo-de-mileto.jpg?resize=264%2C292)</figcaption>
+  ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="240" }
+  <figcaption>(Image credit: Geogebra.org)</figcaption>
 </figure>
 
 
@@ -134,12 +134,9 @@ Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the unive
 	- The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	- Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	- Three crucial contributions to quantum mechanics have been made:
-    
-		* Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.
-	
-		* Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
-    
-		* Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
+	  	1. Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.	
+	  	2. Wave mechanics equation by Schrödinger: This equation corresponds to the quantum counterpart of Newton´s second law in classical mechanics.
+	  	3. Matrix formulation by Heisenberg: The formulation of quantum mechanics serves to interpret the physical properties of particles as matrices that evolve in time.
 
 
 !!! quote "BOX 1.2: Pauli´s contributions or explanations."
