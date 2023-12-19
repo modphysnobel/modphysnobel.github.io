@@ -150,4 +150,4 @@ In what follows, we consider two kinds of publications that are available in the
 	- "We have thus seen how the essentially optical properties of radiation have been recognized and studied in the realm of X-rays. A study of the refraction and specular reflection of X-rays has given an important confirmation of the electron theory of dispersion, and has enabled us to count with high precision the number of electrons in the atom. The diffraction of X-rays by crystals has given wonderfully exact information regarding the structure of crystals, and has greatly extended our knowledge of spectra. When X-rays were diffracted by ruled gratings, it made possible the study of the complete spectrum from the longest to the shortest waves. In the diffuse scattering of radiation, we have found a gradual change from the scattering of waves to the scattering of corpuscles."
 
 
-[**2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md)
+[**Next: 2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md)
