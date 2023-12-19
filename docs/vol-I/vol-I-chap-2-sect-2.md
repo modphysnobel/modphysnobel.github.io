@@ -61,6 +61,8 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: James Franck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
+	Nobel Lecture: *Transformation of Kinetic Energy of Free Electrons into Excitation Energy of Atoms by Impacts.*
+
 	MLA style: James Franck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 3 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/lecture/>
 
 !!! bug "BOX 2.5: Accepted knowledge or questions under discussion in Franck’s times."
