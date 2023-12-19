@@ -116,7 +116,7 @@
 	</figure>
 	</th>
 	<th width="50%">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Forces_Millikan.png" width=240 align=center>
+	![Fig8](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="750"}
 	</th>
 	</tr>
 	</table>
