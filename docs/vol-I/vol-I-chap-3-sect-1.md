@@ -1,7 +1,7 @@
 
 [**Volume I: Motion**](./volume-I.md)
 
-[**Previous: 2.3. Knowledge domains for understanding. **](./vol-I-chap-2-sect-3.md) 
+[**Previous: 2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md) 
 
 ***
 
