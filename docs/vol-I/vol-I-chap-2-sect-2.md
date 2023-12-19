@@ -70,7 +70,7 @@ In what follows, we consider two kinds of publications that are available in the
 	Due to the small mass of the electron, the transfer of momentum from the slow electron to the atom at rest of the inert gases is very small and the collision is an elastic one. However, by accumulation of collisions, the energy loss can be significant and measurable.
 
 
-!!! quote "BOX 2.6a: Franck´s contributions or explanations."
+!!! quote "BOX 2.6: Franck´s contributions or explanations."
 	- In the calculations of the free path-length, the electron behaves like a gaseous electrically charged impurity with a vanishingly small impact radius.</li> 
 	- The experimental setting to measure the energy loss during accumulated collisions consists of three electrodes aligned inside a tube: an electron source consisting in a tungsten wire that is heated (G), a wire-screen electrode (N) that initially is charged positive with respect to G and a third electrode (P) where the electrons arrive.</li>  
 	- A potential difference V between G and N accelerates electrons. When there is no gas between G and N the electrons acquire a kinetic energy $½mv^2 = eV$, where $e$ is the charge and m the mass of the electron.
@@ -78,8 +78,6 @@ In what follows, we consider two kinds of publications that are available in the
 	If the arriving electrons are repelled at P the current diminishes and even it is null because the electrons have lost energy by collision with the atoms. For high pressures of the gas the number of collisions electron-atom increases considerably.</li> 
 	- In the case of polyatomic gases, the greater average energy loss could be due to the formation of negative ions or to a transfer of the kinetic energy of the electrons into vibrational and rotational degrees of freedom of the molecules.</li>  
 	- When the impacting electrons have higher velocities, their energies are transferred into the internal energy of the impacted atoms. The collisions are now inelastic, and the atoms are excited to luminescence or become ionized: this will correspond to the ionization energy (ionization voltage).</li> 
-	
-!!! quote "BOX 2.6b: Franck´s contributions or explanations."	
 	- "It can be seen that in Hg vapour this partial electron current increases with increasing acceleration, similar to the characteristic glow-electron current in vacuum, until the critical energy stage is reached when the current falls suddenly to almost zero. Since the electrons cannot lose more or less than the critical amount of energy, the cycle begins anew with further increase of voltage"
 	…
 	- "The process repeats itself periodically as soon as the accelerating voltage overreaches a multiple of the critical voltage. The distance between the succeeding maxima gives an exact value of the critical voltage. This is 4.9 V for mercury vapour."
