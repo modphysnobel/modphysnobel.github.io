@@ -94,6 +94,8 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: Gustav Hertz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. 
 	<https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
+	
+	Nobel Lecture: *The Results of the Electron-Impact Tests in the Light of Bohr’s Theory of Atoms.*
 
 	MLA style: Gustav Hertz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
