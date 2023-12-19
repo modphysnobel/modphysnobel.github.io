@@ -1,6 +1,6 @@
 [**Volume I: Motion**](./volume-I.md)
 
-[**2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](./vol-I-chap-2-sect-2.md) 
+[**Previous: 2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](./vol-I-chap-2-sect-2.md) 
 
 ***
 
