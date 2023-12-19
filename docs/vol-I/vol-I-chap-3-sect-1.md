@@ -223,4 +223,4 @@
 	•	“Innate mechanisms endow the visual system with highly specific connections, but visual experience early in life is necessary for their maintenance and full development. Deprivation experiments demonstrate that neural connections can be modulated by environmental influences during a critical period of postnatal development. We have studied this process in detail in one set of functional properties of the nervous system, but it may well be those other aspects of brain function, such as language, complex perceptual tasks, learning, memory and personality, have different programs of development. Such sensitivity of the nervous system to the effects of experience may represent the fundamental mechanism by which the organism adapts to its environment during the period of growth and development.”
 
 
- [**3.2. Generation of a mental Global Positioning System (GPS)**](./vol-I-chap-3-sect-2.md)
+ [**Next: 3.2. Generation of a mental Global Positioning System (GPS)**](./vol-I-chap-3-sect-2.md)
