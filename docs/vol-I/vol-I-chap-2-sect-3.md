@@ -183,3 +183,7 @@ X-ray photons behave as particles of zero mass and show corpuscular properties.
 ### REFERENCES
  
 1. FEYNMAN, R. P., LEIGHTON, R. B., and SANDS, M. The Feynman Lectures on Physics, Mainly Mechanics, Radiation and Heat. Volume I, Chapter 2. Reading, Massachusetts, Addisson Wesley. (1963).
+
+***
+
+[**2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md)
