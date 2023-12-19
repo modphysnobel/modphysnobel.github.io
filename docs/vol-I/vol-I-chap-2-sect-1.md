@@ -146,7 +146,7 @@
 
 	The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
 
-<!-- HTML Table 1.1.1-->
+	<!-- HTML Table 1.1.1-->
 	<table width="100%">
 	<tr>
 	<th width="50%">
