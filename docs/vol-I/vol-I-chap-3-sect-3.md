@@ -84,7 +84,7 @@
 
 	•	In 2013 Yartsev and Ulanovsky reported on Representation of three-dimensional space in the hippocampus of flying bats. 
 
-!!! info "O´Keefe´s contributions or explanations.!
+!!! info "O´Keefe´s contributions or explanations."
 
 	•	“In the late 1960s, I had been recording somatosensory cells in the thalamus of the rat using our newly developed techniques for recording from single units in freely moving animals and on one occasion had inadvertently positioned electrodes more laterally in the hippocampus. There I found a cell… which clearly was activated by some higher-order aspect of the animal’s movement such as speed of movement of the head… I moved more to the study of the hippocampus in an attempt to see what memories looked like at the single cell level.”
 
