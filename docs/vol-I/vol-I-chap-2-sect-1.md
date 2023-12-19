@@ -160,7 +160,7 @@
 	</figure>
 	</th>
 	</tr>
-	</table
+	</table>
 	
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 
@@ -192,12 +192,24 @@
 
 	What follows is a scheme describing the experimental setting where the three regions of Production, Transformation and Detection and Measurement are shown (Figure 2.4a). A vectorial diagram indicates the collision condition (Figure 2.4b). 
 
+	<!-- HTML Table 1.1.1-->
+	<table width="100%">
+	<tr>
+	<th width="50%">
 	<figure markdown>
 	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13.PNG){ width="400" }
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="400" }
-	<figcaption>Image credit: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/c/c2/Compton-en.svg)</figcaption>
 	</figure>
-
+	</th>
+	<th width="50%">
+	<figure markdown>
+	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="400" }
+	</figure>
+	</th>
+	</tr>
+	</table>
+	
+	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+	
 	**Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
 
 	The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
