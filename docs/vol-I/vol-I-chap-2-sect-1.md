@@ -197,7 +197,7 @@
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13.PNG){ width="400" }
+	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="400" }
 	</figure>
 	</th>
 	<th width="50%">
