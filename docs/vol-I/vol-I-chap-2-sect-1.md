@@ -112,11 +112,11 @@
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig8](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="750"}
+	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="750"}
 	</figure>
 	</th>
 	<th width="50%">
-	![Fig8](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="520"}
+	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="280"}
 	</th>
 	</tr>
 	</table>
