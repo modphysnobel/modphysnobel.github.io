@@ -146,12 +146,21 @@
 
 	The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
 
+<!-- HTML Table 1.1.1-->
+	<table width="100%">
+	<tr>
+	<th width="50%">
 	<figure markdown>
 	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="400" }
-	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="400" }
-	<figcaption>Image credit: Wikimedia Commons [Fig 11](https://upload.wikimedia.org/wikipedia/commons/e/e9/Exp_franck_hertz.JPG), [Fig 12](https://upload.wikimedia.org/wikipedia/commons/9/9a/FHZ_katse_tulemused.jpg)
-	</figcaption>
 	</figure>
+	</th>
+	<th width="50%">
+	<figure markdown>
+	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="400" }
+	</figure>
+	</th>
+	</tr>
+	</table>
 
 	**Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
 
