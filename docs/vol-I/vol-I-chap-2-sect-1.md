@@ -72,7 +72,7 @@
 
 	<figure markdown>
 	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8b.PNG){width="480"}
-	<figcaption> Source: adaptation by the authors of the image taken from CC Wikimedia Commons.
+	<figcaption> (Image credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</figcaption>
 	</figure>
 
@@ -121,7 +121,7 @@
 	</tr>
 	</table>
 
-	(Images credit: CC Wikimedia Commons)
+	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 
 	**Figure 2.2.** Setting for the oil-drop experiment (a) and amplified view of a drop inside the microscope (b). Here, in (Figure 2.2a)the Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
@@ -160,7 +160,9 @@
 	</figure>
 	</th>
 	</tr>
-	</table>
+	</table
+	
+	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 
 	**Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
 
