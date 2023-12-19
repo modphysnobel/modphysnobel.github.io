@@ -186,4 +186,4 @@ X-ray photons behave as particles of zero mass and show corpuscular properties.
 
 ***
 
-[**2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md)
+[**Next: 3.1.  Understanding the mechanisms of vision.**](./vol-I-chap-3-sect-1.md)
