@@ -98,7 +98,7 @@
 
 	- “The mechanism of colour reception is organized by the peripheral visual apparatus, the number of colour-sensitive elements is relatively limited, and these elements represent widely different regions of the visible spectrum.”
 
-!!! tip "K. Hartline (1903-1983).
+!!! tip "K. Hartline (1903-1983)."
 	WORK: "Our vision functions because light from the surrounding world is captured by many light-sensitive cells in the retina at the back of the eye. A series of reconnections and transformations of chemical and electrical signals finally result in visual impressions. In studies of the horseshoe crab around 1950, Keffer Hartline analyzed how the primary signals from visual cells are processed in a network of nerve cells. Among other things, he showed that when a cell is stimulated, signals from surrounding cells are suppressed. This makes it easier to understand the concept of contrasts."
 
 	MLA style: Keffer Hartline – – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/>
