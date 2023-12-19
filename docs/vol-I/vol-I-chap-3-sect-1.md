@@ -211,14 +211,19 @@
 
 !!! bug "BOX 3.12: Wiesel´s contributions or explanations."
 	•	“In the early sixties, having begun to describe the physiology of cells in the adult cat visual cortex, David Hubel and I decided to investigate how the highly specific response properties of cortical cells emerged during postnatal development. We were also interested in examining the role of visual experience in normal development. “
+
 	…
 	•	“Our initial findings were that kittens with one eye occluded by lid suture during the first three months of life were blind in the deprived eye, and that in the striate cortex the majority of the cells responded only to stimulation of the normal eye.”
+
 	…
 	•	“From another series of experiments, we found that the properties of orientation specificity and binocularity developed through innate mechanisms. This result, taken together with the monocular deprivation experiment, indicated that neural connections present early in life can be modified by visual experience.”
+
 	…
 	•	“Further advances in our understanding of the nature of and mechanism underlying the deprivation phenomena depended on working out some of the functional architecture of the visual cortex. This was done through further physiological experiments in the normal animal and by using newly developed anatomical methods.”
+
 	…
 	•	“The binocular deprivation and strabismus experiments support the notion that competition, rather than disuse, is the main cause of the observed changes…. The difference between normal and deprived animals is that under normal conditions a cell receives input synchronously from the two eyes, whereas in monocularly deprived, strabismic, or binocularly deprived animals the two eyes do not act together….In addition to providing insight into the mechanisms of development and plasticity in the visual cortex, the strabismus experiments may be of direct clinical relevance.”
+
 	…
 	•	“Innate mechanisms endow the visual system with highly specific connections, but visual experience early in life is necessary for their maintenance and full development. Deprivation experiments demonstrate that neural connections can be modulated by environmental influences during a critical period of postnatal development. We have studied this process in detail in one set of functional properties of the nervous system, but it may well be those other aspects of brain function, such as language, complex perceptual tasks, learning, memory and personality, have different programs of development. Such sensitivity of the nervous system to the effects of experience may represent the fundamental mechanism by which the organism adapts to its environment during the period of growth and development.”
 
