@@ -202,7 +202,7 @@ AND PHYSICS
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=600 align=center>
     
-	(Images credit: CC Wikimedia Commons)
+	(Image credit: CC Wikimedia Commons)
 	
 	**Figure 1.2.**  An artistic representation of contributions made by Archimedes combining mathematics and physics. How Archimedes used sun light to burn enemy ships.
 
@@ -226,7 +226,7 @@ AND PHYSICS
 
 	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="420"}
 
-	(Images credit: drawings made by the authors.)
+	(Image credit: drawings made by the authors.)
 
 !!! example "STEP 2"
 	- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
@@ -237,7 +237,7 @@ AND PHYSICS
 
 	![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="420"}
 
-	(Images credit: drawings made by the authors.)
+	(Image credit: drawings made by the authors.)
 
 **Figure 1.3** Geometrical meaning of Pythagoras theorem.
 
