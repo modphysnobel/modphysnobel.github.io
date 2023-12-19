@@ -116,7 +116,7 @@
 	</figure>
 	</th>
 	<th width="50%">
-	![Fig8](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="750"}
+	![Fig8](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="520"}
 	</th>
 	</tr>
 	</table>
