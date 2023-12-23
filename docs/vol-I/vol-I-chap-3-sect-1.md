@@ -20,6 +20,8 @@
 
 	• Identify the cognitive procedures (Inquiring, Training, Comprehension, and Metacognition) in the description of the perihelion precession of the planet Mercury. 
 
+!!! abstract "Description of content of Chapter 3"
+
 	**Section 3.1. Understanding the mechanisms of vision.**
 	
 	We comment on three Nobel Prizes in Physiology or Medicine: to Allvar Gullstrand in 1911 “for his work on the dioptrics of the eye” [*Dioptrics is the study of the refraction of light, especially by lenses.*], to Ragnar Granit, Haldan Keffer Hartline and George Wald in 1967 “for their discoveries concerning the primary physiological and chemical visual processes in the eye”, and to David H. Hubel and Torsten N. Wiesel in 1981 “for their discoveries concerning information processing in the visual system”. 
