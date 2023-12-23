@@ -48,7 +48,7 @@
 
 	**Training procedure:** to make clear Newton´s scientific reasonings for explaining what previously has been observed, registered and interpreted.
 	
-	Isaac Newton (1642-1727) published in 1687 three books called *Philosophiae Naturalis Principia Mathematica*; the first two dealt with general theorems concerning the motions of bodies and the third one contained applications to the solar system. Newton proposed that a gravitational attractive force $F_G = G [\frac{(m_S m_P)}{r^2}]$ interacted instantly and at distance when the two interacting bodies, the sun of mass $m_S$ and a planet of mass $m_P$, were separated by a distance $r$; $G$ was a constant. Also, he defined force as “the rate of change of momentum” $**F**=\frac{d_**p**}{d_t}$, where the linear momentum was defined as $**p** = m**v**$, $m$ representing the mass and $**v**$ the velocity. 
+	Isaac Newton (1642-1727) published in 1687 three books called *Philosophiae Naturalis Principia Mathematica*; the first two dealt with general theorems concerning the motions of bodies and the third one contained applications to the solar system. Newton proposed that a gravitational attractive force $F_G = G [\frac{(m_S m_P)}{r^2}]$ interacted instantly and at distance when the two interacting bodies, the sun of mass $m_S$ and a planet of mass $m_P$, were separated by a distance $r$; $G$ was a constant. Also, he defined force as “the rate of change of momentum” $F=\frac{d_p}{d_t}$, where the linear momentum was defined as $p = mv$, $m$ representing the mass and $v$ the velocity. 
 
 	By replacing the expression of $F_G$ in the general equation $F=\frac{d_p}{d_t}$, Kepler´s laws can be explained in terms of the following mathematical considerations:  
 
