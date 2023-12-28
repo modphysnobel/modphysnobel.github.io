@@ -7,23 +7,22 @@
 
 ## 4.3 Aspects and Factors distinguishing scientific theories.
 
-!!! info ""
 	
-	According to Piaget and Garcia (1989) there are seven elements that characterize a scientific theory: the following four Aspects (A) and three Factors (F); 
+According to Piaget and Garcia (1989) there are seven elements that characterize a scientific theory: the following four Aspects (A) and three Factors (F); 
 	
-	$A_1$: *Type of questions to be addressed by the theory.*
+$A_1$: *Type of questions to be addressed by the theory.*
 
-	$A_2$: *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
+$A_2$: *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
 	
-	$A_3$: *Type of relationships between theory and experience.*
+$A_3$: *Type of relationships between theory and experience.*
 	
-	$A_4$: *Role of mathematics in the formulation of a physical theory.*
+$A_4$: *Role of mathematics in the formulation of a physical theory.*
 	
-	$F_1$: *Methodology or procedure employed in the analysis of facts and in the verification of hypothesis.*
+$F_1$: *Methodology or procedure employed in the analysis of facts and in the verification of hypothesis.*
 	
-	$F_2$: *Epistemological points of view characterizing general concepts in connection with experimental facts.*
+$F_2$: *Epistemological points of view characterizing general concepts in connection with experimental facts.*
 
-	$F_3$: *Building of a coherent system that logically integrates facts and concepts.*
+$F_3$: *Building of a coherent system that logically integrates facts and concepts.*
 
 !!! info "Descriptions of motion according to Kepler, Galileo, Newton, and Einstein."
 
