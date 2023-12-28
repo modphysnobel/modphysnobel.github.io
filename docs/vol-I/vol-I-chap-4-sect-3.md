@@ -30,13 +30,10 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 	***A1:*** *Type of questions to be addressed by the theory.*
 
-	**K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
-
-	**G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
-
-	**N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
-
-	**E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
+	- **K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
+	- **G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
+	- **N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
+	- **E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
 
 	***A2:*** *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
  
