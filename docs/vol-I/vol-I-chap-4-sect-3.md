@@ -30,73 +30,79 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 	***A1:*** *Type of questions to be addressed by the theory.*
 
-		**K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
+	**K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
 	
-		**G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
+	**G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
 	
-		**N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
+	**N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
 	
-		**E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
+	**E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
 
+	
 	***A2:*** *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
  
-		**K:**  The symmetry and regularity of the platonic solids are manifestations of the harmony and simplicity of the planet trajectories in the sky. 
+	**K:**  The symmetry and regularity of the platonic solids are manifestations of the harmony and simplicity of the planet trajectories in the sky. 
 
-		**G:**  Any assumption or prediction concerning physical phenomena needs to be tested by experiments. The validity of the hypothesis depends on how objective the mechanisms interpreting experimental results are. 
+	**G:**  Any assumption or prediction concerning physical phenomena needs to be tested by experiments. The validity of the hypothesis depends on how objective the mechanisms interpreting experimental results are. 
 
-		**N:**  The mathematical tools of calculus can be used to solve the differential equations describing motion when the analytical functions of the forces are given.
+	**N:**  The mathematical tools of calculus can be used to solve the differential equations describing motion when the analytical functions of the forces are given.
 
-		**E:**  Both theories of relativity are derived from principles: for the special theory the principles of relativity and of the constancy of the speed of light; for the general theory the principle of equivalence, meaning that gravitational attractions are of geometrodynamic nature.
+	**E:**  Both theories of relativity are derived from principles: for the special theory the principles of relativity and of the constancy of the speed of light; for the general theory the principle of equivalence, meaning that gravitational attractions are of geometrodynamic nature.
 
+	
 	***A3:*** *Type of relationship between theory and experience*. 
 
-		**K:**  What is observed and measured is described by theoretical considerations involving mystical and geometric assumptions. 
+	**K:**  What is observed and measured is described by theoretical considerations involving mystical and geometric assumptions. 
 	
-		**G:**  Pure theoretical speculations explain almost nothing; logical reasoning is not enough for understanding the physical reality which requires appropriate explanations of measured experiences. 
+	**G:**  Pure theoretical speculations explain almost nothing; logical reasoning is not enough for understanding the physical reality which requires appropriate explanations of measured experiences. 
 	
-		**N:**  Once we know the present initial conditions of the systems and all the interactions operating on the system, we can predict the future and explain the past because time and space are independent as well as universal and homogeneous. 
+	**N:**  Once we know the present initial conditions of the systems and all the interactions operating on the system, we can predict the future and explain the past because time and space are independent as well as universal and homogeneous. 
 	
-		**E:**  If the concepts involved in explaining some experimental results are inside the domains of validity of the theory but nevertheless some observations or measurements do not agree with theoretical calculated predictions, then it is necessary to review the experimental procedures and interpretations.
+	**E:**  If the concepts involved in explaining some experimental results are inside the domains of validity of the theory but nevertheless some observations or measurements do not agree with theoretical calculated predictions, then it is necessary to review the experimental procedures and interpretations.
 
+	
 	***A4:*** *Role of mathematics in the formulation of a physical theory*. 
 
-		**K:**  Three laws express the observed results, namely, that the trajectories of the planets around the Sun are ellipses: the Sun is in one of the focuses, the angular speed of the planet is greater in the aphelion than in the perihelion, and the squares of the periods of revolution are proportional to the cubes of the average distances to the Sun. 
+	**K:**  Three laws express the observed results, namely, that the trajectories of the planets around the Sun are ellipses: the Sun is in one of the focuses, the angular speed of the planet is greater in the aphelion than in the perihelion, and the squares of the periods of revolution are proportional to the cubes of the average distances to the Sun. 
 	
-		**G:**  Quantitative formal relationships between physical variables lead to numerical results that can be compared with observational data and experimental measurements. 
+	**G:**  Quantitative formal relationships between physical variables lead to numerical results that can be compared with observational data and experimental measurements. 
 	
-		**N:**  Classical mechanics consists in a series of approximations and mathematical solution methods with which experimental data can be predicted with great accuracy and precision, because for the representation and interpretation of physical phenomena Euclidean geometry is the appropriate framework. 
+	**N:**  Classical mechanics consists in a series of approximations and mathematical solution methods with which experimental data can be predicted with great accuracy and precision, because for the representation and interpretation of physical phenomena Euclidean geometry is the appropriate framework. 
 	
-		**E:**  The physics of motion and the transformation between matter and energy are explained in terms of a geometrodynamical approach that is not Euclidean because the structure of the four-dimensional space-time is determined by high concentrations of masses.	
+	**E:**  The physics of motion and the transformation between matter and energy are explained in terms of a geometrodynamical approach that is not Euclidean because the structure of the four-dimensional space-time is determined by high concentrations of masses.	
 
+	
 	***F1:*** *Methodology or procedure employed in the analysis of facts and in the verification of hypothesis.*		
 
-		**K:**  Careful analysis of regularities in observational data leads to a new conceptual organization of the positions and motions of celestial bodies according to the Copernican model of the universe. 
+	**K:**  Careful analysis of regularities in observational data leads to a new conceptual organization of the positions and motions of celestial bodies according to the Copernican model of the universe. 
 	
-		**G:**  The rationality and scope of the theoretical models depend on the fact that calculated predictions must correspond up to a certain precision with experimental measurements. 
+	**G:**  The rationality and scope of the theoretical models depend on the fact that calculated predictions must correspond up to a certain precision with experimental measurements. 
 	
-		**N:**  The validity of the hypothesis and of the mathematical equations describing the properties of physical systems are consistent with a mechanical conception of the universe. 
+	**N:**  The validity of the hypothesis and of the mathematical equations describing the properties of physical systems are consistent with a mechanical conception of the universe. 
 	
-		**E:**  The agreement and coherence among theory and experiments considers that motion is relative to the reference system, that the law of transmission of light in vacuo is satisfied, and that the principle of equivalence is valid.
+	**E:**  The agreement and coherence among theory and experiments considers that motion is relative to the reference system, that the law of transmission of light in vacuo is satisfied, and that the principle of equivalence is valid.
 
+	
 	***F2:*** *Epistemological points of view characterizing general concepts in connection with experimental facts.* 
 
-		**K:**  Scientific truths describing natural phenomena are presented in beautiful and precise mathematical forms in order to systematize the observations made by Brahe. 
+	**K:**  Scientific truths describing natural phenomena are presented in beautiful and precise mathematical forms in order to systematize the observations made by Brahe. 
 	
-		**G:**  Asking questions to nature by means of experimental procedures and devices serves to describe natural phenomena by providing asymptotic explanations to physical phenomena. 
+	**G:**  Asking questions to nature by means of experimental procedures and devices serves to describe natural phenomena by providing asymptotic explanations to physical phenomena. 
 	
-		**N:**  Once the theory is completely and satisfactory according to mathematics, the explanations of phenomena is a logic consequence that can be experimentally tested. 
+	**N:**  Once the theory is completely and satisfactory according to mathematics, the explanations of phenomena is a logic consequence that can be experimentally tested. 
 	
-		**E:**  Scientific explanations can be formulated in terms of three kinds of processes: the Intra process describing objects like elementary particles and energy radiations, the Inter process proposing relationships like those connecting space with time, matter with energy and gravitational fields with accelerated frames of reference, and the Trans process dealing with structures like those describing the kinematics and dynamics aspects of motion in a gravitational theory corresponding to a non-Euclidean geometry.
+	**E:**  Scientific explanations can be formulated in terms of three kinds of processes: the Intra process describing objects like elementary particles and energy radiations, the Inter process proposing relationships like those connecting space with time, matter with energy and gravitational fields with accelerated frames of reference, and the Trans process dealing with structures like those describing the kinematics and dynamics aspects of motion in a gravitational theory corresponding to a non-Euclidean geometry.
+	
 	
 	***F3:*** *Building a coherent system that logically integrates facts and concepts.*  
 
-		**K:**  Kepler´s laws form a consistent theoretical structure that describes but does not explain; it will require a complete justification as the one formulated by Newton. 
+	**K:**  Kepler´s laws form a consistent theoretical structure that describes but does not explain; it will require a complete justification as the one formulated by Newton. 
 	
-		**G:**  Galileo’s law of inertia is a particular case of Newton´s first law of motion. This implies that the motion of a body can continue to be rectilinear and uniform if there is no force that modifies that state of motion. 
+	**G:**  Galileo’s law of inertia is a particular case of Newton´s first law of motion. This implies that the motion of a body can continue to be rectilinear and uniform if there is no force that modifies that state of motion. 
 	
-		**N:**  Once the theory of gravitation was formulated and tested there remained the need for connection and integration with other branches of Classical Physics, like Thermodynamics and Electromagnetism. 
+	**N:**  Once the theory of gravitation was formulated and tested there remained the need for connection and integration with other branches of Classical Physics, like Thermodynamics and Electromagnetism. 
 	
-		**E:**  Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects. Furthermore, it must be research is required concerning phenomena such as the motion of the perihelion of Mercury, the deflection of light by a gravitational field, and the displacement of spectral lines towards the red, as well as the production and detection of black holes.
+	**E:**  Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects. Furthermore, it must be research is required concerning phenomena such as the motion of the perihelion of Mercury, the deflection of light by a gravitational field, and the displacement of spectral lines towards the red, as well as the production and detection of black holes.
 
 ***
 
@@ -114,9 +120,11 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
 
-<img src="./figs/Vol-I-chap-4-sect-1-Fig4.PNG" width=600 align=center>
-
-(Image credit: elaborated by the authors.)
+<figure markdown>
+	![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="250"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 **Figure 4.3.** The two lines are parallel only when α + β = 180º.
 
@@ -128,9 +136,11 @@ Line AD is perpendicular to side BC and intersects this side at point D, which i
 
 Points M and N are in the middle of respective sides AB and AC so that BM = MA in one side and AN = NC in the other side.
 
-<img src="./figs/Vol-I-chap-4-sect-1-Fig5.PNG" width=300 align=center>
-
-(Image credit: elaborated by the authors.)
+<figure markdown>
+	![Fig 5](./figs/Vol-I-chap-4-sect-1-Fig5.PNG){width="250"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 **Figure 4.4.** Characteristics of the triangle ABC, the so-called Lagrange’s triangle.
 
@@ -138,9 +148,11 @@ Now consider that Lagrange's triangle is suspended from point A and that a weigh
 
 Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D}.
 
-<img src="./figs/Vol-I-chap-4-sect-1-Fig6.PNG" width=300 align=center>
-
-(Image credit: elaborated by the authors.)
+<figure markdown>
+	![Fig 6](./figs/Vol-I-chap-4-sect-1-Fig6.PNG){width="250"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 **Figure 4.5.** Application of the principle of the lever when the suspension is in A: (P) x (BD) = (P) x (DC).
 
@@ -150,17 +162,21 @@ Suspension in M: (BM x P) {left side of M} = (MA x P) {right side of M}.
 
 Suspension in N: (AN x P) {left side of N} = (NC x P) {right side of N}.
 
-<img src="./figs/Vol-I-chap-4-sect-1-Fig7.PNG" width=600 align=center>
-
-(Image credit: elaborated by the authors.)
+<figure markdown>
+	![Fig 7](./figs/Vol-I-chap-4-sect-1-Fig7.PNG){width="250"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 **Figure 4.6.** Levers with suspension centers in M (a) and in N (b).
 
 Then suppose that the weights on B and A in Figure 4.6a are applied to M and the weights on A and C in Figure 4.6b are applied to N. Superposing these two conditions, we have in the triangle ABC that each one of the weights on M and on N are 2P. The aforementioned distribution of weights also maintains the balance of triangle ABC with respect to an axis passing through points M, E, and N. This is shown in Figure 4.8 where the triangle is placed vertically and suspended from point E, which is the intersection of line AD. with the line MN.
 
-<img src="./figs/Vol-I-chap-4-sect-1-Fig8.PNG" width=300 align=center>
-
-(Image credit: elaborated by the authors.)
+<figure markdown>
+	![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width="250"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 **Figure 4.7.** Redistribution of the weight on M and on N corresponding to the superpositions of previous figures 4.6a and 4.6b. Now the triangle ABC is suspended from E.
 
