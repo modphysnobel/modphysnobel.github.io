@@ -90,7 +90,7 @@
 	Consider a mechanical system made up of two bodies A and B of unequal masses mA and mB joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
 	<figure markdown>
-	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="480"}
+	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="360"}
 	<figcaption> (Image credit: elaborated by the authors.)
 	</figcaption>
 	</figure>
