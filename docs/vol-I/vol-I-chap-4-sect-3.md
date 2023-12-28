@@ -30,20 +30,23 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 	***A1:*** *Type of questions to be addressed by the theory.*
 
-	- **K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
-	- **G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
-	- **N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
-	- **E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
+		**K:**  Is there any behavioral pattern that can be inferred from observational data concerning the positions and motions of the planets registered by Tycho Brahe? 
+	
+		**G:**  What happens to the motion of a body when no interaction modifies its velocity during a certain time interval? 
+	
+		**N:**  How can we get the position as a function of time when we introduce the law of the force in the low of motion? 
+	
+		**E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
 
 	***A2:*** *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
  
-	**K:**  The symmetry and regularity of the platonic solids are manifestations of the harmony and simplicity of the planet trajectories in the sky. 
+		**K:**  The symmetry and regularity of the platonic solids are manifestations of the harmony and simplicity of the planet trajectories in the sky. 
 
-	**G:**  Any assumption or prediction concerning physical phenomena needs to be tested by experiments. The validity of the hypothesis depends on how objective the mechanisms interpreting experimental results are. 
+		**G:**  Any assumption or prediction concerning physical phenomena needs to be tested by experiments. The validity of the hypothesis depends on how objective the mechanisms interpreting experimental results are. 
 
-	**N:**  The mathematical tools of calculus can be used to solve the differential equations describing motion when the analytical functions of the forces are given.
+		**N:**  The mathematical tools of calculus can be used to solve the differential equations describing motion when the analytical functions of the forces are given.
 
-	**E:**  Both theories of relativity are derived from principles: for the special theory the principles of relativity and of the constancy of the speed of light; for the general theory the principle of equivalence, meaning that gravitational attractions are of geometrodynamic nature.
+		**E:**  Both theories of relativity are derived from principles: for the special theory the principles of relativity and of the constancy of the speed of light; for the general theory the principle of equivalence, meaning that gravitational attractions are of geometrodynamic nature.
 
 	***A3:*** *Type of relationship between theory and experience*. 
 
