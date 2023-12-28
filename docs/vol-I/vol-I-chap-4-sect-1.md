@@ -89,9 +89,11 @@
 
 	Consider a mechanical system made up of two bodies A and B of unequal masses mA and mB joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
-	<img src="./figs/Vol-I-chap-4-sect-1-Fig3.PNG" width=300 align=center>
-
-	(Image credit: elaborated by the authors.)
+	<figure markdown>
+	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="480"}
+	<figcaption> (Image credit: elaborated by the authors.)
+	</figcaption>
+	</figure>
 
 	**Figure 4.2.** Diagram of distances and weights on the lever.
 
@@ -107,7 +109,7 @@
 
 	The explanation that the lever principle serves to justify that the parallel postulate is satisfied is contained in an annex of the book *Non-Euclidean Geometries: Historical-Critical Exposure of its Development*, published by Roberto Bonola (1874-1911) in 1912. According to Bonola, this explanation, which is not a demonstration, was made by Joseph Louis Lagrange (1736 - 1813) and was published in volume XI of his complete works. This work was commented in a publication by Pepe, L. and Borgato, M. T.: *Una memoria inedita di Lagrange sulla teoria delle parallele*. Boll. Storia Sci. Mat. 8(2),307–335 (1988). The explanation made by Lagrange is considered in Appendix 4.1.
 
-!!! info "Conservation laws about linear momentun, kinetic energy and angular momentum.
+!!! info "Conservation laws about linear momentun, kinetic energy and angular momentum."
 
 	Following Don Juan Bautista de Oyarzabal Orueta (1913-1977) we connect the principle of the lever with what Galileo called the three natural states of bodies in motion: *(1) the uniform movement of bodies on Earth, (2) the uniformly accelerated motion of bodies falling from heaven to Earth, and (3) the circular motion of the stars in the sky*. We concentrate on the first two states, since the third natural state of bodies in motion refers to celestial bodies.
 
