@@ -121,10 +121,10 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
 
 <figure markdown>
-	![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="250"}
-	<figcaption> (Image credit: elaborated by the authors.)
-	</figcaption>
-	</figure>
+![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="250"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
 **Figure 4.3.** The two lines are parallel only when α + β = 180º.
 
