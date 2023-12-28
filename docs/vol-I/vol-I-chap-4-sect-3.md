@@ -121,7 +121,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
 
 <figure markdown>
-![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="400"}
+![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="800"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
@@ -163,7 +163,7 @@ Suspension in M: (BM x P) {left side of M} = (MA x P) {right side of M}.
 Suspension in N: (AN x P) {left side of N} = (NC x P) {right side of N}.
 
 <figure markdown>
-![Fig 7](./figs/Vol-I-chap-4-sect-1-Fig7.PNG){width="400"}
+![Fig 7](./figs/Vol-I-chap-4-sect-1-Fig7.PNG){width="800"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
