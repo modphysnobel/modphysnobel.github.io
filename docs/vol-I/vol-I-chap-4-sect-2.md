@@ -7,9 +7,7 @@
 
 ## 4.2. Einstein´s theories of relativity.
 
-!!! info ""
-	
-	In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Galileo, Newton and Einstein. We now consider first the Einsteinian approach to motion. Albert Einstein (1879-1955) created relativity theories in two moments: the special theory of relativity in 1905 when he introduced the fourth dimensional space-time description of motion and postulated that the velocity of light is a constant, and the general theory of relativity in 1915 when he reformulated the concept of gravity by proposing the equivalence principle: gravitational actions are equivalent to the effects produced in accelerated frames of reference. Under these conditions the appropriate geometry is non-Euclidean like the one proposed by Riemann. 
+In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Galileo, Newton and Einstein. We now consider first the Einsteinian approach to motion. Albert Einstein (1879-1955) created relativity theories in two moments: the special theory of relativity in 1905 when he introduced the fourth dimensional space-time description of motion and postulated that the velocity of light is a constant, and the general theory of relativity in 1915 when he reformulated the concept of gravity by proposing the equivalence principle: gravitational actions are equivalent to the effects produced in accelerated frames of reference. Under these conditions the appropriate geometry is non-Euclidean like the one proposed by Riemann. 
 
 !!! info "Einstein´s Nobel Lecture Fundamental ideas and problems of the theory of relativity."
 
@@ -101,13 +99,17 @@
 
 	- "There are an infinite number of such local inertial frames at any space-time point; they are associated by Lorentz transformations. If x, y, z, t represent coordinates and time measured with reference to a local inertial frame; Lorentz transformations leave invariant the "distance" ds of two infinitely adjacent point events such that:"
 
-	<img src="./figs/Vol-I-chap-4-sect-3-Fig1.png" width=300 align=center>
+	<figure markdown>
+	![Fig 1](./figs/Vol-I-chap-4-sect-3-Fig1.png){width="300"}
+	</figure>
 
 	**(11)	The gravitational field equations**
 
 	- "In Riemannian geometry two infinitely adjacent points are at a "distance" ds, the square of which is such that"
 
-	<img src="./figs/Vol-I-chap-4-sect-3-Fig2.png" width=300 align=center>
+	<figure markdown>
+	![Fig 2](./figs/Vol-I-chap-4-sect-3-Fig2.png){width="300"}
+	</figure>
 
 	- "The gravitational potentials gμν describe the gravitational field. They determine the space-time metric ds which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
 
