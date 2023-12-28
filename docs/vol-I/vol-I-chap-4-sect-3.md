@@ -121,7 +121,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
 
 <figure markdown>
-![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="250"}
+![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="400"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
@@ -137,10 +137,10 @@ Line AD is perpendicular to side BC and intersects this side at point D, which i
 Points M and N are in the middle of respective sides AB and AC so that BM = MA in one side and AN = NC in the other side.
 
 <figure markdown>
-	![Fig 5](./figs/Vol-I-chap-4-sect-1-Fig5.PNG){width="250"}
-	<figcaption> (Image credit: elaborated by the authors.)
-	</figcaption>
-	</figure>
+![Fig 5](./figs/Vol-I-chap-4-sect-1-Fig5.PNG){width="400"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
 **Figure 4.4.** Characteristics of the triangle ABC, the so-called Lagrange’s triangle.
 
@@ -149,10 +149,10 @@ Now consider that Lagrange's triangle is suspended from point A and that a weigh
 Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D}.
 
 <figure markdown>
-	![Fig 6](./figs/Vol-I-chap-4-sect-1-Fig6.PNG){width="250"}
-	<figcaption> (Image credit: elaborated by the authors.)
-	</figcaption>
-	</figure>
+![Fig 6](./figs/Vol-I-chap-4-sect-1-Fig6.PNG){width="400"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
 **Figure 4.5.** Application of the principle of the lever when the suspension is in A: (P) x (BD) = (P) x (DC).
 
@@ -163,20 +163,20 @@ Suspension in M: (BM x P) {left side of M} = (MA x P) {right side of M}.
 Suspension in N: (AN x P) {left side of N} = (NC x P) {right side of N}.
 
 <figure markdown>
-	![Fig 7](./figs/Vol-I-chap-4-sect-1-Fig7.PNG){width="250"}
-	<figcaption> (Image credit: elaborated by the authors.)
-	</figcaption>
-	</figure>
+![Fig 7](./figs/Vol-I-chap-4-sect-1-Fig7.PNG){width="400"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
 **Figure 4.6.** Levers with suspension centers in M (a) and in N (b).
 
 Then suppose that the weights on B and A in Figure 4.6a are applied to M and the weights on A and C in Figure 4.6b are applied to N. Superposing these two conditions, we have in the triangle ABC that each one of the weights on M and on N are 2P. The aforementioned distribution of weights also maintains the balance of triangle ABC with respect to an axis passing through points M, E, and N. This is shown in Figure 4.8 where the triangle is placed vertically and suspended from point E, which is the intersection of line AD. with the line MN.
 
 <figure markdown>
-	![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width="250"}
-	<figcaption> (Image credit: elaborated by the authors.)
-	</figcaption>
-	</figure>
+![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width="400"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
 **Figure 4.7.** Redistribution of the weight on M and on N corresponding to the superpositions of previous figures 4.6a and 4.6b. Now the triangle ABC is suspended from E.
 
