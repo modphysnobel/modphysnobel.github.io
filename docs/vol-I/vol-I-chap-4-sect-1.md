@@ -18,7 +18,7 @@
 	After this Chapter you should be able to: 
 
 	- Describe the characteristics of Euclidean and no-Euclidean geometries and connect the lever principle with conservation laws.
-	- Explain the content of Einstein´s Nobel Lecture Fundamental ideas and problems of the theory of relativity.
+	- Explain the content of Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*.
 	- Analize how the descriptions of motion by Kepler, Galileo, Newton and Einstein can be interpreted in terms of the aspects and factors distinguishing scientific theories.            
 
 
@@ -67,7 +67,7 @@
 	
 	(Image credit: CC Wikimedia Commons)
 
-	**Figure 4.1.**  Geometric properties of surfaces of different curvature.
+	**Figure 4.1.**  . Geometric properties of surfaces of different curvature; C indicates the value of the circunference and   corresponds to the addition of the three internal angles in a triangle.
 
 	It is not clear who was the first mathematician writing about non-Euclidean geometries. The merit is shared by next four mathematicians:
 
@@ -87,7 +87,7 @@
 
 	Archimedes stated his law as follows: “commensurable magnitudes will balance at distances inversely proportional to their gravities”. The phrase *“Pa bo, kai tan gan kino”* is attributed to Archimedes, which in the Doric dialect spoken in Syracuse means *“Give me a foothold and I will move the world”*. The proof of this principle is presented below. 
 
-	Consider a mechanical system made up of two bodies A and B of unequal masses mA and mB joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
+	Consider a mechanical system made up of two bodies A and B of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
 	<figure markdown>
 	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="250"}
