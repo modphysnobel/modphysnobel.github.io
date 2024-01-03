@@ -127,4 +127,6 @@ Three steps (N1 – N3) describe the main developments of nuclear physics made i
 
 	[N37] Bohr and Mottelson study rotational motion in nuclei (1952-1953).
 
+***
+
 [**Next: 13.2. Steps in the development of Particle Physics.**](./vol-IV-chap-13-sect-2.md)
