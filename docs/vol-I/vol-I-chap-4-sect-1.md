@@ -129,4 +129,6 @@
 
 	In a new consideration of the first natural state of moving bodies, the equilibrium condition of a lever which weights are applied at each of its ends would produce rotations in opposite directions. From this condition the law of the lever can be obtained again. From the condition that the lever remains in equilibrium of rotation, it follows that the sum of the torques produced by such forces is zero, which corresponds to the law of conservation of angular momentum.
 
+***
+
 [**Next: 4.2. Einstein´s theories of relativity**](./vol-I-chap-4-sect-2.md)
