@@ -141,6 +141,8 @@ In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Ga
 
 	See as another reference the English version of Einstein´s book *Über die spezielle und die allgemeine Relativitätstheorie (Relativity: The Special and General Theory*, published in 1920).
 
+***
+
 [**Next: 4.3. Aspects and Factors distinguishing scientific theories.**](./vol-I-chap-4-sect-3.md)
 
 
