@@ -224,3 +224,7 @@ If there is balance on the lever, there is no rotation with respect to C and the
 For a body of mass $m$ and velocity $v$ the linear momentum is $p=mv=m(dr⁄dt)$ and the angular momentum is $l=r \times p$, If the force is F the torque is  $τ=r \times F$. It can be shown that $dl⁄(dt=( d[r \times p])⁄(dt=(dr⁄dt) )) \times p+r \times [dp⁄dt]=[r \times (dp⁄dt)]=r \times F=τ$. Then if $τ=0$, $dl⁄dt=0$ mens that $l$ is constant.
 
 [The product $(dr⁄dt)  \times p$ is zero since the vectors $dr⁄dt$ and $p=mv$ are parallel.] Then, if the torque resulting from the action of two or more forces is zero the angular momentum is constant (conserved).
+
+***
+
+[**Next: 5.1 **](./vol-II-chap-15-sect-1.md)
