@@ -91,7 +91,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**N:**  Once the theory is completely and satisfactory according to mathematics, the explanations of phenomena is a logic consequence that can be experimentally tested. 
 	
-	**E:**  Scientific explanations can be formulated in terms of three kinds of processes: the Intra process describing objects like elementary particles and energy radiations, the Inter process proposing relationships like those connecting space with time, matter with energy and gravitational fields with accelerated frames of reference, and the Trans process dealing with structures like those describing the kinematics and dynamics aspects of motion in a gravitational theory corresponding to a non-Euclidean geometry.
+	**E:**  Scientific explanations can be formulated in terms of three kinds of levels: the Intra level describing objects like elementary particles and energy radiations, the Inter level proposing relationships like those connecting space with time, matter with energy and gravitational fields with accelerated frames of reference, and the Trans level dealing with structures like those describing the kinematics and dynamics aspects of motion in a gravitational theory corresponding to a non-Euclidean geometry.
 	
 	
 	***F3:*** *Building a coherent system that logically integrates facts and concepts.*  
@@ -108,11 +108,11 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 ### REFERENCES
 
-1. PAIS, A. Subtle is the Lord…! The Science and the Life of Albert Einstein, Oxford University Press. (1982).
+1. PAIS, A. *Subtle is the Lord…! The Science and the Life of Albert Einstein*, Oxford University Press. (1982).
 
-2. REICHENBACH, H.. The Philosophy of Space and Time.. New York. Dover Publications. (1958).
+2. REICHENBACH, H. *The Philosophy of Space and Time*. New York. Dover Publications. (1958).
 
-3. PIAGET J. and Garcia R. Psychogenesis and the History of Science. New York. Columbia University Press. (1989).
+3. PIAGET J. and Garcia R. *Psychogenesis and the History of Science*. New York. Columbia University Press. (1989).
 
 ***
 
