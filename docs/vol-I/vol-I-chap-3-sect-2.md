@@ -71,6 +71,7 @@
 
 	MLA style: Edvard I. Moser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/lecture/>
 
+***
 
 [**Next: 3.3.  Cognitive procedures for creating scientific knowledge**](./vol-I-chap-3-sect-3.md)
 
