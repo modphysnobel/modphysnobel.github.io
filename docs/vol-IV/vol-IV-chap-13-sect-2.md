@@ -69,4 +69,6 @@ Three steps (P1 – P3) describe the main developments of particle physics made 
 
 	[P25] Experiments conducted at the CERN confirm the existence of the Higgs particle (2012).
 
+***
+
 [**Next: 13.3. Levels of operation of the mechanisms of knowing.**](./vol-IV-chap-13-sect-3.md)
