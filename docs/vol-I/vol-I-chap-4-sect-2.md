@@ -9,7 +9,7 @@
 
 In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Galileo, Newton and Einstein. We now consider first the Einsteinian approach to motion. Albert Einstein (1879-1955) created relativity theories in two moments: the special theory of relativity in 1905 when he introduced the fourth dimensional space-time description of motion and postulated that the velocity of light is a constant, and the general theory of relativity in 1915 when he reformulated the concept of gravity by proposing the equivalence principle: gravitational actions are equivalent to the effects produced in accelerated frames of reference. Under these conditions the appropriate geometry is non-Euclidean like the one proposed by Riemann. 
 
-!!! info "Einstein´s Nobel Lecture Fundamental ideas and problems of the theory of relativity."
+!!! info "Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*."
 
 	Next, we include some excerpts from this Lecture. Subtitles do not come in the original; they are inserted and numbered for identifying the components of the Lecture. Some external NOTES are introduced to make clear certain issues, based on information obtained in Pais (1982). When the excerpts correspond to complete quotations, we write the corresponding texts in cursive format. The lecture was delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923.  
 
