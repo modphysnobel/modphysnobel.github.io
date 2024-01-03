@@ -26,19 +26,19 @@ Sometimes in natural and social sciences the descriptions and explanations of da
 The content of this Volume is the following:
 
 ## 13.    Development of knowledge in high energy physics.     
-### 13.1  [Steps in the development of Nuclear Physics.](vol-IV/vol-IV-chap-13-sect-1.md).
-### 13.2  [Steps in the development of Particle Physics.](vol-IV/vol-IV-chap-13-sect-2.md).
-### 13.3  [Levels of operation of the mechanisms of knowing.](vol-IV/vol-IV-chap-13-sect-3.md).
+### 13.1  [Steps in the development of Nuclear Physics.](./vol-IV-chap-13-sect-1.md)
+### 13.2  [Steps in the development of Particle Physics.](./vol-IV-chap-13-sect-2.md)
+### 13.3  [Levels of operation of the mechanisms of knowing.](./vol-IV-chap-13-sect-3.md)
 
 ## 14.    Evolution of cosmology.
-### 14.1 [Stars, pulsars and black holes](vol-IV-chap-14-sect-1.md).
-### 14.2 [Neutrinos and radiations](vol-IV-chap-14-sect-2.md).
-### 14.3 [Contextualization of learning about the universe](vol-IV-chap-14-sect-3.md).
+### 14.1 [Stars, pulsars and black holes](vol-IV-chap-14-sect-1.md)
+### 14.2 [Neutrinos and radiations](vol-IV-chap-14-sect-2.md)
+### 14.3 [Contextualization of learning about the universe](vol-IV-chap-14-sect-3.md)
 
 ## 15.    Universes composed by humans and societies.
-### 15.1 [Selection of Prizes in Economic Sciences in Memory of Alfred Nobel dealing with econometry and some economic theories.](vol-IV-chap-15-sect-1.md).
-### 15.2 [Description of the 1969 Prize to Ragnar Frisch and Jan Tinbergen “for having developed and applied dynamic models for the analysis of economic processes”.](vol-IV-chap-15-sect-2.md).
-### 15.3 [Description of the 2021 Prize to David Card “for his empirical contributions to labour economics” and to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”.](vol-IV-chap-15-sect-3.md).
+### 15.1 [Selection of Prizes in Economic Sciences in Memory of Alfred Nobel dealing with econometry and some economic theories.](vol-IV-chap-15-sect-1.md)
+### 15.2 [Description of the 1969 Prize to Ragnar Frisch and Jan Tinbergen “for having developed and applied dynamic models for the analysis of economic processes”.](vol-IV-chap-15-sect-2.md)
+### 15.3 [Description of the 2021 Prize to David Card “for his empirical contributions to labour economics” and to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”.](vol-IV-chap-15-sect-3.md)
 
 ***
 
