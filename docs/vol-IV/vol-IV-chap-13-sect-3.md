@@ -9,7 +9,7 @@
 According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. We will associate these levels of operation to the categories describing the contributions made by Nobel laureates awarded in high energy physics: laboratories, experiments, and theories. By explaining all these contributions, we aim for understanding when and why they have been awarded with Nobel Prizes. Next we reorganize the composition of the lists of selected contributions of the Nobel laureates that have been considered in Sections 13.1 and 13.2.
 
 !!! info "Level *intra*."
-	The operation of the level *intra* is connected to the description of laboratories, places and technological arrangements where tools, devices, instruments, apparatuses, and installations are the cognitive objects defining the experimental settings used to explore and learn about high energy physics. 
+	The operation of the level *intra* is connected to the description of laboratories: places and technological arrangements where tools, devices, instruments, apparatuses, and installations are the cognitive objects defining the experimental settings used to explore and learn about high energy physics. 
 
 	[N01] Röntgen produces X-rays (1895)
 
@@ -36,7 +36,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 	[P13] Charpak invents a multiwire proportional chamber (1968).
 
 !!! info "Level *inter*."	
-	The operation of the level *inter* is connected to the description of experiments, activities for obtaining the values and understanding the meanings of observable and measurable quantities. Cognitive relationships among physical concepts are proposed or proved for improving or transforming explaining physical concepts.
+	The operation of the level *inter* is connected to the description of experiments: activities for obtaining the values and for understanding the meanings of observable and measurable quantities. Cognitive relationships among physical concepts are proposed or proved for improving or transforming explaining physical concepts.
 
 	[N02] Becquerel discovers spontaneous radioactivity (1896).
 	
@@ -50,7 +50,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 	[N07] Millikan determines the electron’s charge (1910).
 
-	[N09] Rutherford produced transmutations of atomic nuclei (1919).
+	[N09] Rutherford produces transmutations of atomic nuclei (1919).
 
 	[N11] Compton studies the dispersion of X-ray photons after collision with electrons (1922).
 	
@@ -60,7 +60,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 	
 	[N17] Anderson discovers the positron (1932).
 
-	[N19] Cockcroft and Walton artificially produced transmutation of atoms (1932).
+	[N19] Cockcroft and Walton artificially produce transmutation of atoms (1932).
 
 	[N21] Frédéric Joliot and Irène Joliot-Curie create artificially the first radioactive element (1934).
 
@@ -80,7 +80,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 	[P09] Lederman, Schwartz and Steinberger discover the muon neutrino (1962).
 
-	[P10] Cronin and Fitch found violations in matter-antimatter symmetry in K-meson decays (1964).
+	[P10] Cronin and Fitch found violations in matter-antimatter symmetry (1964).
 
 	[P14] Friedman, Kendall and Taylor study collisions among high-energy electrons with protons and neutrons (1970).
 	
@@ -115,7 +115,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 	[N28] Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948)
 
-	[N29] Jensen develops nuclear shell model (1949).
+	[N29] Jensen develops a nuclear shell model (1949).
 	
 	[N30] Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1945).
 	
@@ -151,7 +151,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 ### Appendix 13.1. Timeline of main developments in high energy physics.
 
-According to the documents called *Facts* published in the Nobel Prize web page, we indicate the year each laureate started working on the subject, introduced a new concept or procedure, made a critical discovery, initiated a long-term project or started a pioneering contribution to the development or invention of a practical instrument or an experimental setting. In many cases we comment on some physics knowledge based on information contained in documents published in the Nobel Prize web page such as: *Award ceremony speech, Facts, Speed read, Press release. Popular information, and Advanced information*. All the references are indicated in the MLA style.
+According to the documents called *Facts* published in the Nobel Prize web page, we indicate the year each laureate started working on the subject, introduced a new concept or procedure, made a critical discovery, initiated a long-term project or started a pioneering contribution to the development or invention of a practical instrument or an experimental setting. In many cases we comment on some physics knowledge based on information contained in documents published in the Nobel Prize web page such as: *Award ceremony speech, Facts, Speed read, Press release. Popular information, and Advanced information*. 
 
 Around **1895** Wilhelm Conrad Röntgen (1845-1923) discovered X-rays when he was experimenting with a Crookes tube. This tube consisted of a partially evacuated glass bulb, (filled with rarefied gas) containing two metal electrodes, the cathode and the anode. 
 When a high voltage was applied between the electrodes, cathode rays (electrons) were projected in straight lines from the cathode. Although the apparatus was screened off, Röntgen noticed that a faint light was registered on a light-sensitive screen. This type of radiation, the X-ray, was generated because fast-moving electrons suddenly decelerated during their collision and interaction with the target anode. 
@@ -357,7 +357,7 @@ In **2012**, two experiments conducted at the CERN laboratory confirmed the exis
 
 In this Appendix 13.2 we identify each Nobel Prize with the shorthand of the discipline (Ph for Physics or Ch for Chemistry) and the year of the award. Afterwards, following the announcement of the Nobel Prize, we indicate to whom and for what reasons each Prize has been awarded. We also include the title of the corresponding *Nobel Lecture* and its subtitles when they exist in the original. All the references are indicated in the MLA style.
 
-**Ph1901** to Wilhelm Conrad Röntgen“ in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
+**Ph1901** to Wilhelm Conrad Röntgen “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
 
 No Nobel Lecture was delivered.
 
@@ -533,7 +533,7 @@ MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 202
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/1945/ceremony-speech/
 
-**Ph-1948* to Patrick Maynard Stuart Blackett “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”.
+**Ph-1948** to Patrick Maynard Stuart Blackett “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”.
 
 *Chamber Researches in Nuclear Physics and Cosmic Radiation* by Blackett.
 
@@ -553,7 +553,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Hideki Yukawa – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/facts/
 
-**Ph-1950** to Cecil Frank Powell “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”
+**Ph-1950** to Cecil Frank Powell “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”.
 
 *The Cosmic Radiation* by Powell.
 
