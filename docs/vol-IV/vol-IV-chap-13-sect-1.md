@@ -11,7 +11,7 @@
 
 	*What are the structures of the atomic nuclei and the elementary particles?*
 
-	This is the first chapter dedicated to the Universe. We describe the levels of operation of the mechanisms of knowledge concerning high energy physics: nuclear physics and particle physics). A selection of those laboratories, experiments and theories in high energy physics that have been recognized with Nobel Prizes are considered.
+	This is the first chapter dedicated to the Universe. We describe the levels of operation of the mechanisms of knowledge concerning high energy physics: nuclear physics and particle physics. A selection of those laboratories, experiments and theories in high energy physics that have been recognized with Nobel Prizes are considered.
 
 	**Learning objectives of Chapter 13.**
 	
@@ -61,7 +61,7 @@ Three steps (N1 – N3) describe the main developments of nuclear physics made i
 
 	[N08] Wilson constructs a cloud chamber to register the tracks of particles (1911).
 
-	[N09] Rutherford produced transmutations of atomic nuclei (1919).
+	[N09] Rutherford produces transmutations of atomic nuclei (1919).
 
 	[N10] Aston uses the mass spectrograph for discovering isotopes (1919).
 
@@ -85,7 +85,7 @@ Three steps (N1 – N3) describe the main developments of nuclear physics made i
 
 	[N18] Blackett and Occhialini study the passage of particles through cloud chambers (1932).
 
-	[N19] Cockcroft and Walton artificially produced transmutation of atoms (1932).
+	[N19] Cockcroft and Walton artificially produce transmutation of atoms (1932).
 
 	[N20] Wigner studies the force binding the nucleons together and their symmetries (1933). 
 
@@ -99,7 +99,7 @@ Three steps (N1 – N3) describe the main developments of nuclear physics made i
 
 !!! info "Step N3-Applications of nuclear properties."
 
-	Fission of heavy nuclei was produced first as a laboratory experiment and afterwards lead to the production of atomic bombs. Experiments and theories accompanied the invention of new devices for detecting particles, the use of nuclear reactors for spectroscopical studies, the prove of the existence of neutrinos, and the explanation of nuclear structure and motions. The quantized interaction of radiation with matter was proposed by developing quantum electrodynamics.
+	Fission of heavy nuclei was produced first as a laboratory experiment and afterwards led to the production of atomic bombs. Experiments and theories accompanied the invention of new devices for detecting particles, the use of nuclear reactors for spectroscopical studies, the prove of the existence of neutrinos, and the explanation of nuclear structure and motions. The quantized interaction of radiation with matter was proposed by developing quantum electrodynamics.
 
 	[N25] Hahn and Strassman discover the fission of heavy nuclei (1939).
 	
@@ -109,7 +109,7 @@ Three steps (N1 – N3) describe the main developments of nuclear physics made i
 
 	[N28] Goeppert Mayer interprets the significance of the magic nuclear numbers (1948)
 	
-	[N29] Jensen develops nuclear shell model (1949).
+	[N29] Jensen develops the nuclear shell model (1949).
 
 	[N30] Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1945).
 
