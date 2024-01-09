@@ -155,5 +155,5 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 ***
 
-[**Next: 14.3. Contextualization of learning about the universe.**](https://github.com/modphysnobel/pbook1/blob/main/docs/vol-IV/vol-IV-chap-14-sect-3.md)
+[**Next: 14.3. Contextualization of learning about the universe.**](./vol-IV-chap-14-sect-3.md)
 
