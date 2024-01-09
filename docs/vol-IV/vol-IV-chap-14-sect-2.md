@@ -1,7 +1,7 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 13.1. Steps in the development of Nuclear Physics.**](./vol-IV-chap-13-sect-1.md) 
+[**Previous: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md) 
 
 ***
 
