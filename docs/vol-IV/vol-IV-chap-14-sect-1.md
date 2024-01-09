@@ -146,4 +146,4 @@ In what follows, PNP means Physics Nobel Prize.
 
 ***
 
-[**Next: 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**](https://github.com/modphysnobel/pbook1/blob/main/docs/vol-IV/vol-IV-chap-14-sect-2.md)
+[**Next: 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**](./vol-IV-chap-14-sect-2.md)
