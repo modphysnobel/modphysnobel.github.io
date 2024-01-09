@@ -22,6 +22,7 @@
 	- Analyze Peebles’ Nobel Lecture *How Physical Cosmology Grew* in terms of the components of contextualization of learning.
 
  !!! abstract "Description of content of Chapter 14."
+ 
 	**Section 14.1.  Stars, pulsars, and black holes.**
 
 	This section considers the Physics Nobel Prizes awarded in 1967 (the production of energy in stars like the Sun), in 1983 (the evolution of stars and the creation of elements), in 1974 (the observation of pulsars with radio telescopes), in 1993 (the discovery of a binary pulsar and the existence of gravitational waves) and in 2020 (the formation and detection of a black hole).
