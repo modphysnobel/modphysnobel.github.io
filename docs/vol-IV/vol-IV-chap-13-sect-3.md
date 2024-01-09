@@ -11,7 +11,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 !!! info "Level *intra*."
 	The operation of the level *intra* is connected to the description of laboratories: places and technological arrangements where tools, devices, instruments, apparatuses, and installations are the cognitive objects defining the experimental settings used to explore and learn about high energy physics. 
 
-	[N01] Röntgen produces X-rays (1895)
+	[N01] Röntgen produces X-rays (1895).
 
 	[N08] Wilson constructs a cloud chamber to register the tracks of particles (1911).
 
@@ -113,7 +113,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 	[N24] Bethe studies energy production in stars. (1938-1939).
 
-	[N28] Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948)
+	[N28] Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948).
 
 	[N29] Jensen develops a nuclear shell model (1949).
 	
