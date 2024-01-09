@@ -1008,4 +1008,4 @@ MLA style: Andrea Ghez – Facts – 2020. NobelPrize.org. Nobel Prize Outreach 
 
 ***
 
-[**Next: 14.1 **](./vol-IV-chap-14-sect-1.md)
+[**Next: 14.1. Stars, pulsars, and black holes **](./vol-IV-chap-14-sect-1.md)
