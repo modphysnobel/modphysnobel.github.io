@@ -142,4 +142,6 @@ In what follows, PNP means Physics Nobel Prize.
 
 	- Using the orbits of the stars as guides, the two teams produced the most convincing evidence that nearby Sagittarius A* there was hiding an invisible supermassive object: a black hole that was formed when a massive star collapsed under its own gravity. Starting in 1992 they mapped the entire orbit of one of the brightest stars, the one identified as S2, which completes an orbit at the center of the galaxy in less than 16 years. They found that the radial velocity of S2 increases as it approached Sagittarius A* and decreased as it moved away along its elliptical orbit. A black hole was the only possible explanation of this observed effect.
 
+***
+
 [**Next: 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**](https://github.com/modphysnobel/pbook1/blob/main/docs/vol-IV/vol-IV-chap-14-sect-2.md)
