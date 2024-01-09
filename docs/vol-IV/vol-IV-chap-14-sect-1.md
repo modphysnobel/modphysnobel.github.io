@@ -21,7 +21,7 @@
 	- Describe some Nobel laureate’s explanations of the structure and functioning of neutrino oscillations, background radiations, accelerated expansion, and exoplanets. 
 	- Analyze Peebles’ Nobel Lecture *How Physical Cosmology Grew* in terms of the components of contextualization of learning.
 
- !!! abstract "Description of content of Chapter 14."
+!!! abstract "Description of content of Chapter 14."
  
 	**Section 14.1.  Stars, pulsars, and black holes.**
 
