@@ -409,9 +409,9 @@ Following the year of the Physics Nobel Prize (PNP) we insert the citation of th
 	
 	3.0 DISCOVERIES WITH UHURU
 
-		3.1 The Binary X-Ray Sources
+	3.1 The Binary X-Ray Sources
 
-		3.2 Discovery of High Temperature Intergalactic Gas
+	3.2 Discovery of High Temperature Intergalactic Gas
 
 	4.0 X–RAY TELESCOPES
 
@@ -550,11 +550,11 @@ Following the year of the Physics Nobel Prize (PNP) we insert the citation of th
 
 	II. MY INTRODUCTION TO COSMOLOGY 
 
-		A. Childhood
+	A. Childhood
 
-		B. College
+	B. College
 
-		C. Graduate school
+	C. Graduate school
 
 	III. ORIGINS AND DESIGN OF THE COBE 
 
