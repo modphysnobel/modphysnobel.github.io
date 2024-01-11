@@ -906,7 +906,7 @@ Problematic situation: explain what Physical Cosmological is according to Peeble
 
 	“The Lick and other catalogs are compilations of galaxy angular positions with approximate distances. The statistical measures I used are N-point position correlation functions and their Fourier or spherical harmonic transforms.” … “It showed that we had reliable measurements of the low order galaxy position correlation functions at separations from a few tens of kiloparsecs to a few megaparsecs.”
 
-	NOTE: parsec means *parallax of one arc second*. It is an astronomical unit measuring distances: 1 parsec = 3,2616 light years = 3,0857 $× 10^16 m$ (30 856 804 799 935 500 meters).
+	NOTE: parsec means *parallax of one arc second*. It is an astronomical unit measuring distances: 1 parsec = 3,2616 light years = 3,0857 $× 10^{16} m$ (30 856 804 799 935 500 meters).
 
 	- Methods and results of the calculation program [Prg23].
 
