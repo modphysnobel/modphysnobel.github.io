@@ -427,13 +427,13 @@ Following the year of the Physics Nobel Prize (PNP) we insert the citation of th
 
 	*Discovery of Atmospheric Neutrino Oscillations* by Kajita.
 
-	1. INTRODUCTION
+	1 INTRODUCTION
 	
-	2. ATMOSPHERIC NEUTRINO ANOMALY
+	2 ATMOSPHERIC NEUTRINO ANOMALY
 	
-	3. DISCOVERY OF NEUTRINO OSCILLATIONS
+	3 DISCOVERY OF NEUTRINO OSCILLATIONS
 	
-	4. RECENT RESULTS AND THE FUTURE
+	4 RECENT RESULTS AND THE FUTURE
 	
 	4.1 Observing “oscillation”
 
