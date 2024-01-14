@@ -137,6 +137,8 @@ In what follows, we describe the structure of a proposed reorganization of the L
 	
 	Observational programs converging on a well-tested standard model [Prg38]
 
+***
+
 ### Appendix 14.1. References to Nobel Prize Lectures and other related documents.
 
 Following the year of the Physics Nobel Prize (PNP) we insert the citation of the Nobel Committee indicating the name(s) of the laureate(s) and the reasons for awarding the Prize. In 1995 and 1978 the Prize was awarded to several Physicists, but we only consider those laureates whose work is related to the subject matter of this Chapter 14.
