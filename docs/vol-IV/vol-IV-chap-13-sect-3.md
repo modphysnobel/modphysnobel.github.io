@@ -36,8 +36,8 @@ According to Piaget and García (1988) there are three levels of operation of th
 	[P13] Charpak invents a multiwire proportional chamber (1968).
 
 !!! info "Level *inter*."	
-	The operation of the level *inter* is connected to the description of experiments: activities for obtaining the values and for understanding the meanings of observable and measurable quantities. Cognitive relationships among physical concepts are proposed or proved for improving or transforming explaining physical concepts.
-
+	The operation of the level *inter* is connected to the description of experiments: activities for obtaining the values of observable and measurable quantities and for understanding their meanings. Cognitive relationships among physical concepts are proposed or proved for improving or transforming explaining physical concepts.
+	
 	[N02] Becquerel discovers spontaneous radioactivity (1896).
 	
 	[N03] Thomson discovers the electron (1897).
@@ -80,7 +80,7 @@ According to Piaget and García (1988) there are three levels of operation of th
 
 	[P09] Lederman, Schwartz and Steinberger discover the muon neutrino (1962).
 
-	[P10] Cronin and Fitch found violations in matter-antimatter symmetry (1964).
+	[P10] Cronin and Fitch find violations in matter-antimatter symmetry (1964).
 
 	[P14] Friedman, Kendall and Taylor study collisions among high-energy electrons with protons and neutrons (1970).
 	
@@ -377,7 +377,7 @@ MLA style: Pierre Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 23 Jun 2023. https://www.nobelprize.org/prizes/physics/1903/ceremony-speech/
 
-**Ph-1906** to Joseph John Thomson “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”.
+**Ph1906** to Joseph John Thomson “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”.
 
 *Carriers of Negative Electricity* by Thomson.
 
@@ -387,7 +387,7 @@ MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023.
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1906/ceremony-speech/
 
-**Ch-1908**: to Ernest Rutherford “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
+**Ch1908**: to Ernest Rutherford “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
 
 *The Chemical Nature of the Alpha Particles from Radioactive Substances* by Rutherford.
 
@@ -397,7 +397,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Ernest Rutherford – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1908/rutherford/facts/
 
-**Ch-1911** to Marie Curie, née Sklodowska “in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element”.
+**Ch1911** to Marie Curie, née Sklodowska “in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element”.
 
 *Radium and the New Concepts in Chemistry* by Marie Curie.
 
@@ -405,7 +405,7 @@ MLA style: Marie Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach A
 
 MLA style: Marie Curie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/facts/
 
-**Ch-1922** to Francis William Aston “for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule”.
+**Ch1922** to Francis William Aston “for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule”.
 
 *Mass Spectra and Isotopes* by Aston.
 
@@ -413,7 +413,7 @@ MLA style: Francis W. Aston – Nobel Lecture. NobelPrize.org. Nobel Prize Outre
 
 MLA style: Francis W. Aston – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1922/aston/facts/
 
-**Ph-1923** to Robert Andrews Millikan “for his work on the elementary charge of electricity and on the photoelectric effect”.
+**Ph1923** to Robert Andrews Millikan “for his work on the elementary charge of electricity and on the photoelectric effect”.
 
 *The Electron and the Light-Quant from the Experimental Point of View* by Millikan.
 
@@ -421,7 +421,7 @@ MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Out
 
 MLA style: Robert A. Millikan – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
 
-**Ph-1927** to Arthur Holly Compton “for his discovery of the effect named after him”.
+**Ph1927** to Arthur Holly Compton “for his discovery of the effect named after him”.
 
 *X-rays as a Branch of Optics* by Compton.
 
@@ -431,7 +431,7 @@ MLA style: Arthur H. Compton – Facts. NobelPrize.org. Nobel Prize Outreach AB 
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1927/ceremony-speech/
 
-**Ph-1927** to Charles Thomson Rees Wilson “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
+**Ph1927** to Charles Thomson Rees Wilson “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
 
 *On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles* by Wilson.
 
@@ -439,7 +439,7 @@ MLA style: C.T.R. Wilson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 
 MLA style: C.T.R. Wilson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/facts/
 
-**Ph-1929** to Prince Louis-Victor Pierre Raymond de Broglie “for his discovery of the wave nature of electrons”.
+**Ph1929** to Prince Louis-Victor Pierre Raymond de Broglie “for his discovery of the wave nature of electrons”.
 
 *The Wave Nature of the Electron by de Broglie.*
 
@@ -447,7 +447,7 @@ MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outre
 
 MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. <https://www.nobelprize.org/prizes/physics/1929/broglie/facts/>
 
-**Ch-1935** to Frédéric Joliot and to Irène Joliot-Curie “in recognition of their synthesis of new radioactive elements”.
+**Ch1935** to Frédéric Joliot and to Irène Joliot-Curie “in recognition of their synthesis of new radioactive elements”.
 
 *Chemical Evidence of the Transmutation of Elements* by Joliot.
 
@@ -461,7 +461,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Frédéric Joliot – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/
 
-**Ph-1935** to James Chadwick “for the discovery of the neutron”.
+**Ph1935** to James Chadwick “for the discovery of the neutron”.
 
 *The Neutron and Its Properties* by Chadwick.
 
@@ -471,7 +471,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: James Chadwick – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/
 
-**Ph-1936** to Carl David Anderson “for his discovery of the positron”.
+**Ph1936** to Carl David Anderson “for his discovery of the positron”.
 
 *The Production and Properties of Positrons* by Anderson.
 
@@ -481,7 +481,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Carl D. Anderson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1936/anderson/facts/
 
-**Ph-1937** to Clinton Joseph Davisson and George Paget Thomson “for their experimental discovery of the diffraction of electrons by crystals”.
+**Ph1937** to Clinton Joseph Davisson and George Paget Thomson “for their experimental discovery of the diffraction of electrons by crystals”.
 
 *The Discovery of Electron Waves* by Davisson. 
 
@@ -495,7 +495,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Clinton Davisson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. <https://www.nobelprize.org/prizes/physics/1937/davisson/facts/>
 
-**Ph-1938** to Enrico Fermi “for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons”.
+**Ph1938** to Enrico Fermi “for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons”.
 
 *Artificial Radioactivity Produced by Neutron Bombardment* by Fermi.
 
@@ -505,7 +505,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Enrico Fermi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1938/fermi/facts/
 
-**Ph-1939** to Ernest Orlando Lawrence “for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements”.
+**Ph1939** to Ernest Orlando Lawrence “for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements”.
 
 *The Evolution of the Cyclotron* by Lawrence.
  
@@ -515,7 +515,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Ernest Lawrence – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1939/lawrence/facts/
 
-**Ch-1944** to Otto Hahn “for his discovery of the fission of heavy nuclei”.
+**Ch1944** to Otto Hahn “for his discovery of the fission of heavy nuclei”.
 
 *From the Natural Transmutations of Uranium to Its Artificial Fission* by Hahn.
 
@@ -525,7 +525,7 @@ MLA style: Award ceremony speech: The Nobel Prize in Chemistry 1944. NobelPrize.
 
 MLA style: Otto Hahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1944/hahn/facts/
 
-**Ph-1945** to  Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”.
+**Ph1945** to  Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”.
 
 *Exclusion Principle and Quantum Mechanics* by Pauli.
 
@@ -535,7 +535,7 @@ MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 202
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/1945/ceremony-speech/
 
-**Ph-1948** to Patrick Maynard Stuart Blackett “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”.
+**Ph1948** to Patrick Maynard Stuart Blackett “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”.
 
 *Chamber Researches in Nuclear Physics and Cosmic Radiation* by Blackett.
 
@@ -545,7 +545,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Patrick M.S. Blackett – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1948/blackett/facts/
 
-**Ph-1949** to Hideki Yukawa “for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces”.
+**Ph1949** to Hideki Yukawa “for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces”.
 
 *Meson Theory in Its Developments* by Yukawa.
 
@@ -555,7 +555,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Hideki Yukawa – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/facts/
 
-**Ph-1950** to Cecil Frank Powell “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”.
+**Ph1950** to Cecil Frank Powell “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”.
 
 *The Cosmic Radiation* by Powell.
 
@@ -565,7 +565,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Cecil Powell – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1950/powell/facts/
 
-**Ph-1951** to Sir John Douglas Cockcroft and to Ernest Thomas Sinton Walton “for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles”.
+**Ph1951** to Sir John Douglas Cockcroft and to Ernest Thomas Sinton Walton “for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles”.
 
 *Experiments on the Interaction of High-Speed Nucleons with Atomic Nuclei* by Cockcroft.
 
@@ -579,7 +579,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: John Cockcroft – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1951/cockcroft/facts/
 
-**Ph-1957** to Chen Ning Yang and Tsung-Dao (T.D.) Lee “for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles”.
+**Ph1957** to Chen Ning Yang and Tsung-Dao (T.D.) Lee “for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles”.
 
 *The Law of Parity Conservation and Other Symmetry Laws of Physics* by Yang.
  
@@ -593,7 +593,7 @@ MLA style: Tsung-Dao Lee – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/1957/ceremony-speech/
 
-**Ph-1959** to Emilio Gino Segrè and to Owen Chamberlain “for their discovery of the antiproton”.
+**Ph1959** to Emilio Gino Segrè and to Owen Chamberlain “for their discovery of the antiproton”.
 
 *Properties of Antinucleons* by Segré.
 
@@ -607,7 +607,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Emilio Segrè – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1959/segre/facts/
 
-**Ph-1960** to Donald Arthur Glaser “for the invention of the bubble chamber”.
+**Ph1960** to Donald Arthur Glaser “for the invention of the bubble chamber”.
 
 *Elementary Particles and Bubble Chambers* by Glaser.
 
@@ -617,7 +617,7 @@ MLA style: Donald A. Glaser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/1960/ceremony-speech/
 
-**Ph-1961** to Robert Hofstadter “for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons” and to Rudolf Ludwig Mössbauer “for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name”.
+**Ph1961** to Robert Hofstadter “for his pioneering studies of electron scattering in atomic nuclei and for his thereby achieved discoveries concerning the structure of the nucleons” and to Rudolf Ludwig Mössbauer “for his researches concerning the resonance absorption of gamma radiation and his discovery in this connection of the effect which bears his name”.
 
 *The Electron-Scattering Method and Its Application to the Structure of Nuclei and Nucleons* by Hofstadter.
 
@@ -633,7 +633,7 @@ MLA style: Robert Hofstadter – Facts. NobelPrize.org. Nobel Prize Outreach AB 
 
 MLA style: Rudolf Mössbauer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1961/mossbauer/facts/
 
-**Ph-1963** to Eugene Paul Wigner “for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles” and to Maria Goeppert Mayer and J. Hans D. Jensen “for their discoveries concerning nuclear shell structure”.
+**Ph1963** to Eugene Paul Wigner “for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles” and to Maria Goeppert Mayer and J. Hans D. Jensen “for their discoveries concerning nuclear shell structure”.
 
 *Events, Laws of Nature, and Invariance Principles* by Wigner.
 
@@ -655,7 +655,7 @@ MLA style: Maria Goeppert Mayer – Facts. NobelPrize.org. Nobel Prize Outreach 
 
 MLA style: J. Hans D. Jensen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. <https://www.nobelprize.org/prizes/physics/1963/jensen/facts/>
 
-**Ph-1965** to Sin-Itiro Tomonaga, Julian Schwinger and Richard P. Feynman “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
+**Ph1965** to Sin-Itiro Tomonaga, Julian Schwinger and Richard P. Feynman “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
 
 *Development of Quantum Electrodynamics* by Tomonoga.
 
@@ -677,7 +677,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Richard P. Feynman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. <https://www.nobelprize.org/prizes/physics/1965/feynman/facts/>
 
-**Ph-1967** to Hans Albrecht Bethe “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”.
+**Ph1967** to Hans Albrecht Bethe “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”.
 
 *Energy Production in Stars* by Bethe.
 
@@ -689,7 +689,7 @@ MLA style: Speed read: Stellar Nuclear Reactors. NobelPrize.org. Nobel Prize Out
 
 MLA style: Hans Bethe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/facts/
 
-**Ph-1969** to Murray Gell-Mann “for his contributions and discoveries concerning the classification of elementary particles and their interactions”.
+**Ph1969** to Murray Gell-Mann “for his contributions and discoveries concerning the classification of elementary particles and their interactions”.
 
 *Symmetry and Currents in Particle Physics* by Gell-Man.
 
@@ -699,7 +699,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Murray Gell-Mann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. <https://www.nobelprize.org/prizes/physics/1969/gell-mann/facts/>
 
-**Ph-1975** to Aage Niels Bohr, Ben Roy Mottelson and Leo James Rainwater “for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection”.
+**Ph1975** to Aage Niels Bohr, Ben Roy Mottelson and Leo James Rainwater “for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection”.
 
 *Background for the Spheroidal Nuclear Model Proposal* by Rainwater. 
 
@@ -719,7 +719,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 
 
 MLA style: Aage N. Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1975/bohr/facts/
 
-**Ph-1976** to Burton Richter and Samuel Chao Chung Ting “for their pioneering work in the discovery of a heavy elementary particle of a new kind”.
+**Ph1976** to Burton Richter and Samuel Chao Chung Ting “for their pioneering work in the discovery of a heavy elementary particle of a new kind”.
 
 *From the Psi to Charm – The Experiments of 1975 and 1976* by Richter. 
 
@@ -735,7 +735,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Burton Richter – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. <https://www.nobelprize.org/prizes/physics/1976/richter/facts/>
 
-**Ph-1979** to Sheldon Lee Glashow, Abdus Salam and Steven Weinberg “for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current”.
+**Ph1979** to Sheldon Lee Glashow, Abdus Salam and Steven Weinberg “for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current”.
 
 *Towards a Unified Theory – Threads in a Tapestry* by Glashow.
 
@@ -751,7 +751,7 @@ MLA style: Steven Weinberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. <https://www.nobelprize.org/prizes/physics/1979/press-release/>
 
-**Ph-1980** to James Watson Cronin and Val Logsdon Fitch “for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons”.
+**Ph1980** to James Watson Cronin and Val Logsdon Fitch “for the discovery of violations of fundamental symmetry principles in the decay of neutral K-mesons”.
 
 *CP Symmetry Violation – The Search for Its Origin* by Cronin. 
 
@@ -765,7 +765,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 19 
 
 MLA style: James Cronin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 19 Jul 2023. <https://www.nobelprize.org/prizes/physics/1980/cronin/facts/>
 
-**Ph-1984** to Carlo Rubbia and Simon van der Meer “for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction”.
+**Ph1984** to Carlo Rubbia and Simon van der Meer “for their decisive contributions to the large project, which led to the discovery of the field particles W and Z, communicators of weak interaction”.
 
 *Experimental Observation of the Intermediate Vector Bosons* $W^{+}$, $W^{–}$ *and* $Z^0$ by Rubbia. 
 
@@ -783,7 +783,7 @@ MLA style: Carlo Rubbia – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023.
 
 MLA style: Simon van der Meer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. <https://www.nobelprize.org/prizes/physics/1984/meer/facts/>
 
-**Ph-1988** to Leon M. Lederman, Melvin Schwartz and Jack Steinberger “for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino”.
+**Ph1988** to Leon M. Lederman, Melvin Schwartz and Jack Steinberger “for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino”.
 
 *Observations in Particle Physics from Two Neutrinos to the Standard Model* by Lederman.
 
@@ -801,7 +801,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 
 
 MLA style: Leon M. Lederman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 Jul 2023. <https://www.nobelprize.org/prizes/physics/1988/lederman/facts/>
 
-**Ph-1990** to Jerome I. Friedman, Henry W. Kendall and Richard E. Taylor “for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics”.
+**Ph1990** to Jerome I. Friedman, Henry W. Kendall and Richard E. Taylor “for their pioneering investigations concerning deep inelastic scattering of electrons on protons and bound neutrons, which have been of essential importance for the development of the quark model in particle physics”.
 
 *Deep Inelastic Scattering: Comparisons with the Quark Model* by Friedman.
 
@@ -819,7 +819,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 
 
 MLA style: Jerome I. Friedman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. <https://www.nobelprize.org/prizes/physics/1990/friedman/facts/>
 
-**Ph-1992** to Georges Charpak “for his invention and development of particle detectors, in particular the multiwire proportional chamber”.
+**Ph1992** to Georges Charpak “for his invention and development of particle detectors, in particular the multiwire proportional chamber”.
 
 *Electronic Imaging of Ionizing Radiation with Limited Avalanches in Gases* by Charpak.
 
@@ -829,7 +829,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 
 
 MLA style: Georges Charpak – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1992/charpak/facts/
 
-**Ph-1994** “for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter” to Bertram N. Brockhouse “for the development of neutron spectroscopy” and to Clifford G. Shull “for the development of the neutron diffraction technique”.
+**Ph1994** “for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter” to Bertram N. Brockhouse “for the development of neutron spectroscopy” and to Clifford G. Shull “for the development of the neutron diffraction technique”.
 
 *Early Development of Neutron Scattering* by Shull.  
 
@@ -845,7 +845,7 @@ MLA style: Clifford G. Shull – Facts. NobelPrize.org. Nobel Prize Outreach AB 
 
 MLA style: Bertram N. Brockhouse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1994/brockhouse/facts/
 
-**Ph-1995** “for pioneering experimental contributions to lepton physics”: to Martin L. Perl “for the discovery of the tau lepton” and to Frederick Reines “for the detection of the neutrino”.
+**Ph1995** “for pioneering experimental contributions to lepton physics”: to Martin L. Perl “for the discovery of the tau lepton” and to Frederick Reines “for the detection of the neutrino”.
 
 *Reflections on the Discovery of the Tau Lepton* by Perl.
 
@@ -861,7 +861,7 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. F
 
 MLA style: Martin L. Perl – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. <https://www.nobelprize.org/prizes/physics/1995/perl/facts/>
 
-**Ph.1999** to Gerardus ‘t Hooft and Martinus J.G. Veltman “for elucidating the quantum structure of electroweak interactions in physics”.
+**Ph1999** to Gerardus ‘t Hooft and Martinus J.G. Veltman “for elucidating the quantum structure of electroweak interactions in physics”.
 
 *A Confrontation with Infinity* by t'Hooft.
 
@@ -877,7 +877,7 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. F
 
 MLA style: Gerardus 't Hooft – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/thooft/facts/
 
-**Ph-2002** to Raymond Davis Jr. and Masatoshi Koshiba “for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos” and to Riccardo Giacconi “for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources”.
+**Ph2002** to Raymond Davis Jr. and Masatoshi Koshiba “for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos” and to Riccardo Giacconi “for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources”.
 
 *A Half-Century with Solar Neutrinos* by Davis. 
 
@@ -903,7 +903,7 @@ MLA style: Masatoshi Koshiba – Facts. NobelPrize.org. Nobel Prize Outreach AB 
 
 MLA style: Riccardo Giacconi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2002/giacconi/facts/
 
-**Ph-2004** to David J. Gross, H. David Politzer and Frank Wilczek “for the discovery of asymptotic freedom in the theory of the strong interaction”.
+**Ph2004** to David J. Gross, H. David Politzer and Frank Wilczek “for the discovery of asymptotic freedom in the theory of the strong interaction”.
 
 *The Discovery of Asymptotic Freedom and the Emergence of QCD* by Gross.
 
@@ -925,7 +925,7 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. We
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 2 Aug 2023. https://www.nobelprize.org/prizes/physics/2004/advanced-information/
 
-**Ph-2008** to Yoichiro Nambu “for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics” and to Makoto Kobayashi and Toshihide Maskawa “for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature”. 
+**Ph2008** to Yoichiro Nambu “for the discovery of the mechanism of spontaneous broken symmetry in subatomic physics” and to Makoto Kobayashi and Toshihide Maskawa “for the discovery of the origin of the broken symmetry which predicts the existence of at least three families of quarks in nature”. 
 
 *Spontaneous Symmetry Breaking in Particle Physics: a Case of Cross Fertilization* by Nambu.
 
@@ -945,7 +945,7 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. We
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 2 Aug 2023. https://www.nobelprize.org/prizes/physics/2008/advanced-information/
 
-**Ph-2013** to François Englert and Peter W. Higgs “for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN’s Large Hadron Collider”.
+**Ph2013** to François Englert and Peter W. Higgs “for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN’s Large Hadron Collider”.
 
 *The BEH Mechanism and its Scalar Boson* by Englert.
 
@@ -962,7 +962,7 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Th
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2013/advanced-information/
 
 
-**Ph-2015** to Takaaki Kajita and Arthur B. McDonald “for the discovery of neutrino oscillations, which shows that neutrinos have mass”.
+**Ph2015** to Takaaki Kajita and Arthur B. McDonald “for the discovery of neutrino oscillations, which shows that neutrinos have mass”.
 
 *Discovery of Atmospheric Neutrino Oscillations* by Kajita. 
 
@@ -980,7 +980,7 @@ MLA style: Takaaki Kajita – Facts. NobelPrize.org. Nobel Prize Outreach AB 202
 
 MLA style: Arthur B. McDonald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2015/mcdonald/facts/
 
-**Ph-2020** to Roger Penrose “for the discovery that black hole formation is a robust prediction of the general theory of relativity” and to Reinhard Genzel and  Andrea Ghez “for the discovery of a supermassive compact object at the centre of our galaxy”.
+**Ph2020** to Roger Penrose “for the discovery that black hole formation is a robust prediction of the general theory of relativity” and to Reinhard Genzel and  Andrea Ghez “for the discovery of a supermassive compact object at the centre of our galaxy”.
 
 *Black Holes, Cosmology, and Space-Time Singularities* by Penrose.
 
