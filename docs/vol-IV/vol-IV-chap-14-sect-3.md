@@ -16,7 +16,7 @@ Cosmological knowledge has been created by organizing what has been *seen* throu
 
 Three elements characterize contextualization of learning: the proposition of a problematic situation, the elaboration of generating questions which address the main issues of the theme to be contextualized, and the description of learning and evaluation activities to answer those questions. In what follows we apply this contextualization of learning procedure to analyze the content of Peebles´ Nobel Lecture. 
 
-Firstly, we indicate that the problematic situation consists in the explanation of what cosmological knowledge is according to Peebles´ Nobel Lecture. Then we consider the following generative questions (GC):
+Firstly, we indicate that the problematic situation consists in the explanation of what cosmological knowledge is according to Peebles´ Nobel Lecture. Then we consider the following generating questions (GC):
  
 - GQ1: What characterizes the research life of James Peebles?
 - GQ2: What is the cosmic microwave background radiation?

@@ -18,7 +18,7 @@
 	After this Chapter you should be able to: 
 
 	- Describe some Nobel laureate’s explanations of the structure and functioning of stars, pulsars, and black holes. 
-	- Describe some Nobel laureate’s explanations of the structure and functioning of neutrino oscillations, background radiations, accelerated expansion, and exoplanets. 
+	- Describe some Nobel laureate’s explanations of the structure and functioning of neutrino oscillations, background radiations, accelerating expansion, and exoplanets. 
 	- Analyze Peebles’ Nobel Lecture *How Physical Cosmology Grew* in terms of the components of contextualization of learning.
 
 !!! abstract "Description of content of Chapter 14."
