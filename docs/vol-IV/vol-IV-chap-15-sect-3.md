@@ -75,6 +75,7 @@ This Section refers to the 2021 Prize; it does not consider the Prize awarded to
 
 	“The Laureates’ contributions from the early 1990s demonstrate that it is possible to answer important questions about cause and effect using natural experiments. Their contributions complement and strengthen one another: Angrist and Imbens’ methodological insights about natural experiments and Card’s applications of this approach to important questions led the way for other researchers. We now have a coherent framework which, among other things, means that we know how the results of such studies should be interpreted. The work of the Laureates has revolutionised empirical research in the social sciences and significantly improved the ability of the research community to answer questions of great importance to us all.”
 
+***
 
 ## REFERENCES
 
