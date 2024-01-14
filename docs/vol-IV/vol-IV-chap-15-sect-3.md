@@ -31,13 +31,15 @@ This Section refers to the 2021 Prize; it does not consider the Prize awarded to
 	“Despite these challenges, the Laureates have demonstrated that many of society’s big questions can be answered. Their solution is to use natural experiments – situations arising in real life that resemble randomised experiments. These natural experiments may be due to natural random variations, institutional rules or policy changes. In pioneering work from the early 1990s, David Card analysed some central questions in labour economics – such as the effects of a minimum wage, immigration and education – using this approach.” ….
 
 	…..
+	
 	“Natural experiments differ from clinical trials in one important way – in a clinical trial, the researcher has complete control over who is offered a treatment and eventually receives it (the treatment group) and who is not offered the treatment and therefore does not receive it (the control group). In a natural experiment, the researcher also has access to data from treatment and control groups but, unlike a clinical trial, the individuals may themselves have chosen whether they want to participate in the intervention being offered. This makes it much more difficult to interpret the results of a natural experiment. In an innovative study from 1994, Joshua Angrist and Guido Imbens showed what conclusions about causation can be drawn from natural experiments in which people cannot be forced to participate in the programme being studied (nor forbidden from doing so). The framework they created has radically changed how researchers approach empirical questions using data from natural experiments or randomised field experiments.”
 
 	*One example of a natural experiment*
 
 	“Let us use a concrete example to illustrate how a natural experiment works. One question that is relevant to both society and to young people considering their future, is how much more you would earn if you chose to study longer.” …..
-		
+	
 	…..
+
 	“It would be easy to believe that situations which enable natural experiments are very unusual, especially those that can be used to answer important questions. ….  There is thus unintended randomness that divides people into control and treatment groups, providing researchers with opportunities for uncovering causal relationships.”
 
 	*Understanding labour markets*
@@ -49,6 +51,7 @@ This Section refers to the 2021 Prize; it does not consider the Prize awarded to
 	“To investigate how increased minimum wages affect employment, Card and Krueger used a natural experiment. …. As with randomised experiments, a control group was needed, i.e., a group where wages didn’t change but all the other factors were the same.”
 
 	…..
+
 	“Card and Krueger focused on employment in fast-food restaurants, an industry where pay is low and minimum wages matter. …..  The overall conclusion is that the negative effects of increasing the minimum wage are small, and significantly smaller than was believed 30 years ago.”
 
 	“The work conducted by Card at the beginning of the 1990s also led to new research, which attempted to explain the absence of negative effects on employment. ….. The many studies inspired by Card and Krueger’s work have considerably improved our understanding of the labour market.”
@@ -77,7 +80,7 @@ This Section refers to the 2021 Prize; it does not consider the Prize awarded to
 
 ***
 
-## REFERENCES
+### REFERENCES
 
 **Section 15.1: FACTS**
 
