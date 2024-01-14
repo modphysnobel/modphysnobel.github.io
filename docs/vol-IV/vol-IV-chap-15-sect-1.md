@@ -55,45 +55,26 @@ Usually, Economy is divided into Microeconomics (the study of the behavior of th
 
 To have an idea of how broad is the discipline of Economic Sciences it is important to consider the classification of publication categories in the  Journal of Economic Literature (JEL), according to the American Economic Association (AEA). The following list has been obtained from <https://en.wikipedia.org/wiki/JEL_classification_codes>.
 
-•	General Economics and Teaching; 
-
-•	History of Economic Thought;
-
-•	Economic methodology and Heterodox Approaches;
-
-•	Mathematical and Quantitative Methods;
-
-•	Microeconomics;
-
-•	Macroeconomics and Monetary Economics;
-
-•	International Economics;
-
-•	Financial Economics, Public Economics; 
-
-•	Health, Education, and Welfare;
-
-•	Labor Economics and Demographic Economics;
-
-•	Law and Economics;
-
-•	Business Administration and Business Economics;
-
-•	Marketing, Accounting, Personnel Economics;
-
-•	Economic History;
-
-•	Economic Development, Innovation, Innovation, Technological Change and Growth;
-
-•	Economic Systems; 
-
-•	Agriculture and Natural Resource Economics; 
-
-•	Environmental and Ecological Economics; Urban, Rural, Regional, Real Estate, and Transportation Economics, and
-
-•	Miscellaneous Categories.
-
-•	Industrial Organization;
+- General Economics and Teaching; 
+- History of Economic Thought;
+- Economic methodology and Heterodox Approaches;
+- Mathematical and Quantitative Methods;
+- Microeconomics;
+- Macroeconomics and Monetary Economics;
+- International Economics;
+- Financial Economics, Public Economics; 
+- Health, Education, and Welfare;
+- Labor Economics and Demographic Economics;
+- Law and Economics;
+- Business Administration and Business Economics;
+- Marketing, Accounting, Personnel Economics;
+- Economic History;
+- Economic Development, Innovation, Innovation, Technological Change and Growth;
+- Economic Systems; 
+- Agriculture and Natural Resource Economics; 
+- Environmental and Ecological Economics; Urban, Rural, Regional, Real Estate, and Transportation Economics, and
+- Miscellaneous Categories.
+- Industrial Organization;
 
 Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been awarded in the period 1969-2023. In this Chapter 15 we select those Prizes in Economic Science associated to econometry, as the application of principles of mathematical analysis to economic problems, and to economic theories related to decisions, games, welfare, development, and social experiments. In what follows, for each one of the selected Prizes, we indicate the year of the award, the names of the laureates and the reasons for the recognized research.  More details of these Prizes are given in Appendix 15.1.  
 
