@@ -152,6 +152,8 @@ MLA style: Guido W. Imbens – Facts – 2021. NobelPrize.org. Nobel Prize Outre
 
 MLA style: Guido W. Imbens – Prize presentation. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 14 Nov 2023. <https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/prize-presentation/>
 
+***
+
 ### Appendix 15.1. Prizes in Economic Sciences in Memory of Alfred Nobel dealing with econometry and some economic theories.
 
 What follows is a list of those awarded prices mostly related to econometry and economic theories connected with one of the following five aspects: decisions, games, welfare, development, and natural experiments.  Each item in the list contains the year of the award, the names and dates of the laureates, and the reasons for such recognitions. Afterwards we insert the document called FACTS which is a brief explanation of the work developed by the laureates. We also mention the titles of the Prize Lectures presented by each laureate. Their references are all in MLA format and have been indicated in the Reference section.
