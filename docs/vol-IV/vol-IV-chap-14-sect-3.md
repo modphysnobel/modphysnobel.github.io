@@ -856,7 +856,7 @@ Problematic situation: explain what Physical Cosmological is according to Peeble
 
 	**Ans2.2. Calculations of a fossil radiation from a hot big bang theory.**
 
-	- Theory of a hot big bang by Gamow Prg11].
+	- Theory of a hot big bang by Gamow [Prg11].
 
 	“After I had worked out these considerations, I learned that George Gamow already presented the physics of element buildup in a hot big bang in two memorable papers published in 1948 (Gamow 1948a, b). Gamow had earlier proposed that the chemical elements were produced in the hot early stages of expansion of the universe by successive neutron captures, beta decays keeping the atomic nuclei in the valley of stability.”
 
@@ -864,7 +864,7 @@ Problematic situation: explain what Physical Cosmological is according to Peeble
 
 	…  “But Fermi and Terkevich at the University of Chicago soon worked the first computation of the buildup of element abundances in a hot big bang using realistic nuclear reaction rates. They established that there would be little element buildup beyond helium, a result of Alpher’s mass-5 gap.” …  Soon after that we realized there is a sea of microwave radiation, and after that I published a better computation in Peebles (1966).”
 	
-	- Calculations in the Soviet Union [13].
+	- Calculations in the Soviet Union [Prg13].
 
 	“… Zel’dovich knew Gamow’s ideas but thought they must be wrong because the theory predicts an unacceptably large primeval helium abundance. To check the prediction, he asked Yuri Smirnov (1964) to compute element production in the hot big bang model, along the same lines I was taking in the USA.”
 
