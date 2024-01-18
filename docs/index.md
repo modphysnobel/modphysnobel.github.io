@@ -32,9 +32,9 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
 
 ## IV.	[UNIVERSE](./vol-IV/volume-IV.md)
 
-### IV.13 [On Earth and other planets](./vol-IV/vol-IV-chap-13-sect-1.md).
-### IV.14 [Exploring the cosmic zoo with chambers and colliders](./vol-IV/vol-IV-chap-14-sect-1.md).
-### IV.15 [Structure and evolution of the universe](./vol-IV/vol-IV-chap-15-sect-1.md).
+### IV.13 [Development of knowledge in high energy physics.](./vol-IV/vol-IV-chap-13-sect-1.md).
+### IV.14 [Evolution of cosmology.](./vol-IV/vol-IV-chap-14-sect-1.md).
+### IV.15 [Universes composed by humans and societies.](./vol-IV/vol-IV-chap-15-sect-1.md).
 
 <img src="./figs/IntroFig1.png" width=480 >
 
