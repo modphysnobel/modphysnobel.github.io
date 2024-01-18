@@ -9,7 +9,7 @@
 
 !!! abstract "Introduction"
 
-	*What kind of universe is described by some Prizes in Economic Sciences?*
+	*What kind of universes are described by some Prizes in Economic Sciences?*
 
 	Is it worthwhile to talk about universes in Economic Sciences? What can we learn from the descriptions of the Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel? 
 
@@ -41,13 +41,13 @@
 ## 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.
 
 
-Sciences are rational systems for explaining certain objects and phenomena. Sciences are not dry knowledge; they are embedded in social contexts. Natural sciences and social sciences look for describing and understanding structural properties and functional behaviors of diverse universes. They have distinct levels and degrees of development because they address different kinds of problems; they create, apply, and test their own concepts, models, and research methodologies. The universe of humans and societies is different from the universe of atoms, molecules, galaxies, and black holes.
+Sciences are rational systems for explaining certain objects and phenomena. Sciences are not dry knowledge; they are embedded in social contexts. Natural sciences and social sciences look for describing and understanding structural properties and functional behaviors of diverse universes. They have distinct levels and degrees of development because they address different kinds of problems; they create, apply, and test their own concepts, models, and research methodologies. The universes of humans and societies are different from the universes of atoms, molecules, galaxies, and black holes.
 
-Alfred Nobel signed his will on November 27, 1895, and he died on December 10, 1896. It was till December 10, 1901, that the first Nobel Prizes were awarded in Physics, Chemistry, and Physiology or Medicine, as well as in Literature and Peace. N0 place for Mathematics neither for Social Sciences. Nevertheless, in 1968, the Sveriges Riksbank established the Prize in Economic Sciences in Memory of Alfred Nobel. Understanding recognized research works in Economic Science compensate the original decision made by Alfred Nobel.
+Alfred Nobel signed his will on November 27, 1895, and he died on December 10, 1896. It was till December 10, 1901, that the first Nobel Prizes were awarded in Physics, Chemistry, and Physiology or Medicine, as well as in Literature and Peace. N0 place for Mathematics neither for Social Sciences. Nevertheless, in 1968, the Sveriges Riksbank established the Prize in Economic Sciences in Memory of Alfred Nobel. Understanding recognized research works in Economic Sciences compensate the original decision made by Alfred Nobel.
 
 The word Economy comes from two Greek roots: οικος - house, in the sense of patrimony and νέμεωιν - to administrate or to manage. Then, the original meaning of the word was household management. Nowadays this meaning has been extended and refers to the production, distribution, exchange and consumption of goods, resources and services, according to arrangements and modes of operation of specific social systems.
 
-Economic Science is a branch of social sciences where societies and human relationships are studied. There are two main methods for approaching social sciences: the positivist one that resembles natural sciences and tries to construct empirically falsifiable theories, and the interpretative or speculative one that applies social critiques or symbolic interpretations. These methods apply the following research design types to different kind of objects of study: the quantitative design looks for quantitative evidence, apply statistical analysis and create valid and reliable general claims, and the qualitative design is based on direct observation and communication with participants, and tries to achieve contextual and subjective accuracy over generality.
+Economic Sciences is a branch of social sciences where societies and human relationships are studied. There are two main methods for approaching social sciences: the positivist one that resembles natural sciences and tries to construct empirically falsifiable theories, and the interpretative or speculative one that applies social critiques or symbolic interpretations. These methods apply the following research design types to different kind of objects of study: the quantitative design looks for quantitative evidence, apply statistical analysis and create valid and reliable general claims, and the qualitative design is based on direct observation and communication with participants, and tries to achieve contextual and subjective accuracy over generality.
 
 Economy has been historically developed through three main phases or degrees: in ancient times, it was based on subsistence farming; then, because of the industrial revolution, it was mostly dependent on mining, construction and manufacturing industries, as well as in commerce; and in modern times, where consumer societies have been characterized by technological developments and commercial arrangements.
 
@@ -69,7 +69,7 @@ To have an idea of how broad is the discipline of Economic Sciences it is import
 - Business Administration and Business Economics;
 - Marketing, Accounting, Personnel Economics;
 - Economic History;
-- Economic Development, Innovation, Innovation, Technological Change and Growth;
+- Economic Development, Innovation, Technological Change and Growth;
 - Economic Systems; 
 - Agriculture and Natural Resource Economics; 
 - Environmental and Ecological Economics; Urban, Rural, Regional, Real Estate, and Transportation Economics, and
