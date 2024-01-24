@@ -18,9 +18,7 @@ Three elements characterize contextualization of learning: the proposition of a 
 
 Firstly, we indicate that the problematic situation consists in the explanation of what cosmological knowledge is according to Peebles´ Nobel Lecture. Then we consider the following generating questions (GC):
  
-<figure markdown>
-	![Fig 1](./figs/chap 14-3.PNG){width="250"}
-	</figure>
+![Fig 1](./figs/chap 14-3.PNG){width="250"}
 
 The third component of contextualization of learning consists in a set of answers (Ans) for each question. The answers we suggest are expressed in terms of a set of paragraphs (Prg) contained in the Lecture. Except for the three answers corresponding to generating question CG1, in all the other answers the selected paragraphs follow the numerical sequence they have in the original. Each paragraph has been numbered and is identified by a short title describing its content.
 
