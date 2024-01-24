@@ -14,14 +14,8 @@
 
 	In this Section 3.3. we deal with the process *Cognitive procedures for creating scientific knowledge*. The elements of this process have been organized in a similar way as a GPS in the brain where cognitive maps are created by integrating four neural cells whose functions are related to place, grid, direction and border. In what follows we consider how the functions of each one of those four neural cells studied by previous laureates can be associated with the cognitive procedures required for creating scientific knowledge through Inquiring, Training, Comprehension, and Metacognition.
 
-	**Inquiring:** to explore for the search and classification of information, like place cells that have the function of detecting localizations in space. 
-
-	**Training:** to experiment for learning and to acquire knowledge, like direction cells that have the function of sensing the tracks of motion.
-
-	**Comprehension:** to understand for applying strategies in problem solving and model building, like grid cells that have the function of organizing a framework of patterns.
-
-	**Metacognition:** to evaluate for reviewing actions and results, like border cells that have the function of signaling obstacles and paths to achieve understanding.
-
+	![Fig1](./figs/Vol-I-chap-3-sect-3-Fig1.PNG){width="550"}
+	
 	The working of a typical GPS, like those used in common cellular phones, must satisfy the following technological conditions: 
 	
 	•	A system of satellites surrounding Earth for the generation of signals indicating their positions as well as the time measured in their clocks (this corresponds to an Inquiring procedure).
