@@ -11,7 +11,7 @@
 
 	Reading information and understanding the knowledge it implies is a meaningful process consisting of four knowledge domains: 
 
-	![Fig1](./figs/Vol-I-chap-2-sect-3-Fig1.PNG){width="420"}
+	![Fig1](./figs/Vol-I-chap-2-sect-3-Fig1.PNG){width="550"}
 
 	In this Section 2.3, the three regions considered in the experiments discussed in the Chapter (Preparation, Transformation and Detection and Measurement) are related in the following way to the previously described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains. 
 
