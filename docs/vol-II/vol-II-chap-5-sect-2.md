@@ -171,17 +171,17 @@
 
 	The possible reasoning followed by Planck is described below:
 
-	1.	**Incompatibility between experiments and theories:** Consider how the experimental values obtained by spectroscopists are compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies (Rayleigh – Jeans law).
+	**1. Incompatibility between experiments and theories:** Consider how the experimental values obtained by spectroscopists are compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies (Rayleigh – Jeans law).
 
-	2.	**Model of the black body:** For each value of the wavelength the intensity of the radiation emitted by the black body only depends on the temperature and is independent of the material of the cavity. Remember that at the beginning of the last century the physical existence of the atom was not yet accepted, nor was there a model of its structure.
+	**2. Model of the black body:** For each value of the wavelength the intensity of the radiation emitted by the black body only depends on the temperature and is independent of the material of the cavity. Remember that at the beginning of the last century the physical existence of the atom was not yet accepted, nor was there a model of its structure.
 
-	3.	**Model of the interaction between the radiation and the walls of the black body cavity:** Assumption that the cavity is constituted by a set of oscillators, represented by their characteristic frequency $f$, all of which are in interaction with the electromagnetic radiation that reaches the cavity.
+	**3. Model of the interaction between the radiation and the walls of the black body cavity:** Assumption that the cavity is constituted by a set of oscillators, represented by their characteristic frequency $f$, all of which are in interaction with the electromagnetic radiation that reaches the cavity.
 
-	4.	**Quantum structure of the oscillators:** If the oscillators are oscillating electric dipoles, classically their vibration frequencies can correspond to emissions or absorptions in a continuum of frequencies. This imperative of classical physics will have to be radically modified when the energy quantum hypothesis is introduced.
+	**4. Quantum structure of the oscillators:** If the oscillators are oscillating electric dipoles, classically their vibration frequencies can correspond to emissions or absorptions in a continuum of frequencies. This imperative of classical physics will have to be radically modified when the energy quantum hypothesis is introduced.
 
-	5.	**Boltzmann calculation:** The set of oscillators represents parts of the cavity in thermal equilibrium with the electromagnetic radiation contained in the cavity. To account for the energy of these oscillators, the statistical method followed by Boltzmann is applied. He calculated the behavior of an ideal gas composed of many molecules moving rapidly and disorderly inside a container, frequently colliding with each other and with the walls of the container.
+	**5. Boltzmann calculation:** The set of oscillators represents parts of the cavity in thermal equilibrium with the electromagnetic radiation contained in the cavity. To account for the energy of these oscillators, the statistical method followed by Boltzmann is applied. He calculated the behavior of an ideal gas composed of many molecules moving rapidly and disorderly inside a container, frequently colliding with each other and with the walls of the container.
 
-	6.	**Discrete exchange of energy:** The exchange of energies between the oscillators that constitute the cavity and the electromagnetic radiation contained in it does **NOT** correspond to a continuum of values, but rather, were consistent with Planck hypothesis ($E = nhf$): the quantum of radiation must be an integer multiple ($n$) of the frequency ($f$).
+	**6. Discrete exchange of energy:** The exchange of energies between the oscillators that constitute the cavity and the electromagnetic radiation contained in it does **NOT** correspond to a continuum of values, but rather, were consistent with Planck hypothesis ($E = nhf$): the quantum of radiation must be an integer multiple ($n$) of the frequency ($f$).
 
 	STAGE 4: Consideration of the changes introduced by Planck's solution according to what characterizes scientific revolutions (Kuhn, 1962):
 	
