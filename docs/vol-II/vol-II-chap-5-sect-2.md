@@ -13,19 +13,19 @@
 
 	<figure markdown>
 	![Fig 2](./figs/chap-5-sect-2-fig1.PNG){width="250"}
-	<figcaption> (Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
-	</figcaption>
 	</figure>
+
+	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 
 	**Figure 5.2.** Some positions of the feet are forbidden in a staircase but not in a ramp.
 
 	However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure 5.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
 
 	<figure markdown>
-	![Fig 3](./figs/chap-5-sect-2-fig2.JPG){width="250"}
-	<figcaption> (Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
-	</figcaption>
+	![Fig 3](./figs/chap-5-sect-2-fig2.JPG){width="500"}
 	</figure>
+	
+	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 
 	**Figure 5.3.** First four modes of vibration of a standing wave.
 
