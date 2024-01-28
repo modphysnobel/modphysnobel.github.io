@@ -37,7 +37,7 @@
 
 ## 5.1.  Kinetic theory of gases and Thermodynamics.
 
-Key information: In 1811 Amadeo Avogadro (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 x 10^{23}$ (molecules/mol).
+Key information: In 1811 Amadeo Avogadro (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 \times 10^{23}$ (molecules/mol).
 
 !!! info "Main developments on the Kinetic theory of gases."
 
