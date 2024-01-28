@@ -264,11 +264,17 @@ Key information: In 1811 Amadeo Avogadro (1776-1856) introduced the term molecul
 	…..
 
 	2	Entropy production.
+	
 	3	Thermodynamic stability theory.
+	
 	4	Application to chemical reactions.
+	
 	5	The law of large numbers and the statistical description of chemical reactions.
+	
 	6	The dynamic interpretation of the Lyapunov function.
+	
 	7	Non-unitary transformation theory.
+	
 	8	Concluding remarks.
 
 ***
