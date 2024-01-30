@@ -1,34 +1,27 @@
-## 6.3. Identification of concepts and descriptions of models
 
-Physics looks for explanations of certain observed and measured phenomena that mainly requires concepts, models and theories. These are cognitive constructs in need of logical developments, significative mathematical treatments, careful calculations, and clear interpretations of experimental results. 
+[**Volume II: Energy**](./volume-II.md)
 
-<!DOCTYPE html>
-<html>
- <body>
-  <ul type = "circle">
-   <li>Concepts are elementary cognitive bricks for exploring and depicting specific phenomena or circumstances.</li>         
-   <li>Models are effective descriptions of relationships among concepts for understanding the structure and function of objects or systems.</li>
-   <li>Theories are integrated, synthetic and coherent representations and interpretations to achieve explicative and predictive fruitful capacities.</li>
-  </ul>
- </body>
-</html>
+[**Previous: 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom. **](./vol-II-chap-6-sect-2.md) 
 
-In this Section 6.3 we deal only with concepts and models and do not cover theories because they result from gradual advances and time-consuming efforts of many people, quite often derived as consequences of confrontations between explanatory and predicting models. 
+***
 
-Significant theoretical and experimental advances in spectroscopy have been recognized during last century with many Physics Nobel Prizes. In this section we just concentrate on:  on the Prizes awarded to four physicists: to Niels Henrik David Bohr in 1922 “for his services in the investigation of the structure of atoms and of the radiation emanating from them”, to Willis Eugene Lamb in 1955 “for his discoveries concerning the fine structure of the hydrogen spectrum”  (Prize shared with Polykarp Kusch), to Charles Hard Townes in 1964  “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle” (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov), and to Arthur Leonard Schawlow in 1981 "for their contribution to the development of laser spectroscopy" (half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
+## 6.3. Identification of concepts and descriptions of models.
 
-**Nobel Lectures by Bohr, Lamb, Townes and Schawlow.**
+Physics looks for explanations of certain observed and measured phenomena that mainly requires concepts, models, and theories to be understood and explained. These are cognitive constructs in need of logical developments, significative mathematical treatments, careful calculations, and clear interpretations of experimental results. 
 
-Next we consider information obtained from the Nobel Lectures: (1) the title and reference of each Lecture (we insert subtitles if contained in the original), (2) a list of those key concepts most frequently employed in the corresponding Lecture, and (3) a list of the main essential issues considered in each Lecture that require physical and mathematical models for their representation and interpretation. These lists of concepts and models conform a sort of cognitive spectroscopy of the content and importance of the Nobel Lectures.
+•	Concepts are elementary cognitive bricks for exploring and depicting specific phenomena or circumstances.
 
-**N. Bohr (1985-1962).**
+•	Models are effective descriptions of relationships among concepts for understanding the structure and function of objects or systems.
 
-<blockquote>
-<p>
+•	Theories are integrated, synthetic and coherent representations and interpretations with explicative and predictive fruitful capacities.
 
-NIELS BOHR: **The structure of the atom****
+In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. In each case we start describing the year of the Prize, the name of the Laureate and the reasons for the award. Then we insert an official document called WORK describing the main contributions of each laureate. Finally, we include the title of each Lecture, its subtitles when they exist in the original and two boxes related to concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section. 
 
-Nobel Lecture, December 11, 1922
+**In 1922** to Niels Henrik David Bohr (1985-1962) “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
+
+WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
+
+Nobel Lecture, *The structure of the atom* by Bohr. 
 
 - The general picture of the atom 
 - Atomic stability and electrodynamic theory 
@@ -42,23 +35,15 @@ Nobel Lecture, December 11, 1922
 - The natural system of the elements 
 - X-ray spectra and atomic constitution
 
-** MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. 
-<https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/>
-
-</p>
-</blockquote>
-
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
    <th colspan="3">
-    Concepts in Bohr´s Lecture
+    Box 6.1. Concepts in Bohr´s Lecture
     </th>
   </tr>
-  
   <tr>
-      <td>
-
+	<td>
 •	atom \
 •	nucleus \
 •	electron \
@@ -74,7 +59,6 @@ Nobel Lecture, December 11, 1922
 •	spectral line 
 </td>
      <td>
-     
 •	x-ray spectra \
 •	electrodynamic laws \
 •	harmonic vibration \
@@ -90,7 +74,6 @@ Nobel Lecture, December 11, 1922
 •	quantization
 </td>
      <td>
-
 •	electronic level \
 •	stationary state \
 •	energy level transition \
@@ -109,47 +92,28 @@ Nobel Lecture, December 11, 1922
    </tbody>
 </table> 
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-   <th colspan="1">
-    Issues requiring explaining models in Bohr´s Lecture
-    </th>
-  </tr>
-  
-  <tr>
-<td>
+!!! bug "Box 6.2. Issues requiring explaining models in Bohr´s Lecture."
 
-•	Atomic structures by Thomson and by Rutherford. \
-•	Classification of elements and existence of isotopes according to electronic level structures. \
-•	Splitting of absorption lines in molecules in gases due to distinct possibilities of rotation. \
-•	Quantum postulates by Bohr concerning atomic stability and transitions between stationary states. \
-•	Hydrogen spectrum manifests the bounding condition of the electron to the nucleus. \
-•	Radius and energies of electronic orbits are quantized: $r_n = a_0(n^2)$ and $E_n = - R_H/(n^2)$ \
-•	X-ray spectra of different elements quite resemble their optical spectra. \
-•	External collisions with electrons produce quantized energy levels transitions (Franck-Hertz) \
-•	Complex atomic systems are characterized by sets of "quantum numbers". \
-•	Only certain orientations of the atom relative to an external magnetic field are possible because spin orientations with respect to that field are quantized (Stern and Gerlach). \
-•	Formulation of the correspondence principle by Bohr: for higher values of the principal quantum number the energy levels transitions approach classical electromagnetic results. \
-•	Modifications of spectral lines under the influence of external fields (Zeeman effect: splitting under a magnetic field and Stark effect: shifting and splitting under an electric field). \
-•	Explanations of band spectra in solids. \
-•	Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
-</td>
-</tr>
-   </tbody>
-</table> 
+	- Atomic structures by Thomson and by Rutherford. 
+	- Classification of elements and existence of isotopes according to electronic level structures. 
+	- Splitting of absorption lines in molecules in gases due to distinct possibilities of rotation. 
+	- Quantum postulates by Bohr concerning atomic stability and transitions between stationary states. 
+	- Hydrogen spectrum manifests the bounding condition of the electron to the nucleus. 
+	- Radius and energies of electronic orbits are quantized: $r_n = a_0(n^2)$ and $E_n = - R_H/(n^2)$ 
+	- X-ray spectra of different elements quite resemble their optical spectra. 
+	- External collisions with electrons produce quantized energy levels transitions (Franck-Hertz) 
+	- Complex atomic systems are characterized by sets of "quantum numbers". 
+	- Only certain orientations of the atom relative to an external magnetic field are possible because spin orientations with respect to that field are quantized (Stern and Gerlach). 
+	- Formulation of the correspondence principle by Bohr: for higher values of the principal quantum number the energy levels transitions approach classical electromagnetic results. 
+	- Modifications of spectral lines under the influence of external fields (Zeeman effect: splitting under a magnetic field and Stark effect: shifting and splitting under an electric field). 
+	- Explanations of band spectra in solids. 
+	- Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
+ 
+**In 1955** to Willis Eugene Lamb (1985-1962) “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
-**W. E. Lamb (1913-2008).**
+WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
 
-<blockquote>
-<p>
-
-WILLIS E. LAMB:  **Fine Structure of the Hydrogen Atom****
-
-Nobel Lecture, December 12, 1955
-
-**  MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. 
-<https://www.nobelprize.org/prizes/physics/1955/lamb/lecture>
+Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 
 </p>
 </blockquote>
@@ -158,13 +122,11 @@ Nobel Lecture, December 12, 1955
 <tbody>
    <tr>
    <th colspan="3">
-    Concepts in Lamb´s Lecture
+    Box 6.3. Concepts in Lamb´s Lecture
     </th>
   </tr>
-  
   <tr>
       <td>
-
 •	elementary particle \
 •	hydrogen atom \
 •	electron \
@@ -174,10 +136,8 @@ Nobel Lecture, December 12, 1955
 •	energy levels \
 •	relativistic corrections \
 •	electronic wave properties
-
 </td>
      <td>
-     
 •	Dirac´s equation \
 •	molecular beam \
 •	metastable atoms \
@@ -187,10 +147,8 @@ Nobel Lecture, December 12, 1955
 •	molecular dissociation \
 •	tungsten oven \
 •	electronic bombardment
-
 </td>
      <td>
-
 •	deuterium \
 •	tritium positronium \
 •	electromagnetic mass \
@@ -205,40 +163,23 @@ Nobel Lecture, December 12, 1955
    </tbody>
 </table> 
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-   <th colspan="1">
-    Issues requiring explaining models in Lamb´s Lecture
-    </th>
-  </tr>
-  
-  <tr>
-<td>
+!!! bug "Box 6.4. Issues requiring explaining models in Lamb´s Lecture."
 
-•	Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. \
-•	According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. \
-•	The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. \
-•	Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. \
-•	As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. \
-•	Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. \
-•	Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. \
-•	To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. \
-•	The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
+	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. \
+	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. \
+	- The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. \
+	- Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. \
+	- As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. \
+	- Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. \
+	- Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. \
+	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. \
+	- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
 
-</td>
-</tr>
-   </tbody>
-</table> 
+**In 1964** to Charles Hard Townes (1915-2015)  “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
-**C. Townes (1915-2015).**
+WORK: “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes, Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
 
-<blockquote>
-<p>
-
-CHARLES TOWNES: **Production of Coherent Radiation by Atoms and Molecules****
-
-Nobel Lecture, December 11, 1964
+Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
 
 - Basic Maser principles
 - Maser Clocks and Amplifiers
@@ -248,24 +189,15 @@ Nobel Lecture, December 11, 1964
 - The Phonon Maser
 - Concluding Remarks
 
-** MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023.
-<https://www.nobelprize.org/prizes/physics/1964/townes/lecture/>
-
-
-</p>
-</blockquote>
-
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
    <th colspan="3">
-    Concepts in Townes´ Lecture
+    Box 6.5. Concepts in Townes´ Lecture
     </th>
   </tr>
-  
   <tr>
       <td>
-
 •	light \
 •	spontaneous emission \
 •	electromagnetic radiation \
@@ -278,11 +210,8 @@ Nobel Lecture, December 11, 1964
 •	amplifiers \
 •	thermodinamic equilibrium \
 •	quantum-mechanical system
-
-
 </td>
      <td>
-     
 •	absorption \
 •	stimulated emission \
 •	population inversion \
@@ -295,11 +224,8 @@ Nobel Lecture, December 11, 1964
 •	energy level transition \
 •	ammonia molecules \
 •	laser
-
-
 </td>
      <td>
-
 •	noise-free amplifier \
 •	fluctuating field \
 •	uncertainty principle \
@@ -317,50 +243,32 @@ Nobel Lecture, December 11, 1964
    </tbody>
 </table> 
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-   <th colspan="1">
-   Issues requiring explaining models in Townes´ Lecture
-    </th>
-  </tr>
-  
-  <tr>
-<td>
+!!! bug "Box 6.6. Issues requiring explaining models in Townes´ Lecture."
 
-•	The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. \
-•	According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. \
-•	Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. \
-•	Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics. \
-•	Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. \
-•	Production of very short waves coherent oscillators by generating molecular or atomic resonances with positive feedback.  
-•	Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. \
-•	The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. \
-•	During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. \
-•	The background noise fluctuation is determined by the spontaneous emission. \
-•	The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. \
-•	Paramagnetic resonances are produced in three-level solid-state maser. \
-•	A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. \
-•	Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. \
-•	As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. \
-•	Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… \
-•	Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. \
-•	Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
+	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. \
+	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. \
+	- Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. \
+	- Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics. \
+	- Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. \
+	- Production of very short waves coherent oscillators by generating molecular or atomic resonances with positive feedback.  
+	- Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. \
+	- The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. \
+	- During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. \
+	- The background noise fluctuation is determined by the spontaneous emission. \
+	- The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. \
+	- Paramagnetic resonances are produced in three-level solid-state maser. \
+	- A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. \
+	- Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. \
+	- As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. \
+	- Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… \
+	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. \
+	- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
 
+**In 1981** to Arthur Leonard Schawlow (1921-1999) "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
-</td>
-</tr>
-   </tbody>
-</table> 
+WORK: “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
 
-**A. A. Schawlow (1921-1999).**
-
-<blockquote>
-<p>
-
-ARTHUR SCHAWLOW: **Spectroscopy in a New Light****
-
-Nobel Lecture, December 8, 1981
+Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 
 - Introduction
 - Laser spectroscopy
@@ -369,25 +277,15 @@ Nobel Lecture, December 8, 1981
 - Simplifying spectra by laser labeling
 - Other methods
 
-** MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. 
-<https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/> 
-
-
-
-</p>
-</blockquote>
-
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
    <th colspan="3">
-    Concepts in Schawlow´ Lecture
+    Box 6.7. Concepts in Schawlow´s Lecture
     </th>
   </tr>
-  
   <tr>
       <td>
-
 •	spectrum lines \
 •	wavelengths \
 •	Rydberg constant \
@@ -397,7 +295,6 @@ Nobel Lecture, December 8, 1981
 •	Doppler effect
 </td>
      <td>
-     
 •	microwave spectroscopy \
 •	tuning of the laser resonator \
 •	Laser spectroscopy \
@@ -407,7 +304,6 @@ Nobel Lecture, December 8, 1981
 •	laser frequency jitter 
 </td>
      <td>
-
 •	intermodulated fluorescence \
 •	available optical amplification \
 •	dye laser \
@@ -419,41 +315,64 @@ Nobel Lecture, December 8, 1981
    </tbody>
 </table> 
 
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-   <th colspan="1">
-   Issues requiring explaining models in Schawlow´ Lecture
-    </th>
-  </tr>
-  
-  <tr>
-<td>
+!!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
-•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. \
-•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. \
-•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. \
-•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. \
-•	At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. \
-•	Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. \
-•	Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. \
-•	Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. \
-•	Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. \
-•	Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. \
-•	Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. \
-•	Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. \
-•	Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. \
-•	Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. \
-•	Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. \
-•	Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. \
-•	The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. \
-•	Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. \
-•	Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. \
-•	In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in 1015. \
-•	Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. \
-•	Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
+	•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. \
+	•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. \
+	•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. \
+	•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. \
+	•	At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. \
+	•	Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. \
+	•	Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. \
+	•	Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. \
+	•	Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. \
+	•	Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. \
+	•	Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. \
+	•	Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. \
+	•	Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. \
+	•	Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. \
+	•	Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. \
+	•	Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. \
+	•	The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. \
+	•	Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. \
+	•	Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. \
+	•	In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in 1015. \
+	•	Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. \
+	•	Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
 
-</td>
-</tr>
-   </tbody>
-</table> 
+***
+
+### REFERENCES
+
+MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
+
+MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
+
+MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. <https://www.nobelprize.org/prizes/physics/1955/lamb/facts/>
+
+MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. <https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/>
+
+MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
+
+MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
+
+MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/schawlow/facts/
+
+MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. <https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
