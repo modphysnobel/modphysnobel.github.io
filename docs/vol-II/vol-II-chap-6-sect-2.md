@@ -5,7 +5,7 @@
 
 ***
 
-## Splitting of degenerated electronic energy levels in the hydrogen atom.  
+## 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom.  
 
 The first example of a solution of the Schrodinger equation to the Bohr atom model indicated that the quantization of the energy levels $E_n = -R/n^2$, where n is the principal quantum number and $R = (m_e)(q_e^4)/[2(ђ^2)] = 13.6 eV$ is the Rydberg constant for the hydrogen atom. However, when the Dirac equation was considered, the expression for the electronic levels of the hydrogen atom was $E_{nj}= -(\frac{R}{n^2})[1+(\frac{α^2}{n^2})(\frac{n}{j+½}- \frac{3}{4})]$, where $R$ is the Rydberg constant and the fine structure constant $α= \frac{q_e^2}{ђc}=7.297 \times 10^{-3}≈\frac{1}{137}$. The quantum number $j = l + s = l ± ½$. Note that the first term is the Bohr energy and the next term is proportional to $α^2$, which is a very small quantity but not zero.
 
