@@ -149,17 +149,12 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 
 	From the condition $\frac{N_2}{N_1} =\frac{ρ(ν)B_{12}}{ρ(ν)B_{21}+ A_{21}} = e^{-βhν}$ it can be obtained that $ρ(ν)(\frac{B_{12}}{B_{21}}) =$ $[ρ(ν)(\frac{B_{21}}{B_{21}})+ (\frac{A_{21}}{B_{21}})]$ $(e^{-βhν} )$. By applying the condition $\frac{B_{21}}{B_{12}} =1$, it follows by dividing by $ρ(ν)$ that $1=$ $[1+ (\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} )]$ $(e^{-βhν} )$ and then $(\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} ) = e^{βhν}-1$. In here $βhν=[hν⁄(k_B T)]$. Depending if the value of βhν is lower, equal or greater than 1, the stimulated emission will be dominant, equiparable or negligible when compared to the spontaneous emission.
 
-
-
-
-
-
 	When $N_2 >> N_1$, that is, when the population of the excited state $E_2$ is much greater than the population of the state with the lowest energy $E_1$, the emission is much more frequent than the absorption and the amplification of the radiation characteristic of the laser effect occurs.
 
-	For $N_2 >> N_1$ it is required to invert the population, which is produced by optical pumping. Then the radiation accumulates in a resonant cavity that has two mirrors at its ends, one fully reflective and the other semi-transparent through which the laser radiation is emitted.
+	For $N_2 >> N_1$ it is required to invert the population, which is produced by optical pumping. If under this condition, the radiation accumulates in a resonant cavity that has two mirrors at its ends, one fully reflective and the other semi-transparent, then the laser radiation is emitted.
+	
+	it is required to invert the population, which is produced by optical pumping. If under this condition, the radiation accumulates in a resonant cavity that has two mirrors at its ends, one fully reflective and the other semi-transparent, then the laser radiation is emitted.
+	
+***
 
-	In 1954 Townes, Basov and Prochorov published the first papers on the maser (Microwave Amplification by Stimulated Emission of Radiation): a receiving device highly sensitive to short radio waves. The laser, which began operating around 1960, is essentially a maser-type receiver working in the optical region of visible light. In ordinary light the atoms of conventional light sources emit spontaneously, randomly and independently. By contrast, laser radiation is monochromatic (with the same frequency), coherent (in phase), amplified (contains incident photons and those produced by induced emission) and collimated (in the same direction).
-
-	One of the first lasers that operated around 1970 consisted in a cylinder made of a ruby crystal, which is a mixture of aluminum oxide with chromium, and an external xenon lamp that generated a sequence of shots. This laser was an excitable solid in the optical region in which radiation was absorbed by chromium ions to produce the necessary population inversion. The ends of the cylinder were polished and covered with a semi-silver coating that made them function as reflective mirrors. Each trip between the mirrors served to reinforce the intensity of the laser radiation, which was concentrated in a small region by means of a lens.
-
-[**6.2. Spliting of degenerated electronic energy levels in the hydrogen atom.**](https://github.com/modphysnobel/pbook1/blob/main/docs/vol-II/vol-II-chap-6-sect-2.md)
+[**Next: 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.**](./vol-II-chap-6-sect-2.md)
