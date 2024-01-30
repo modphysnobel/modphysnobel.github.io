@@ -249,7 +249,7 @@ In the following. for explanatory purposes, we arbitrarily divide the content of
 
 ***
 
-### REFERENCE
+### REFERENCES
 
 **5.1. Kinetic theory of gases and Thermodynamics.**
  
