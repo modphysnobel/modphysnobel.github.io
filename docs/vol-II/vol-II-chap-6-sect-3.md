@@ -1,7 +1,7 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom. **](./vol-II-chap-6-sect-2.md) 
+[**Previous: 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom.**](./vol-II-chap-6-sect-2.md) 
 
 ***
 
