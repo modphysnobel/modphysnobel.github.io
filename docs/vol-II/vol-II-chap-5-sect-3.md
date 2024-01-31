@@ -293,6 +293,8 @@ MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB
 
 KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (1962).
 
+***
 
+[**Next: 6.1. Electronic energy levels according to atomic models.**](./vol-II-chap-6-sect-1.md)
 
 
