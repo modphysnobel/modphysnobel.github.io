@@ -1,7 +1,7 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md) 
+[**Previous: 7.3. Procedures to solve problems and explain solutions. **](./vol-II-chap-7-sect-3.md) 
 
 ***
 
