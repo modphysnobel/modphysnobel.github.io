@@ -1,7 +1,7 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 7.2.  Statistical mechanical calculations of the specific heat in solids.**](./vol-II-chap-6-sect-2.md) 
+[**Previous: 7.2.  Statistical mechanical calculations of the specific heat in solids.**](./vol-II-chap-7-sect-2.md) 
 
 ***
 
