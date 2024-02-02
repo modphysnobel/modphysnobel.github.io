@@ -6,6 +6,5 @@ through the works of various Nobel Laureates.
 Jorge R. Barajas<br>
 Carlos Lizárraga-Celaya
 
-April 15th, 2023
 February 1st,  2024.
 
