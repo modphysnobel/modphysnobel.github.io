@@ -21,7 +21,7 @@ For $n = 3$ and $j = 3/2$, level $2P_{3/2}$:  $E =-(\frac{R}{9})[1+(\frac{α^2}{
 
 Considering previous data, we obtain the following spacings between neighboring levels: between $1S_{1/2}$ and $2S_{1/2}$: 13.6 – 3.4 = 10.2, while between $2S_{1/2}$ and $2P_{1/2}$: 3.4 – 3.4 = 0 (degenerate levels according to Dirac) and between $2P_{1/2}$ and $2P_{3/2}$: 3.4 – 1.5 = 1.9. The null separation between the energies of the $2S_{1/2}$ and $2P_{1/2}$ states was a consequence of having assumed that the only interaction between the electron and the proton of the nucleus was due to a Coulombian potential between such charges. (See figure 6.5).
 
-<img src="./figs/chap-6-sect-2-fig1.JPG" width=520 align=center>
+![Fig1](./figs/chap-6-sect-2-fig1.JPG){width="520"}
 
 (Image credit: drawings made by the authors.)
 
