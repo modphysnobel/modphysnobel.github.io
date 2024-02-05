@@ -59,19 +59,19 @@ Nobel Lecture, *The structure of the atom* by Bohr.
 •	spectral line 
 </td>
      <td>
-•	x-ray spectra \
-•	electrodynamic laws \
-•	harmonic vibration \
-•	wavelength \
-•	frequency \
-•	heat radiation \
-•	quantum of energy \
-•	photon \
-•	specific heat \
-•	photoelectron \
-•	interference \
-•	electromagnetic spectra \
-•	quantization
+- x-ray spectra 
+- electrodynamic laws 
+- harmonic vibration 
+- wavelength 
+- frequency 
+- heat radiation 
+- quantum of energy 
+- photon 
+- specific heat 
+- photoelectron 
+- interference 
+- electromagnetic spectra 
+- quantization
 </td>
      <td>
 •	electronic level \
