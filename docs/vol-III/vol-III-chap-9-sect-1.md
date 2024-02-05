@@ -1,5 +1,5 @@
 
-[**Volume II: Energy**](./volume-II.md)
+[**Volume III: Waves**](./volume-III.md)
 
 [**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](./vol-II-chap-8-sect-3.md) 
 
@@ -213,4 +213,4 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 ***
 
-[**9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-II-chap-9-sect-2.md)
+[**Next: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-III-chap-9-sect-2.md)
