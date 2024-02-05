@@ -119,11 +119,11 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 
 	In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
 
-	<img src="./figs/chap-6-sect-1-fig5.jpg" width=600 align=center>
+	![Fig5](./figs/chap-6-sect-1-fig5.JPG){width="600"}
 
 	(Image credit: drawings made by the authors.)
 
-	**Figure 6.4.**  Transition processes between levels where a photon (<img src="./figs/chap-6-sect-1-fig6.JPG" width=60 align=center>) causes an electron (<img src="./figs/chap-6-sect-1-fig7.JPG" width=30 align=center>) to pass from an initial level (<img src="./figs/chap-6-sect-1-fig8.JPG" width=60 align=center>) to a final level (<img src="./figs/chap-6-sect-1-fig9.JPG" width=60 align=center>); the electronic levels that remain unoccupied during the transition are indicated as (<img src="./figs/chap-6-sect-1-fig10.JPG" width=60 align=center>).
+	**Figure 6.4.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG) {width="60"} causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG) {width="30"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG) {width="60"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG) {width="60"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG) {width="60"}).
 
 	Consider that the spectral density of electromagnetic radiation of frequency ν is ρ(ν); this function defines the time ratio of the transitions between the two quantized states under consideration. Let $R_{1—2}$ be the probability per unit time of a transition from the initial state $E_1$ to the final state $E_2$ (emission process) and $R_{2—1}$ the corresponding probability for the transition from the initial state $E_2$ to the final state $E_1$ (absorption process). For spontaneous emission and spontaneous absorption these probabilities will be proportional to the energy density ρ(ν) of the radiation of energy $hν = E_2 - E_1$. The induced emission does not depend on the density ρ(ν).
 
