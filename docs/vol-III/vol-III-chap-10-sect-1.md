@@ -1,36 +1,44 @@
-## 10. Interferences of electromagnetic and gravitational waves.
 
-*When electromagnetic and gravitational waves produce interferences?*
+[**Volume III: Waves**](./volume-III.md)
 
-Two significative contributions to answer previous question are related to the following Physics Nobel Prizes: 
+[**Previous: 9.3.  Communication formats for describing scientific texts.**](./vol-III-chap-9-sect-3.md) 
 
-1907: Albert Abraham Michelson (1852-1931) “for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid”.
+***
+## 10.	  Interferences of electromagnetic and gravitational waves.
 
- 2017: Rainer Weiss (1932), Barry C. Barish (1936) and Kip S. Thorne (1940) “for decisive contributions to the LIGO detector and the observation of gravitational waves”.
+!!! abstract "Introduction"
 
-When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed in gravitational waves it implied that gravitons were detected. Electromagnetic wave interferences were understood since long time ago; however, gravitational wave interferences were experimentally measured until recent times. The detailed content of the chapter is:
+	*When electromagnetic and gravitational waves produce interferences?*
 
-<blockquote>
-<p>
+	When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed in gravitational waves it implied that gravitons were detected. Electromagnetic wave interferences were understood since long time ago; however, gravitational wave interferences were experimentally measured until recent times.
 
-### 10.	Interferences of electromagnetic and gravitational waves.<br>
-**10.1. The Michelson interferometer and the Michelson-Morley experiment.** <br>
-**10.2. Gravitational astronomy.**<br>
-**10.3.	 Organization and evaluation of learning communities.**<br>
-         The LIGO project as a learning community.
+	Learning objectives of Chapter 10. 
 
-</p>
-</blockquote>
+	After this Chapter you should be able to:
 
-In Section 10.1 we consider the interferometer designed and build in 1881 by Albert Abraham Michelson (1852-1931). Starting in 1887, with the collaboration of Edward Williams Morley (1838-1923), Michelson tried to prove experimentally that the ether existed as an absolute  reference system. They expected to observe interferences if the optical waves traveled different distances or used different times to cover the same distance.  
+	- Describe the Michelson interferometer and consider the consequences of the experiments realized by Michelson and Morley.
+	- Discuss the LIGO Project and analyze the contributions made by Weiss, Barish and Thorne.
+	- Describe the organization and development of the LIGO Project as a learning community.
 
-Section 10.2 deals with LIGO, the Laser Interferometer Gravitational-Wave Observatory. LIGO was not an instrument for seeing electromagnetic waves, it was for feeling gravitational waves. 
+	!!! abstract "Description of content of Chapter 10."
 
-In Section 10.3 we apply the process called *Organization and evaluation of learning communities* to the analysis of the activities related to the organization of the LIGO project as described in the Nobel Lectures by Weiss and by Barish. 
+	**Section 10.1. The Michelson interferometer and the Michelson-Morley experiment.**
+
+	We consider the interferometer designed and build in 1881 by Albert Abraham Michelson (1852-1931)  Starting in 1887, with the collaboration of Edward Williams Morley (1838-1923), they tried to prove experimentally that the ether existed as an absolute  reference system. The 1907 Physics Nobel Prize was awarded to Michelson “for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid”.
+
+	**Section 10.2. Gravitational astronomy.**
+
+	We deal with LIGO, the Laser Interferometer Gravitational-Wave Observatory. LIGO was not an instrument for seeing electromagnetic waves, it was for feeling gravitational waves.  We refer to the 2017 Physics Nobel Prize, one half awarded to Rainer Weiss (1932) “for theoretical discoveries in physical cosmology” and the other half jointly awarded to Barry C. Barish (1936) and Kip S. Thorne (1940) “for decisive contributions to the LIGO detector and the observation of gravitational waves”.
+
+	**Section 10.3. Organization and evaluation of learning communities.**
+
+	We apply the process called *Organization and evaluation of learning communities* to the analysis of the activities related to the organization and development of the LIGO Project as described in the Nobel Lectures by Weiss and by Barish. 
+
+	All references to Nobel Prize documents are given in MLA format at the end of the chapter.
 
 ## 10.1. The Michelson interferometer and the Michelson-Morley experiment.
 
-An interference pattern shows alternate regions where the component waves add or subtract their amplitudes. When two wave components are of the same frequency and phase, they vibrate at the same rate and are maximum or minimum at the same time, therefore constructive interference can be observed showing reinforcement in the combined wave amplitude. An interferometer serves for the observation of interference patterns and for the determination of the lengths of the trajectories covered by each component wave or their corresponding arrival velocities. Some of the most relevant contributions on this issue have been the following.
+An interference pattern shows alternate regions where the component waves add or subtract their amplitudes. When two wave components are of the same frequency and phase, they vibrate at the same rate and are maximum or minimum at the same time, therefore constructive interference can be observed showing reinforcement in the combined wave amplitude. An interferometer serves for the observation of interference patterns and for the determination of the lengths of the trajectories covered by each component wave or their corresponding arrival velocities. Some of the most relevant contributions on this issue have been the following:
 
 In 1638 René Descartes (1596-1650) proposed that light was made up of projectiles whose velocity of propagation was infinite. Isaac Newton (1642-1747) suggested that these projectiles traveled in straight lines with very large but finite velocities. Both propositions had in common the fact that light was made of particles. In contrast to previous opinions, in 1678 Christiaan Huygens (1629-1695) pointed out that light was a wave and that like sound, it required a mechanical medium to propagate. He summarized his point of view as follows:
 
@@ -44,7 +52,7 @@ Between 1864 and 1873 James Clerk Maxwell (1831-1879) worked on his electromagne
 
 In 1851 Armand Hippolyte Louis Fizeau (1819–1896) determined how the speed of light was affected by the motion of the medium in which it propagated. If $V$ is the speed of light in air, $v$ the speed in water, then the refractive index of the fluid is defined as $n = v/V$.  In 1849 Fizeau estimated the speed of light to be around 300,000 km/s. 
 
-In 1881 Albert Abraham Michelson designed an interferometer to measure the relative velocity of the Earth with respect to the ether. Michelson reasoned that if the ether was real, the Earth would move through it like an airplane through the air, producing a detectable "ether wind." Every year, the Earth travels an enormous distance in its orbit around the Sun at a speed of 30 km/s, a little more than 100,000 km/h.
+In 1881 Albert Abraham Michelson designed an interferometer to measure the relative velocity of the Earth with respect to the ether. Michelson reasoned that if the ether was real, the Earth would move through it like an airplane through the air, producing a detectable "ether wind." Every year, the Earth travels an enormous distance in its orbit around the Sun at a speed of 30 km/s, a little more than 100,000 km/h. Michelson performed the experiments with the collaboration of Edward Williams Morley (1838-1923). They expected to observe interferences if the optical waves traveled different distances or used different times to cover the same distance.  
 
 Michelson designed the interferometer and assumed that the direction of the "ether wind" with respect to the position of the Sun would vary when measured from Earth, depending on the direction of Earth in its orbit around the Sun. The detection of such ether wind would demonstrate the existence of a state of absolute rest and therefore the ether could be considered as an absolute reference system. Furthermore, according to the superposition of velocities implied by the Galilean principle of relativity, the speed of light will be different if measured in two different reference frames. It is not worth the same if light travels or not in a direction parallel to the movement of the Earth through the ether. 
 
@@ -62,6 +70,7 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
    </tr>
    </tbody>
 </table> 
+
 (Image credit: CC Wikimedia Commons)
 
 **Figure 10.1.** Michelson and Morley interferometer: components in the left image:  monochromatic light source (A); semi-reflective mirror (B); mirrors (C) and observation of optical path difference (D). A typical interference pattern is shown in the right image.
@@ -70,7 +79,6 @@ It is worth comparing the drawing made by Michelson of his own interferometer an
 
 <img src="./figs/chap-10-sect-1-fig3.JPG" width=300 align=center>
 
-<!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
      <td>
@@ -79,8 +87,7 @@ Accordingly, the light from the vacuum tube at $a$ passes through an ordinary sp
         </tr>
 </table>
 
-Source: MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. 
-<https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/>
+(Source: Michelson Nobel Lecture.) 
 
 The Michelson-Morley experiment was planned assuming that after the splitting of the original light ray in the mirror $g$ of the interferometer, one ray will move in one direction, for instance in the direction of the motion of the Earth, and at the same time the other ray will travel in the interferometer the same total distance but in a perpendicular direction to the previous ray. When both rays coincided in $D$ they arrived with different relative velocities, because to the speed of propagation of light with respect to the ether was needed to add or to subtract the speed of translation of the Earth around the Sun. 
 
@@ -90,4 +97,6 @@ Michelson and Morley's experiments failed to demonstrate the existence of the et
 
 The system of transformations proposed by Lorentz represented the possibility of predicting that distances and times could be modified according to the direction in which one reference frame moved with respect to another. If such a modification existed, that would explain the negative result of the experiment by Michelson and Morley, implying that the principle of superposition of velocities implicit in Galileo's transformations did not apply to the case of light. To solve this conflict Einstein proposed two theories of relativity: while special relativity is a kinematic theory of motion, general relativity is a dynamical theory with new properties such as distortion of space and dilation of time: gravitation was the cause that affects motion. Einstein´s theories of relativity have already been considered in Section 4.2 of Volume I.
 
-[**10.2.	Gravitational astronomy.**](https://github.com/modphysnobel/pbook1/blob/main/docs/vol-III/vol-III-chap-10-sect-2.md)
+***
+
+[**Next: 10.2.	Gravitational astronomy.**](./vol-III-chap-10-sect-2.md)
