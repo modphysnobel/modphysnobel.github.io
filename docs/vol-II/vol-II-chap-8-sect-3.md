@@ -264,3 +264,7 @@ MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
 Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
+
+***
+
+[**Next: 9.1. From a theoretical proposition to an experimental demonstration. **](./vol-III-chap-9-sect-1.md)
