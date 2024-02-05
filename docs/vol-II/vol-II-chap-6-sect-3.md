@@ -45,47 +45,47 @@ Nobel Lecture, *The structure of the atom* by Bohr.
   <tr>
 	<td>
 •	atom<br>
-•	nucleus\
-•	electron \
-•	radioactivity \
-•	charge \
-•	mass \
-•	isotope \
-•	proton \
-•	chemical element \
-•	atomic number \
-•	atomic weight \
-•	periodic table \
+•	nucleus<br>
+•	electron <br>
+•	radioactivity <br>
+•	charge <br>
+•	mass <br>
+•	isotope <br>
+•	proton <br>
+•	chemical element <br>
+•	atomic number <br>
+•	atomic weight <br>
+•	periodic table <br>
 •	spectral line 
 </td>
      <td>
-- x-ray spectra 
-- electrodynamic laws 
-- harmonic vibration 
-- wavelength 
-- frequency 
-- heat radiation 
-- quantum of energy 
-- photon 
-- specific heat 
-- photoelectron 
-- interference 
-- electromagnetic spectra 
-- quantization
+•	x-ray spectra <br>
+•	electrodynamic laws <br> 
+•	harmonic vibration <br>
+•	wavelength <br>
+•	frequency <br>
+•	heat radiation <br>
+•	quantum of energy <br>
+•	photon <br>
+•	specific heat <br> 
+•	photoelectron <br>
+•	interference <br>
+•	electromagnetic spectra <br> 
+•	quantization
 </td>
      <td>
-•	electronic level \
-•	stationary state \
-•	energy level transition \
-•	absorption \
-•	emission \
-•	combination principle \
-•	quantum number \
-•	orbital radius \
-•	angular momentum \
-•	spin \
-•	electromagnetic fields \
-•	multiply-periodic system \
+•	electronic level <br>
+•	stationary state <br>
+•	energy level transition <br>
+•	absorption <br>
+•	emission <br>
+•	combination principle <br>
+•	quantum number <br>
+•	orbital radius <br>
+•	angular momentum <br>
+•	spin <br>
+•	electromagnetic fields <br>
+•	multiply-periodic system <br>
 •	correspondence principle
      </td>
 </tr>
@@ -127,36 +127,36 @@ Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
   </tr>
   <tr>
       <td>
-•	elementary particle \
-•	hydrogen atom \
-•	electron \
-•	proton \
-•	Balmer series \
-•	quantization rules \
-•	energy levels \
-•	relativistic corrections \
+•	elementary particle <br>
+•	hydrogen atom <br>
+•	electron <br>
+•	proton <br>
+•	Balmer series <br>
+•	quantization rules <br>
+•	energy levels <br>
+•	relativistic corrections <br>
 •	electronic wave properties
 </td>
      <td>
-•	Dirac´s equation \
-•	molecular beam \
-•	metastable atoms \
-•	microwave radar \
-•	absorption coefficient \
-•	radiative transition \
-•	molecular dissociation \
-•	tungsten oven \
+•	Dirac´s equation <br>
+•	molecular beam <br>
+•	metastable atoms <br>
+•	microwave radar <br>
+•	absorption coefficient <br>
+•	radiative transition <br>
+•	molecular dissociation <br>
+•	tungsten oven <br>
 •	electronic bombardment
 </td>
      <td>
-•	deuterium \
-•	tritium positronium \
-•	electromagnetic mass \
-•	perturbation potential \
-•	vacuum fluctuations \
-•	bound electron \
-•	dressed electron \
-•	selfenergy \
+•	deuterium <br>
+•	tritium positronium <br>
+•	electromagnetic mass <br>
+•	perturbation potential <br>
+•	vacuum fluctuations <br>
+•	bound electron <br>
+•	dressed electron <br>
+•	selfenergy <br>
 •	mass renormalizatrion
      </td>
 </tr>
@@ -198,45 +198,45 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
   </tr>
   <tr>
       <td>
-•	light \
-•	spontaneous emission \
-•	electromagnetic radiation \
-•	black-body radiation \
-•	radio wave \
-•	spectroscopy \
-•	structure \
-•	wavelenght \
-•	oscillators \
-•	amplifiers \
-•	thermodinamic equilibrium \
+•	light <br>
+•	spontaneous emission <br>
+•	electromagnetic radiation <br>
+•	black-body radiation <br>
+•	radio wave <br>
+•	spectroscopy <br>
+•	structure <br>
+•	wavelenght <br>
+•	oscillators <br>
+•	amplifiers <br>
+•	thermodinamic equilibrium <br>
 •	quantum-mechanical system
 </td>
      <td>
-•	absorption \
-•	stimulated emission \
-•	population inversion \
-•	random phase \
-•	wave function \
-•	phase coherence \
-•	resonance \
-•	maser \
-•	microwave cavity \
-•	energy level transition \
-•	ammonia molecules \
+•	absorption <br>
+•	stimulated emission <br>
+•	population inversion <br>
+•	random phase <br>
+•	wave function <br>
+•	phase coherence <br>
+•	resonance <br>
+•	maser <br>
+•	microwave cavity <br>
+•	energy level transition <br>
+•	ammonia molecules <br>
 •	laser
 </td>
      <td>
-•	noise-free amplifier \
-•	fluctuating field \
-•	uncertainty principle \
-•	quality factor \
-•	atomic clock \
-•	time standard \
-•	spectral width \
-•	reflecting mirror \
-•	Raman scattering \
-•	nonlinear optics \
-•	phonon Maser \
+•	noise-free amplifier <br>
+•	fluctuating field <br>
+•	uncertainty principle <br>
+•	quality factor <br>
+•	atomic clock <br>
+•	time standard <br>
+•	spectral width <br>
+•	reflecting mirror <br>
+•	Raman scattering <br>
+•	nonlinear optics <br>
+•	phonon Maser <br>
 •	quantum electronics
      </td>
 </tr>
@@ -286,29 +286,29 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
   </tr>
   <tr>
       <td>
-•	spectrum lines \
-•	wavelengths \
-•	Rydberg constant \
-•	atomic spectra of alkali metals \
-•	hyperfine structures \
-•	broadening of spectral lines \
+•	spectrum lines <br>
+•	wavelengths <br>
+•	Rydberg constant <br>
+•	atomic spectra of alkali metals <br>
+•	hyperfine structures <br>
+•	broadening of spectral lines <br>
 •	Doppler effect
 </td>
      <td>
-•	microwave spectroscopy \
-•	tuning of the laser resonator \
-•	Laser spectroscopy \
-•	saturated absorption \
-•	quadrupole moments \
-•	pressure broadening \
+•	microwave spectroscopy <br>
+•	tuning of the laser resonator <br>
+•	Laser spectroscopy <br>
+•	saturated absorption <br>
+•	quadrupole moments <br>
+•	pressure broadening <br>
 •	laser frequency jitter 
 </td>
      <td>
-•	intermodulated fluorescence \
-•	available optical amplification \
-•	dye laser \
-•	polarization spectroscopy \
-•	vibrational and rotational levels \
+•	intermodulated fluorescence <br>
+•	available optical amplification <br>
+•	dye laser <br>
+•	polarization spectroscopy <br>
+•	vibrational and rotational levels <br>
 •	two-photon spectral lines
      </td>
 </tr>
