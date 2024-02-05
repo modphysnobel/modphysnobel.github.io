@@ -44,7 +44,7 @@ Nobel Lecture, *The structure of the atom* by Bohr.
   </tr>
   <tr>
 	<td>
-•	atom\
+•	atom<br>
 •	nucleus\
 •	electron \
 •	radioactivity \
