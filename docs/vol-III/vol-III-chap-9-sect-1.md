@@ -1,3 +1,10 @@
+
+[**Volume II: Energy**](./volume-II.md)
+
+[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](./vol-II-chap-8-sect-3.md) 
+
+***
+
 ## 9.  Matter waves and quantum mechanics principles. 
 
 *What is light made off?  Is it a wave or a corpuscle?*
