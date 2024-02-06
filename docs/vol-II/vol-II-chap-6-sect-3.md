@@ -317,8 +317,8 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 
 !!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
-	•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
-	•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
+	- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
+	- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
 	•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. <br>
 	•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. <br>
 	•	At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. <br>
