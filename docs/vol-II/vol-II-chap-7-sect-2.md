@@ -212,4 +212,4 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 ***
 
-[**Next: 7.3.  Procedure to solve problems and explain solutions. **](./vol-II-chap-7-sect-3.md)
+[**Next: 7.3.  Procedure to solve problems and explain solutions.**](./vol-II-chap-7-sect-3.md)
