@@ -165,14 +165,14 @@ Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 
 !!! bug "Box 6.4. Issues requiring explaining models in Lamb´s Lecture."
 
-	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. \
-	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. \
-	- The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. \
-	- Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. \
-	- As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. \
-	- Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. \
-	- Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. \
-	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. \
+	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
+	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
+	- The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. 
+	- Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. 
+	- As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. 
+	- Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. 
+	- Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. 
+	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. 
 	- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
 
 **In 1964** to Charles Hard Townes (1915-2015)  “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
