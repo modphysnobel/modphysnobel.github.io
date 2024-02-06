@@ -57,7 +57,7 @@ To calculate average values of quantities related to physical observables, inter
 
 	In the previous equation, the Boltzmann constant $k = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 
-	<img src="./figs/chap-7-sect-1-fig4.jpg" width=480 align=center>
+	![Fig4](./figs/chap-7-sect-1-fig4.jpg){width="480"}
   
 	(Images credit: CC Wikimedia Commons)
 
