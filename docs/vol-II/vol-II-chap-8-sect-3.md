@@ -46,11 +46,11 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </th>
     </tr>
 	<tr>
-     <th colspan="2">
+     <td colspan="2">
 	• Characterized by language, technique and complex forms of social organization. <br>
 	• Oral traditions contribute to the creation of myths and rites. <br>
 	• Identity is inscribed both in the link with the cosmos and in the relationship of filiation or alliance with other men.
-        </th>
+        </td>
         </tr>
         <tr>
     <th width="50%">
@@ -90,12 +90,12 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </th>
     </tr>
 	<tr>
-     <th colspan="2">
+     <td colspan="2">
 	• Created from the Neolithic with agriculture, city, state and hieroglyphs writing in tablets. <br>
 	• Wealth comes no longer from gathering and hunting, but from the possession and exploitation of fields. <br>
 	• The axis of existence is no longer participation in the cosmos, but the link with a territorial entity defined by its borders. <br>
 	• Based on writing: history begins and the development of systematic, theoretical or hermeneutical knowledge.
-        </th>
+        </td>
         </tr>
         <tr>
     <th width="50%">
