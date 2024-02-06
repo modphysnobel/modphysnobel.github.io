@@ -226,3 +226,48 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 	</table>
 
 
+The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
+
+***
+
+### REFERENCES
+
+LÉVY, P.. Collective Intelligence. Cambridge, MA: Perseus Books. (1997).
+
+LÉVY, P. Inteligencia colectiva: por una antropología del ciberespacio. Biblioteca virtual en salud. Washington, D.C. Organización Panamericana de la Salud. (2004). Consulted in april 20, 2009 in <http://inteligenciacolectiva.bvsalud.org>.
+
+FEYNMAN, R. P., LEIGHTON R. B., and SANDS, M. The Feynman Lectures on Physics. Mainly Mechanics, Radiation of Heat, Volume I. Reading, MA: Addison-Wesly. (1963).
+
+HELLEMANS, A, and BUNCH, B. The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science. New York. Simon and Schuster. (1988).
+
+Physics Nobel Prizes
+
+MLA style: Kai M. Siegbahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/1981/siegbahn/facts/>
+
+MLA style: Kai M. Siegbahn – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/siegbahn/lecture/
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/press-release/
+
+Popular Science Background: Blue LEDs – Filling the world with new light.
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/popular-information/
+	
+Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
+
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/2014/advanced-information/>
+ 
+MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
+
+MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
+
+MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/2014/amano/lecture/>
+
+MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
+
+Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
+
+***
+
+[**Next: 9.1. From a theoretical proposition to an experimental demonstration.**](./vol-III-chap-9-sect-1.md)
+
+
