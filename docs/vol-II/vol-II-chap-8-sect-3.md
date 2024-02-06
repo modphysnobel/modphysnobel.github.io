@@ -225,7 +225,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </tr>
 	</table>
 
-	The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
+The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
 ***
 
