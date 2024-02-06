@@ -79,10 +79,10 @@ To calculate average values of quantities related to physical observables, inter
 	<tbody>
 	<tr>
 		<td>
-			<img src="./figs/chap-7-sect-1-fig5.jpg" width=120 align=center>
+		![Fig4](./figs/chap-7-sect-1-fig5.jpg){width="120"}
 		</td>
 		<td>
-			<img src="./figs/chap-7-sect-1-fig6.jpg" width=480 align=center>
+		![Fig4](./figs/chap-7-sect-1-fig6.jpg){width="480"}
 		</td>
 	</tr>
 	</tbody>
@@ -189,39 +189,39 @@ To calculate average values of quantities related to physical observables, inter
   </tr>
   <tr>
       <td>
-•	fluid \
-•	divisibility infinite of matter \
-•	supersaturated solution \
-•	crystal \
-•	resolving power of our senses \
-•	atom \
-•	molecule \
-•	chemical species \
-•	continuous movement \
+•	fluid <br>
+•	divisibility infinite of matter <br>
+•	supersaturated solution <br>
+•	crystal <br>
+•	resolving power of our senses <br>
+•	atom <br>
+•	molecule <br>
+•	chemical species <br>
+•	continuous movement <br>
 •	rule of multiple proportions 
 </td>
      <td>
-•	atomic weight \
-•	Avogadro’s hypothesis \
-•	Avogadro’s number \
-•	valence \
-•	structural formulae \
-•	mean velocity of the gas molecules \
-•	viscosity \
-•	mean free path \
+•	atomic weight <br>
+•	Avogadro’s hypothesis <br>
+•	Avogadro’s number <br>
+•	valence <br>
+•	structural formulae <br>
+•	mean velocity of the gas molecules <br>
+•	viscosity <br>
+•	mean free path <br> 
 •	liquid in equilibrium
 </td>
      <td>
-•	osmotic pressure \
-•	rarefaction in a gas \
-•	fractional distillation \
-•	non-diluted emulsions \
-•	coefficient of diffusion \
-•	Stokes’ law \
-•	rotational Brownian motion \
-•	cathode rays \
-•	electron \
-•	nuclear structure \
+•	osmotic pressure <br>
+•	rarefaction in a gas <br>
+•	fractional distillation <br>
+•	non-diluted emulsions <br>
+•	coefficient of diffusion <br>
+•	Stokes’ law <br>
+•	rotational Brownian motion <br>
+•	cathode rays <br>
+•	electron <br>
+•	nuclear structure <br>
 •	transmutations of elements
      </td>
 </tr>
@@ -230,34 +230,34 @@ To calculate average values of quantities related to physical observables, inter
 
 !!! bug "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
 
-	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. \
-	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. \
-	•	According to Avogadro’s hypothesis equal numbers of heavy or light molecules develop equal pressures at the same temperature and in equal volumes: When gaseous masses, at the same temperature and pressure, occupy equal volumes, they all contain the same number of molecules. \
-	•	Crystallography refers to laws of discontinuity of elementary cells which are repeated periodically along the three dimensions of the crystal lattice. \
-	•	The kinetic theory of gases indicates that matter is made of elastic molecules which are on the average fairly widely separated from one another so that, between two collisions, each molecule can move in a straight line, the duration of the collision being negligible in relation to that of the free path. \
-	•	As Clausius observed, the molecules are all the smaller as the mean free path. \
-	•	Brownian motion is observed when a microscopic particle placed in water (or any other liquid), instead of falling in a regular manner exhibits a continuous and perfectly irregular agitation. … The Brownian movement (an experimental fact) leads us to the hypothesis of the molecules. \
-	•	A stable emulsion is comparable to a solution. An emulsion is formed when a large number of identical particles (grains) are in suspension in a liquid. It will be assumed that Avogadro’s law applies to emulsions as it does to gases. \
-	•	The law of Van’t Hoff is an extension of Avogadro’s law to solutions: : “Equal numbers of molecules, regardless of the kind, in the gaseous state or dissolved, exert – at the same temperature and in equal volumes – equal pressures on the walls detaining them”. \	
-	•	In a vertical column of a gas in equilibrium the density decreases as the altitude increases. \
-	•	A non-diluted emulsion is comparable to a compressed liquid of which the molecules would be visible. \
-	•	In a stable emulsion made of equal grains each one of them has an effective weight equal to its actual downward weight reduced by the upward push that according with Archimedes’ principle is equal to the weight of the liquid displaced by the volume of each grain. \
-	•	The equilibrium distribution of an emulsion is due to the Brownian movement…. In an emulsion the mean square of the horizontal displacement of a grain is proportional to the duration of each free rectilinear displacement. Such displacements are due to a great number of collisions of the surrounding molecules of the liquid with the grain molecules. \
-	•	There is a diffusion for the grains of an emulsion just as for the molecules of a solution. The steady state in a vertical column of emulsion is produced and maintained by the interplay of two opposing actions, gravity and the Brownian movement… At each level the flow through diffusion towards the poor regions is equal to that which gravity produces towards the rich regions. \
-	•	To calculate the flow produced by gravity, the mean velocity of fall of a grain animated by a Brownian movement is calculated by Stokes’ law, which applies to the uniform fall in a viscous liquid of a large sphere. \
-	•	There exists equality between the mean energy of translation and the mean energy of rotation. \
-	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. \
+	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
+	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
+	•	According to Avogadro’s hypothesis equal numbers of heavy or light molecules develop equal pressures at the same temperature and in equal volumes: When gaseous masses, at the same temperature and pressure, occupy equal volumes, they all contain the same number of molecules. <br>
+	•	Crystallography refers to laws of discontinuity of elementary cells which are repeated periodically along the three dimensions of the crystal lattice. <br>
+	•	The kinetic theory of gases indicates that matter is made of elastic molecules which are on the average fairly widely separated from one another so that, between two collisions, each molecule can move in a straight line, the duration of the collision being negligible in relation to that of the free path. <br>
+	•	As Clausius observed, the molecules are all the smaller as the mean free path. <br>
+	•	Brownian motion is observed when a microscopic particle placed in water (or any other liquid), instead of falling in a regular manner exhibits a continuous and perfectly irregular agitation. … The Brownian movement (an experimental fact) leads us to the hypothesis of the molecules. <br>
+	•	A stable emulsion is comparable to a solution. An emulsion is formed when a large number of identical particles (grains) are in suspension in a liquid. It will be assumed that Avogadro’s law applies to emulsions as it does to gases. <br>
+	•	The law of Van’t Hoff is an extension of Avogadro’s law to solutions: : “Equal numbers of molecules, regardless of the kind, in the gaseous state or dissolved, exert – at the same temperature and in equal volumes – equal pressures on the walls detaining them”. <br>
+	•	In a vertical column of a gas in equilibrium the density decreases as the altitude increases. <br>
+	•	A non-diluted emulsion is comparable to a compressed liquid of which the molecules would be visible. <br>
+	•	In a stable emulsion made of equal grains each one of them has an effective weight equal to its actual downward weight reduced by the upward push that according with Archimedes’ principle is equal to the weight of the liquid displaced by the volume of each grain. <br>
+	•	The equilibrium distribution of an emulsion is due to the Brownian movement…. In an emulsion the mean square of the horizontal displacement of a grain is proportional to the duration of each free rectilinear displacement. Such displacements are due to a great number of collisions of the surrounding molecules of the liquid with the grain molecules. <br>
+	•	There is a diffusion for the grains of an emulsion just as for the molecules of a solution. The steady state in a vertical column of emulsion is produced and maintained by the interplay of two opposing actions, gravity and the Brownian movement… At each level the flow through diffusion towards the poor regions is equal to that which gravity produces towards the rich regions. <br>
+	•	To calculate the flow produced by gravity, the mean velocity of fall of a grain animated by a Brownian movement is calculated by Stokes’ law, which applies to the uniform fall in a viscous liquid of a large sphere. <br>
+	•	There exists equality between the mean energy of translation and the mean energy of rotation. <br>
+	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
 	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
 
 !!! bug "Box 7.3. Issues requiring explaining models in Perrin´s Lecture (2)"
 
-	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. \
-	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. \
-	•	Further contributions by Perrin to improve the knowledge of the manner in which matter is discontinuous: \
-	-- in 1895: indication that cathode rays have a negative electric charge and attempts to measure its relation charge to mass; \
-	-- in 1901: assumption that the atom has a structure like a solar system, revealing that the atom as well as the nucleus are discontinuous and have their own components; \
-	-- in 1920: consideration that atoms can be condensations of a whole number of hydrogen atoms, the small differences which exist are explained by the large variations of internal energy which may accompany their condensations; \
-	-- in 1920: indication that the loss of energy which must accompany the condensation of hydrogen into helium suffices alone to account for approximately one hundred milliard years of solar radiation at the present rate; \
+	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
+	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
+	•	Further contributions by Perrin to improve the knowledge of the manner in which matter is discontinuous: <br>
+	-- in 1895: indication that cathode rays have a negative electric charge and attempts to measure its relation charge to mass; <br>
+	-- in 1901: assumption that the atom has a structure like a solar system, revealing that the atom as well as the nucleus are discontinuous and have their own components; <br>
+	-- in 1920: consideration that atoms can be condensations of a whole number of hydrogen atoms, the small differences which exist are explained by the large variations of internal energy which may accompany their condensations; <br>
+	-- in 1920: indication that the loss of energy which must accompany the condensation of hydrogen into helium suffices alone to account for approximately one hundred milliard years of solar radiation at the present rate; <br>
 	-- in 1923: interpretation of Rutherford transmutations of elements not as being the effect of an explosive disintegration but on the contrary, as an integration (the helium nucleus combines with the nucleus that it has hit, to form a radioactive atom which soon expels a proton, and that there finally remains an atom which is three units heavier than the atom that has been hit).
 
 ***
