@@ -176,7 +176,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	For low temperatures, the Einstein model predicts a value that does not vanish when the temperature is zero and also deviates considerably from the experimental results, even when it surpasses the inconsistency of Dulong and Petit's law, which predicts a constant value. To overcome this shortcoming of Einstein's model, Debye assumed in 1912 that each quantized oscillators had a different frequency. He considered the solid as a continuous elastic body, such that its internal energy was due to quantized vibrational states of stationary elastic waves, the called phonons.
 
-	The elastic waves that represent the phonons can vibrate both in a longitudinal direction with velocity $v_l$ and in a transverse direction with velocity $v_t$. There is one polarization direction for longitudinal waves and two perpendicular polarization directions for transverse waves. Therefore, the number of standing elastic waves in the interval of frequencies between $ν$ and $ν + dν$ will have two contributions: $n(ν)dν=(4πν^2dν)$ $( \frac{1}{ʋ_l^3} + \frac{2}{ʋ_t^3})$.
+	The elastic waves that represent the phonons can vibrate both in a longitudinal direction with velocity $v_l$ and in a transverse direction with velocity $v_t$. There is one polarization direction for longitudinal waves and two perpendicular polarization directions for transverse waves. Therefore, the number of standing elastic waves in the interval of frequencies between $ν$ and $ν + dν$ will have two contributions: $n(ν)dν=(4πν^2dν)[\frac{1}{ʋ_l^3} + \frac{2}{ʋ_t^3})]$.
 
 	STAGE $E_2$: description of the distribution function.
 
