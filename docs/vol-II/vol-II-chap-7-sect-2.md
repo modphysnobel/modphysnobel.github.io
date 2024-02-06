@@ -71,63 +71,63 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	</tr>
 	<tr>
 	<td>
-	Bismuth 
-	Lead
-	Gold\
-	Platinum\
-	Tin\
-	Silver\
-	Zinc \
-	Tellurium\
-	Copper\
-	Nickel \
-	Iron\
-	Cobalt\
+	Bismuth <br> 
+	Lead <br>
+	Gold <br>
+	Platinum <br>
+	Tin<br>
+	Silver<br>
+	Zinc <br>
+	Tellurium<br>
+	Copper<br>
+	Nickel <br>
+	Iron<br>
+	Cobalt<br>
 	Sulfur
 	</td>
 	<td>
 	0.0288 
-	0.0293 \
-	0.0298 \
-	0.0314 \
-	0.0514 \
-	0.0557 \
-	0.0927 \
-	0.0912 \
-	0.0949 \
-	0.1035 \
-	0.1100 \
-	0.1498 \
+	0.0293 <br>
+	0.0298 <br>
+	0.0314 <br>
+	0.0514 <br>
+	0.0557 <br>
+	0.0927 <br>
+	0.0912 <br>
+	0.0949 <br>
+	0.1035 <br>
+	0.1100 <br>
+	0.1498 <br>
 	0.1880  
 	</td>
 	<td>
-	13.30 
-	12.95 \
-	12.43 \
-	11.16 \
-	7.35 \
-	6.75 \
-	4.03 \
-	4.03 \
-	3.957 \
-	3.69 \
-	3.392 \
-	2.46 \
+	13.30 <br>
+	12.95 <br>
+	12.43 <br>
+	11.16 <br>
+	7.35 <br>
+	6.75 <br>
+	4.03 <br>
+	4.03 <br>
+	3.957 <br>
+	3.69 <br>
+	3.392 <br>
+	2.46 <br>
 	2.011 
 	</td>
 	<td>
-	0.3830
-	0.3794\
-	0.3704\
-	0.3740\
-	0.3779\
-	0.3759\
-	0.3736\
-	0.3675\
-	0.3755\
-	0.3819\
-	0.3731\
-	0.3685\
+	0.3830<br>
+	0.3794<br>
+	0.3704<br>
+	0.3740<br>
+	0.3779<br>
+	0.3759<br>
+	0.3736<br>
+	0.3675<br>
+	0.3755<br>
+	0.3819<br>
+	0.3731<br>
+	0.3685<br>
 	0.3780
 	</td>
 	</tr>
@@ -176,7 +176,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	For low temperatures, the Einstein model predicts a value that does not vanish when the temperature is zero and also deviates considerably from the experimental results, even when it surpasses the inconsistency of Dulong and Petit's law, which predicts a constant value. To overcome this shortcoming of Einstein's model, Debye assumed in 1912 that each quantized oscillators had a different frequency. He considered the solid as a continuous elastic body, such that its internal energy was due to quantized vibrational states of stationary elastic waves, the called phonons.
 
-	The elastic waves that represent the phonons can vibrate both in a longitudinal direction with velocity $v_l$ and in a transverse direction with velocity $v_t$. There is one polarization direction for longitudinal waves and two perpendicular polarization directions for transverse waves. Therefore, the number of standing elastic waves in the interval of frequencies between $ν$ and $ν + dν$ will have two contributions: $n(ν)dν=(4πν^2 dν)[ \frac{1}{ʋ_l^3} + \frac{2}{ʋ_t^3} ]$.
+	The elastic waves that represent the phonons can vibrate both in a longitudinal direction with velocity $v_l$ and in a transverse direction with velocity $v_t$. There is one polarization direction for longitudinal waves and two perpendicular polarization directions for transverse waves. Therefore, the number of standing elastic waves in the interval of frequencies between $ν$ and $ν + dν$ will have two contributions: $n(ν)dν=(4πν^2dν)[\frac{1}{ʋ_l^3}+\frac{2}{ʋ_t^3}]$.
 
 	STAGE $E_2$: description of the distribution function.
 
