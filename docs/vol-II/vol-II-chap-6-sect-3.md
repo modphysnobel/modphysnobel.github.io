@@ -245,23 +245,23 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
 
 !!! bug "Box 6.6. Issues requiring explaining models in Townes´ Lecture."
 
-	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. \
-	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. \
-	- Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. \
-	- Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics. \
-	- Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. \
+	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
+	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
+	- Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. 
+	- Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics.
+	- Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. 
 	- Production of very short waves coherent oscillators by generating molecular or atomic resonances with positive feedback.  
-	- Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. \
-	- The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. \
-	- During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. \
-	- The background noise fluctuation is determined by the spontaneous emission. \
-	- The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. \
-	- Paramagnetic resonances are produced in three-level solid-state maser. \
-	- A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. \
-	- Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. \
-	- As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. \
-	- Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… \
-	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. \
+	- Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. 
+	- The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. 
+	- During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. 
+	- The background noise fluctuation is determined by the spontaneous emission. 
+	- The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. 
+	- Paramagnetic resonances are produced in three-level solid-state maser. 
+	- A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. 
+	- Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. 
+	- As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. 
+	- Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… 
+	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. 
 	- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
 
 **In 1981** to Arthur Leonard Schawlow (1921-1999) "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
@@ -317,7 +317,7 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 
 !!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
-	•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. \
+	•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
 	•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. \
 	•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. \
 	•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. \
