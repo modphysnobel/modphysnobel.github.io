@@ -198,7 +198,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	Figure 7.4 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
 	
-	<img src="./figs/chap-7-sect-2-fig2.JPG" width=420 align=center>
+	![Fig1](./figs/chap-7-sect-2-fig2.JPG){width="20"}
 
 	(Image credit: CC Wikimedia Commons)
 
