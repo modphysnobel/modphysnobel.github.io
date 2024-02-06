@@ -318,26 +318,26 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 !!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
 	•	Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
-	•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. \
-	•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. \
-	•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. \
-	•	At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. \
-	•	Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. \
-	•	Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. \
-	•	Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. \
-	•	Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. \
-	•	Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. \
-	•	Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. \
-	•	Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. \
-	•	Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. \
-	•	Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. \
-	•	Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. \
-	•	Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. \
-	•	The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. \
-	•	Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. \
-	•	Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. \
-	•	In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in 1015. \
-	•	Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. \
+	•	Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
+	•	Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. <br>
+	•	Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. <br>
+	•	At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. <br>
+	•	Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. <br>
+	•	Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. <br>
+	•	Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. <br>
+	•	Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. <br>
+	•	Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. <br>
+	•	Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. <br>
+	•	Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. <br>
+	•	Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. <br>
+	•	Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. <br>
+	•	Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. <br>
+	•	Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. <br>
+	•	The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. <br>
+	•	Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. <br>
+	•	Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. <br>
+	•	In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in 1015. <br>
+	•	Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. <br>
 	•	Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
 
 ***
