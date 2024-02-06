@@ -132,12 +132,12 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </th>
     </tr>
 	<tr>
-     <th colspan="2">
+     <td colspan="2">
 	• Developed after the sixteenth century when a world market is established on the occasion of the conquest of America by Europeans. <br>
 	• Wealth no longer comes from the dominance of borders, but from the control of flows. <br>
 	• As the new engine of evolution, the organizing principle is the flow of energy, raw materials, merchandises, capital, labor and information. <br>
 	• Printing and machines become important in the development of industrial revolution.
-        </th>
+        </td>
         </tr>
         <tr>
     <th width="50%">
@@ -187,11 +187,11 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </th>
 		</tr>
 	<tr>
-     <th colspan="2">
+     <td colspan="2">
 	• Referred to equipping oneself with the institutional, technical and conceptual instruments to make information navigable. <br>
 	• Everyone can locate themselves and recognize others according to interests, competences, projects, means and mutual identities in the new space. <br>
 	• Numerical networks, virtual universes and artificial life and intelligence.
-        </th>
+        </td>
         </tr>
         <tr>
     <th width="50%">
