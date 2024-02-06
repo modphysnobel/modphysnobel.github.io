@@ -194,4 +194,4 @@ MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize O
 
 ***
 
-[**Next: 8.1. **](./vol-II-chap-8-sect-1.md)
+[**Next: 8.1. Conservation laws and the existence of symmetries.**](./vol-II-chap-8-sect-1.md)
