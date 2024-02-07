@@ -17,7 +17,7 @@ Next, we analyze how the four previous communication formats can be used to desc
 
 !!! info "(1). Flux **diagram** for obtaining de Broglie equation $p = h/λ$ (as described in Section 9.1 and explained in his Nobel Lecture)."
 
-	<img src="./figs/chap-9-sect-3-fig1.JPG" width=600 align=center>
+	![Fig1](./figs/chap-9-sect-3-fig1.JPG){width="600"}
 
 !!! info "(2). Experimental **designs** explained by Davisson and by Thomson in their Nobel Lectures."
 
@@ -25,7 +25,7 @@ Next, we analyze how the four previous communication formats can be used to desc
 
 	In Davisson-Germer experiment a gun produced an electron beam that was directed perpendicular onto the surface of a crystal that can be rotated about the beam axis. Afterwards, scattered waves were registered in a collector galvanometer (Figure 9.3a). Strong reflections were observed at an angle $θ = 50°$ when the accelerated voltage was 54 volts (Figure 9.3b). At this voltage the observed peak in the pattern of dispersed electrons was a qualitative demonstration of the validity of de Broglie´s hypothesis $p = h/λ$.
 
-	<img src="./figs/chap-9-sect-3-fig2.JPG" width=600 align=center>
+	![Fig2](./figs/chap-9-sect-3-fig2.JPG){width="600"}
 
 	Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. . MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
