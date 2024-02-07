@@ -55,7 +55,7 @@ The LIGO detector was just a laser interferometer with two arms forming an L, a 
 
 When the interferometer’s arms did not change length, both signals traveled equal distances, and no interference pattern was formed. Nevertheless, gravitational waves shrink and lengthen spacetime and therefore modify the distances traveled by the laser radiation in the arms of the interferometer. Under these conditions the component waves arrived out of phase and produced an interference pattern. The compressions and expansions of space-time generated the observed gravitational wave interference pattern so much expected (Figure 10.2).
 
-<img src="./figs/chap-10-sect-2-fig1.JPG" width=520 align=center>
+![Fig1](./figs/chap-10-sect-2-fig1.JPG){width="520"}
 
 Source: Figure 3 taken from the document Popular information: The Nobel Prize in Physics 2017.
 
@@ -117,19 +117,19 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOBEL LECTURE: *LIGO and Gravitational Waves II.*
 
-	INTRODUCTION \
-	THE LIGO LABORATORY \
-	THE LIGO SCIENTIFIC COLLABORATION (LSC) \
-	INITIAL LIGO PERFORMANCE AND SCIENCE \
-	ADVANCED LIGO \
-	THE BLACK HOLE MERGER EVENT (GW150914) \
-	MORE BLACK HOLE MERGERS \
-	SCIENCE IMPLICATIONS OF THE OBSERVED BLACK HOLE MERGERS \
-	VIRGO DETECTS GRAVITATIONAL WAVES \
-	NEUTRON STAR BINARY MERGER \
-	FUTURE DIRECTIONS FOR LIGO AND GRAVITATIONAL WAVES \
-	THE FUTURE \
-	FINAL REMARKS AND REFLECTIONS \
+	INTRODUCTION  <br>
+	THE LIGO LABORATORY <br>
+	THE LIGO SCIENTIFIC COLLABORATION (LSC) <br>
+	INITIAL LIGO PERFORMANCE AND SCIENCE <br>
+	ADVANCED LIGO <br>
+	THE BLACK HOLE MERGER EVENT (GW150914) <br>
+	MORE BLACK HOLE MERGERS <br>
+	SCIENCE IMPLICATIONS OF THE OBSERVED BLACK HOLE MERGERS <br>
+	VIRGO DETECTS GRAVITATIONAL WAVES <br>
+	NEUTRON STAR BINARY MERGER <br>
+	FUTURE DIRECTIONS FOR LIGO AND GRAVITATIONAL WAVES <br>
+	THE FUTURE <br>
+	FINAL REMARKS AND REFLECTIONS <br>
 	LIGO – SOME KEY MEMBERS
 
 	“The observation of gravitational waves in the Laser Interferometer Gravitational-Wave Observatory (LIGO) was announced on February 11, 2016, one hundred years after Einstein proposed the existence of gravitational waves. This observation came after more than fifty years of experimental efforts to develop sensitive enough detectors to observe the tiny distortions in spacetime from gravitational waves.” ….
@@ -162,27 +162,27 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	We just present some excerpts corresponding to the last subtitle. 
 
-	INTRODUCTION AND OVERVIEW\
-	SOME EARLY PERSONAL HISTORY: 1962–1976\
-	SOURCES OF GRAVITATIONAL WAVES\
-	INFORMATION CARRIED BY GRAVITATIONAL WAVES, AND COMPUTATION OF GRAVITATIONAL WAVEFORMS \
-		Observables from a Compact Binary’s Inspiral Waves\
-		Post-Newtonian Approximation for Computing Inspiral Waveforms\
-		Numerical Relativity for Computing Merger Waveforms\
-		Geometrodynamics in BBH Mergers \
-	THEORISTS’ CONTRIBUTIONS TO UNDERSTANDING AND CONTROLLING NOISE IN THE LIGO INTERFEROMETERS\
-		Scattered-Light Noise\
-		Gravitational noise\
-		Thermal Noise\
-		Quantum Noise and the Standard Quantum Limit for a Gravitational Interferometer\
-		Quantum Fluctuations, Quantum Nondemolition, and Squeezed Vacuum\
-	THE FUTURE: FOUR GRAVITATIONAL FREQUENCY BANDS\
-		LISA: The Laser Interferometer Space Antenna \
-		PTAs: Pulsar Timing Arrays\
-		CMB Polarization\
-	THE FUTURE: PROBING THE UNIVERSE WITH GRAVITATIONAL WAVES\
-		Multi-Messenger Astronomy\
-		Exploring Black Holes and Geometrodynamics with Gravitational Waves\
+	INTRODUCTION AND OVERVIEW<br>
+	SOME EARLY PERSONAL HISTORY: 1962–1976<br>
+	SOURCES OF GRAVITATIONAL WAVES<br>
+	INFORMATION CARRIED BY GRAVITATIONAL WAVES, AND COMPUTATION OF GRAVITATIONAL WAVEFORMS <br>
+		Observables from a Compact Binary’s Inspiral Waves<br>
+		Post-Newtonian Approximation for Computing Inspiral Waveforms<br>
+		Numerical Relativity for Computing Merger Waveforms<br>
+		Geometrodynamics in BBH Mergers <br>
+	THEORISTS’ CONTRIBUTIONS TO UNDERSTANDING AND CONTROLLING NOISE IN THE LIGO INTERFEROMETERS<br>
+		Scattered-Light Noise<br>
+		Gravitational noise<br>
+		Thermal Noise<br>
+		Quantum Noise and the Standard Quantum Limit for a Gravitational Interferometer<br>
+		Quantum Fluctuations, Quantum Nondemolition, and Squeezed Vacuum<br>
+	THE FUTURE: FOUR GRAVITATIONAL FREQUENCY BANDS<br>
+		LISA: The Laser Interferometer Space Antenna <br>
+		PTAs: Pulsar Timing Arrays<br>
+		CMB Polarization<br>
+	THE FUTURE: PROBING THE UNIVERSE WITH GRAVITATIONAL WAVES<br>
+		Multi-Messenger Astronomy<br>
+		Exploring Black Holes and Geometrodynamics with Gravitational Waves<br>
 		Exploring the First One Second of our Universe’s Life
 
 	CONCLUSION
