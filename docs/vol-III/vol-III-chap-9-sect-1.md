@@ -201,7 +201,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	The result observed in the diffraction of electrons coincides with the corresponding values of $λ$ measured from the diffraction patterns obtained when X-rays hit upon crystals. According to the well-known Bragg formula, proposed in the years 1913-1914 by William Henry Bragg (1862 - 1942) and his son William Lawrence Bragg (1890 - 1971), the diffracted wavelength for X-rays is $nλ = 2dsinθ$. In this equation $d$ is the distance between the planes of the crystal atoms and $θ$ is the scattering angle formed between the direction of the incident radiation and the dispersion planes of the crystal lattice. The index $n = 1, 2, 3…$ indicates the order of diffraction (Figure 9.2).
 
-	![Fig3](./figs/chap-9-sect-1-fig3.JPG){width="380"}
+	![Fig3](./figs/chap-9-sect-1-fig3.JPG){width="400"}
 	
 	Source: adapted from  https://es.wikipedia.org/wiki/Archivo:Difraccion.png
 
