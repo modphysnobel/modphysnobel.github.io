@@ -12,7 +12,7 @@
 
 	When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed in gravitational waves it implied that gravitons were detected. Electromagnetic wave interferences were understood since long time ago; however, gravitational wave interferences were experimentally measured until recent times.
 
-	Learning objectives of Chapter 10. 
+	**Learning objectives of Chapter 10.**
 
 	After this Chapter you should be able to:
 
@@ -20,7 +20,7 @@
 	- Discuss the LIGO Project and analyze the contributions made by Weiss, Barish and Thorne.
 	- Describe the organization and development of the LIGO Project as a learning community.
 
-	!!! abstract "Description of content of Chapter 10."
+!!! abstract "Description of content of Chapter 10."
 
 	**Section 10.1. The Michelson interferometer and the Michelson-Morley experiment.**
 
@@ -77,17 +77,13 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 
 It is worth comparing the drawing made by Michelson of his own interferometer and the corresponding explanation of its parts as included in his Physics Nobel Prize Lecture *Recent Advances in Spectroscopy*, presented on December 12, 1907.
 
-<img src="./figs/chap-10-sect-1-fig3.JPG" width=300 align=center>
-
-<table width="100%">
-    <tr>
-     <td>
-Accordingly, the light from the vacuum tube at $a$ passes through an ordinary spectroscope $bc$, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit $d$ into the interferometer. As explained above, the light divides at the plate $e$, part going to the mirror $f$, which is movable, and part passing through, to the mirror $g$. The first ray returns on the path feh. The second returns to $e$, is reflected, and passes into the telescope $h$.
-        </td>
-        </tr>
-</table>
+![Fig3](./figs/chap-10-sect-1-fig3.JPG){width="300"}
 
 (Source: Michelson Nobel Lecture.) 
+
+!!! info ""
+
+	Accordingly, the light from the vacuum tube at $a$ passes through an ordinary spectroscope $bc$, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit $d$ into the interferometer. As explained above, the light divides at the plate $e$, part going to the mirror $f$, which is movable, and part passing through, to the mirror $g$. The first ray returns on the path feh. The second returns to $e$, is reflected, and passes into the telescope $h$.
 
 The Michelson-Morley experiment was planned assuming that after the splitting of the original light ray in the mirror $g$ of the interferometer, one ray will move in one direction, for instance in the direction of the motion of the Earth, and at the same time the other ray will travel in the interferometer the same total distance but in a perpendicular direction to the previous ray. When both rays coincided in $D$ they arrived with different relative velocities, because to the speed of propagation of light with respect to the ether was needed to add or to subtract the speed of translation of the Earth around the Sun. 
 
