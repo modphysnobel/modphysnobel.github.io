@@ -203,7 +203,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </tr>
      <tr>
     <td>
-   Classification of particles as fermions or bosons. <br>
+	Classification of particles as fermions or bosons. <br>
 	Self-field and entanglement quantum processes. <br>
 	Origin and evolution of the universe. <br>
 	Conservation laws associated with symmetry properties. <br>
