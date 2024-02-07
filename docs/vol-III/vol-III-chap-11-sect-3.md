@@ -1876,3 +1876,6 @@ MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 
 
 MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. <https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/>
 
+***
+
+[**Next: 12.1.	 Bose-Einstein condensation, superfluidity and superconductivity.**](./vol-III-chap-12-sect-1.md)
