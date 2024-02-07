@@ -654,7 +654,7 @@ MLA style: Kip S. Thorne – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024
 
 ***
 
-[**Next: 11.1 **](./vol-III-chap-11-sect-1.md)
+[**Next: 11.1. Microscopic observation of solids.**](./vol-III-chap-11-sect-1.md)
 
  
 
