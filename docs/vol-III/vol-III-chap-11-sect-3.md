@@ -1,23 +1,26 @@
+
+[**Volume III: Waves**](./volume-III.md)
+
+[**Previous: 11.2 Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md) 
+
+***
+
 ## 11.3. Phases in a learning and research process.
 
-In this section we describe Geim´s Lecture *Random Walk to Graphene* as a learning and research process that involves two phases, one for learning and another for research.
+In this section we describe Geim´s Lecture *Random Walk to Graphene* as a learning and research process that involves two structural phases:  
 
-MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. 
-https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
+•	The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
 
-The Learning phase is for inquiring and exploring; it consists in the description of the motivation and problematization steps for the acquisition of existing knowledge and the development of skills. Its steps concern motivation and problematization. 
+•	The research phase is for evaluating and communicating and consists in the description of the testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
 
-The Research phase is for evaluating and communicating; it consists in the description of the experimentation, testing, and publishing steps for the development and application of new knowledge and the confrontation with external ideas, methods and results. Its steps refer to experimentation and problematization.
+In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table refers to the corresponding subtitle included in the original document.  The first column in the Table describes reported activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been predominantly involved in each activity. For simplicity, we omit many names and simplify the descriptions of such  activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
 
-In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table corresponds to the corresponding subtitle included in the original document.  The first column in the Table describes activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been involved in each activity. For simplicity, we omit many names and simplify the descriptions of the activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
-
-Geim starts his Nobel Lecture with this remark: *I hope that the reader will excuse me if on this occasion I recommend my own writings [1–3]. Instead of repeating myself here, I have chosen to describe my twisty scientific road that eventually led to the Nobel Prize. Most parts of this story are not described anywhere else, and its timeline covers the period from my PhD in 1987 to the moment when our 2004 paper, recognised by the Nobel Committee, was accepted for publication.*
+Geim starts his Nobel Lecture with this remark: “I hope that the reader will excuse me if on this occasion I recommend my own writings [1–3]. Instead of repeating myself here, I have chosen to describe my twisty scientific road that eventually led to the Nobel Prize. Most parts of this story are not described anywhere else, and its timeline covers the period from my PhD in 1987 to the moment when our 2004 paper, recognized by the Nobel Committee, was accepted for publication.”
 
 1. A. K. Geim, K. S. Novoselov. Nature Mater. 6, 183 (2007). 
 2. A. K. Geim, P. Kim. Sci. Am. 298, 90 (2008). 
 3. A. K. Geim. Science 324, 1530 (2009).
 
-<!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
     <th>
@@ -106,7 +109,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -195,7 +198,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -304,7 +307,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -374,7 +377,7 @@ X
 </table>
 
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -443,7 +446,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -492,7 +495,7 @@ X
         </tr>
     <tr>
     <td>
-However, we succeed in topics such as levitation, gecko tape and graphene. When one dares to try, rewards are not guaranteed, but at least it is an adventure.
+However, we succeed in topics such as levitation, gecko tape and graphene. "When one dares to try, rewards are not guaranteed, but at least it is an adventure".
         </td>
         <th>
 X
@@ -512,7 +515,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -581,7 +584,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -650,7 +653,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -779,7 +782,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -988,7 +991,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1117,7 +1120,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1186,7 +1189,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1375,7 +1378,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1504,7 +1507,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1633,7 +1636,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1762,7 +1765,7 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
     <th>
@@ -1810,3 +1813,66 @@ X
         </th>
         </tr>
 </table>
+
+***
+
+### REFERENCES
+
+Physics and Chemistry Nobel Prizes
+
+MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/1915/speedread/>
+
+MLA style: William Bragg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/1915/wh-bragg/facts/>
+
+MLA style: Lawrence Bragg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/1915/wl-bragg/lecture/>
+
+MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/speedread/
+
+MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/perspectives/
+
+MLA style: Ernst Ruska – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/ruska/lecture/>
+
+MLA style: Ernst Ruska – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/ruska/facts/
+
+MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/1986/binnig/facts/>
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/press-release/>
+
+MLA style: Heinrich Rohrer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 26 May 2023. https://www.nobelprize.org/prizes/physics/1986/rohrer/lecture/
+
+MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024.  <https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/>
+
+MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/>
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/press-release/
+
+MLA style: Clifford G. Shull – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. <https://www.nobelprize.org/prizes/physics/1994/shull/lecture/>
+
+MLA style: Clifford G. Shull – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/shull/facts/
+
+MLA style: Bertram N. Brockhouse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/brockhouse/facts/
+
+MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. <https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/>
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/2010/popular-information/>
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/chemistry/1996/press-release/>
+
+MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
+
+MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
+
+MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. <https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/>
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/popular-information/
+
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/advanced-information/
+
+MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
+
+MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
+
+MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/2012/wineland/facts/>
+
+MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. <https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/>
+
