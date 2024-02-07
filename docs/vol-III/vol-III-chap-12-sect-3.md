@@ -1,6 +1,6 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 12.2.	Quantum Hall effects.*](./vol-III-chap-12-sect-2.md) 
+[**Previous: 12.2.	Quantum Hall effects.**](./vol-III-chap-12-sect-2.md) 
 
 ***
 
