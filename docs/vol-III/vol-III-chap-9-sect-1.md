@@ -45,17 +45,17 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	Following Einstein $E = mc^2$ and Planck $E = hν$ when $n = 1$. We also have the velocity of light $c = λν$, then $m = E/(c^2) = hν/(c^2) = hν/(cλν) = h/(cλ)$ then $λ = h/(mc)$. This relationship applies to photons where $p = mc$, but de Broglie generalized it for every particle of mass $m$, velocity $v$, and linear momentum $p = mv$; that is, $λ = h/(mv) = h/p$ and therefore $p = h/λ$. Particles satisfying this condition implies the existence of matter waves. The following relativistic considerations were used to obtain de Broglie’s equation $p = h/ λ$.
 
-	1. According to the theory of special relativity, the relation $E = hν$ applies to a photon observed in a fixed reference frame. Therefore, de Broglie assumed that a similar equation can be written for the same photon but observed from its own reference system. If in such a reference system the characteristic frequency of the photon is $ν_0$, then $hν_0 = m_0c^2$. 
+	1) According to the theory of special relativity, the relation $E = hν$ applies to a photon observed in a fixed reference frame. Therefore, de Broglie assumed that a similar equation can be written for the same photon but observed from its own reference system. If in such a reference system the characteristic frequency of the photon is $ν_0$, then $hν_0 = m_0c^2$. 
 
 	The term $hν_0$ is an indication that a vibrational wave could be represented by the sinusoidal function $A_0 ≈ sin(2πν_0t_0)$ where $A_0$ is the amplitude and $t_0$ is the time measured in the reference system at rest.
 
-	2. The Lorentz transformations that relates the time $t_0$ to the time $t$ measured in a reference frame that moves with velocity $v$ in the $x$ direction with respect to the frame of the photon is $t_0= γ[t-\frac{vx}{c^2} ]$ where the relativistic parameter $γ=[ 1 - β^2 ]^{(-1⁄2)}$ with $β= \frac{v}{c}$.
+	2) The Lorentz transformations that relates the time $t_0$ to the time $t$ measured in a reference frame that moves with velocity $v$ in the $x$ direction with respect to the frame of the photon is $t_0= γ[t-\frac{vx}{c^2} ]$ where the relativistic parameter $γ=[ 1 - β^2 ]^{(-1⁄2)}$ with $β= \frac{v}{c}$.
 
 	In accordance with the above, the sinusoidal function in the system at rest can be written as $A(x,t)≈sin[2πν_0 γ(t-\frac{vx}{c^2} )]$, while for the moving system we will have $A(x,t)≈sin[2πν(t-\frac{x}{w})]$. This second equation represents a wave of frequency $ν$ and phase velocity $w =λν$, where $ν= γν_0$ and $w=  \frac{c^2}{v}$.
 
-	3. For the photon in the laboratory reference system $E = mc^2 = hν$. Substituting in this equation the relation $ν= γν_0$ we obtain $E = hν=hγν_0$.  Besides, using the relativistic relation $m = γm_0$ it results $E =mc^2= γm_0 c^2$. From $E = hγν_0 = γm_0 c^2w$ it can be obtained  $hν_0=m_0 c^2$.
+	3) For the photon in the laboratory reference system $E = mc^2 = hν$. Substituting in this equation the relation $ν= γν_0$ we obtain $E = hν=hγν_0$.  Besides, using the relativistic relation $m = γm_0$ it results $E =mc^2= γm_0 c^2$. From $E = hγν_0 = γm_0 c^2w$ it can be obtained  $hν_0=m_0 c^2$.
 
-	4. Using the relationships $w= λν$, $w= \frac{c^2}{v}$, $ν= γν_0$, $m =γm_0$ and $hν_0=m_0 c^2$ it results
+	4) Using the relationships $w= λν$, $w= \frac{c^2}{v}$, $ν= γν_0$, $m =γm_0$ and $hν_0=m_0 c^2$ it results
 
 	$λ=  \frac{w}{ν}=  (\frac{c^2⁄v}{ν}= \frac{c^2}{v(γν_0 )}   = (\frac{hc^2}{v})(\frac{1}{hγν_0})= (\frac{hc^2}{v})(\frac{1}{γm_0 c^2})= \frac{h}{mv+}= \frac{h}{p}$
 
@@ -191,7 +191,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 	
 	If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½mev^2 = qeV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (mev)^2= 2meqeV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ (see Figure 9.1).
 
-	<img src="./figs/chap-9-sect-1-fig2.JPG" width=480 align=center>
+	![Fig3](./figs/chap-9-sect-1-fig2.JPG){width="480"}
 
 	Source: Figure 4 from Davisson's Nobel Lecture *The Discovery of Electron Waves*: MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/ 
 	
@@ -201,7 +201,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	The result observed in the diffraction of electrons coincides with the corresponding values of $λ$ measured from the diffraction patterns obtained when X-rays hit upon crystals. According to the well-known Bragg formula, proposed in the years 1913-1914 by William Henry Bragg (1862 - 1942) and his son William Lawrence Bragg (1890 - 1971), the diffracted wavelength for X-rays is $nλ = 2dsinθ$. In this equation $d$ is the distance between the planes of the crystal atoms and $θ$ is the scattering angle formed between the direction of the incident radiation and the dispersion planes of the crystal lattice. The index $n = 1, 2, 3…$ indicates the order of diffraction (Figure 9.2).
 
-	<img src="./figs/chap-9-sect-1-fig3.JPG" width=480 align=center>
+	![Fig3](./figs/chap-9-sect-1-fig3.JPG){width="42}}480"}
 	
 	Source: adapted from  https://es.wikipedia.org/wiki/Archivo:Difraccion.png
 
