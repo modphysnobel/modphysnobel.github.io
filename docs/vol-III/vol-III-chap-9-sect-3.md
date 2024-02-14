@@ -9,7 +9,7 @@
 
 Information contained in texts to be shared is usually expressed in terms of oral and/or verbal communications written in different formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies: 
 
-![Fig 1](./figs/chap-9-sect-3-fig3PNG){width=480}
+![Fig 1](./figs/chap-9-sect-3-fig3.PNG){width=480}
 
 (1) the strategy for the organization of contents to be communicated in terms of **diagrams** for showing structural interconnections and **designs** for describing components of systems or sequences of actions, and 
 
