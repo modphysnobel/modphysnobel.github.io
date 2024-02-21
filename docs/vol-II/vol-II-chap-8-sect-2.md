@@ -38,10 +38,10 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 	<tbody>
 	<tr>
 		<td>
-			<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Photoelectric2.png" width=420 align=center>
+			![Fig1](./figs/chap-8-sect-2-fig3.PNG){width="520"}
 		</td>
 		<td>
-			<img src="./figs/chap-8-sect-2-fig1.1.jpg" width=300 align=center>
+			![Fig2](./figs/chap-8-sect-2-fig4.JPG){width="520"}
 		</td>
 	</tr>
 	</tbody>
