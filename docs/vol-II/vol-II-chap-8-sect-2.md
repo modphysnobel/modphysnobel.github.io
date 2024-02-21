@@ -41,7 +41,7 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 			![Fig1](./figs/chap-8-sect-2-fig3.PNG){width="300"}
 		</td>
 		<td>
-			![Fig2](./figs/chap-8-sect-2-fig4.JPG){width="300"}
+			![Fig2](./figs/chap-8-sect-2-fig4.jpg){width="300"}
 		</td>
 	</tr>
 	</tbody>
