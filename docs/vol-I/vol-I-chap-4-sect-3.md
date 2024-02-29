@@ -137,7 +137,7 @@ Line AD is perpendicular to side BC and intersects this side at point D, which i
 Points M and N are in the middle of respective sides AB and AC so that BM = MA in one side and AN = NC in the other side.
 
 <figure markdown>
-![Fig 5](./figs/Vol-I-chap-4-sect-1-Fig5.PNG){width="400"}
+![Fig 5](./figs/Vol-I-chap-4-sect-1-Fig5.PNG){width="300"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
@@ -149,7 +149,7 @@ Now consider that Lagrange's triangle is suspended from point A and that a weigh
 Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D}.
 
 <figure markdown>
-![Fig 6](./figs/Vol-I-chap-4-sect-1-Fig6.PNG){width="400"}
+![Fig 6](./figs/Vol-I-chap-4-sect-1-Fig6.PNG){width="300"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
@@ -173,7 +173,7 @@ Suspension in N: (AN x P) {left side of N} = (NC x P) {right side of N}.
 Then suppose that the weights on B and A in Figure 4.6a are applied to M and the weights on A and C in Figure 4.6b are applied to N. Superposing these two conditions, we have in the triangle ABC that each one of the weights on M and on N are 2P. The aforementioned distribution of weights also maintains the balance of triangle ABC with respect to an axis passing through points M, E, and N. This is shown in Figure 4.8 where the triangle is placed vertically and suspended from point E, which is the intersection of line AD. with the line MN.
 
 <figure markdown>
-![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width="400"}
+![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width="300"}
 <figcaption> (Image credit: elaborated by the authors.)
 </figcaption>
 </figure>
