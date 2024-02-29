@@ -56,9 +56,11 @@ To calculate average values of quantities related to physical observables, inter
 	$<ΔX^2> =[(kT)/(3πηa)](t)$
 
 	In the previous equation, the Boltzmann constant $k = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
-
+	
+	<p align="center">
 	![Fig4](./figs/chap-7-sect-1-fig4.jpg){width="480"}
-  
+	</p>
+
 	(Images credit: CC Wikimedia Commons)
 
 	**Figure 7.1.** Graph of the equation obtained by Einstein.
@@ -75,6 +77,7 @@ To calculate average values of quantities related to physical observables, inter
 
 	Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
 	
+	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -87,6 +90,7 @@ To calculate average values of quantities related to physical observables, inter
 	</tr>
 	</tbody>
 	</table> 
+	</p>
 
 	(Source: images taken from the book *Les atomes* by Perrin.)
 
@@ -96,6 +100,7 @@ To calculate average values of quantities related to physical observables, inter
 	
 	It was estimated that the Brownian particle received the order of $10^{14}$ collisions per second from the water molecules in the surrounding media. By substituting his measurements in Einstein's equation, Perrin obtained the value of Avogadro's number ($N_A$). The following Table 7.1 contains the values obtained by Einstein and by Perrin; numerical values in the third column are multiplied by the factor $10^{23}$. 
 
+	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -160,6 +165,7 @@ To calculate average values of quantities related to physical observables, inter
 	</tr>
 	</tbody>
 	</table> 
+	</p>
 
 	(Source: information obtained from Pais´ book.)
 
@@ -180,6 +186,7 @@ To calculate average values of quantities related to physical observables, inter
 
 	In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
+<p align="center">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -227,6 +234,7 @@ To calculate average values of quantities related to physical observables, inter
 </tr>
    </tbody>
 </table> 
+</p>
 
 !!! bug "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
 
