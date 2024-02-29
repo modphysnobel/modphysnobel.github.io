@@ -41,7 +41,9 @@ The simplest atom is the hydrogen: only one proton forms the nucleus, and one el
 
 Isaac Newton was one of the firsts to demonstrate the scattering of light when he passed visible light through a prism and watched it break up into a continuous spectrum of bands of different colors (Figure 6.1). 
 
+<p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Spectro.jpg" width=480 align=center>
+</p>
 
 (Image credit: CC Wikimedia Commons)
 
@@ -59,7 +61,9 @@ This is a particular case for $n = 2$ in the general equation $ῦ = \frac{1}{λ
 
 The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Rydberg constant for the hydrogen atom. Figure 6.2 shows the alpha lines of each hydrogen series as a function of the wavelength expressed in nanometers; the following abbreviations are used: Lyman (Ly- α), Balmer (Ba- α), Paschen (Pa- α), Brackett (Br- α), Pfund (Pf- α), and Humphreys (Hu- α).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=520 align=center>
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=640 align=center>
+</p>
 
 (Image credit: CC Wikimedia Commons)
 
@@ -91,7 +95,9 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 
 	$hν_{if}= E_f- E_i = E_n- E_m = [\frac{-R_H}{n^2}]- [\frac{-R_H}{m^2}]=R_H [\frac{1}{m^2} - \frac{1}{n^2} ]$.
 
+	<p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Emission_of_Light_by_Hydrogen_%2801F8GFBF8YZEY6KY9WNRWEV1N2%29.png" width=480 align=center>
+	</p>
 
 	(Image credit: CC Wikimedia Commons)
 
@@ -119,7 +125,9 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 
 	In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
 
-	![Fig5](./figs/chap-6-sect-1-fig5.JPG){width="600"}
+	<p align="center">
+	![Fig5](./figs/chap-6-sect-1-fig5.JPG){width="640"}
+	</p>
 
 	(Image credit: drawings made by the authors.)
 
