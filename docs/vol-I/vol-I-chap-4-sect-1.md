@@ -63,7 +63,10 @@
 
 	Two non-Euclidean geometries can be considered depending on the curvature of the space and therefore, the corresponding number of parallel lines will be different than just one when the curvature is zero as in Euclidean geometry: it is infinite when the curvature is negative as in hyperbolic geometry where the lines never intersect (all the lines are parallel), or it is null when the curvature is positive as in elliptic geometry where all the lines converge (there are no parallel lines). In non-Euclidean geometries the internal angles of a triangle do not add exactly to 180° (Figure 4.1).
 
+	<p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Comparison_of_geometries.svg" width=480 align=center>
+	</p>
+	
 	
 	(Image credit: CC Wikimedia Commons)
 
@@ -90,7 +93,7 @@
 	Consider a mechanical system made up of two bodies A and B of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
 	<figure markdown>
-	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="250"}
+	![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="300"}
 	<figcaption> (Image credit: elaborated by the authors.)
 	</figcaption>
 	</figure>
