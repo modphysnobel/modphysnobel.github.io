@@ -20,7 +20,7 @@
 ### Pherecydes of Syros (580 BC – 520 BC).
 
 <figure markdown>
-  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="240" }
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="300" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ When Greek cities were built (_the polis_) writing was used as a transforming in
 ### Herodotus of Halicarnassus (484 BC- 425 BC).
 
 <figure markdown>
-  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="240" }
+  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="300" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Pol
 ### Homer (VIII century).
 
 <figure markdown>
-  ![Homer](https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg){ width="240" }
+  ![Homer](https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg){ width="300" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses
 ### Hippodamus of Miletus (498 BC- 408 BC).
 
 <figure markdown>
-  ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="240" }
+  ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="300" }
   <figcaption>(Image credit: Geogebra.org)</figcaption>
 </figure>
 
@@ -69,15 +69,15 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=300 align=center> 
     </th>
     <th width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=200 align=center> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=300 align=center> 
     </th>
   </tr>
   <tr>
     <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=350 align=center> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=300 align=center> 
     </td>
     <td>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=450 align=center> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=300 align=center> 
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 ### Hesiod of Askra, Thebes (nearby 800 BC).
 
 <figure markdown>
-  ![Hesiod of Askra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg){ width="240" }
+  ![Hesiod of Askra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg){ width="300" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 ### Anaximander of Miletus, Ionia, (619 – 546).
 
 <figure markdown>
-  ![Anaximander of Miletus](https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg){ width="240" }
+  ![Anaximander of Miletus](https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg){ width="300" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
