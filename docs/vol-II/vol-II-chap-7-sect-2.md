@@ -48,6 +48,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	The following Table 7.2 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
+	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -133,12 +134,15 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	</tr>
 	</tbody>
 	</table> 
+	</p>
 
 	(Source: article published by Dulong and Petit (1819).)
 
 	However, more precise and recent measurements have shown that the results obtained by Dulong and Petit are only valid at very high temperatures, where the value of the constant $3R ≈ 25 J K^{-1} mol^{-1}$ corresponds to the upper limit of the scale of the ordinates. In no way this value represents the behavior at low temperatures where, moreover, the experimental curves are different for different materials. Observe in Figure 7.3 how for different materials the values close to 300 K differ from the constant $3R ≈ 25 J K^{-1} mol^{-1}$, although for the first two materials, Lead (Pb) and Copper (Cu), the graphed values are much closer to that constant.
 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Moglft0304_calor_solidos.jpg" width=420 align=center>
+	<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Moglft0304_calor_solidos.jpg" width=480 align=center>
+	</p>
 
 	(Image credit: CC Wikimedia Commons)
 
@@ -198,8 +202,9 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	Figure 7.4 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
 	
-	![Fig1](./figs/chap-7-sect-2-fig2.JPG){width="420"}
-
+	<p align="center">
+	![Fig1](./figs/chap-7-sect-2-fig2.JPG){width="480"}
+	</p>
 	(Image credit: CC Wikimedia Commons)
 
 	**Figure 7.4.** Comparison in dimensionless units of the results of the three models of a solid.
