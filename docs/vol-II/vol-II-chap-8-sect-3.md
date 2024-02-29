@@ -19,9 +19,7 @@ Concerning the meaning of collective intelligence Lévy mention that *Collective
 
 Anthropological spaces do not exactly correspond to specific time periods described in timetables; they refer to states of development that can evolve in different moments with diverse types of manifestations. According to Lévy the following seven phases characterize the dynamical development of the collective intelligence:
 
-<p align="center"
 ![Fig 1](./figs/chap-8-sect-3-fig1.PNG){width=480}
-</p>
 
 “**Listening:** Pay attention that manifests itself visibly or audibly both in the community environment and within it, in relation to: facts, ideas, arguments, knowledge, evaluations, inventions, relationships, resources, skills, experiences, demands, proposals, projects .... Dependencies created by official languages, codes or rigid structures must be overcome; authorize singularities and encourage dialogues, rather multilogues. Without limiting ourselves to the passive recognition of differences and the juxtaposition of discourses, it is about understanding the creativity that emerges from the collective.”  
 
