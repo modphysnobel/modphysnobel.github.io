@@ -22,7 +22,7 @@
 	However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure 5.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
 
 	<figure markdown>
-	![Fig 3](./figs/chap-5-sect-2-fig2.JPG){width="500"}
+	![Fig 3](./figs/chap-5-sect-2-fig2.JPG){width="480"}
 	</figure>
 	
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
@@ -43,17 +43,19 @@
 
 	A hollow opaque object functions as a blackbody when its interior walls are painted black and a small hole is drilled into it. All radiation that enters through the hole is absorbed and hardly leaves it. If this hollow cavity is placed inside an oven with controllable temperature, the intensity of the electromagnetic radiation emitted when the cavity is heated can be measured by an external optical device. In this case, for different furnace temperatures the intensity of the radiation measured with a spectrometer is a function of its wavelength, (Figure 5.4).
 
+	<p align="center">
 	<!-- HTML Table 1.1.1-->
 	<table width="100%">
 	<tr>
 		<th width="50%">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Radiaci%C3%B3n_y_efecto_fotoel%C3%A9ctrico_1.jpg" width=350 align=center> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Radiaci%C3%B3n_y_efecto_fotoel%C3%A9ctrico_1.jpg" width=300 align=center> 
 		</th>
 		<th width="50%">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Black-body_radiation_vs_wavelength.png" width=350 align=center> 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Black-body_radiation_vs_wavelength.png" width=300 align=center> 
 		</th>
 	</tr>
 	</table>
+	</p>
 
 	(Images credit: CC Wikimedia Commons)
 
@@ -64,8 +66,10 @@
 	STAGE 2: *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
 
 	According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by Wilhelm Carl Werner Otto Fritz Franz Wien (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
-
-	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Blackbody_Spectrum.PNG" width=420 align=center>
+	
+	<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Blackbody_Spectrum.PNG" width=480 align=center>
+	</p>
 
 	(Image credit: CC Wikimedia Commons)
 
@@ -77,7 +81,9 @@
 
 	Meanwhile, the British physicist John William Strutt, third Baron Rayleigh (1842 – 1919), obtained in June 1900 a formula to calculate the number of free electromagnetic vibration modes per unit volume in the cavity and per unit wavelength. Later, the British astronomer Sir James Hopwood Jeans (1877 – 1946) made some corrections, obtaining the expression $uλ = 8πkT/λ$ for the energy density per unit interval of wavelength, later called the Rayleigh – Jeans law. This law was consistent with experiments for low infrared frequencies, where Wien's law failed, but for short wavelengths or high frequencies it predicted infinite emission in the ultraviolet, termed the “ultraviolet catastrophe” (Figure 5.6). 
 
-	<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlanckWienRayleigh_linear_150dpi_en.png" width=400 align=center>
+	<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/PlanckWienRayleigh_linear_150dpi_en.png" width=480 align=center>
+	</p>
 
 	(Image credit: CC Wikimedia Commons)
 
@@ -87,6 +93,7 @@
 
 	**Table 5.1.** Equations of different laws concerning the black body radiation.
 
+	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -158,9 +165,12 @@
 	<tr>
 	</tbody>
 	</table>
+	</p>
 
+	<p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/RWP-comparison.svg" width=480 align=center>
-	
+	</p>
+
 	(Image credit: CC Wikimedia Commons)
 
 	**Figure 5.7.** Radiation intensity as a function of frequency; comparison on logarithmic scales between the predictions of the Rayleigh-Jeans (red), Wien (blue) and Planck (green) laws.
