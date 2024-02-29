@@ -112,11 +112,11 @@
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="750"}
+	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="800"}
 	</figure>
 	</th>
 	<th width="50%">
-	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="280"}
+	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="300"}
 	</th>
 	</tr>
 	</table>
@@ -151,12 +151,12 @@
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="400" }
+	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="480" }
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="400" }
+	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="480" }
 	</figure>
 	</th>
 	</tr>
@@ -197,12 +197,12 @@
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="400" }
+	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="480" }
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="400" }
+	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="480" }
 	</figure>
 	</th>
 	</tr>
