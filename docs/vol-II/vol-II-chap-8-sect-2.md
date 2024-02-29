@@ -34,6 +34,7 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 
 	$E_c = ½mv^2=eV_0=hf-φ$
 
+	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -46,6 +47,7 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 	</tr>
 	</tbody>
 	</table> 
+	</p>
 
 	(Image credit: CC Wikimedia Commons)
 
@@ -59,7 +61,9 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 
 	In the first experiments about the photoelectric effect, carried out in 1887 by Heinrich Hertz and Wilhelm Hallwachs (1859-1922), a well-polished zinc plate was connected to an electroscope. When the metal was illuminated with ultraviolet light coming from the jumping spark of a voltaic arc the ejected electrons could charge the electroscope (Figure 8.2).
 
-	![Fig5](./figs/chap-8-sect-2-fig2.JPG){width="520"}
+	<p align="center">
+	![Fig5](./figs/chap-8-sect-2-fig2.JPG){width="640"}
+	</p>
 
 	**Figure 8.2.** Experimental device used by Hertz and Hallwachs.
 
