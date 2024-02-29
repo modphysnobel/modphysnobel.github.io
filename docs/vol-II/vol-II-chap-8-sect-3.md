@@ -19,7 +19,9 @@ Concerning the meaning of collective intelligence Lévy mention that *Collective
 
 Anthropological spaces do not exactly correspond to specific time periods described in timetables; they refer to states of development that can evolve in different moments with diverse types of manifestations. According to Lévy the following seven phases characterize the dynamical development of the collective intelligence:
 
+<p align="center"
 ![Fig 1](./figs/chap-8-sect-3-fig1.PNG){width=480}
+</p>
 
 “**Listening:** Pay attention that manifests itself visibly or audibly both in the community environment and within it, in relation to: facts, ideas, arguments, knowledge, evaluations, inventions, relationships, resources, skills, experiences, demands, proposals, projects .... Dependencies created by official languages, codes or rigid structures must be overcome; authorize singularities and encourage dialogues, rather multilogues. Without limiting ourselves to the passive recognition of differences and the juxtaposition of discourses, it is about understanding the creativity that emerges from the collective.”  
 
@@ -41,6 +43,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 
 	For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
+	<p align="center">
 	<table width="100%">
     <tr>
         <th colspan="2">
@@ -83,8 +86,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</p>
 
-
+	<p align="center">
 	<table width="100%">
     <tr>
         <th colspan="2">
@@ -126,7 +130,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</p>
 
+	<p align="center">
 	<table width="100%">
     <tr>
         <th colspan="2">
@@ -181,7 +187,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</p>
 
+	<p align="center">
 	<table width="100%">
     <tr>
         <th colspan="2">
@@ -226,6 +234,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</p>
 
 	The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
