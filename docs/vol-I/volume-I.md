@@ -59,7 +59,7 @@ The content of this Volume is the following:
 
 Created: 2023-03-12; Updated: 2023-11-24 
 
-Barojas-Weber, J.R., & Lizárraga-Celaya, C. (2023).
+Barojas-Weber, J., & Lizárraga-Celaya, C. (2023).
 _Modern Physics through Nobel Prizes_.
 
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
