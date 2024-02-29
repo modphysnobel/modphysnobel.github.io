@@ -201,7 +201,7 @@ AND PHYSICS
 	Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2).
 	
 	<p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=600 align=center>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=640 align=center>
 	</p>
 	
 	(Image credit: CC Wikimedia Commons)
@@ -226,7 +226,9 @@ AND PHYSICS
 
 	- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
 
-	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="420"}
+	<p align="center">
+	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
+	</p>
 
 	(Image credit: drawings made by the authors.)
 
@@ -237,7 +239,9 @@ AND PHYSICS
 
 	- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
 
-	![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="420"}
+	<p align="center">
+	![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="300"}
+	</p>
 
 	(Image credit: drawings made by the authors.)
 
