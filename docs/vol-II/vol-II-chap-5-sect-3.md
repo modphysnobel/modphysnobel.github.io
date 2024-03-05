@@ -9,16 +9,8 @@
 
 In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.9). 
 
-<div style="text-align: center;">
+![Fig 2](./figs/chap-5-sect-3-fig2.PNG){width="480"}
 
-![alt text](./figs/chap-5-sect-3-fig2.PNG)
-
-</div>
-
-<p align="center">
-<img scr = "./figs/chap-5-sect-3-fig2.PNG", width="480">
-</p>
-	
 (Image credit: drawings made by the authors.)
 
 **Figure 5.9.** Components of the explanation of scientific theories.
