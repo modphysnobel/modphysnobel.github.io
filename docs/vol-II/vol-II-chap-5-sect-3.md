@@ -22,6 +22,11 @@ In the following. for explanatory purposes, we arbitrarily divide the content of
 
 !!! info "Wien´s Nobel Lecture *On the Laws of Thermal Radiation*."
 
+	<p align="center">
+	![Fig 2](./figs/chap-5-sect-3-fig2.PNG){width="480"}
+	</p>
+
+
 	**Description of relevant facts.**
 
 	•	Using known physical laws, a general law of radiation theory (the displacement law) was derived by considering ideal processes as in a mental experiment. This procedure is like the one followed by Kirchhoff, when he assumed an ideal perfectly reflecting body in his derivation of the theorem about the constancy of the ratio of emission and absorption power. If a small aperture is made in the walls surrounding a cavity that is heated, through this hole a radiation can come out. This radiation is independent of the nature of the emitting body and is wholly determined by the temperature. 
