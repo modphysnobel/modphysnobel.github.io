@@ -10,9 +10,8 @@
 In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.9). 
 
 <p align="center">
-![Fig 2](./figs/chap-5-sect-3-fig2.PNG){width="480"}
+<img scr = "./figs/chap-5-sect-3-fig2.PNG", width="480">
 </p>
-
 	
 (Image credit: drawings made by the authors.)
 
@@ -21,11 +20,6 @@ In this section we apply the components of the explanation of scientific theorie
 In the following. for explanatory purposes, we arbitrarily divide the content of the Nobel lectures by Wien and by Planck into the previous six components of the explanation of a scientific theory. This division does not pretend to correspond to a unique form of considering that the content of these lectures has been organized according to these six components. Next, for  each component, we describe the main ideas contained in their corresponding texts. The full contents of both Lectures are included in Appendices 5.1 and 5.2.
 
 !!! info "Wien´s Nobel Lecture *On the Laws of Thermal Radiation*."
-
-	<p align="center">
-	![Fig 2](./figs/chap-5-sect-3-fig2.PNG){width="480"}
-	</p>
-
 
 	**Description of relevant facts.**
 
