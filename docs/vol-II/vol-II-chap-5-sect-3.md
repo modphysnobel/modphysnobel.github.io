@@ -14,7 +14,7 @@ In this section we apply the components of the explanation of scientific theorie
 		margin-left: auto;
 		margin-right: auto;
 		width: 480;"
-	src="./figs/chap-5-sect-3-fig2.PNG"
+	src="./figs/chap-5-sect-3-fig2.png"
 	alt="Test">
 	</img>
 
