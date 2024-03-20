@@ -70,8 +70,10 @@ Fermions have half-integral spin, they are selective and obey the exclusion prin
 	In 1908 Heike Kamerlingh Onnes (1853-1926) obtained liquid helium for the first time; afterwards it will be used as refrigerant. In 1911 he discovered superconductivity when he observed the sudden nullification of the electrical resistance of mercury at 4.2° K. (see Figure 12.1). 
 
 	To make clear the experimental conditions of the measurements of the electrical resistance, Kammerling Onnes mentioned in his 1913 Nobel Lecture: “The disappearance did not take place gradually but (compare Fig. 17) abruptly. From 1/500 the resistance at 4.2oK drops to a millionth part. At the lowest temperature, 1.5°K, it could be established that the resistance had become less than a thousand-millionth part of that at normal temperature.”
-	
-	![Fig2](./figs/chap-12-sect-1-fig2.JPG){width="520"}
+
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig2.JPG){width="480"}
+	</p>
 
 	(Source: taken from Kammerling Onnes´s Nobel Lecture Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium.)
 
@@ -106,8 +108,10 @@ Fermions have half-integral spin, they are selective and obey the exclusion prin
 	In 1957 a microscopic theory of superconductivity was proposed by Bardeen, Cooper and Schrieffer (BCS). In this theory the superconducting current is consider as a superfluid of Cooper pairs of electrons that interact through the exchange of phonons, the quantized vibrations of the crystal lattice. 
 
 	Although in metals individual electrons behave as fermions, the strong coupling between the Cooper-pairs produces a collective pattern characterized by the absence of electric resistance (see Figure 12.2). 
-	
-	![Fig3](./figs/chap-12-sect-1-fig3.JPG){width="520"}
+
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig3.JPG){width="480"}
+	</p>
 
 	(Source; taken from Cooper´s Nobel Lecture *Microscopic Quantum Interference Effects in the Theory of Superconductivity.*)
 	
@@ -123,7 +127,9 @@ Fermions have half-integral spin, they are selective and obey the exclusion prin
 
 	When two atoms with odd numbers of nucleons pair up with each other, they collectively possess an even number of nucleons and behave like bosons, condensing together into a superfluid state. Fermions such as atomic He-3 do not condensate, therefore it is not possible that they present superfluidity like the boson atomic He-4. However, fermions in liquid He-3 form boson pairs and behave as a superfluid. Other experiments reported in Lee´s Lecture show that the specific heat measurements in superfluid He-3 present a discontinuity at the transition temperature like the one that characterizes phase transitions in superconductors (see Figure 12.3).
 
-	![Fig4](./figs/chap-12-sect-1-fig4.JPG){width="520"}
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig4.JPG){width="480"}
+	</p>
 
 	(Source: MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1996/lee/lecture/>)
 
@@ -131,7 +137,9 @@ Fermions have half-integral spin, they are selective and obey the exclusion prin
 
 	In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered superconductivity in ceramic materials at temperatures above 77°K (−196.2 °C; −321.1 °F). See their joint 1987 Nobel Lecture *Perovskite-Type Oxides – The New Approach to High*- $T_c$ *Superconductivity*. (See Figure 12.4).
 
-	![Fig5](./figs/chap-12-sect-1-fig5.JPG){width="520"}
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig5.JPG){width="480"}
+	</p>
 
 	(Source: MLA style: J. Georg Bednorz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1987/bednorz/lecture/>)
 
@@ -149,15 +157,21 @@ Fermions have half-integral spin, they are selective and obey the exclusion prin
       
 	Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture, 
 
-	![Fig6](./figs/chap-12-sect-1-fig6.JPG){width="520"}
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig6.JPG){width="480"}
+	</p>
 
 	**Figure 12.5.** Conditions for obtaining Bose-Einstein condensation.
 
-	![Fig7](./figs/chap-12-sect-1-fig7.JPG){width="520"}
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig7.JPG){width="480"}
+	</p>
 
 	**Figure 12.6.** Experimental setup for producing Bose-Einstein condensate.
 
-	![Fig8](./figs/chap-12-sect-1-fig8.JPG){width="520"}
+	<p align="center">
+	![Fig8](./figs/chap-12-sect-1-fig8.JPG){width="480"}
+	</p>
 
 	**Figure 12.7.** Observation of Bose-Einstein condensate.
 
