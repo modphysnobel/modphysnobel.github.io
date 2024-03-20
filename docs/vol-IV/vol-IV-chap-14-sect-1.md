@@ -61,8 +61,9 @@ In what follows, PNP means Physics Nobel Prize.
 
 	- In his Nobel Lecture Bethe considered first the reaction $H+H=D+ε^+ +ν$, where $H$ and $D$ corresponded, respectively, to hydrogen and deuterium, $ε^+$ to a positron and $ν$ to a neutrino. The second process required the presence of carbon and was represented by the following cycle of reactions:
 
-	![Fig14](./figs/chap 14-1.png){width="350"}
-
+	<p align="center">
+	![Fig8](./figs/chap 14-1.png){width="300"}
+	</p>
 
 !!! info "PNP1983"
 
