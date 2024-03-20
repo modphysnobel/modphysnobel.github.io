@@ -23,7 +23,7 @@ Next, we analyze how the four previous communication formats can be used to desc
 
 
 	<p align="center">
-	![Fig8](./figs/chap-9-sect-3-fig1.JPG){width="480"}
+	![Fig8](./figs/chap-9-sect-3-fig1.JPG){width="640"}
 	</p>
 	
 
