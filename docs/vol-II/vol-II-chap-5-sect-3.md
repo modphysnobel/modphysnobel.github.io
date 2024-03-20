@@ -10,10 +10,8 @@
 In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.9). 
 
 <p align="center" width="100%">
-    <img width="480" src="./figs/chap-5-sect-3-fig2.PNG"> 
+    <img width="480" src="./figs/chap-5-sect-3-fig2.png"> 
 </p>
-
-prueba
 
 (Image credit: drawings made by the authors.)
 
