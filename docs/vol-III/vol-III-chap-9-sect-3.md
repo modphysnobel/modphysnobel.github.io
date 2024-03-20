@@ -9,7 +9,9 @@
 
 Information contained in texts to be shared is usually expressed in terms of oral and/or verbal communications written in different formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies: 
 
-![Fig 1](./figs/chap-9-sect-3-fig3.PNG){width=480}
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-3-fig3.PNG?raw=true"> 
+</p>
 
 (1) the strategy for the organization of contents to be communicated in terms of **diagrams** for showing structural interconnections and **designs** for describing components of systems or sequences of actions, and 
 
@@ -19,7 +21,11 @@ Next, we analyze how the four previous communication formats can be used to desc
 
 !!! info "(1). Flux **diagram** for obtaining de Broglie equation $p = h/λ$ (as described in Section 9.1 and explained in his Nobel Lecture)."
 
-	![Fig1](./figs/chap-9-sect-3-fig1.JPG){width="600"}
+
+	<p align="center">
+	![Fig8](./figs/chap-9-sect-3-fig1.JPG){width="480"}
+	</p>
+	
 
 !!! info "(2). Experimental **designs** explained by Davisson and by Thomson in their Nobel Lectures."
 
@@ -27,7 +33,9 @@ Next, we analyze how the four previous communication formats can be used to desc
 
 	In Davisson-Germer experiment a gun produced an electron beam that was directed perpendicular onto the surface of a crystal that can be rotated about the beam axis. Afterwards, scattered waves were registered in a collector galvanometer (Figure 9.3a). Strong reflections were observed at an angle $θ = 50°$ when the accelerated voltage was 54 volts (Figure 9.3b). At this voltage the observed peak in the pattern of dispersed electrons was a qualitative demonstration of the validity of de Broglie´s hypothesis $p = h/λ$.
 
-	![Fig2](./figs/chap-9-sect-3-fig2.JPG){width="600"}
+	<p align="center">
+	![Fig8](./figs/chap-9-sect-3-fig2.JPG){width="480"}
+	</p>
 
 	Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. . MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
