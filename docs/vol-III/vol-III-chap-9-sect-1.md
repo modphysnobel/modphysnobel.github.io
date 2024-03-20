@@ -191,7 +191,11 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 	
 	If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½mev^2 = qeV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (mev)^2= 2meqeV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ (see Figure 9.1).
 
-	![Fig3](./figs/chap-9-sect-1-fig2.JPG){width="320"}
+
+    <p align="center">
+	![Fig8](./figs/chap-9-sect-1-fig2.JPG){width="300"}
+	</p>
+
 
 	Source: Figure 4 from Davisson's Nobel Lecture *The Discovery of Electron Waves*: MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/ 
 	
