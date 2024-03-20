@@ -227,4 +227,4 @@ For a body of mass $m$ and velocity $v$ the linear momentum is $p=mv=m(dr⁄dt)$
 
 ***
 
-[**Next: 5.1.  Kinetic theory of gases and Thermodynamics.**](./vol-II-chap-5-sect-1.md)
+[**Next: 5.1.  Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-sect-1/)
