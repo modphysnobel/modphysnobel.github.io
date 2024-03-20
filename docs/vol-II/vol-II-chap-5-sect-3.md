@@ -13,6 +13,8 @@ In this section we apply the components of the explanation of scientific theorie
     <img width="480" src="./figs/chap-5-sect-3-fig2.PNG"> 
 </p>
 
+prueba
+
 (Image credit: drawings made by the authors.)
 
 **Figure 5.9.** Components of the explanation of scientific theories.
