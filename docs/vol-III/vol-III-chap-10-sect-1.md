@@ -78,7 +78,7 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 It is worth comparing the drawing made by Michelson of his own interferometer and the corresponding explanation of its parts as included in his Physics Nobel Prize Lecture *Recent Advances in Spectroscopy*, presented on December 12, 1907.
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-1-fig3.JPG?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-1-fig3.JPG?raw=true"> 
 </p>
 
 (Source: Michelson Nobel Lecture.) 
