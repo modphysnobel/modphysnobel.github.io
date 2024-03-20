@@ -12,7 +12,7 @@ In this section we apply the TADIR procedure in the description of the seven ste
 TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive.  
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
 </p>
 
 (Image credit: drawings made by the authors.)
