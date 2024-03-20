@@ -191,11 +191,9 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 	
 	If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½mev^2 = qeV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (mev)^2= 2meqeV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ (see Figure 9.1).
 
-
     <p align="center">
-	![Fig8](./figs/chap-9-sect-1-fig2.JPG){width="300"}
+	![Fig8](./figs/chap-9-sect-1-fig2.JPG){width="480"}
 	</p>
-
 
 	Source: Figure 4 from Davisson's Nobel Lecture *The Discovery of Electron Waves*: MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/ 
 	
@@ -205,7 +203,9 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	The result observed in the diffraction of electrons coincides with the corresponding values of $λ$ measured from the diffraction patterns obtained when X-rays hit upon crystals. According to the well-known Bragg formula, proposed in the years 1913-1914 by William Henry Bragg (1862 - 1942) and his son William Lawrence Bragg (1890 - 1971), the diffracted wavelength for X-rays is $nλ = 2dsinθ$. In this equation $d$ is the distance between the planes of the crystal atoms and $θ$ is the scattering angle formed between the direction of the incident radiation and the dispersion planes of the crystal lattice. The index $n = 1, 2, 3…$ indicates the order of diffraction (Figure 9.2).
 
-	![Fig3](./figs/chap-9-sect-1-fig3.JPG){width="400"}
+    <p align="center">
+	![Fig8](./figs/chap-9-sect-1-fig3.JPG){width="480"}
+	</p>
 	
 	Source: adapted from  https://es.wikipedia.org/wiki/Archivo:Difraccion.png
 
