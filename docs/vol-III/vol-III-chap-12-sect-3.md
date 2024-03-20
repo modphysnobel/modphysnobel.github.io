@@ -336,4 +336,4 @@ STACHEL, JOHN, Einstein Miracolous Year. Five Papers that Changed the Face of Ph
 
 ***
 
-[**Next: 13.1. Steps in the development of Nuclear Physics.**](./vol-IV-chap-13-sect-1.md)
+[**Next: 13.1. Steps in the development of Nuclear Physics.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-1/)
