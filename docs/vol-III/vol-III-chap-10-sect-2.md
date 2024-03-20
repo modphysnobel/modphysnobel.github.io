@@ -55,7 +55,9 @@ The LIGO detector was just a laser interferometer with two arms forming an L, a 
 
 When the interferometer’s arms did not change length, both signals traveled equal distances, and no interference pattern was formed. Nevertheless, gravitational waves shrink and lengthen spacetime and therefore modify the distances traveled by the laser radiation in the arms of the interferometer. Under these conditions the component waves arrived out of phase and produced an interference pattern. The compressions and expansions of space-time generated the observed gravitational wave interference pattern so much expected (Figure 10.2).
 
-![Fig1](./figs/chap-10-sect-2-fig1.JPG){width="520"}
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-2-fig1.JPG?raw=true"> 
+</p>
 
 Source: Figure 3 taken from the document Popular information: The Nobel Prize in Physics 2017.
 
