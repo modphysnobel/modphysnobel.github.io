@@ -1,7 +1,7 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 12.3. **](./vol-III-chap-12-sect-3.md) 
+[**Previous: 12.3. Analysis of learning trajectories.**](./vol-III-chap-12-sect-3.md) 
 
 ***
 
