@@ -1,7 +1,7 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](./vol-II-chap-8-sect-3.md) 
+[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-3/) 
 
 ***
 
