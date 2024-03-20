@@ -68,8 +68,10 @@ This section deals with two issues that have been innovative and important in co
 	*Haroche´s experiments.* The experimental procedure for controlling single photons in a trap consist in three steps: (1) Rydberg atoms  are specially prepared in a cavity in vacuum and at a temperature of almost absolute zero;  (2) the Rydberg atoms interact with microwave photons inside a small cavity between two superconducting mirrors, and (3) the microwave photons trapped inside the cavity bounce back and forth for almost a tenth of a second before they are lost or absorbed. 
 
 	A Rydberg atom has electronically excited states quite close to ionization energy of the atom; this is the energy required to completely liberate an electron from the ionic core of an atom. When the Rydberg atom traverses the cavity, it interacts with the microwave photon and consequently the atom changes the phase of its quantum state. This phase shift can be measured when the atom exits the cavity, thereby revealing the presence or absence of an interaction with one photon inside the cavity. With no photon there is no phase shift. Many quantum manipulations can be performed with the trapped photons due to its long lifetime. (See Figure 11.1).
-	
-	![Fig1](./figs/chap-11-sect-2-fig1.jpg){width="520"}
+
+	<p align="center">
+	![Fig8](./figs/chap-11-sect-2-fig1.jpg){width="640"}
+	</p>
 
 	(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
@@ -78,8 +80,10 @@ This section deals with two issues that have been innovative and important in co
 	*Wineland´s experiments.* The experimental procedure for controlling single ions in a trap consist in the following: (1) electrically charged atoms (ions) were trapped by electric fields produced by electrodes, and (2) a laser suppressed the ion’s thermal motion in the trap and generated a coherent quantum superposition of two ion’s energy states: one state is in a lowest energy level and the other one is in a higher energy level excited by a laser pulse. (See Figure 11.2).
 
 	“A trapped ion has an oscillating movement, which is quantized at low temperature. An ion therefore has two sets of quantized levels: vibrational modes that characterize the motion in the trap (also called external states) and electronic levels that describe the internal quantum state of the ion. Individual ions can now be manipulated and observed in situ by using photons with only minimal interaction with the environment.”
-	
-	![Fig2](./figs/chap-11-sect-2-fig2.jpg){width="520"}
+
+	<p align="center">
+	![Fig8](./figs/chap-11-sect-2-fig2.jpg){width="640"}
+	</p>
 	
 	(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
