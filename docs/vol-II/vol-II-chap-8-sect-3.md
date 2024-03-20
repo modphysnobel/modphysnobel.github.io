@@ -279,6 +279,6 @@ Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
 
 ***
 
-[**Next: 9.1. From a theoretical proposition to an experimental demonstration.**](./vol-III-chap-9-sect-1.md)
+[**Next: 9.1. From a theoretical proposition to an experimental demonstration.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-1/)
 
 
