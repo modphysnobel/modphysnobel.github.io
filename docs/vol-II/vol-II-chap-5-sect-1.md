@@ -1,7 +1,7 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 4.3 Aspects and Factors distinguishing scientific theories.**](./vol-I-chap-4-sect-3.md) 
+[**Previous: 4.3 Aspects and Factors distinguishing scientific theories.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-3/) 
 
 ***
 
