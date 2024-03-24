@@ -101,26 +101,26 @@
 <!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center"> 
     Table 1.1. Timeline of ancient Greece 
         </th>
     </tr>
   <tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
   SOCIAL AND CULTURAL EVENTS
     </th>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 MATHEMATICS, ASTRONOMY 
 AND PHYSICS
     </th>
   </tr>
   <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
 		1.	The rise of Greece (1000 – 480)
 		</th>
     </tr>
   <tr>
-    <td>
+    <td >
     Foundation of Athens (1582) and Thebes (1313).<br>
     Siege of Troy (1192-1183).<br>
     Homer´s Iliad and Odyssey (around 840).<br>
@@ -136,7 +136,7 @@ AND PHYSICS
     </td>
     </tr>
     <tr>
-        <th colspan="2">2.	The Golden age (480 – 400)</th>
+        <th colspan="2" style="text-align: center">2.	The Golden age (480 – 400)</th>
     </tr>
   <tr>
     <td>
@@ -152,7 +152,7 @@ AND PHYSICS
     </td>
   </tr>
     <tr>
-        <th colspan="2">3.	 The decline and fall of Greek freedom and the helenistic dispersion (400 – 146)</th>
+        <th colspan="2" style="text-align: center">3.	 The decline and fall of Greek freedom and the helenistic dispersion (400 – 146)</th>
     </tr>
   <tr>
     <td>
