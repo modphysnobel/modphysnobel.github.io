@@ -40,7 +40,7 @@
 
 	According to Bernal (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
-<table cellspacing="0" cellpadding="0">
+<table width="100%">
 <tbody>
    <tr>
       <td>
