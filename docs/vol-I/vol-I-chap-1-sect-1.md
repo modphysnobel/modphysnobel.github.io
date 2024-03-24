@@ -91,6 +91,7 @@
   </tr>
    </tbody>
 </table> 
+
 (Images credit: CC Wikimedia Commons)
 
 **Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
