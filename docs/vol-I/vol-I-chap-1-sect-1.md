@@ -64,27 +64,27 @@
    </tr>
    </tr>
   <tr>
-    <td>
+    <td style="text-align: center">
     Pythagoras<br> 
     (570?-495?)
   </td>
-    <td>
+    <td style="text-align: center">
     Pericles<br> 
     (495-429)
   </td>
-     <td>
+     <td style="text-align: center">
     Socrates<br> 
     (469?-399)
   </td>
-    <td>
+    <td style="text-align: center">
     Plato<br> 
     (427-347)
   </td>
-     <td>
+     <td style="text-align: center">
     Aristotle<br> 
     (384-322)
   </td>
-    <td>
+    <td style="text-align: center">
     Alexander the Great<br> 
     (356-323)
   </td>
