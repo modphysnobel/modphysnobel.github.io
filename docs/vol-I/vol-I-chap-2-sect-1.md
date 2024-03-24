@@ -110,14 +110,14 @@
 	<!-- HTML Table 1.1.1-->
 	<table width="100%">
 	<tr>
-	<td width="50%" style="text-align: center">
+	<th width="50%" style="text-align: center">
 	<figure markdown>
 	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="800"}
 	</figure>
-	</td>
-	<td width="50%" style="text-align: center">
+	</th>
+	<th width="50%" style="text-align: center">
 	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="300"}
-	</td>
+	</th>
 	</tr>
 	</table>
 
@@ -149,16 +149,16 @@
 	<!-- HTML Table 1.1.1-->
 	<table width="100%">
 	<tr>
-	<td width="50%">
+	<th width="50%">
 	<figure markdown>
 	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="480" }
 	</figure>
-	</td>
-	<td width="50%">
+	</th>
+	<th width="50%">
 	<figure markdown>
 	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="480" }
 	</figure>
-	</td>
+	</th>
 	</tr>
 	</table>
 	
