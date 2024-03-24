@@ -24,18 +24,18 @@
 <!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
-        <th colspan="3">
+        <th colspan="3" style="text-align: center">
     Table 2.1. Basic properties of the electron
         </th>
     </tr>
   <tr>
-    <th width="20%">
+    <th width="20%" style="text-align: center">
   Communication domains
     </th>
-    <th width="40%">
+    <th width="40%" style="text-align: center">
 Experiments by Thomson
     </th>
-<th width="40%">
+<th width="40%" style="text-align: center">
   Experiments by Millikan
     </th>
   </tr>
@@ -108,18 +108,18 @@ measuring three distances ($l$, $s$, and $d$) and two field intensities (E and B
 <!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
-        <th colspan="3">
+        <th colspan="3" style="text-align: center">
     Table 2.2. Interacting electrons
         </th>
     </tr>
   <tr>
-    <th width="20%">
+    <th width="20%" style="text-align: center">
   Communication domains
     </th>
-    <th width="40%">
+    <th width="40%" style="text-align: center">
 Experiments by Franck and Hertz
     </th>
-<th width="40%">
+<th width="40%" style="text-align: center">
   Experiments by Condon
     </th>
   </tr>
