@@ -184,11 +184,11 @@ To calculate average values of quantities related to physical observables, inter
 
 	In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
-<p align="center">
+
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
-   <th colspan="3">
+   <th colspan="3" style="text-align: center">
     Box 7.1. Concepts in Perrin´s Lecture.
     </th>
   </tr>
@@ -232,7 +232,6 @@ To calculate average values of quantities related to physical observables, inter
 </tr>
    </tbody>
 </table> 
-</p>
 
 !!! bug "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
 
