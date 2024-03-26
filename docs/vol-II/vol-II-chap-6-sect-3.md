@@ -35,11 +35,11 @@ Nobel Lecture, *The structure of the atom* by Bohr.
 - The natural system of the elements 
 - X-ray spectra and atomic constitution
 
-<p align="center">
+
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
-   <th colspan="3">
+   <th colspan="3" style="text-align: center">
     Box 6.1. Concepts in Bohr´s Lecture
     </th>
   </tr>
@@ -92,7 +92,7 @@ Nobel Lecture, *The structure of the atom* by Bohr.
 </tr>
    </tbody>
 </table> 
-</p>
+
 
 !!! bug "Box 6.2. Issues requiring explaining models in Bohr´s Lecture."
 
@@ -118,11 +118,10 @@ WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an e
 Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 
 
-<p align="center">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
-   <th colspan="3">
+   <th colspan="3" style="text-align: center">
     Box 6.3. Concepts in Lamb´s Lecture
     </th>
   </tr>
@@ -163,7 +162,6 @@ Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 </tr>
    </tbody>
 </table> 
-</p>
 
 !!! bug "Box 6.4. Issues requiring explaining models in Lamb´s Lecture."
 
@@ -191,11 +189,10 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
 - The Phonon Maser
 - Concluding Remarks
 
-<p align="center">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
-   <th colspan="3">
+   <th colspan="3" style="text-align: center">
     Box 6.5. Concepts in Townes´ Lecture
     </th>
   </tr>
@@ -245,7 +242,6 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
 </tr>
    </tbody>
 </table>
-</p> 
 
 !!! bug "Box 6.6. Issues requiring explaining models in Townes´ Lecture."
 
@@ -281,11 +277,10 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 - Simplifying spectra by laser labeling
 - Other methods
 
-<p align="center">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
-   <th colspan="3">
+   <th colspan="3" style="text-align: center">
     Box 6.7. Concepts in Schawlow´s Lecture
     </th>
   </tr>
@@ -319,7 +314,6 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 </tr>
    </tbody>
 </table> 
-</p>
 
 !!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
