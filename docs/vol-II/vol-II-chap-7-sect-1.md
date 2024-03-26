@@ -100,22 +100,21 @@ To calculate average values of quantities related to physical observables, inter
 	
 	It was estimated that the Brownian particle received the order of $10^{14}$ collisions per second from the water molecules in the surrounding media. By substituting his measurements in Einstein's equation, Perrin obtained the value of Avogadro's number ($N_A$). The following Table 7.1 contains the values obtained by Einstein and by Perrin; numerical values in the third column are multiplied by the factor $10^{23}$. 
 
-	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
-	<th colspan="3">
+	<th colspan="3" style="text-align: center">
 		Table 7.1. Values of Avogadro's number NA calculated by Einstein and measured by Perrin.
 	</th>
 	</tr>
 	<tr>
-		<td>
+		<td style="text-align: center">
 	AUTHOR
 	</td>
-		<td>
+		<td style="text-align: center">
 	PUBLICATION
 	</td>
-		<td>
+		<td style="text-align: center">
 	$N_A$
 		</td>
 	</tr>
@@ -165,7 +164,6 @@ To calculate average values of quantities related to physical observables, inter
 	</tr>
 	</tbody>
 	</table> 
-	</p>
 
 	(Source: information obtained from Pais´ book.)
 
