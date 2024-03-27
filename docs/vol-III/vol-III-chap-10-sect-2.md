@@ -12,10 +12,10 @@ The quanta associated with gravitational, electromagnetic, and strong interactio
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Electomagnetic waves
         </th>
-     <th>
+     <th style="text-align: center">
 Gravitational waves
         </th>
         </tr>

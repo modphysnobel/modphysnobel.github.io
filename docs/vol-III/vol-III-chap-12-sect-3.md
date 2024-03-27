@@ -12,18 +12,18 @@ Unlike what is simple to learn and has been previously prescribed, learning the 
 
 <table width="100%">
     <tr>
-        <th colspan="3">
+        <th colspan="3" style="text-align: center">
     Table 12.1. Differences among prescriptive learning and emergent learning.
         </th>
     </tr>
   <tr>
-    <th width="20%">
+    <th width="20%" style="text-align: center">
   ELEMENTS
     </th>
-    <th width="40%">
+    <th width="40%" style="text-align: center">
 PRESCRIPTIVE
     </th>
- <th width="40%">
+ <th width="40%" style="text-align: center">
 EMERGENT
     </th>
     </tr>
@@ -108,18 +108,18 @@ EMERGENT
 
 	<table width="100%">
     <tr>
-        <th colspan="3">
+        <th colspan="3" style="text-align: center">
 	Table 12.2. Publications during the “Annus mirabillis” of 1905
         </th>
     </tr>
 	<tr>
-    <th width="20%">
+    <th width="20%" style="text-align: center">
 	DATE
     </th>
-    <th width="40%">
-	TÍTLE
+    <th width="40%" style="text-align: center">
+	TITLE
     </th>
-	<th width="40%">
+	<th width="40%" style="text-align: center">
 	CONTRIBUTIONS
     </th>
     </tr>
@@ -202,15 +202,15 @@ EMERGENT
 	
 	<table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
 	Table 12.3. Years between prediction and observation.
         </th>
     </tr>
 	<tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	PREDICTED PHENOMENON 
     </th>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	YEARS
     </th>
     </tr>
