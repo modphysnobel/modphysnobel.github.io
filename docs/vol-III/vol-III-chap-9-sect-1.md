@@ -82,7 +82,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </th>
         </tr>
      <tr>
-    <td>
+    <td rowspan=3>
     electron
     </td>
     <td>
@@ -94,9 +94,6 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </tr>
     <tr>
     <td>
-    electron
-    </td>
-    <td>
     1.2  Å
     </td>
      <td>
@@ -105,9 +102,6 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </tr>
     <tr>
     <td>
-    electron
-    </td>
-    <td>
     0.12 Å
     </td>
      <td>
@@ -115,7 +109,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </td>
     </tr>
       <tr>
-    <td>
+    <td rowspan=3>
     proton
     </td>
     <td>
@@ -127,9 +121,6 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </tr>
      <tr>
     <td>
-    proton
-    </td>
-    <td>
 	28.6 F
     </td>
      <td>
@@ -138,9 +129,6 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </tr>
      <tr>
     <td>
-    proton
-    </td>
-    <td>
 	0.73 F
     </td>
      <td>
@@ -148,7 +136,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </td>
     </tr>
     <tr>
-    <td>
+    <td rowspan=2>
 	neutron
     </td>
     <td>
@@ -159,9 +147,6 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </td>
     </tr>
     <tr>
-    <td>
-	neutron
-	</td>
     <td>
 	9.0 F
     </td>
