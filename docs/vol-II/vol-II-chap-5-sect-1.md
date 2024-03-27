@@ -68,8 +68,6 @@ Key information: In 1811 Amadeo Avogadro (1776-1856) introduced the term molecul
 
 	The founding fathers of Thermodynamics are shown in next Figure 5.1.
 
-	prueba 2
-
 	<div style="text-align:center;">
 	<table>
 	<tbody>
