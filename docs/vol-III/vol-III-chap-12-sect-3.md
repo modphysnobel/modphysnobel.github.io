@@ -200,7 +200,8 @@ EMERGENT
 
 	(2) *Leadership in theoretical physics*. . His realistic position regarding the existence of atoms and molecules remained against the opinion of many physicists in the early twentieth century. He convinced through the explanatory and predictive value of his theories. As an example of this capacity Table 12.3 indicates the number of years elapsed between five Einstein theoretical prediction and the experimental observation or production of the phenomenon in consideration.
 	
-	<table width="100%">
+    <div style="text-align:center;">
+	<table>
     <tr>
         <th colspan="2" style="text-align: center">
 	Table 12.3. Years between prediction and observation.
@@ -255,6 +256,7 @@ EMERGENT
     </td>
 	</tr>
 	</table>
+    </div> 
 
 	(Source: Rigden. *Einstein 1905: The Standard of Greatness.*)
 
