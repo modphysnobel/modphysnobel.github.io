@@ -58,6 +58,7 @@ Michelson designed the interferometer and assumed that the direction of the "eth
 
 The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted of a light beam that leaves a point A and then in B is divided by means of a semitransparent mirror into two perpendicular beams. These beams were then reflected in two mirrors (C) to rejoin in (D) after traveling equal distances but in different directions when they were decomposed in the mirror B:  one ray always traveled in the vertical direction, while the other ray traveled part in the vertical direction and part then in the horizontal one.
 
+<div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -70,6 +71,7 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
    </tr>
    </tbody>
 </table> 
+</div>
 
 (Image credit: CC Wikimedia Commons)
 
