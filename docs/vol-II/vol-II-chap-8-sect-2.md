@@ -34,7 +34,7 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 
 	$E_c = ½mv^2=eV_0=hf-φ$
 
-	<p align="center">
+	<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -47,7 +47,7 @@ Despite the existence of the first law of Thermodynamics establishing the conser
 	</tr>
 	</tbody>
 	</table> 
-	</p>
+	</div> 
 
 	(Image credit: CC Wikimedia Commons)
 
