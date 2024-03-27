@@ -44,6 +44,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 
 	For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
+	<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -86,9 +87,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</div> 
 
-
-	
+	<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -130,8 +131,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
+	</div> 
 
-
+	<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -186,8 +188,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	
+	</div> 
 
+	<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -232,7 +235,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	
+	</div>
 
 	The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
