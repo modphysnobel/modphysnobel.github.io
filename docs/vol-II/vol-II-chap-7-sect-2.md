@@ -6,7 +6,7 @@
 
 ## 7.2.  Statistical mechanical calculations of the specific heat in solids.
 
-This section contains  three examples of the calculation of the thermodynamic quantity known as specific heat at constant volume ($C_V$), following the procedures indicated by statistical mechanics. We analyze three models of a solid which assume that it is composed by: (1) free particles, (2) harmonic oscillators quantized with the same frequency, and (3) harmonic oscillators quantized with a frequency distribution. 
+This section contains  three examples of the calculation of the thermodynamic quantity known as specific heat at constant volume ($C_V$), following the procedures indicated by statistical mechanics. We analyze three models of a solid which assume that it is composed by: (1) free particles, (2) harmonic oscillators quantized with the same frequency, and (3) harmonic oscillators quantized with a frequency distribution.
 
 The specific heat (C) is a thermodynamic quantity of an extensive nature: it increases with the size of the system and depends on its internal structure. It is defined as the quotient of the differential increase in the amount of heat (δQ) divided by the differential increase in temperature (δT): $C = δQ/δT$.
 
@@ -48,25 +48,24 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	The following Table 7.2 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
-	<p align="center">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
-	<th colspan="4">
+	<th colspan="4" style="text-align: center">
 	Table 7.2. Experimental values measured by Dulong and Petit in 1819.
 	</th>
 	</tr>
 	<tr>
-	<td>
+	<td style="text-align: center">
 	Material
 	</td>
-	<td>
+	<td style="text-align: center">
 	$C_V$
 	</td>
-	<td>
+	<td style="text-align: center">
 	$P_R$
 	</td>
-	<td>
+	<td style="text-align: center">
 	Constant
 	</td>
 	</tr>
