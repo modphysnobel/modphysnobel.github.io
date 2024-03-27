@@ -120,7 +120,7 @@ To calculate average values of quantities related to physical observables, inter
 		</td>
 	</tr>
 	<tr>
-		<td  rowspan=4>
+		<td>
 	Einstein
 	</td>
 		<td>
