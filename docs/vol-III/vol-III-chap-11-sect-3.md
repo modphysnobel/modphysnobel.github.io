@@ -23,7 +23,7 @@ Geim starts his Nobel Lecture with this remark: “I hope that the reader will e
 
 <table width="100%">
     <tr>
-    <th style="text-align: center">
+    <th colspan="6" style="text-align: center">
     Table 11.1. Zombie management.
         </th>
      </tr>
