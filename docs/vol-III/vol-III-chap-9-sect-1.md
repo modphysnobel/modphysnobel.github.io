@@ -65,18 +65,18 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	<table width="100%">
 	<tr>
-	<th colspan="3">
+	<th colspan="3" style="text-align: center">
 	Table 9.1. Values of de Broglie wavelengths
 	</th>
 	</tr>
 		<tr>
-		<th>
+		<th style="text-align: center">
 		PARTICLE
 		</th>
-		<th>
+		<th style="text-align: center">
 	WAVELENGHT (λ)
         </th>
-    <th>
+    <th style="text-align: center">
 	ENERGY
     </th>
         </tr>
