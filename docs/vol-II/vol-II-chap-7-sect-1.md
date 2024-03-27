@@ -120,7 +120,7 @@ To calculate average values of quantities related to physical observables, inter
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td  rowspan=4>
 	Einstein
 	</td>
 		<td>
@@ -132,9 +132,6 @@ To calculate average values of quantities related to physical observables, inter
 	</tr>
 	<tr>
 		<td>
-	Einstein
-	</td>
-		<td>
 	Appendix in the article published in January 1906.
 	</td>
 		<td>
@@ -142,9 +139,6 @@ To calculate average values of quantities related to physical observables, inter
 		</td>
 	</tr>
 	<tr>
-		<td>
-	Einstein
-	</td>
 		<td>
 	Correction of an error in the previous calculation and a new result published in 1907.
 	</td>
