@@ -35,7 +35,7 @@ Nobel Lecture, *The structure of the atom* by Bohr.
 - The natural system of the elements 
 - X-ray spectra and atomic constitution
 
-
+<div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -92,6 +92,7 @@ Nobel Lecture, *The structure of the atom* by Bohr.
 </tr>
    </tbody>
 </table> 
+</div> 
 
 
 !!! bug "Box 6.2. Issues requiring explaining models in Bohr´s Lecture."
