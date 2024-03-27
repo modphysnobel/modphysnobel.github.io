@@ -44,10 +44,9 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 
 	For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
-	<p align="center">
 	<table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
     Table 8.1. The space of Earth.
         </th>
     </tr>
@@ -59,10 +58,10 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </td>
         </tr>
         <tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	Conceptual developments
     </th>
-     <th width="50%">
+     <th width="50%" style="text-align: center">
 	Technological applications
     </th>
         </tr>
@@ -87,12 +86,12 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	</p>
 
-	<p align="center">
+
+	
 	<table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
     Table 8.2. The space of the Territory.
         </th>
     </tr>
@@ -105,10 +104,10 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </td>
         </tr>
         <tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	Conceptual developments
     </th>
-	<th width="50%">
+	<th width="50%" style="text-align: center">
 	Technological applications
     </th>
         </tr>
@@ -131,12 +130,11 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	</p>
 
-	<p align="center">
+
 	<table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
     Table 8.3. The space of the Merchandises.
         </th>
     </tr>
@@ -149,10 +147,10 @@ Anthropological spaces do not exactly correspond to specific time periods descri
         </td>
         </tr>
         <tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	Conceptual developments
     </th>
-     <th width="50%">
+     <th width="50%" style="text-align: center">
 	Technological applications
     </th>
         </tr>
@@ -188,27 +186,26 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	</p>
+	
 
-	<p align="center">
 	<table width="100%">
     <tr>
-        <th colspan="2">
+        <th colspan="2" style="text-align: center">
     Table 8.4. The space of the Knowledge.
         </th>
 		</tr>
 	<tr>
-     <td colspan="2">
+     <td colspan="2" style="text-align: center">
 	• Referred to equipping oneself with the institutional, technical and conceptual instruments to make information navigable. <br>
 	• Everyone can locate themselves and recognize others according to interests, competences, projects, means and mutual identities in the new space. <br>
 	• Numerical networks, virtual universes and artificial life and intelligence.
         </td>
         </tr>
         <tr>
-    <th width="50%">
+    <th width="50%" style="text-align: center">
 	Conceptual developments
     </th>
-     <th width="50%">
+     <th width="50%" style="text-align: center">
 	Technological applications
     </th>
         </tr>
@@ -235,7 +232,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
     </td>
     </tr>
 	</table>
-	</p>
+	
 
 	The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
