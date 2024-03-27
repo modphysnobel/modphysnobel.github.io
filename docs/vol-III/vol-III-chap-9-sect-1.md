@@ -63,6 +63,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
 
 	To have an idea of the order of magnitude of the wavelength assigned by de Broglie to particles previously considered as corpuscles, see the following table Table 9.1. The second column shows the values of $λ$ measured in Ångstroms ($1Å = 10^{-10} m$) or in Fermis ($1F = 10^{-5}Å = 10^{-15} m$). Last column indicates the value of the energy with which the electrons are accelerated, expressed in electron-volts (eV) or in the corresponding temperature in Kelvin degrees (K).
 
+    <div style="text-align:center;">
 	<table width="100%">
 	<tr>
 	<th colspan="3" style="text-align: center">
@@ -180,6 +181,7 @@ The quantization relationship $E = nhν$ connects the concept of energy (E), cha
     </td>
     </tr>
 	</table>
+    </div> 
 
 	(Source: taken from Table 2.1 (p. 65) in French and Taylor (1978).)
 
