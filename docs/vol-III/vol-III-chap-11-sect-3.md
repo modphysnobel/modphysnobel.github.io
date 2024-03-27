@@ -28,22 +28,22 @@ Geim starts his Nobel Lecture with this remark: “I hope that the reader will e
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -117,22 +117,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -206,22 +206,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -315,22 +315,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -385,22 +385,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -454,22 +454,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -523,22 +523,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -592,22 +592,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -661,22 +661,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -790,22 +790,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -999,22 +999,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1128,22 +1128,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1197,22 +1197,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1386,22 +1386,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1515,22 +1515,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1644,22 +1644,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1773,22 +1773,22 @@ X
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
