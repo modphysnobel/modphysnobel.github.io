@@ -147,7 +147,7 @@ To calculate average values of quantities related to physical observables, inter
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td rowspan=1> 
 	Perrin
 	</td>
 		<td>
