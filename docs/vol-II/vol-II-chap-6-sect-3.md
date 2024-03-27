@@ -118,7 +118,7 @@ WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an e
 
 Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 
-
+<div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -163,6 +163,7 @@ Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
 </tr>
    </tbody>
 </table> 
+</div> 
 
 !!! bug "Box 6.4. Issues requiring explaining models in Lamb´s Lecture."
 
@@ -190,6 +191,7 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
 - The Phonon Maser
 - Concluding Remarks
 
+<div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -243,6 +245,7 @@ Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Town
 </tr>
    </tbody>
 </table>
+</div> 
 
 !!! bug "Box 6.6. Issues requiring explaining models in Townes´ Lecture."
 
@@ -278,6 +281,7 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 - Simplifying spectra by laser labeling
 - Other methods
 
+<div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
 <tbody>
    <tr>
@@ -315,6 +319,7 @@ Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
 </tr>
    </tbody>
 </table> 
+</div> 
 
 !!!bug "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
 
