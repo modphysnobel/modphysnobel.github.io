@@ -43,7 +43,7 @@
 
 	A hollow opaque object functions as a blackbody when its interior walls are painted black and a small hole is drilled into it. All radiation that enters through the hole is absorbed and hardly leaves it. If this hollow cavity is placed inside an oven with controllable temperature, the intensity of the electromagnetic radiation emitted when the cavity is heated can be measured by an external optical device. In this case, for different furnace temperatures the intensity of the radiation measured with a spectrometer is a function of its wavelength, (Figure 5.4).
 
-	<!-- HTML Table 1.1.1-->
+	<div style="text-align:center;">
 	<table width="100%">
 	<tr>
 		<th width="50%">
@@ -54,6 +54,7 @@
 		</th>
 	</tr>
 	</table>
+	</div> 
 
 	(Images credit: CC Wikimedia Commons)
 
@@ -91,7 +92,7 @@
 
 	**Table 5.1.** Equations of different laws concerning the black body radiation.
 
-	<p align="center">
+	<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -163,7 +164,7 @@
 	<tr>
 	</tbody>
 	</table>
-	</p>
+	</div> 
 
 	<p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/RWP-comparison.svg" width=480 align=center>
