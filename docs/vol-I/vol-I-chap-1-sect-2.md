@@ -62,7 +62,6 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 
 	As a part of a demystification and rationalization process of the social life, the agora was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions. See Figure 1.4.
 
-<!-- HTML Table 1.1.1-->
 <table width="100%">
   <tr>
     <td width="50%" style="text-align: center">
@@ -81,6 +80,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
     </td>
   </tr>
 </table>
+
 (Images credit: CC Wikimedia Commons)
 
 **Figure 1.4.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
