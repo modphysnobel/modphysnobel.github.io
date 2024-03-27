@@ -48,6 +48,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 
 	The following Table 7.2 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
+	<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
@@ -133,7 +134,7 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	</tr>
 	</tbody>
 	</table> 
-	</p>
+	</div> 
 
 	(Source: article published by Dulong and Petit (1819).)
 
