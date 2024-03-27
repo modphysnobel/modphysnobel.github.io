@@ -23,7 +23,7 @@ Geim starts his Nobel Lecture with this remark: “I hope that the reader will e
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.1. Zombie management.
         </th>
      </tr>
@@ -112,7 +112,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
    Table 11.2. One man’s junk, another man’s gold.
         </th>
      </tr>
@@ -201,7 +201,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.3. Dutch comfort
         </th>
      </tr>
@@ -310,7 +310,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.4. A spell of levity.
         </th>
      </tr>
@@ -380,7 +380,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.5. Friday night experiments.
         </th>
      </tr>
@@ -449,7 +449,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.6. Better to be wrong than boring.
         </th>
      </tr>
@@ -518,7 +518,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.7. The Mancunian way.
         </th>
      </tr>
@@ -587,7 +587,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.8. Three little clouds.
         </th>
      </tr>
@@ -656,7 +656,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.9. Legend of a Scotch tape.
         </th>
      </tr>
@@ -785,7 +785,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.10. Eureka moment.
         </th>
      </tr>
@@ -994,7 +994,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.11. Defiant existence.
         </th>
      </tr>
@@ -1123,7 +1123,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.12. Requiem for brilliant ideas.
         </th>
      </tr>
@@ -1192,7 +1192,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.13.  Graphene incarnations.
         </th>
      </tr>
@@ -1381,7 +1381,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
     Table 11.14. Πλανητη Graphene.
         </th>
      </tr>
@@ -1510,7 +1510,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
    Table 11.15. Magic of flat Carbon.
         </th>
      </tr>
@@ -1639,7 +1639,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
    Table 11.16. Ode to one.
         </th>
      </tr>
@@ -1768,7 +1768,7 @@ X
 
 <table width="100%">
     <tr>
-    <th>
+    <th style="text-align: center">
    Table 11.17. To colleagues and friends.
         </th>
      </tr>
