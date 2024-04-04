@@ -7,21 +7,21 @@
 
 ## 3.2.  Generation of a mental Global Positioning System (GPS).
 
-!!! info "Design and use of maps."
+**Design and use of maps.**
 
-	Maps are useful for understanding the meaning of position and direction: where are we and in what directions shall we move. A map is a schematic graphical bidimensional representation of a three-dimensional space including designs and drawings of places, paths, structures, and borders where objects are located and oriented trajectories can be tracked. Maps are useful tools for navigation in different kinds of environments. We need to read and interpret maps as complete and clear reference systems for being informed about positions, distances, orientations and motions.
+Maps are useful for understanding the meaning of position and direction: where are we and in what directions shall we move. A map is a schematic graphical bidimensional representation of a three-dimensional space including designs and drawings of places, paths, structures, and borders where objects are located and oriented trajectories can be tracked. Maps are useful tools for navigation in different kinds of environments. We need to read and interpret maps as complete and clear reference systems for being informed about positions, distances, orientations and motions.
  
-	A concept of a cognitive map as a conceptual representation of place in the brain was proposed in 1948 by Edward Tolman (1886 - 1959) who studied how animals learn to navigate by exploring their environment. More recently, John O´Keefe, May-Britt Moser and Edvard I. Moser received the 2014 Nobel Prize in Physiology or Medicine. Their experiments demonstrated that inside the brain a sort of inner Global Positioning System (GPS) functions as a neurological network of nervous cells for the operation of higher cognitive functions. 
+A concept of a cognitive map as a conceptual representation of place in the brain was proposed in 1948 by Edward Tolman (1886 - 1959) who studied how animals learn to navigate by exploring their environment. More recently, John O´Keefe, May-Britt Moser and Edvard I. Moser received the 2014 Nobel Prize in Physiology or Medicine. Their experiments demonstrated that inside the brain a sort of inner Global Positioning System (GPS) functions as a neurological network of nervous cells for the operation of higher cognitive functions. 
 
-	It is quite informative to consider the learning and research personal trajectories of these laureates. See their documents called Biographical:
+It is quite informative to consider the learning and research personal trajectories of these laureates. See their documents called Biographical:
 
-	MLA style: John O’Keefe – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. https://www.nobelprize.org/prizes/medicine/2014/okeefe/biographical/
+MLA style: John O’Keefe – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. https://www.nobelprize.org/prizes/medicine/2014/okeefe/biographical/
 
-	MLA style: May-Britt Moser – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/biographical/
+MLA style: May-Britt Moser – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/biographical/
 
-	MLA style: Edvard Moser – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/biographical/>
+MLA style: Edvard Moser – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/biographical/>
 
-	In what follows, we quote the document WORK describing the main contributions of each one of the laureates and describe the content of his or her Nobel Lecture by indicating their corresponding subtitles. We present in three Appendices more detailed descriptions of their Nobel Lectures: Appendix 2A contains two parts: the first one related to the Accepted knowledge or questions under discussion in O´Keefe´s time, and the second one concerning O´Keefe main contributions or explanations reported in his Lecture. Next two Appendices contain excerpts of the other two Nobel Lectures: Appendix 2B corresponds to May-Britt Moser and Appendix 2C to Edvard I. Moser.
+In what follows, we quote the document WORK describing the main contributions of each one of the laureates and describe the content of his or her Nobel Lecture by indicating their corresponding subtitles. We present in three Appendices more detailed descriptions of their Nobel Lectures: Appendix 2A contains two parts: the first one related to the Accepted knowledge or questions under discussion in O´Keefe´s time, and the second one concerning O´Keefe main contributions or explanations reported in his Lecture. Next two Appendices contain excerpts of the other two Nobel Lectures: Appendix 2B corresponds to May-Britt Moser and Appendix 2C to Edvard I. Moser.
 
 ### 2014 Nobel Laurates in Physiology or Medicine: John O´Keefe, May-Britt Moser and Edvard I. Moser.
 
