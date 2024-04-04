@@ -33,7 +33,7 @@
 
 	**Section 4.3.  Aspects and Factors distinguishing scientific theories.**		
 
-	We consider the process *Aspects and Factors distinguishing scientific theories* and apply it to the descriptions of motion as proposed by Kepler, Galileo, Newton, and Einstein.
+	We consider how the *Aspects and Factors distinguishing scientific theories* describe the theories explaining motion as formulated by Kepler, Galileo, Newton, and Einstein.
 
 ## 4.1.  On Euclidean geometry and non-Euclidean geometries.
 
