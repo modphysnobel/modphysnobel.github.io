@@ -30,7 +30,7 @@
 
 	**Section 1.3. Context learning for conceptualizing cognitive spaces.**
 
-	We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron.
+	We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Heron. Context learning requires three steps: exploring problematic situations, analyzing leading questions, and performing learning and evaluation activities.
 
 ## 1.1.	Mathematics and science in ancient Greece.
 
