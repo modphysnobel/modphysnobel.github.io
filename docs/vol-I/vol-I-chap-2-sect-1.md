@@ -42,7 +42,7 @@
 
 ## 2.1. Regions for doing experiments.
 
-**Rules of the game to understand nature.**
+### Rules of the game to understand nature.
 
 According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
@@ -52,7 +52,7 @@ According to Richard Feynman (1963), Physics deals with the nature of things as 
 
 3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.
 
-**Interacting regions of the experimental setting.**
+### Interacting regions of the experimental setting.
 
 Experimenting requires concrete questions to be asked to nature and solved by human interactions with apparatuses and devices. The physicists ask questions and make plans to prepare scenarios for obtaining answers: the experimental settings. Those are the conditions where the interactions with nature begin to produce, control, and detect what will be observed, measured, registered, and interpreted. Data will be obtained, and conceptual relationships will be tested, changed, or formulated under new conditions or for the first time. This might imply new descriptions, predictions, calculations or explanations of concepts, models, laws, or theories. This is the way for learning Physics.
 
