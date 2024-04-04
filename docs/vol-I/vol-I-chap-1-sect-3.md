@@ -12,7 +12,7 @@
 
 	In this section we deal with the procedure named *Context learning for conceptualizing cognitive spaces*. The word context,( *contexto* in Spanish), comes from Latin *contextus*, derived from the verb *téxere*, to knitt (*tejer* in Spanish). Playing with the words *con-texto* is what comes with the text. In connection to writings, and not to textiles, it means the conducting threads that communicate sense and meaning in written texts. It refers to material, human, and social conditions framing the generation of products or services.
 
-	Context learning provides the texture of importance in organizing knowledge for what is thought and learnt. It implies both the conceptual structure of the subject matter and the operational criteria for managing contents, procedures, and resources. Context learning is a practical procedure for applying cognitive spaces by exploring problematic situations, analyzing leading questions and performing learning and evaluation activities. The steps required for context learning are the following:
+	Context learning is important in organizing knowledge for what is thought and learnt. It implies both the conceptual structure of the subject matter and the operational criteria for managing contents, procedures, and resources. Context learning is a practical procedure for applying cognitive spaces by exploring problematic situations, analyzing leading questions and performing learning and evaluation activities. The steps required for context learning are the following:
 
 	1. Describe a **problematic situation** corresponding to a cognitive challenge to be understood and solved. 
 
