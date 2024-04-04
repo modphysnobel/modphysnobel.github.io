@@ -1,4 +1,4 @@
-# Modern Physics through Nobel Prizes
+# Modern Physics by exploring Nobel Prizes
 
 <img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
 
