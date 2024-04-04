@@ -23,7 +23,7 @@
 
 	**Section 2.1. Regions for doing experiments.**
 
-	We quote Richard Feynman who explains what Physics is about and what are the rules for applying the scientific method. Then we describe the regions required in experimental activities: *preparation* when the physical system in organized according to some initial conditions; *transformation* when specific interactions are produced, observed and measured, and finally, *detection and measurement* when results of those interactions are registered and interpreted.
+	We quote Richard Feynman who explains what Physics is about and what are the rules for applying the scientific method. Then we describe the regions required in experimental activities: *preparation* when the physical system in organized according to some initial conditions; *transformation* when specific interactions are produced, observed and represented, and finally, *detection and measurement* when results of those interactions are quantified and interpreted.
 
 	We analyze what are those three regions in four experiments characterizing critical properties of the electron: the experiments performed by Joseph John Thomson (quantization of the electron mass and determination of its relation charge/mass), by Robert Andrews Millikan (quantization of the electron charge), by James Franck and Gustav Ludwig Hertz (quantization of the electron energy levels) and by Arthur Holly Compton (a relativistic collision of an electron with an incoming photon).
 
