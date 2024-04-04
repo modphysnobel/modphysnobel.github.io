@@ -7,19 +7,19 @@
 
 ## 1.2.	Conceptualizations of spaces and quantum statistics.
 
-**Conceptual developments in ancient Greece.**
+### Conceptual developments in ancient Greece.
 	
- The first part of this section is based on the conference *Géométrie et astronomie sphérique dans la première cosmologie grecque* by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: 
+The first part of this section is based on the conference *Géométrie et astronomie sphérique dans la première cosmologie grecque* by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: 
 	
 (1) the building of circular spaces in family life and community (the reference is made to the philosopher Pherecydes, the poet Homer, the historian and geographer Herodotus and the architect Hippodamus), and 
 	
 (2) the concept of circularity in the definition of astronomical spaces (reference is made to the poet and philosopher Hesiod and to the philosopher, geographer and physicist Anaximander).
 
-**Building circular spaces according to political organizations.**
-	
+### Building circular spaces according to political organizations.
+
 Before political institutions were established in Greece, the highest level in the social organization was occupied by the king-priest. The entire population was always under conditions of domination and submission. There were no spaces for communications. Public affairs were not discussed, they were imposed. However, laws and rules were promulgated and made public in written.
 
-### Pherecydes of Syros (580 BC – 520 BC).
+#### Pherecydes of Syros (580 BC – 520 BC).
 
 <figure markdown>
   ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="300" }
@@ -30,7 +30,7 @@ Before political institutions were established in Greece, the highest level in t
 
 When Greek cities were built (_the polis_) writing was used as a transforming instrument that made public private issues. Probably it was Pherecydes of Syros (580 BC – 520 BC) the first writer to publish a philosophical work in prose. He wrote books for transforming private knowledges into public possibilities for discussion.
 
-### Herodotus of Halicarnassus (484 BC- 425 BC).
+#### Herodotus of Halicarnassus (484 BC- 425 BC).
 
 <figure markdown>
   ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="300" }
@@ -40,7 +40,7 @@ When Greek cities were built (_the polis_) writing was used as a transforming in
 
 Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Polycrates of Samos died, his successor asked all the citizens to meet in an assembly and informed them that he will behave in a democratic way in total disagreement with his predecessor.
 
-### Homer (VIII century).
+#### Homer (VIII century).
 
 <figure markdown>
   ![Homer](https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg){ width="300" }
@@ -50,7 +50,7 @@ Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Pol
 
 Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses and Penelope, was worried because many pretenders to the throne were harassing his mother. He asked soldiers to protect her by forming an agora (Greek word for an assembly). It is attributed to the same writer the use of the word _ageirien laon_, that means to congregate the army.
 
-### Hippodamus of Miletus (498 BC- 408 BC).
+#### Hippodamus of Miletus (498 BC- 408 BC).
 
 <figure markdown>
   ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="300" }
@@ -87,7 +87,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 
 **Figure 1.4.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
 
-**Astronomical and geometrical spaces.**
+### Astronomical and geometrical spaces.
 
 According to Vernant, the new image of the democratic Greek society went in parallel with a new image of the astronomical and geometrical spaces. This conceptual change implied overcoming astronomical Babylonian ideas as well as eliminating myths about the form of the Earth.
 
@@ -95,7 +95,7 @@ Astronomy in Babylon characterized a religion believing that stars were diviniti
 
 However, Greek ancient astronomy was looking for explanations about the structure of the world without appeal to divinities nor ritual ceremonies, although it was full of myths.
 
-### Hesiod of Askra, Thebes (nearby 800 BC).
+#### Hesiod of Askra, Thebes (nearby 800 BC).
 
 <figure markdown>
   ![Hesiod of Askra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg){ width="300" }
@@ -104,7 +104,7 @@ However, Greek ancient astronomy was looking for explanations about the structur
 
 Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatise describing the origin of gods. According to him the Earth was a vessel whose interior contained a structured world enclosed by Zeus to avoid the perception of light in the disordered world: at the upper level lived Zeus and immortal gods, then the human beings and downward death and underground gods.
 
-### Anaximander of Miletus, Ionia, (619 – 546).
+#### Anaximander of Miletus, Ionia, (619 – 546).
 
 <figure markdown>
   ![Anaximander of Miletus](https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg){ width="300" }
@@ -114,7 +114,7 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
 
 
-**Cognitive spaces in quantum statistics: fermions or bosons.**
+### Cognitive spaces in quantum statistics: fermions or bosons.
 	
 The notion of quantum statistics is now analyzed by looking at two Physics Nobel Prizes: the 1945 Prize to Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”, and the 1954 Prize to Max Born “for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction”. The 1945 Prize was also awarded to Walther Bothe "for the coincidence method and his discoveries made therewith".
 
