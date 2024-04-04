@@ -36,7 +36,7 @@
 
 ### Ancient Greece.
 
-**Important builders in ancient Greece.**
+#### Important builders in ancient Greece.
 
 According to Bernal (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
@@ -96,7 +96,7 @@ According to Bernal (1954): *“modern science comes directly from Greeks scienc
 
 **Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
 
-**Timeline of ancient Greece.**
+#### Timeline of ancient Greece.
 
 Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
@@ -200,8 +200,8 @@ According to Durant (1966), the ten Archimedes´ books that survived had the fol
 	
 10. *On Floating Bodies*: to find the position of equilibrium of a floating body. 
 
-**Archimedes´ contributions.**
-	
+#### Archimedes´ contributions.
+
 To calculate Archimedes made a kind of mental experiments by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”.*
 	
 Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2).
@@ -216,7 +216,7 @@ Archimedes had great mechanical skills for designing and building machines while
 
 ### Dictatorial and democratic approaches in mathematical reasoning.
 
-**Description of approaches.**
+#### Description of approaches.
 
 Mathematics is a language for explaining nature, a way of thinking for doing science and a practical instrument for solving problems. We might teach by imposing rules of thinking and presenting solutions to problems according to prescribed procedures or we start by understanding what the students know and then build concepts and answer questions.
 
@@ -252,7 +252,6 @@ As an example of diametral approaches for interpreting mathematical concepts and
 	(Image credit: drawings made by the authors.)
 
 **Figure 1.3** Geometrical meaning of Pythagoras theorem.
-
 
 ***
 
