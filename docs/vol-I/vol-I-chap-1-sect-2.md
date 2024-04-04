@@ -7,15 +7,17 @@
 
 ## 1.2.	Conceptualizations of spaces and quantum statistics.
 
-!!! info "Conceptual developments in ancient Greece."
-	The first part of this section is based on the conference *Géométrie et astronomie sphérique dans la première cosmologie grecque* by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: 
+**Conceptual developments in ancient Greece.**
 	
-	(1) the building of circular spaces in family life and community (the reference is made to the philosopher Pherecydes, the poet Homer, the historian and geographer Herodotus and the architect Hippodamus), and 
+ The first part of this section is based on the conference *Géométrie et astronomie sphérique dans la première cosmologie grecque* by Vernant (1963). He considered how the evolution of ancient Greek society generated two kinds of conceptual developments, all of them before the Christian era: 
 	
-	(2) the concept of circularity in the definition of astronomical spaces (reference is made to the poet and philosopher Hesiod and to the philosopher, geographer and physicist Anaximander).
+(1) the building of circular spaces in family life and community (the reference is made to the philosopher Pherecydes, the poet Homer, the historian and geographer Herodotus and the architect Hippodamus), and 
+	
+(2) the concept of circularity in the definition of astronomical spaces (reference is made to the poet and philosopher Hesiod and to the philosopher, geographer and physicist Anaximander).
 
-!!! info "Building circular spaces according to political organizations."
-	Before political institutions were established in Greece, the highest level in the social organization was occupied by the king-priest. The entire population was always under conditions of domination and submission. There were no spaces for communications. Public affairs were not discussed, they were imposed. However, laws and rules were promulgated and made public in written.
+**Building circular spaces according to political organizations.**
+	
+Before political institutions were established in Greece, the highest level in the social organization was occupied by the king-priest. The entire population was always under conditions of domination and submission. There were no spaces for communications. Public affairs were not discussed, they were imposed. However, laws and rules were promulgated and made public in written.
 
 ### Pherecydes of Syros (580 BC – 520 BC).
 
@@ -85,13 +87,13 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 
 **Figure 1.4.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
 
-!!! info "Astronomical and geometrical spaces."
+**Astronomical and geometrical spaces.**
 
-	According to Vernant, the new image of the democratic Greek society went in parallel with a new image of the astronomical and geometrical spaces. This conceptual change implied overcoming astronomical Babylonian ideas as well as eliminating myths about the form of the Earth.
+According to Vernant, the new image of the democratic Greek society went in parallel with a new image of the astronomical and geometrical spaces. This conceptual change implied overcoming astronomical Babylonian ideas as well as eliminating myths about the form of the Earth.
 
-	Astronomy in Babylon characterized a religion believing that stars were divinities whose intentions might be perceived if their positions in the sky were carefully observed and registered. Scribes serving the king were in charge for registering the economic activity of the kingdom and for accounting all celestial and terrestrial events. Their knowledge was arithmetic without connections to any geometrical system of spatial representations of positions and movements.
+Astronomy in Babylon characterized a religion believing that stars were divinities whose intentions might be perceived if their positions in the sky were carefully observed and registered. Scribes serving the king were in charge for registering the economic activity of the kingdom and for accounting all celestial and terrestrial events. Their knowledge was arithmetic without connections to any geometrical system of spatial representations of positions and movements.
 
-	However, Greek ancient astronomy was looking for explanations about the structure of the world without appeal to divinities nor ritual ceremonies, although it was full of myths.
+However, Greek ancient astronomy was looking for explanations about the structure of the world without appeal to divinities nor ritual ceremonies, although it was full of myths.
 
 ### Hesiod of Askra, Thebes (nearby 800 BC).
 
@@ -112,12 +114,13 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 Anaximander of Miletus, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
 
 
-!!! info "Cognitive spaces in quantum statistics: fermions or bosons."
-	The notion of quantum statistics is now analyzed by looking at two Physics Nobel Prizes: the 1945 Prize to Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”, and the 1954 Prize to Max Born “for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction”. The 1945 Prize was also awarded to Walther Bothe "for the coincidence method and his discoveries made therewith".
+**Cognitive spaces in quantum statistics: fermions or bosons.**
+	
+The notion of quantum statistics is now analyzed by looking at two Physics Nobel Prizes: the 1945 Prize to Wolfgang Pauli “for the discovery of the Exclusion Principle, also called the Pauli Principle”, and the 1954 Prize to Max Born “for his fundamental research in quantum mechanics, especially for his statistical interpretation of the wavefunction”. The 1945 Prize was also awarded to Walther Bothe "for the coincidence method and his discoveries made therewith".
 
-	Next, for each Nobel Laureate we include a brief description of his work as presented in the document called *Works* published in the Nobel wave page and indicate the titles of their Nobel Lectures. References for both documents are mentioned in MLA format (MLA means Modern Language Association).  
+Next, for each Nobel Laureate we include a brief description of his work as presented in the document called *Works* published in the Nobel wave page and indicate the titles of their Nobel Lectures. References for both documents are mentioned in MLA format (MLA means Modern Language Association).  
 
-	Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Complete quoted paragraphs are indicated in in between quotation marks.
+Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Complete quoted paragraphs are indicated in in between quotation marks.
 
 !!! tip "Wolfgang Pauli (1900 -1958)."
 	WORK: "In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too."
