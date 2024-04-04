@@ -21,9 +21,6 @@ Physical phenomena can be characterized by their states of motion: no motion mea
 
 In this Volume I we deal with the following aspects of motion: conceptualization of spaces in geographical, astronomical and quantum contexts, regions required to describe experiments about the motion of electrons, detection of motions in terms of signals in the eye and maps in the brain, and reconceptualization of space-time in non-Euclidean geometries.
 
-
-***
-
 The Chapters of this first Volume are the following:
 
 
@@ -66,6 +63,7 @@ Detection of motion by humans is very complicated; however, in here we just refe
 ### 4.3  [Factors and Aspects distinguishing scientific theories](./vol-I-chap-4-sect-3.md).
 
 Any classic description of motion assumes that space and time are homogeneous and completely independent one of each other. Both coordinates have not privileged origins in their corresponding reference systems. However, descriptions of objects moving at speeds closer to the speed of light must be done according to a non-Euclidean geometry and following the approach of the theories of relativity. The theories explaining motion formulated by Kepler, Galileo, Newton, and Einstein are compared in terms of their different ways they satisfy the Aspects and Factors that distinguish a scientific theory. A. Einstein did not receive the Physics Nobel Prize for his works on relativity; they were considered pure speculations without the support of experimental evidence.
+
 
 ***
 
