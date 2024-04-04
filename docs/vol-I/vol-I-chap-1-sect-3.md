@@ -7,7 +7,7 @@
 
 ## 1.3.  Contexts learning for conceptualizing cognitive spaces.
 
-**Meaning and components of context learning.**
+### Meaning and components of context learning.
 	
 Previous dichotomy in the conceptualization of spaces as dictatorial or democratic has been translated in Section 1.2 into the classification scheme for elementary particles that separates fermions from bosons. In Physics we also have other couples of interrelated concepts such as matter - energy, order - disorder, space - time, particles - waves, individuality - collectivity, objective - subjective, deterministic - probabilistic, antagonistic - complementary, particular - universal… 
 
@@ -31,7 +31,7 @@ Next, we present an application of the context learning procedure to the buoyanc
 
 - **Learning and evaluation** activities were those decisions and actions that were undertaken by Archimedes to solve the problem asked by King Heron.
 
-**Democratic or dictatorial Archimedes experimental procedures.**
+### Democratic or dictatorial Archimedes experimental procedures.
 
 The legend says that Archimedes shouted Eureka! when he understood the nowadays called principle of flotation: an object immersed in a liquid is pushed up by a buoyant force equal to the weight of the volume of the liquid displaced by the object. This means that any object submerged in a liquid experiment two forces: its downward weight and the upward push corresponding to the weight of the amount of water equivalent to the submerged volume of the object (the buoyant force). (Figure 1.6).  In this case, what are the three steps for context learning?
 	
@@ -47,7 +47,7 @@ Archimedes experimental procedures could be considered as being democratic if he
 
 The approach to the experiment could be dictatorial in the sense that he referred to the particular result of applying Archimedes’ principle where the buoyant force will depend on the submerged volume of the crown under the assumption that this condition must be different for different materials if they did not have the same density.
 
-**What can we assume that was made by Archimedes?**
+### What can we assume that was made by Archimedes?
 
 It is possible that Archimedes was involved in the following activities: he weighted the finished crown and took a block of gold of the same weight; therefore, they had the same mass. He knew that the density of a golden crown will be higher than the density of a silver crown. Then, a crown made of gold will occupy a lesser volume than a crown made of silver.
 
@@ -62,7 +62,7 @@ The solution obtained by Archimedes can be summarized in terms of two processes:
 
 </figure>
 
-**CONCLUSIONS**
+### CONCLUSIONS
 
 - To determine the volume of the crown to be tested he might use a balance with equal arms. Then, he could control that the mass of the crown was the same as the mass of the block of gold and therefor observe that the beam of the balance remained horizontal. Afterwards, he might immerse everything in water and observe the beam of the balance: if it remained horizontal both arms of the balance had experienced the same buoyant force because the two volumes where equal. If the beam was inclined the buoyant force of the crown to be tested, and therefore its volume, will be larger than those of the block of gold, meaning that the crown was made of silver and not of gold.
 
@@ -70,7 +70,7 @@ The solution obtained by Archimedes can be summarized in terms of two processes:
 
 ***
 
-### REFERENCES
+## REFERENCES
  
 1. BERNAL, J. D., Science in History. Cambridge, Massachusetts, MIT Press, (1954).
 2. DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simon and Schuster, (1966).
