@@ -36,7 +36,7 @@
 
 ## 3.1.  Understanding the mechanisms of vision.
 
-**On vision and the study of Optics.**
+### On vision and the study of Optics.
 
 Intelligence comes from Latin *intus legere*: to read inside. We need eyes to read, to see and understand shapes and meanings. Human eyes function like windows to observe the external world, communication channels for transmitting messages and interpretation screens to receive and process electromagnetic signals in a range of frequencies limited by ultraviolet and infrared radiations. We see because external stimuli are transformed into internal images. The sense of vision implies control of light in motion.
 
