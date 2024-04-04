@@ -7,7 +7,7 @@
 
 ## 3.2.  Generation of a mental Global Positioning System (GPS).
 
-**Design and use of maps.**
+### Design and use of maps.
 
 Maps are useful for understanding the meaning of position and direction: where are we and in what directions shall we move. A map is a schematic graphical bidimensional representation of a three-dimensional space including designs and drawings of places, paths, structures, and borders where objects are located and oriented trajectories can be tracked. Maps are useful tools for navigation in different kinds of environments. We need to read and interpret maps as complete and clear reference systems for being informed about positions, distances, orientations and motions.
  
