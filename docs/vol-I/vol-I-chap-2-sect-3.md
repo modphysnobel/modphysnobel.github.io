@@ -12,9 +12,9 @@ Galileo Galilei (1564 -1642) once wrote that “mathematics is the language in w
 
 Reading information and understanding the knowledge it implies is a meaningful process consisting of four knowledge domains: 
 
-<p align="center">
-	![Fig1](./figs/Vol-I-chap-2-sect-3-Fig1.PNG){width="480"}
-	</p>
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-3-Fig1.PNG?raw=true"> 
+</p>
 
 In this Section 2.3, the three regions considered in the experiments discussed in the Chapter (Preparation, Transformation and Detection and Measurement) are related in the following way to the previously described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains. 
 
