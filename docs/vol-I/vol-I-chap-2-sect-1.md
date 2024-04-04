@@ -42,30 +42,31 @@
 
 ## 2.1. Regions for doing experiments.
 
-!!! info "Rules of the game to understand nature."
-	According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
+**Rules of the game to understand nature.**
 
-	1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.
+According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
-	2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.
+1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.
 
-	3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.
+2)	To analyze conditions when the proposed rules do not work and therefore to find the new rules that operate in regions up to now unknown or unexplored.
 
-!!! info "Interacting regions of the experimental setting."
+3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.
 
-	Experimenting requires concrete questions to be asked to nature and solved by human interactions with apparatuses and devices. The physicists ask questions and make plans to prepare scenarios for obtaining answers: the experimental settings. Those are the conditions where the interactions with nature begin to produce, control, and detect what will be observed, measured, registered, and interpreted. Data will be obtained, and conceptual relationships will be tested, changed, or formulated under new conditions or for the first time. This might imply new descriptions, predictions, calculations or explanations of concepts, models, laws, or theories. This is the way for learning Physics.
+**Interacting regions of the experimental setting.**
 
-	To perform an experiment implies to arrange the experimental setting into three regions where physical interactions are produced: the input region of Preparation, the production region of Transformation and the outcome region of Detection and Measurement. Sometimes the borderlines between these regions are not sharp nor well defined; however, the corresponding assumptions and intentions must be clear to the experimenter. 
+Experimenting requires concrete questions to be asked to nature and solved by human interactions with apparatuses and devices. The physicists ask questions and make plans to prepare scenarios for obtaining answers: the experimental settings. Those are the conditions where the interactions with nature begin to produce, control, and detect what will be observed, measured, registered, and interpreted. Data will be obtained, and conceptual relationships will be tested, changed, or formulated under new conditions or for the first time. This might imply new descriptions, predictions, calculations or explanations of concepts, models, laws, or theories. This is the way for learning Physics.
 
-	In the input region the system is prepared under controlled situations that correspond to given values of a set of parameters and variables describing the structure of the system and their external conditions; these are the initial conditions of the experiment.
+To perform an experiment implies to arrange the experimental setting into three regions where physical interactions are produced: the input region of Preparation, the production region of Transformation and the outcome region of Detection and Measurement. Sometimes the borderlines between these regions are not sharp nor well defined; however, the corresponding assumptions and intentions must be clear to the experimenter. 
 
-	Then it comes the crucial part of the experiment, the production region where interactions with external fields or other kind of agents modify the initial conditions producing effects to be observed and measured. The experimentalist might be required to explain what seems to be new or in contradiction with what could be expected and needs to be corrected or disregarded. Observations and measurements must lead to understanding.
+In the input region the system is prepared under controlled situations that correspond to given values of a set of parameters and variables describing the structure of the system and their external conditions; these are the initial conditions of the experiment.
+
+Then it comes the crucial part of the experiment, the production region where interactions with external fields or other kind of agents modify the initial conditions producing effects to be observed and measured. The experimentalist might be required to explain what seems to be new or in contradiction with what could be expected and needs to be corrected or disregarded. Observations and measurements must lead to understanding.
 	
-	It is in such region of Transformation that the experimentalists play with the variables producing significative physical effects and the initial conditions are transformed with the purpose of exploring and evaluating.in order to answer the questions previously asked. It has been said that “all experiments are charged of theory”: they are conceptualized according to what is known and unknown.
+It is in such region of Transformation that the experimentalists play with the variables producing significative physical effects and the initial conditions are transformed with the purpose of exploring and evaluating.in order to answer the questions previously asked. It has been said that “all experiments are charged of theory”: they are conceptualized according to what is known and unknown.
 
-	The final region is where Detection and Measurement are accomplished having in mind some form of mathematical representation, mostly algebraic or geometric, leading to propose or validate physical interpretations. Certain experiments work in the domain of what is understood but require a clear comprehension of procedures under different conditions. Other experiments change everything.
+The final region is where Detection and Measurement are accomplished having in mind some form of mathematical representation, mostly algebraic or geometric, leading to propose or validate physical interpretations. Certain experiments work in the domain of what is understood but require a clear comprehension of procedures under different conditions. Other experiments change everything.
 
-	At the beginning of past century four revolutionary experiments generated new ideas and opened the access to unexpected windows for understanding what an electron is. Those were the experiments performed by Thomson, Millikan, Franck-Hertz and Compton. 
+At the beginning of past century four revolutionary experiments generated new ideas and opened the access to unexpected windows for understanding what an electron is. Those were the experiments performed by Thomson, Millikan, Franck-Hertz and Compton. 
 
 !!! info "Experiments made by Thomson for discovering the electron."
 	Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
