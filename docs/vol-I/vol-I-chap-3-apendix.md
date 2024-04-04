@@ -1,6 +1,6 @@
 [**Volume I: Motion**](./volume-I.md)
 
-[**Previous: 3.2.  Generation of a mental Global Positioning System (GPS).**](./vol-I-chap-3-sect-2.md) 
+[**Previous: 3.3. Cognitive procedures for creating scientific knowledge.**](./vol-I-chap-3-sect-3.md) 
 
 ***
 
