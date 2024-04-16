@@ -130,7 +130,10 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 
+	<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+	</center>
+	
 
 	**Figure 2.2.** Setting for the oil-drop experiment (a) and amplified view of a drop inside the microscope (b). Here, in (Figure 2.2a)the Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
@@ -179,7 +182,9 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 	
+	<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+	</center>
 
 	**Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
 
@@ -214,12 +219,12 @@ At the beginning of past century four revolutionary experiments generated new id
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="480" }
+	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="400" }
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="480" }
+	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="520" }
 	</figure>
 	</th>
 	</tr>
@@ -233,7 +238,9 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 	
+	<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+	</center>
 	
 	**Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
 
