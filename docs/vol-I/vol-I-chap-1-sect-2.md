@@ -22,7 +22,7 @@ Before political institutions were established in Greece, the highest level in t
 #### Pherecydes of Syros (580 BC – 520 BC).
 
 <figure markdown>
-  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="300" }
+  ![Pherecydes of Syros](https://upload.wikimedia.org/wikipedia/commons/3/33/Pherecydes_of_Syros_recent_bust_Syro208.jpg){ width="240" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ When Greek cities were built (_the polis_) writing was used as a transforming in
 #### Herodotus of Halicarnassus (484 BC- 425 BC).
 
 <figure markdown>
-  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="300" }
+  ![Herodotus of Halicarnassus](https://upload.wikimedia.org/wikipedia/commons/6/6d/Marble_bust_of_Herodotos_MET_DT11742_%28cropped%29.jpg){ width="240" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ Herodotus of Halicarnassus (484 BC- 425 BC) mentioned that when the dictator Pol
 #### Homer (VIII century).
 
 <figure markdown>
-  ![Homer](https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg){ width="300" }
+  ![Homer](https://upload.wikimedia.org/wikipedia/commons/5/57/Homeros_MFA_Munich_51.jpg){ width="240" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Homer (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulysses
 #### Hippodamus of Miletus (498 BC- 408 BC).
 
 <figure markdown>
-  ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="300" }
+  ![Hippodamus of Miletus](figs/vol-I-Chap-1-sect-2-Hippodamus.png){ width="240" }
   <figcaption>(Image credit: Geogebra.org)</figcaption>
 </figure>
 
@@ -67,18 +67,18 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 <table width="100%">
   <tr>
     <td width="50%" style="text-align: center">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=300 align=center> 
+   a<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=300 align=center> 
     </td>
-    <td width="50%" style="text-align: center">
+    b<td width="50%" style="text-align: center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=200 align=center> 
     </td>
   </tr>
   <tr>
     <td style="text-align: center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=420 align=center> 
+    c<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=420 align=center> 
     </td>
     <td style="text-align: center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=420 align=center> 
+    d<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=420 align=center> 
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ However, Greek ancient astronomy was looking for explanations about the structur
 #### Hesiod of Askra, Thebes (nearby 800 BC).
 
 <figure markdown>
-  ![Hesiod of Askra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg){ width="300" }
+  ![Hesiod of Askra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Bust_of_Hesiod_%28%3F%29-Ancient_Roman_busts_in_the_Neues_Museum.jpg){ width="240" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -107,7 +107,7 @@ Hesiod of Askra, Thebes (nearby 800 BC) wrote a Theogony, a mythological treatis
 #### Anaximander of Miletus, Ionia, (619 – 546).
 
 <figure markdown>
-  ![Anaximander of Miletus](https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg){ width="300" }
+  ![Anaximander of Miletus](https://upload.wikimedia.org/wikipedia/commons/3/38/Anaximander.jpg){ width="240" }
   <figcaption>(Image credit: CC Wikimedia Commons)</figcaption>
 </figure>
 
@@ -120,7 +120,7 @@ The notion of quantum statistics is now analyzed by looking at two Physics Nobel
 
 Next, for each Nobel Laureate we include a brief description of his work as presented in the document called *Works* published in the Nobel wave page and indicate the titles of their Nobel Lectures. References for both documents are mentioned in MLA format (MLA means Modern Language Association).  
 
-Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Complete quoted paragraphs are indicated in in between quotation marks.
+Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Quotation marks indicate complete quoted paragraphs.
 
 !!! tip "Wolfgang Pauli (1900 -1958)."
 	WORK: "In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too."
@@ -134,7 +134,7 @@ Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted kno
 
 !!! bug "BOX 1.1: Accepted knowledge or questions under discussion in Pauli´s times."
 	- Einstein relativity theories were not well understood.
-	- The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
+	- The complete description of the quantum state of an electron in an atom required four quantum numbers: the principal quantum number $n$, the azimuthal quantum number $l$, the magnetic quantum number $m$, and the spin quantum number $m_s$. 
 	- Uhlenbeck and Goudsmit introduced the idea of electron spin (intrinsic angular momentum).
 	- Three crucial contributions to quantum mechanics have been made:
 	  	1. Matter waves by De Broglie: To each quantum particle a wave function is associated in such a way that the square of the amplitude of the function describes the probability of occupation in space.	
