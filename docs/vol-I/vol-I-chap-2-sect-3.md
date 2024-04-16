@@ -18,7 +18,7 @@ Reading information and understanding the knowledge it implies is a meaningful p
 
 In this Section 2.3, the three regions considered in the experiments discussed in the Chapter (Preparation, Transformation and Detection and Measurement) are related in the following way to the previously described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains. 
 
-The knowledge obtained from analyzing the information described previously in Section 2.1 is now concentrated in two Tables where the rows correspond to the knowledge domains and the columns refers to the experiments considered in this Chapter. Table 2.1 concerns the calculation of electronic properties and in connection with the experiments made by Thomson and Millikan. Table 2.2 deals with the description of electronic interactions and is about the experiments made by Franck-Hertz and Compton.
+The knowledge obtained from analyzing the information described previously in Section 2.1 is now concentrated in two Tables where the rows correspond to the knowledge domains and the columns refers to the experiments considered in this Chapter. Table 2.1 concerns the calculation of electronic properties and refers to the experiments made by Thomson and Millikan. Table 2.2 deals with the description of electronic interactions and is about the experiments made by Franck-Hertz and Compton.
 
 ### Experiments for the calculation of electronic properties.
 
