@@ -74,10 +74,10 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
     </td>
   </tr>
   <tr>
-  <td>
+  <td style="text-align: center">
   a
   </td>
-  <td>
+  <td style="text-align: center">
   b
   </td>
   </tr>
@@ -90,10 +90,10 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
     </td>
   </tr>
   <tr>
-  <td>
+  <td style="text-align: center">
   c
   </td>
-  <td>
+  <td style="text-align: center">
   d
   </td>
   </tr>
