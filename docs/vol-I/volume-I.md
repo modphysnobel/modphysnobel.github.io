@@ -67,10 +67,10 @@ Any classic description of motion assumes that space and time are homogeneous an
 
 ***
 
-Created: 2023-03-12; Updated: 2023-11-24 
+Created: 2023-03-12; Updated: 2024-04-15
 
 Barojas-Weber, J., & Lizárraga-Celaya, C. (2023).
-_Modern Physics through Nobel Prizes_.
+_Modern Physics by Exploring Nobel Prizes_.
 
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
