@@ -117,7 +117,7 @@ At the beginning of past century four revolutionary experiments generated new id
 	</figure>
 	</th>
 	<th width="50%" style="text-align: center">
-	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="100"}
+	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="200"}
 	</th>
 	</tr>
 	<tr>
