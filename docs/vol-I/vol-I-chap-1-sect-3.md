@@ -33,7 +33,7 @@ Next, we present an application of the context learning procedure to the buoyanc
 
 ### Democratic or dictatorial Archimedes experimental procedures.
 
-The legend says that Archimedes shouted Eureka! when he understood the nowadays called principle of flotation: an object immersed in a liquid is pushed up by a buoyant force equal to the weight of the volume of the liquid displaced by the object. This means that any object submerged in a liquid experiment two forces: its downward weight and the upward push corresponding to the weight of the amount of water equivalent to the submerged volume of the object (the buoyant force). (Figure 1.6).  In this case, what are the three steps for context learning?
+The legend says that Archimedes shouted Eureka! when he understood the nowadays called principle of flotation: an object immersed in a liquid is pushed up by a buoyant force equal to the weight of the volume of the liquid displaced by the object. This means that any object submerged in a liquid experiment two forces: its downward weight and the upward push corresponding to the weight of the amount of water equivalent to the submerged volume of the object (the buoyant force). (Figure 1.5).  In this case, what are the three steps for context learning?
 	
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Buoyancy.jpg" width=300 align=center> 
@@ -41,7 +41,7 @@ The legend says that Archimedes shouted Eureka! when he understood the nowadays 
 	
 (Images credit: CC Wikimedia Commons)
 
-**Figure 1.6.** Two forces work in buoyancy: the upward force of buoyancy and the downward force of gravity.  
+**Figure 1.5.** Two forces work in buoyancy: the upward force of buoyancy and the downward force of gravity.  
 
 Archimedes experimental procedures could be considered as being democratic if he did focus on the universal definition of density as the quotient of mass divided by volume, because this definition applies to all bodies in the same manner. Furthermore, all submerged material must obey the floating principle.
 
