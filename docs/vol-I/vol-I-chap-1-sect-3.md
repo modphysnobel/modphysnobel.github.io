@@ -39,7 +39,9 @@ The legend says that Archimedes shouted Eureka! when he understood the nowadays 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Buoyancy.jpg" width=300 align=center> 
 	</p>
 	
+<center>
 (Images credit: CC Wikimedia Commons)
+</center>
 
 **Figure 1.5.** Two forces work in buoyancy: the upward force of buoyancy and the downward force of gravity.  
 
