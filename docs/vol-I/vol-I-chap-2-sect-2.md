@@ -21,7 +21,7 @@ In what follows, we consider two kinds of publications that are available in the
 	- Corpuscles very widely distributed
 	- Magnitude of the electric charge carried by the corpuscle
 
-	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
+	MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 13 Apr 2024. https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/
 
 !!! bug "BOX 2.1: Accepted knowledge or questions under discussion in Thomson´s times."
 	- When an electric discharge is sent through a highly exhausted tube, a current of corpuscles of negative electricity comes out in straight lines from the cathode; these are the cathode rays which can be modified by external actions of magnetic and electric forces. 
