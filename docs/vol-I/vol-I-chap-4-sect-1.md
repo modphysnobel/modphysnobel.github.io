@@ -67,7 +67,9 @@ Two non-Euclidean geometries can be considered depending on the curvature of the
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Comparison_of_geometries.svg" width=480 align=center>
 	</p>
 	
+<center>
 (Image credit: CC Wikimedia Commons)
+</center>
 
 **Figure 4.1.**  . Geometric properties of surfaces of different curvature; C indicates the value of the circunference and   corresponds to the addition of the three internal angles in a triangle.
 
