@@ -99,7 +99,9 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
   </tr>
 </table>
 
+<center>
 (Images credit: CC Wikimedia Commons)
+</center>
 
 **Figure 1.4.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
 
