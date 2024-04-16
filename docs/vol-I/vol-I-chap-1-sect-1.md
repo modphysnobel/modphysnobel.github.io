@@ -64,27 +64,27 @@ According to Bernal (1954): *“modern science comes directly from Greeks scienc
    </tr>
    </tr>
   <tr>
-    <td style="text-align: center">
+    <td>
     Pythagoras<br> 
     (570?-495?)
   </td>
-    <td style="text-align: center">
+    <td>
     Pericles<br> 
     (495-429)
   </td>
-     <td style="text-align: center">
+     <td>
     Socrates<br> 
     (469?-399)
   </td>
-    <td style="text-align: center">
+    <td>
     Plato<br> 
     (427-347)
   </td>
-     <td style="text-align: center">
+     <td>
     Aristotle<br> 
     (384-322)
   </td>
-    <td style="text-align: center">
+    <td>
     Alexander the Great<br> 
     (356-323)
   </td>
@@ -167,7 +167,7 @@ AND PHYSICS
     Dicaearchus of Messana (370/323-320): a cartographer who around 355 built a map where the earth has a spherical form.<br>
     Euclide of Alexandria (325 -265??): author of the Elementos, thirteen books on geometry, arithmetic, and solid geometry. <br>
     Aristarchus of Samos (280-264) wrote On the Sizes and Distances of the Sun and the Moon.<br>
-    Eratosthenes of Cyrene (276- 194) calculated the circumference of the earth. <br>
+    Eratosthenes of Cyrene (276- 194) calculated the circumference of the Earth. <br>
     Apollonius of Perga (240-190): author of Conics and a theory of epicycles for describing planetary motions. <br>
     Archimedes of Syracuse (287-212): great mathematician, physicist, engineer, astronomer and inventor; he anticipated modern methods of calculus and analysis.<br>
     </td>
