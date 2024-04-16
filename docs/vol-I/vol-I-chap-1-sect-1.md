@@ -92,7 +92,9 @@ According to Bernal (1954): *“modern science comes directly from Greeks scienc
    </tbody>
 </table> 
 
+<center>
 (Images credit: CC Wikimedia Commons)
+</center>
 
 **Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
 
