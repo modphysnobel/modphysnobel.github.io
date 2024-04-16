@@ -219,12 +219,12 @@ At the beginning of past century four revolutionary experiments generated new id
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="400" }
+	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="380" }
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="520" }
+	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="580" }
 	</figure>
 	</th>
 	</tr>
