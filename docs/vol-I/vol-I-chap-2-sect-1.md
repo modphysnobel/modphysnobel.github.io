@@ -113,7 +113,7 @@ At the beginning of past century four revolutionary experiments generated new id
 	<tr>
 	<th width="50%" style="text-align: center">
 	<figure markdown>
-	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="850"}
+	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="900"}
 	</figure>
 	</th>
 	<th width="50%" style="text-align: center">
