@@ -136,7 +136,9 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	</table> 
 	</div> 
 
+	<center>
 	(Source: article published by Dulong and Petit (1819).)
+	</center>
 
 	However, more precise and recent measurements have shown that the results obtained by Dulong and Petit are only valid at very high temperatures, where the value of the constant $3R ≈ 25 J K^{-1} mol^{-1}$ corresponds to the upper limit of the scale of the ordinates. In no way this value represents the behavior at low temperatures where, moreover, the experimental curves are different for different materials. Observe in Figure 7.3 how for different materials the values close to 300 K differ from the constant $3R ≈ 25 J K^{-1} mol^{-1}$, although for the first two materials, Lead (Pb) and Copper (Cu), the graphed values are much closer to that constant.
 
@@ -144,7 +146,10 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Moglft0304_calor_solidos.jpg" width=480 align=center>
 	</p>
 
-	(Image credit: CC Wikimedia Commons)
+	<center>
+	(Source: article published by Dulong and Petit (1819).)
+	</center>
+	
 
 	**Figure 7.3.** Experimental values of specific heat at constant volume.
 
@@ -205,8 +210,11 @@ Next, for each one of the previously mentioned models, we consider four stages f
 	<p align="center">
 	![Fig1](./figs/chap-7-sect-2-fig2.JPG){width="480"}
 	</p>
-	(Image credit: CC Wikimedia Commons)
 
+	<center>
+	(Image credit: CC Wikimedia Commons)
+	</center>
+	
 	**Figure 7.4.** Comparison in dimensionless units of the results of the three models of a solid.
 
 	Again, it is worth to consider two limiting cases. For high temperatures $\frac{θ}{T}≪1$ the second term is negligible and the integral can be calculated. Then, the Dulong and Petit law is obtained again
