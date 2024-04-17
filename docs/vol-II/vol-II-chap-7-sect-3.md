@@ -15,7 +15,10 @@ TADIR is a problem solving procedure composed of five components: Translation (T
     <img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
 </p>
 
+<center>
 (Image credit: drawings made by the authors.)
+</center>
+
 
 In what follows we first define each TADIR component of the problem solving procedure and then describe the corresponding steps proposed by Langevin to obtain Einstein´s equation.
 
