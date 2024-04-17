@@ -38,13 +38,13 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 
 “**Vision:** Emergent and global phase of listening that does not correspond to the fixed image of the future, but to the birth of a collective perspective that comes from the previous phases and emerges from the interactions and contacts that arise in common projects; cyberspace allows an indefinite exploration and a deployment in hypertextual mode of virtual images that express the dynamics of the collective.”
 
-!!! info "Conceptual developments and technological applications on energy."
+### Conceptual developments and technological applications on energy.
 
-	Next, Tables 8.1 to 8.4 describe the main characteristics of each anthropological space and present a selection of Conceptual developments and Technological applications that are representative of each anthropological space. For the spaces of the Earth and the Territory we consider conceptual aspects related to the development of languages and the processes of writing and printing, technological applications concern developments in agriculture, arts and crafts. 
+Next, Tables 8.1 to 8.4 describe the main characteristics of each anthropological space and present a selection of Conceptual developments and Technological applications that are representative of each anthropological space. For the spaces of the Earth and the Territory we consider conceptual aspects related to the development of languages and the processes of writing and printing, technological applications concern developments in agriculture, arts and crafts. 
 
-	For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
+For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -89,7 +89,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 	</table>
 	</div> 
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -133,7 +133,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 	</table>
 	</div> 
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -190,7 +190,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 	</table>
 	</div> 
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table width="100%">
     <tr>
         <th colspan="2" style="text-align: center">
@@ -237,7 +237,7 @@ Anthropological spaces do not exactly correspond to specific time periods descri
 	</table>
 	</div>
 
-	The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
+The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
 ***
 
