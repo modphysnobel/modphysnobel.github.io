@@ -45,7 +45,9 @@ Isaac Newton was one of the firsts to demonstrate the scattering of light when h
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Spectro.jpg" width=480 align=center>
 </p>
 
-(Image credit: CC Wikimedia Commons)
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
 
 **Figure 6.1.** Production of three types of spectra: continuous, emission and absorption.
 
@@ -65,7 +67,9 @@ The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Ryd
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=640 align=center>
 </p>
 
-(Image credit: CC Wikimedia Commons)
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
 
 **Figure 6.2.** Spectral series of the hydrogen atom in logarithmic scale.
 
@@ -99,7 +103,9 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Emission_of_Light_by_Hydrogen_%2801F8GFBF8YZEY6KY9WNRWEV1N2%29.png" width=480 align=center>
 	</p>
 
-	(Image credit: CC Wikimedia Commons)
+	<center>
+	(Images credit: CC Wikimedia Commons)
+	</center>
 
 	**Figure 6.3.**  First spectral emission lines in the Balmer series.
 
@@ -129,7 +135,9 @@ The manifest regularity of the values of the spectral lines that satisfied the R
 	![Fig5](./figs/chap-6-sect-1-fig5.JPG){width="640"}
 	</p>
 
+	<center>
 	(Image credit: drawings made by the authors.)
+	</center>
 
 	**Figure 6.4.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG){width="60"}) causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG){width="30"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG){width="60"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG){width="60"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG){width="60"}).
 
