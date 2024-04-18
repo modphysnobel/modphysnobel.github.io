@@ -131,9 +131,9 @@ The stimulated emission is a completely quantum process that occurs when the ele
 
 In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
 
-<p align="center">
-	![Fig5](./figs/chap-6-sect-1-fig5.JPG){width="640"}
-	</p>
+<p align="center" width="100%">
+    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig5.JPG?raw=true"> 
+</p>
 
 <center>
 	(Image credit: drawings made by the authors.)
