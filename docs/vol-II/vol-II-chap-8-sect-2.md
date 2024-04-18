@@ -39,10 +39,10 @@ $E_c = ½mv^2=eV_0=hf-φ$
 	<tbody>
 	<tr>
 		<td>
-			![Fig1](./figs/chap-8-sect-2-fig3.PNG){width="300"}
+			<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig3.PNG?raw=true"> 
 		</td>
 		<td>
-			![Fig2](./figs/chap-8-sect-2-fig4.jpg){width="300"}
+			<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig4.jpg?raw=true"> 
 		</td>
 	</tr>
 	</tbody>
@@ -63,9 +63,9 @@ According to classical electromagnetism, for an intensity of $10^{-10} W/m^2$ an
 
 In the first experiments about the photoelectric effect, carried out in 1887 by Heinrich Hertz and Wilhelm Hallwachs (1859-1922), a well-polished zinc plate was connected to an electroscope. When the metal was illuminated with ultraviolet light coming from the jumping spark of a voltaic arc the ejected electrons could charge the electroscope (Figure 8.2).
 
-<p align="center">
-	![Fig5](./figs/chap-8-sect-2-fig2.JPG){width="640"}
-	</p>
+<p align="center" width="100%">
+    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig2.JPG?raw=true"> 
+</p>
 
 **Figure 8.2.** Experimental device used by Hertz and Hallwachs.
 
