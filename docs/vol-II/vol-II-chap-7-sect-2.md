@@ -207,9 +207,10 @@ $C_V= (9R)[(\frac{4T^3}{θ^3}) ∫_0^{x_m}(\frac{x^3}{e^x- 1})  dx- (\frac{θ}{T
 
 Figure 7.4 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
 	
-<p align="center">
-	![Fig1](./figs/chap-7-sect-2-fig2.JPG){width="480"}
-	</p>
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-2-fig2.JPG?raw=true"> 
+</p>
+	
 
 <center>
 	(Image credit: CC Wikimedia Commons)
