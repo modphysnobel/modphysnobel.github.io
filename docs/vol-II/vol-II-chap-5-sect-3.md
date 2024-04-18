@@ -153,6 +153,7 @@ KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (
 
 ***
 
-[**Next: 6.1. Electronic energy levels according to atomic models.**](./vol-II-chap-6-sect-1.md)
+[**Appendix.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-apendix/)
+
 
 
