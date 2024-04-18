@@ -12,7 +12,7 @@
 In classical physics, the spectrum of values of the variables that are measured generally corresponds to a continuum. For instance, when we are walking in a ramp there are no forbidden places for the feet (there is no restriction on the height h), unlike when we are walking in a staircase the foot can only be placed on the steps (Figure 5.2)
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/Vol-II-chap-5-sect-2-fig1.png?raw=true"> 
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig1.PNG?raw=true.PNG"> 
 </p>
 
 <center>
