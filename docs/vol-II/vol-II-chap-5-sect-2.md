@@ -26,7 +26,7 @@ In classical physics, the spectrum of values of the variables that are measured 
 However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure 5.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig2.JPG?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig2.JPG?raw=true"> 
 </p>
 	
 <center>
