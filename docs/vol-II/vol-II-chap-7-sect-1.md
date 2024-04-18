@@ -57,9 +57,10 @@ $<ΔX^2> =[(kT)/(3πηa)](t)$
 
 In the previous equation, the Boltzmann constant $k = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 	
-<p align="center">
-	![Fig4](./figs/chap-7-sect-1-fig4.jpg){width="480"}
-	</p>
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
+</p>
+
 
 <center>
 (Images credit: CC Wikimedia Commons)
@@ -84,10 +85,10 @@ Perrin carried out experiments on sedimentation (the settling of suspended parti
 	<tbody>
 	<tr>
 		<td>
-		![Fig4](./figs/chap-7-sect-1-fig5.jpg){width="120"}
+		<img width="120" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig5.jpg?raw=true"> 
 		</td>
 		<td>
-		![Fig4](./figs/chap-7-sect-1-fig6.jpg){width="480"}
+		<img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig6.jpg?raw=true"> 
 		</td>
 	</tr>
 	</tbody>
