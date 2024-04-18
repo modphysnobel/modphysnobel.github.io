@@ -39,7 +39,7 @@
 
 To calculate average values of quantities related to physical observables, interpretation models and calculation procedures must be proposed and tested. The models describe with a certain level of approximation the probability distribution functions about the possible configurational states of the system or microstates. The procedures for counting and mathematically operating with the formal representations of these configurational states serve to calculate macroscopic quantities characterizing the physical system. 
 
-### info "Einstein´s procedures.
+### Einstein´s procedures.
 
 Albert Einstein (1879-1955) carried out in 1905 one of the first statistical mechanics calculations to explain the Brownian movement, having the audacity to assume the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the diffusion of many particles.
 
