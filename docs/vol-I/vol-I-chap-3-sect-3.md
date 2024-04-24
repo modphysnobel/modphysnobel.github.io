@@ -34,13 +34,13 @@ What follows is an example of application of the previously described *Cognitive
 
 **Inquiring procedure:** to identify what is understood according to the three laws of motion formulated by Johannes Kepler (1571-1630). The first two laws were published in 1609 in *Astronomia Nova* and the third law in 1619 in *Harmonice Mundi*. 
 
-- First Kepler´s law (the law of the orbits):  The planets move around the sun in orbits which are ellipses, with the sun at one focus. 
+- First Kepler´s law (the law of the orbits):  The planets move around the Sun in orbits which are ellipses, with the Sun at one focus. 
 
-- Second Kepler´s law (the law of the areas): A line joining a planet to the sun sweeps over equal areas in equal times.
+- Second Kepler´s law (the law of the areas): A line joining a planet to the Sun sweeps over equal areas in equal times.
 
-- Third Kepler’s law (the law of the harmonies): The squares of the periods of revolution of the planets around the sun are proportional to the cubes of the (mean) radii of their respective orbits.
+- Third Kepler’s law (the law of the harmonies): The squares of the periods of revolution of the planets around the Sun are proportional to the cubes of the (mean) radii of their respective orbits.
 
-The formulation of these laws introduced new concepts regarding planetary movements: the motion trajectories were described in terms of elliptic orbits instead of the Ptolemaic notions of epicycles and deferents, and the speed of motion did not correspond to uniform circular orbits but was assumed to vary inversely as the planet distance to the sun.
+The formulation of these laws introduced new concepts regarding planetary movements: the motion trajectories were described in terms of elliptic orbits instead of the Ptolemaic notions of epicycles and deferents, and the speed of motion did not correspond to uniform circular orbits but was assumed to vary inversely as the planet distance to the Sun.
 
 **Training procedure:** to make clear Newton´s scientific reasonings for explaining what previously has been observed, registered and interpreted.
 	
