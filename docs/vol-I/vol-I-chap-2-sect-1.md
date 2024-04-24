@@ -246,7 +246,7 @@ At the beginning of past century four revolutionary experiments generated new id
 
 	The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-	Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos \theta)$.
+	Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)*n_i*$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos \theta)$.
 
 	Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $p$ in the direction of the angle $Φ$.
 
