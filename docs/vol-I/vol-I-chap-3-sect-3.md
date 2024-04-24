@@ -15,7 +15,7 @@ Nobel Lectures described in the appendices indicate that memory and learning dep
 In this Section 3.3. we deal with the process *Cognitive procedures for creating scientific knowledge*. The elements of this process have been organized in a similar way as a GPS in the brain where cognitive maps are created by integrating four neural cells whose functions are related to place, grid, direction and border. In what follows we consider how the functions of each one of those four neural cells studied by previous laureates can be associated with the cognitive procedures required for creating scientific knowledge through Inquiring, Training, Comprehension, and Metacognition.
 
 <p align="center" width="100%">
-    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-3-sect-3-Fig1.PNG?raw=true"> 
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-3-sect-3-Fig1.PNG?raw=true"> 
 </p>
 	
 The working of a typical GPS, like those used in common cellular phones, must satisfy the following technological conditions: 
