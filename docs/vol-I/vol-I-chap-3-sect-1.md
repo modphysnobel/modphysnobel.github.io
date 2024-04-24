@@ -161,13 +161,14 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
  
 	NOBEL LECTURE: *Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account.*
 
-	- Introduction
-	- Hierarchy of visual cells
-	- Hypercomplex cells
-	- Architecture
-	- Orientation columns
-	- Odominance columns
-	- Relationship between columns, magnification and field size
+	- INTRODUCTION
+	- HIERARCHY OF VISUAL CELLS
+	- HYPERCOMPLEX CELLS
+	- ARCHITECTURE
+	- ORIENTATION COLUMNS
+	- OCULAR DOMINANCE COLUMNS
+	- RELATIONSHIP BETWEEN COLUMNS, MAGNIFICATION AND FIELD SIZE
+
  
 	MLA style: David H. Hubel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/>
 
@@ -203,11 +204,12 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
  
 	NOBEL LECTURE: *The postnatal development of the visual cortex and the influence of environment.*
  
-	- Introduction
-	- Monocular deprivation
-	- The critical period
-	- Recovery from deprivation
-	- Normal development
+	- INTRODUCTION
+	- MONOCULAR DEPRIVATION
+	- THE CRITICAL PERIOD
+	- RECOVERY FROM DEPRIVATION
+	- NORMAL DEVELOPMENT
+
 
 	MLA style: Torsten N. Wiesel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/>
 
