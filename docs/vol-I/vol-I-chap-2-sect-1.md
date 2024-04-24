@@ -163,12 +163,12 @@ At the beginning of past century four revolutionary experiments generated new id
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="480" }
+	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="380" }
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="480" }
+	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="380" }
 	</figure>
 	</th>
 	</tr>
@@ -224,7 +224,7 @@ At the beginning of past century four revolutionary experiments generated new id
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="580" }
+	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="680" }
 	</figure>
 	</th>
 	</tr>
