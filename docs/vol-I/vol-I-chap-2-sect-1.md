@@ -87,7 +87,7 @@ At the beginning of past century four revolutionary experiments generated new id
 
 	* _l_ is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (_E_) is applied. 
 
-	* _\theta_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
+	* _$\theta$_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
 
 	The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
 
