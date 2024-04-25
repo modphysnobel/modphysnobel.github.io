@@ -143,9 +143,11 @@ Later, since the inception of chemistry, the connection between chemical reactio
 	
 “The most significant advance which chemistry owes to Nernst’s thermochemical work might in short be stated by saying that it is now possible to calculate beforehand the conditions under which a given chemical reaction will take place to the extent where a required product will be obtained in sufficient quantities to make the method of production a practical proposition. Technical difficulties can naturally appear during the course of the experiments, but it is a most significant step forward to know that the aim can be achieved and that there is every chance that the experiments will finally succeed.”
 
-WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
+!!! tip "Walther Hermann Nerst (1864-1941)."
 
-Nobel Lecture: *Studies in Chemical Thermodynamics* by Nerst.
+	WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
+
+	Nobel Lecture: *Studies in Chemical Thermodynamics* by Nerst.
 
 “I should best fulfil my obligation to give a lecture relating to my prizewinning publications, if I discussed my heat theorem, which supplements the older thermodynamics, with special reference to its chemical applications, and described the experimental tests which it has undergone in numerous investigations in my laboratory. 
 
@@ -187,9 +189,11 @@ But this has already been done, especially in recent years, by a number of diffe
 
 “Giauque’s achievements in the field of chemical thermodynamics and especially his work on the behaviour of matter at low temperatures and his closely allied studies of entropy comprise one of the most significant contributions to modern physical chemistry.” …
 
-WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
+!!! tip "William Francis Giauque (1895-1982)."
 
-Nobel Lecture: *Some Consequences of Low Temperature Research in Chemical Thermodynamics* by Giauque.
+	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
+
+	Nobel Lecture: *Some Consequences of Low Temperature Research in Chemical Thermodynamics* by Giauque.
 
 “The basic purpose which underlies most of the work in the Low Temperature Laboratory, of the University of California, is the study of entropy. It is easy for a chemist to write an equation for a desired reaction, but this does not mean that the reaction will actually take place. If one knows the heats of formation and entropies of the substances concerned in the equation, the so-called free energy or thermodynamic potential of the reaction may be calculated. A knowledge of the free energy change permits chemists to determine all reactions which are thermodynamically possible and the extent to which they are possible. When it has been found that a certain reaction should go, but experiment fails, then a catalyst can be sought or the conditions can be altered so as to secure a practicable rate of reaction. If the free energy shows that the reaction is thermodynamically impossible, a search for a catalyst is futile.”
 
@@ -225,9 +229,11 @@ Nobel Lecture: *Some Consequences of Low Temperature Research in Chemical Thermo
 
 “The proof of the reciprocal relations was brilliant. Onsager started from a statistical mechanical calculation of the fluctuations in a system, which could be directly based on the simple laws of motion which are symmetrical with regard to time. Furthermore, he made the independent assumption that the return of a fluctuation to equilibrium in the mean occurs according to the transport equations mentioned earlier. By means of this combination of macroscopic and microscopic concepts in conjunction with an extremely skilful mathematical analysis he obtained those relationships which are now called Onsager’s Reciprocal Relations.”
 
-WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
+!!! tip "Lars Onsager (1903-1976)."
 
-Nobel Lecture: *The Motion of Ions: Principles and Concepts* by Onsager.
+	WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
+
+	Nobel Lecture: *The Motion of Ions: Principles and Concepts* by Onsager.
 
 “Today I shall try to help you grasp the significance of a fairly general principle which applies to diverse types of irreversible processes. After last night it will be just as well if we do not go into all fine points of definitions or survey all possible applications. Rather, I want to talk about progress over a period of time in one field of research where much has happened (some of this relevant to the principle I mentioned) and intriguing problems still remain. Before we survey the progress in our understanding of electrolytes since the days of Arrhenius, let us take a quick look at what went before.”
 
@@ -249,9 +255,11 @@ Nobel Lecture: *The Motion of Ions: Principles and Concepts* by Onsager.
 
 “Prigogine has been particularly captivated by the problem of explaining how ordered structures – biological systems, for example – can develop from disorder. Even if Onsager’s relations are utilized, the classical principles of equilibrium in thermodynamics still show that linear systems close to equilibrium always develop into states of disorder which are stable to perturbations and cannot explain the occurrence of ordered structures.” 
 
-WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
+!!! info "Ilya Romanovich Prigogine (1917-2003)."
+
+	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
  
-Nobel Lecture: *Time, Structure and Fluctuations* by Prigogine.
+	Nobel Lecture: *Time, Structure and Fluctuations* by Prigogine.
 
 1	Introduction.
 
