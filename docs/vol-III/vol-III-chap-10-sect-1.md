@@ -73,7 +73,12 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 </table> 
 </div>
 
+
+
+<center>
 (Image credit: CC Wikimedia Commons)
+</center>
+
 
 **Figure 10.1.** Michelson and Morley interferometer: components in the left image:  monochromatic light source (A); semi-reflective mirror (B); mirrors (C) and observation of optical path difference (D). A typical interference pattern is shown in the right image.
 
@@ -83,7 +88,11 @@ It is worth comparing the drawing made by Michelson of his own interferometer an
     <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-1-fig3.JPG?raw=true"> 
 </p>
 
+
+
+<center>
 (Source: Michelson Nobel Lecture.) 
+</center>
 
 !!! info ""
 
