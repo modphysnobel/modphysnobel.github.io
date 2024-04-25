@@ -45,7 +45,10 @@ Gravitational waves
     </tr>
 </table>
 
-Source: Thorne's Nobel Lecture.
+
+<center>
+(Source: Thorne's Nobel Lecture.) 
+</center>
 
 An interference pattern produced by gravitational waves was detected and measured on 14 September 2015, after more than forty years of collaboration of over one thousand researchers from nearly twenty countries. However, it was not reported until February 11, 2016 because its authors wanted to refine their calculations.
 
@@ -59,7 +62,10 @@ When the interferometer’s arms did not change length, both signals traveled eq
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-2-fig1.JPG?raw=true"> 
 </p>
 
+<center>
 Source: Figure 3 taken from the document Popular information: The Nobel Prize in Physics 2017.
+</center>
+
 
 **Figure 10.2.** ***Figure 3.*** *How to catch a gravitational wave. The world’s first captured gravitational waves were created in a violent collision between two black holes, 1.3 billion lightyears away. When these waves passed the Earth, 1.3 billion years later, they had weakened considerably: the disturbance in spacetime that LIGO measured was thousands of times smaller than an atomic nucleus.*
 
@@ -79,7 +85,7 @@ Source: Figure 3 taken from the document Popular information: The Nobel Prize in
 
 In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them.Furthermore, for each laureate we include the document called WORK describing his contributions.
 
-!!! info "Rainer Weiss (1932)."
+!!! tip "Rainer Weiss (1932)."
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Rainer Weiss has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
@@ -113,7 +119,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOTE: Weiss´ Lecture contains detailed descriptions of experimental contributions leading to the organization of the LIGO Project. These aspects will be considered in the activities reported in Table 10.1, Section 10.3. 
 
-!!! info "Barry C. Barish (1936)." 
+!!! tip "Barry C. Barish (1936)." 
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed to record gravitational waves. Barry Barish had a leading role in the project from 1994 and made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
@@ -156,7 +162,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOTE: Barish´s Lecture contains detailed descriptions of activities leading to the organization of the LIGO Project. These aspects will be considered in the activities reported in Table 10.2, Section 10.3.
 
-!!! info "Kip S. Thorne (1940)."
+!!! tip "Kip S. Thorne (1940)."
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Kip Thorne has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
