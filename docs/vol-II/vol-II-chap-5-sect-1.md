@@ -255,7 +255,7 @@ But this has already been done, especially in recent years, by a number of diffe
 
 “Prigogine has been particularly captivated by the problem of explaining how ordered structures – biological systems, for example – can develop from disorder. Even if Onsager’s relations are utilized, the classical principles of equilibrium in thermodynamics still show that linear systems close to equilibrium always develop into states of disorder which are stable to perturbations and cannot explain the occurrence of ordered structures.” 
 
-!!! info "Ilya Romanovich Prigogine (1917-2003)."
+!!! tip "Ilya Romanovich Prigogine (1917-2003)."
 
 	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
  
