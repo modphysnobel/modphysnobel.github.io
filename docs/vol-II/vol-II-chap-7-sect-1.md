@@ -174,73 +174,74 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 
 The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium".  In what follows, we describe the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections whose subtitles are underlined are included in Appendix 7.1. Next we include an official text describing the work made by Perrin which was published in the web page of the Nobel Foundation. The references of these documents are given in MLA format at the end of the chapter.
 	
-Nobel Lecture: *Discontinuous Structure of Matter* by Perrin.
+!!! tip "Jean Baptiste Perrin (1870-1942)."
 
-- Introduction
-- **The Brownian movement**
-- Law of the vertical distribution of an emulsion
-- Non-diluted emulsions
-- **Measurements of the Brownian movement**
-- The molecular reality
-- Monomolecular films
-- The discontinuous structure of the atom
+	WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
 
-WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
+	Nobel Lecture: *Discontinuous Structure of Matter* by Perrin.
+
+	- Introduction
+	- **The Brownian movement**
+	- Law of the vertical distribution of an emulsion
+	- Non-diluted emulsions
+	- **Measurements of the Brownian movement**
+	- The molecular reality
+	- Monomolecular films
+	- The discontinuous structure of the atom
+
+
 
 In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
-<div style="text-align:center;">
-<table cellspacing="0" cellpadding="0">
-<tbody>
-   <tr>
-   <th colspan="3" style="text-align: center">
-    Box 7.1. Concepts in Perrin´s Lecture.
-    </th>
-  </tr>
-  <tr>
-      <td>
-•	fluid <br>
-•	divisibility infinite of matter <br>
-•	supersaturated solution <br>
-•	crystal <br>
-•	resolving power of our senses <br>
-•	atom <br>
-•	molecule <br>
-•	chemical species <br>
-•	continuous movement <br>
-•	rule of multiple proportions 
-</td>
-     <td>
-•	atomic weight <br>
-•	Avogadro’s hypothesis <br>
-•	Avogadro’s number <br>
-•	valence <br>
-•	structural formulae <br>
-•	mean velocity of the gas molecules <br>
-•	viscosity <br>
-•	mean free path <br> 
-•	liquid in equilibrium
-</td>
-     <td>
-•	osmotic pressure <br>
-•	rarefaction in a gas <br>
-•	fractional distillation <br>
-•	non-diluted emulsions <br>
-•	coefficient of diffusion <br>
-•	Stokes’ law <br>
-•	rotational Brownian motion <br>
-•	cathode rays <br>
-•	electron <br>
-•	nuclear structure <br>
-•	transmutations of elements
-     </td>
-</tr>
-   </tbody>
-</table> 
-</div> 
+!!! bug "Box 7.1. Concepts in Perrin´s Lecture."
+
+	<div style="text-align:center;">
+	<table cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+		<td>
+	•	fluid <br>
+	•	divisibility infinite of matter <br>
+	•	supersaturated solution <br>
+	•	crystal <br>
+	•	resolving power of our senses <br>
+	•	atom <br>
+	•	molecule <br>
+	•	chemical species <br>
+	•	continuous movement <br>
+	•	rule of multiple proportions 
+	</td>
+		<td>
+	•	atomic weight <br>
+	•	Avogadro’s hypothesis <br>
+	•	Avogadro’s number <br>
+	•	valence <br>
+	•	structural formulae <br>
+	•	mean velocity of the gas molecules <br>
+	•	viscosity <br>
+	•	mean free path <br> 
+	•	liquid in equilibrium
+	</td>
+		<td>
+	•	osmotic pressure <br>
+	•	rarefaction in a gas <br>
+	•	fractional distillation <br>
+	•	non-diluted emulsions <br>
+	•	coefficient of diffusion <br>
+	•	Stokes’ law <br>
+	•	rotational Brownian motion <br>
+	•	cathode rays <br>
+	•	electron <br>
+	•	nuclear structure <br>
+	•	transmutations of elements
+		</td>
+	</tr>
+	</tbody>
+	</table> 
+	</div> 
 
 
-!!! bug "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
+!!! quote "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
 
 	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
 	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
