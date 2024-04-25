@@ -180,7 +180,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- “More interesting to us than the mere binocularity was the similarity of a given cell’s receptive fields in the two eyes, in size, complexity, orientation and position. Presumably this forms the basis of the fusion of the images in the two eyes.” 
 
-!!! question "BOX 3.11: David H. Hubel. *Other resources.*"
+!!! info "BOX 3.11: David H. Hubel. *Other resources.*"
 
 	MLA style: David H. Hubel – Other resources. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/other-resources/>
 
