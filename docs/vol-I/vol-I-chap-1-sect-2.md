@@ -140,7 +140,7 @@ Next, for each Nobel Laureate we include a brief description of his work as pres
 
 Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted knowledge or questions under discussion in Laureate´s time* and another for *Laureat´s contributions or explanations*. Quotation marks indicate complete quoted paragraphs.
 
-!!! tip "Wolfgang Pauli (1900 -1958)."
+!!! tip "Wolfgang Pauli (1900-1958)."
 	WORK: "In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too."
 
 	MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/facts/>
