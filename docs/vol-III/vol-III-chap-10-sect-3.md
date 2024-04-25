@@ -51,15 +51,15 @@ Level L2: the participants transform their work from cooperative to collaborativ
 
 Level L3: in addition to what is done at level L2, new knowledge is generated and applied to solve problems as well as to anticipate and avoid them
 
-!!! info "The LIGO project as a learning community."
+### The LIGO project as a learning community.
 
-	It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking what implied the LIGO project and consider if an international learning community has been formed.
+It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking what implied the LIGO project and consider if an international learning community has been formed.
 
-	The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a timeline for publications of papers, reports or proposals as well as for actions undertaken by individuals or institutions participating in the project. The selection of the principle that mostly applies to each activity is marked with an X in next Tables 10.1 and 10.2. This selection is just a personal interpretation, neither unique nor based on explicit and direct explanations made by the Nobel laureates.
+The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a timeline for publications of papers, reports or proposals as well as for actions undertaken by individuals or institutions participating in the project. The selection of the principle that mostly applies to each activity is marked with an X in next Tables 10.1 and 10.2. This selection is just a personal interpretation, neither unique nor based on explicit and direct explanations made by the Nobel laureates.
 
-	When required, texts quoted from each Nobel Lecture are indicated in between quotes. The following notation is used in columns second to fifth: AK for accessible knowledge, VT for visible thought, ML for mutual learning and CL for continuous learning.
+When required, texts quoted from each Nobel Lecture are indicated in between quotes. The following notation is used in columns second to fifth: AK for accessible knowledge, VT for visible thought, ML for mutual learning and CL for continuous learning.
 
-	<table width="100%">
+<table width="100%">
     <tr>
     <th>
     Table 10.1. Activities reported in Weiss´ Lecture.
@@ -369,7 +369,7 @@ Level L3: in addition to what is done at level L2, new knowledge is generated an
 	</table>
 
 
-	<table width="100%">
+<table width="100%">
     <tr>
     <th>
     Table 10.2. Activities reported in Barish’s Lecture.
