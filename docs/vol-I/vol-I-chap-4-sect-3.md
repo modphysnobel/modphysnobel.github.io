@@ -38,6 +38,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**E:**  How the physical properties of a system depend on the geometrical characteristics of space-time? 
 
+	***
 	
 	***A2:*** *Type of non-demonstrated premises that are implicitly or explicitly accepted.*
  
