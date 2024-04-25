@@ -19,7 +19,7 @@ Information contained in texts to be shared is usually expressed in terms of ora
 
 Next, we analyze how the four previous communication formats can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as with the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given at the end of this chapter.
 
-### (1). Flux **diagram** for obtaining de Broglie equation $p = h/λ$ (as described in Section 9.1 and explained in his Nobel Lecture).
+(1). Flux **diagram** for obtaining de Broglie equation $p = h/λ$ (as described in Section 9.1 and explained in his Nobel Lecture).
 
 
 
@@ -28,7 +28,7 @@ Next, we analyze how the four previous communication formats can be used to desc
 </p>
 	
 
-### (2). Experimental **designs** explained by Davisson and by Thomson in their Nobel Lectures.
+(2). Experimental **designs** explained by Davisson and by Thomson in their Nobel Lectures.
 
 Diffraction of electrons by crystals was independently observed by Davisson and Germer and by Thomson using quite different experimental settings. Both experiments demonstrated the physical existence of electron waves and therefore that electrons satisfy de Broglie’s equation  $p = h/λ$. They obtained equivalent experimental values: Davisson and Germer obtained $λ = 1.66 Å$ for the electron wavelength, and Thomson obtained $λ = 1.65 Å$.
 
@@ -52,7 +52,7 @@ Thomson experiments were different in two aspects:
 
 It is interesting to note that in 1897 Joseph John Thomson (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
 
-### (3). **Dialogues** between Bohr and Heisenberg about correspondence and uncertainty principles.
+(3). **Dialogues** between Bohr and Heisenberg about correspondence and uncertainty principles.
 
 This is a hypothetical dialogue between the two laureates that could occurred if we select and quote some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932.
 
