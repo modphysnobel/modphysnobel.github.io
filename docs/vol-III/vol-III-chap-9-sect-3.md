@@ -112,7 +112,7 @@ where p and q are canonically conjugated variables. These uncertainty relations 
 	
 “For the clearest analysis of the conceptual principles of quantum mechanics we are indebted to Bohr who, in particular, applied the concept of complementarity to interpret the validity of the quantum-mechanical laws. The uncertainty relations alone afford an instance of how in quantum mechanics the exact knowledge of one variable can exclude the exact knowledge of another. This complementary relationship between different aspects of one and the same physical process is indeed characteristic for the whole structure of quantum mechanics. I had just mentioned that, for example, the determination of energetic relations excludes the detailed description of spacetime processes.” 
 
-### (4). **Discourse** presented by de Broglie when he received the Physics Nobel Prize (excerpts from his Nobel Lecture *The Wave Nature of the Electron*).
+(4). **Discourse** presented by de Broglie when he received the Physics Nobel Prize (excerpts from his Nobel Lecture *The Wave Nature of the Electron*).
 
 …..
 	
