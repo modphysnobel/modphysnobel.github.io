@@ -68,48 +68,50 @@ The final region is where Detection and Measurement are accomplished having in m
 
 At the beginning of past century four revolutionary experiments generated new ideas and opened the access to unexpected windows for understanding what an electron is. Those were the experiments performed by Thomson, Millikan, Franck-Hertz and Compton. 
 
-!!! info "Experiments made by Thomson for discovering the electron."
-	Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
+### Experiments made by Thomson for discovering the electron.
 
-	<figure markdown>
+Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
+
+<figure markdown>
 	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8b.PNG){width="480"}
 	<figcaption> (Image credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</figcaption>
 	</figure>
 
-	**Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
+**Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 	
-	In Figure 2.1 the letters indicate the following variables: 
+In Figure 2.1 the letters indicate the following variables: 
 
-	* _d_ is the distance traveled by the electro inside the plates of the condenser where an external electric field (_E_) is applied. It is in this region that an external magnetic field (_B_) will be applied in the third type of experiments.
+* _d_ is the distance traveled by the electro inside the plates of the condenser where an external electric field (_E_) is applied. It is in this region that an external magnetic field (_B_) will be applied in the third type of experiments.
 
-	* _s_ is the distance traveled by the electron when the electron leaves the condenser and hits a phosphorescent screen at the end of the tube; when there are not external fields applied there is no deviation of the trajectory.
+* _s_ is the distance traveled by the electron when the electron leaves the condenser and hits a phosphorescent screen at the end of the tube; when there are not external fields applied there is no deviation of the trajectory.
 
-	* _l_ is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (_E_) is applied. 
+* _l_ is the distance on the screen between the arrival position when there are no external fields applied and the arrival position when an electric field (_E_) is applied. 
 
-	* _$\theta$_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
+* _$\theta$_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
 
-	The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
+The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
 
-	The region of **Transformation** corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$. is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
+The region of **Transformation** corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$. is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
 
-	Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
+Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
 
-	The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $\theta$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(\theta) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(\theta) = l/s$ it can be obtained $\tan(\theta) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
+The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $\theta$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(\theta) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(\theta) = l/s$ it can be obtained $\tan(\theta) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
 
-	To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0 B = F_{\mathrm{electric}} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2}) = \frac{l}{s}$ we get 
+To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0 B = F_{\mathrm{electric}} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2}) = \frac{l}{s}$ we get 
 
-	$$
+$$
 	\frac{q}{m}=\frac{El}{B^2ds}
-	$$
+$$
 
-	It is interesting to observe that in this equation the ratio of two very small and unknown quantities (_q/m_) can be calculated by measuring three distances (_l_, _s_ and _d_) and the intensity of two fields (_E_ and _B_). These experiments made possible to change a very difficult question into a feasible and relevant procedure.   
+It is interesting to observe that in this equation the ratio of two very small and unknown quantities (_q/m_) can be calculated by measuring three distances (_l_, _s_ and _d_) and the intensity of two fields (_E_ and _B_). These experiments made possible to change a very difficult question into a feasible and relevant procedure.   
 
-!!! info "Measurement of the elementary electric charge of the electron by Millikan."
-	Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 – 1981) were looking for a procedure for determining the value of the charge of an electron. They were experimenting first with drops of water and after with drops of oil. Their experimental setting is described in what follows and illustrated in Figures 2.2a and 2.2b. 
+### Measurement of the elementary electric charge of the electron by Millikan.
 
-	<!-- HTML Table 1.1.1-->
-	<table width="100%">
+Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 – 1981) were looking for a procedure for determining the value of the charge of an electron. They were experimenting first with drops of water and after with drops of oil. Their experimental setting is described in what follows and illustrated in Figures 2.2a and 2.2b. 
+
+<!-- HTML Table 1.1.1-->
+<table width="100%">
 	<tr>
 	<th width="50%" style="text-align: center">
 	<figure markdown>
@@ -130,36 +132,37 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 
-	<center>
+<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</center>
 	
 
-	**Figure 2.2.** Setting for the oil-drop experiment (a) and amplified view of a drop inside the microscope (b). Here, in (Figure 2.2a)the Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
+**Figure 2.2.** Setting for the oil-drop experiment (a) and amplified view of a drop inside the microscope (b). Here, in (Figure 2.2a)the Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
-	In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber.
+In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber.
 
-	In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up.
+In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up.
 
-	In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
+In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
 
-	Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{\mathrm{gravity}} = mg$), the viscous drag force ($F_{\mathrm{viscosity}}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm{electric field}} = qE$ exerted by the external field _E_. 
+Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{\mathrm{gravity}} = mg$), the viscous drag force ($F_{\mathrm{viscosity}}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm{electric field}} = qE$ exerted by the external field _E_. 
 
-	According to Stokes law, the force of fluid friction is $F_{\mathrm{viscosity}} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{\mathrm{viscosity}})/κη$. If the external field _E_ is zero the force $F_{\mathrm{electric field}} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{\mathrm{viscosity}} = F_{\mathrm{gravity}} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
+According to Stokes law, the force of fluid friction is $F_{\mathrm{viscosity}} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{\mathrm{viscosity}})/κη$. If the external field _E_ is zero the force $F_{\mathrm{electric field}} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{\mathrm{viscosity}} = F_{\mathrm{gravity}} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
 
-	However, when the external field is not zero the net force $F_{\mathrm{viscosity}} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $\Delta v_a$ are considered the changes in the charge are $\Delta q = [(6πrη)/E](\Delta v_a)$.
+However, when the external field is not zero the net force $F_{\mathrm{viscosity}} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $\Delta v_a$ are considered the changes in the charge are $\Delta q = [(6πrη)/E](\Delta v_a)$.
 
-	The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope. Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
+The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope. Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
 
-!!! info "Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz."
-	Spectral lines are observed in atoms because certain transitions between electronic discrete energy levels are produced. Is this a consequence of the emission or absorption of photons or is it a quantized property that electrons have by themselves?
+### Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz.
 
-	In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. They determined the separation between electronic energy levels in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. According to this model the quantized energy levels were mere hypothesis but not experimentally proved facts. 
+Spectral lines are observed in atoms because certain transitions between electronic discrete energy levels are produced. Is this a consequence of the emission or absorption of photons or is it a quantized property that electrons have by themselves?
 
-	The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
+In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. They determined the separation between electronic energy levels in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. According to this model the quantized energy levels were mere hypothesis but not experimentally proved facts. 
 
-	<!-- HTML Table 1.1.1-->
-	<table width="100%">
+The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
+
+<!-- HTML Table 1.1.1-->
+<table width="100%">
 	<tr>
 	<th width="50%">
 	<figure markdown>
@@ -182,40 +185,40 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 	
-	<center>
+<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</center>
 
-	**Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
+**Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
 
-	The region of **Preparation** contains a triode with a heated filament (_F_) for emitting electrons, a negative cathode (_C_), a collecting anode (_A_) and in between them a polarized grid (_G_).
+The region of **Preparation** contains a triode with a heated filament (_F_) for emitting electrons, a negative cathode (_C_), a collecting anode (_A_) and in between them a polarized grid (_G_).
 
-	The region of **Transformation** is the space surrounding _F_ and _G_ filled with atoms of Mercury vapor. An external variable potential (_V_) accelerates the electrons from _F_ towards _G_ provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between _G_ and _A_.
+The region of **Transformation** is the space surrounding _F_ and _G_ filled with atoms of Mercury vapor. An external variable potential (_V_) accelerates the electrons from _F_ towards _G_ provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between _G_ and _A_.
 
-	The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at _A_ after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
+The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at _A_ after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
 
-	In normal conditions an atom has its electrons in their lowest energy state; they go to a higher energy level when they receive extra energy for their excitation. Franck and Hertz accomplished this effect by generating inelastic collisions between two types of electrons: the external electrons produced by the filament F that have been accelerated by the potential V and the internal electrons belonging to the atoms of Mercury contained inside the triode. Franck and Hertz changed the accelerating voltage (_V_) and then measured in the galvanometer the intensity of the current (_I_) produced by those electrons that arrived at the anode A (Figure 2.3b). 
+In normal conditions an atom has its electrons in their lowest energy state; they go to a higher energy level when they receive extra energy for their excitation. Franck and Hertz accomplished this effect by generating inelastic collisions between two types of electrons: the external electrons produced by the filament F that have been accelerated by the potential V and the internal electrons belonging to the atoms of Mercury contained inside the triode. Franck and Hertz changed the accelerating voltage (_V_) and then measured in the galvanometer the intensity of the current (_I_) produced by those electrons that arrived at the anode A (Figure 2.3b). 
 
-	What was observed in the experiment was the following: When the accelerating potential V started to increase the current I also increased. At a critical value $V_c = 4.9$ volts the current went down sharply; however, when the voltage increased again the current increased also. In arriving at a new critical value $2V_c = 9.8$ volts, the same strong diminution of the current was observed. These observations can be interpreted as follows:
+What was observed in the experiment was the following: When the accelerating potential V started to increase the current I also increased. At a critical value $V_c = 4.9$ volts the current went down sharply; however, when the voltage increased again the current increased also. In arriving at a new critical value $2V_c = 9.8$ volts, the same strong diminution of the current was observed. These observations can be interpreted as follows:
 
-	- When $V < V_c = 4.9$ volts the accelerated electrons have low kinetic energy and their collisions with the atoms were elastic ones: as the mass of the electron is much smaller than the mass of the atom, the incident electrons rebound and do not give energy to the electrons in the atom.
+- When $V < V_c = 4.9$ volts the accelerated electrons have low kinetic energy and their collisions with the atoms were elastic ones: as the mass of the electron is much smaller than the mass of the atom, the incident electrons rebound and do not give energy to the electrons in the atom.
 	
-	- When $V = V_c$ the Mercury atom receives the exact amount of energy to excite their electrons to higher energy levels. Under this condition the collision is inelastic because the incoming electron lost the energy that gives up to the electrons inside the atom; therefore, the current I diminishes.
+- When $V = V_c$ the Mercury atom receives the exact amount of energy to excite their electrons to higher energy levels. Under this condition the collision is inelastic because the incoming electron lost the energy that gives up to the electrons inside the atom; therefore, the current I diminishes.
 
-	- If now $V > V_c$ the current I increases until $V = 2V_c$ and the collisions become inelastic again. These fluctuations in the current repeat when the voltage V attains a multiple value of $V_c$.
+- If now $V > V_c$ the current I increases until $V = 2V_c$ and the collisions become inelastic again. These fluctuations in the current repeat when the voltage V attains a multiple value of $V_c$.
 
-	It is interesting to note that in the atom of Mercury the difference between the lowest energy level and the first excited energy level corresponds to a spectral line whose wavelength is $\lambda = 2536 Å$.  For photons $E = hν = hc/\lambda$, if now we make $E = qV_c$ where $q$ is the charge of the electron, we can get $\lambda = (hc)/(qV_c) = 2,536 \times 10^{-10} m = 2536 Å$. Many implications of this experiment are considered in Hertz´s Nobel Lecture *The Results of the Electron-Impact Tests in the Light of Bohr’s Theory of Atoms*.
+It is interesting to note that in the atom of Mercury the difference between the lowest energy level and the first excited energy level corresponds to a spectral line whose wavelength is $\lambda = 2536 Å$.  For photons $E = hν = hc/\lambda$, if now we make $E = qV_c$ where $q$ is the charge of the electron, we can get $\lambda = (hc)/(qV_c) = 2,536 \times 10^{-10} m = 2536 Å$. Many implications of this experiment are considered in Hertz´s Nobel Lecture *The Results of the Electron-Impact Tests in the Light of Bohr’s Theory of Atoms*.
 
-	More details concerning Bohr´s atomic theory will be discussed in section 6.1. *Electronic energy levels in the hydrogen atom* corresponding to chapter *6. Spectroscopical studies of atomic structures.* Also, in section 6.3 of that chapter the Bohr´s Nobel Lecture *The structure of the atom* will be considered. 
+More details concerning Bohr´s atomic theory will be discussed in section 6.1. *Electronic energy levels in the hydrogen atom* corresponding to chapter *6. Spectroscopical studies of atomic structures.* Also, in section 6.3 of that chapter the Bohr´s Nobel Lecture *The structure of the atom* will be considered. 
 
-!!! info "Dispersion of radiation in collisions electron-photon explained by Compton."
+### Dispersion of radiation in collisions electron-photon explained by Compton.
 
-	The so-called Compton effect was produced, observed and calculated in 1920 by Arthur Compton. This effect consists in the dispersion of X rays produced by a collision with an electron. After this relativistic collision both colliding particles change their directions and magnitudes of their velocities: the incoming photon scatters in a different direction with a lower frequency (larger wavelength) and the initially stationary electron recoils and acquires some velocity up to about 80% of the velocity of light, This effect demonstrates the corpuscular properties of photons; they behave as particles of zero mass.
+The so-called Compton effect was produced, observed and calculated in 1920 by Arthur Compton. This effect consists in the dispersion of X rays produced by a collision with an electron. After this relativistic collision both colliding particles change their directions and magnitudes of their velocities: the incoming photon scatters in a different direction with a lower frequency (larger wavelength) and the initially stationary electron recoils and acquires some velocity up to about 80% of the velocity of light, This effect demonstrates the corpuscular properties of photons; they behave as particles of zero mass.
 
-	What follows is a scheme describing the experimental setting where the three regions of Production, Transformation and Detection and Measurement are shown (Figure 2.4a). A vectorial diagram indicates the collision condition (Figure 2.4b). 
+What follows is a scheme describing the experimental setting where the three regions of Production, Transformation and Detection and Measurement are shown (Figure 2.4a). A vectorial diagram indicates the collision condition (Figure 2.4b). 
 
-	<!-- HTML Table 1.1.1-->
-	<table width="100%">
+<!-- HTML Table 1.1.1-->
+<table width="100%">
 	<tr>
 	<th width="50%">
 	<figure markdown>
@@ -238,39 +241,39 @@ At the beginning of past century four revolutionary experiments generated new id
 	</tr>
 	</table>
 	
-	<center>
+<center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</center>
 	
-	**Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
+**Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
 
-	The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
+The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-	Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos \theta)$.
+Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)n_i$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)n_f$.  (The unitary vectors $n_i$ and $n_f$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(n_i) \cdot (n_f)=(\cos \theta)$.
 
-	Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $p$ in the direction of the angle $Φ$.
+Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $p$ in the direction of the angle $Φ$.
 
-	According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $p$ is the magnitude of its momentum $p$ and $c$ the velocity of light.
+According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $p$ is the magnitude of its momentum $p$ and $c$ the velocity of light.
 
-	The equations for the conservation of energy and momentum are  
+The equations for the conservation of energy and momentum are  
 
-	$Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) n_i= (\frac{Q}{c}) n_f+ p$
+$Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) n_i= (\frac{Q}{c}) n_f+ p$
 
-	Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0n_i- Qn_f )= cp$
+Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0n_i- Qn_f )= cp$
 
-	Then, taking into account that $(n_i).(n_f)=(\cos \theta)$, we obtain in previous equation: 
+Then, taking into account that $(n_i).(n_f)=(\cos \theta)$, we obtain in previous equation: 
 
-	$(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ ..... (1)
+$(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ ..... (1)
 
-	$(Q_0)^2- 2(Q_0Q)(\cos \theta)+ (Q)^2 = c^2p^2$ ..... (2)
+$(Q_0)^2- 2(Q_0Q)(\cos \theta)+ (Q)^2 = c^2p^2$ ..... (2)
 
-	Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- \cos \theta)= (Q_0-Q)(m_0c^2 )$.
+Now if equation (2) is subtracted from equation (1), use that $E^2 = [m_0^2c^4 + p^2c^2]$, then we obtain $(Q_0 Q)(1- \cos \theta)= (Q_0-Q)(m_0c^2 )$.
 
-	For the electron $Q_0=\frac{hc}{\lambda_0}$ and for the photon $Q=hν=\frac{hc}{\lambda}$. Previous equation is now transformed into the following $(\frac{hc}{\lambda\lambda_0})(1- \cos \theta)=(\frac{\lambda- \lambda_0}{\lambda\lambda_0})(m_0c^2 )$
+For the electron $Q_0=\frac{hc}{\lambda_0}$ and for the photon $Q=hν=\frac{hc}{\lambda}$. Previous equation is now transformed into the following $(\frac{hc}{\lambda\lambda_0})(1- \cos \theta)=(\frac{\lambda- \lambda_0}{\lambda\lambda_0})(m_0c^2 )$
 
-	If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\Lambda_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $\Delta\lambda= (\Lambda_C )(1- \cos \theta)$.
+If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\Lambda_C=\frac{h}{m_0 c}$ is the Compton length for electrons, finally it can be obtained $\Delta\lambda= (\Lambda_C )(1- \cos \theta)$.
 
-	Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $\Lambda_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\Lambda_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
+Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length is $\Lambda_C = 0.02426 Å = 2.426 \times 10^{-12} m$ quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\Lambda_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
 
 ***
 
