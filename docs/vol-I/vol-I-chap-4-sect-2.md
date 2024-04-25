@@ -11,7 +11,7 @@ In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Ga
 
 ### Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*.
 
-Next, we include some excerpts from this Lecture. Subtitles do not come in the original; they are inserted and numbered for identifying the components of the Lecture. Some external NOTES are introduced to make clear certain issues, based on information obtained in Pais (1982). When the excerpts correspond to complete quotations, we write the corresponding texts in cursive format. The lecture was delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923.  
+Next, we include some excerpts from this Lecture. Subtitles do not come in the original; they are inserted and numbered for identifying the components of the Lecture. Some external NOTES are introduced to make clear certain issues, based on information obtained in Pais (1982). When the excerpts correspond to complete quotations, the corresponding text is indicated in between quotation marks. The lecture was delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923.  
 
 MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Mar 2023. https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/
 
@@ -111,9 +111,9 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 ![Fig 2](./figs/Vol-I-chap-4-sect-3-Fig2.png){width="300"}
 </figure>
 
-- "The gravitational potentials gμν describe the gravitational field. They determine the space-time metric ds which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
+- "The gravitational potentials $g_{μν}$ describe the gravitational field. They determine the space-time metric ds which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
 
-- "In mathematical terms the search for the field equations amounts to ascertaining the simplest generally covariant differential equations to which the gravitational potentials gµv can be subjected. To complete the basis of the general theory of relativity, the field equations must incorporate the electromagnetic field as well as the structure of matter."
+- "In mathematical terms the search for the field equations amounts to ascertaining the simplest generally covariant differential equations to which the gravitational potentials $g_{µv}$ can be subjected. To complete the basis of the general theory of relativity, the field equations must incorporate the electromagnetic field as well as the structure of matter."
   
 **(12)	Problems with the law of inertia**
 
