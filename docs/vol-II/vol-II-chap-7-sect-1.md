@@ -58,7 +58,7 @@ $<ΔX^2> =[(kT)/(3πηa)](t)$
 In the previous equation, the Boltzmann constant $k = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 	
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
 </p>
 
 
