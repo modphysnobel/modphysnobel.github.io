@@ -50,6 +50,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 	**E:**  Both theories of relativity are derived from principles: for the special theory the principles of relativity and of the constancy of the speed of light; for the general theory the principle of equivalence, meaning that gravitational attractions are of geometrodynamic nature.
 
+	***
 	
 	***A3:*** *Type of relationship between theory and experience*. 
 
@@ -61,6 +62,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**E:**  If the concepts involved in explaining some experimental results are inside the domains of validity of the theory but nevertheless some observations or measurements do not agree with theoretical calculated predictions, then it is necessary to review the experimental procedures and interpretations.
 
+	***
 	
 	***A4:*** *Role of mathematics in the formulation of a physical theory*. 
 
@@ -72,6 +74,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**E:**  The physics of motion and the transformation between matter and energy are explained in terms of a geometrodynamical approach that is not Euclidean because the structure of the four-dimensional space-time is determined by high concentrations of masses.	
 
+	***
 	
 	***F1:*** *Methodology or procedure employed in the analysis of facts and in the verification of hypothesis.*		
 
@@ -83,6 +86,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**E:**  The agreement and coherence among theory and experiments considers that motion is relative to the reference system, that the law of transmission of light in vacuo is satisfied, and that the principle of equivalence is valid.
 
+	***
 	
 	***F2:*** *Epistemological points of view characterizing general concepts in connection with experimental facts.* 
 
@@ -94,7 +98,8 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**E:**  Scientific explanations can be formulated in terms of three kinds of levels: the Intra level describing objects like elementary particles and energy radiations, the Inter level proposing relationships like those connecting space with time, matter with energy and gravitational fields with accelerated frames of reference, and the Trans level dealing with structures like those describing the kinematics and dynamics aspects of motion in a gravitational theory corresponding to a non-Euclidean geometry.
 	
-	
+	***
+
 	***F3:*** *Building a coherent system that logically integrates facts and concepts.*  
 
 	**K:**  Kepler´s laws form a consistent theoretical structure that describes but does not explain; it will require a complete justification as the one formulated by Newton. 
@@ -103,7 +108,7 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 	
 	**N:**  Once the theory of gravitation was formulated and tested there remained the need for connection and integration with other branches of Classical Physics, like Thermodynamics and Electromagnetism. 
 	
-	**E:**  Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects. Furthermore, it must be research is required concerning phenomena such as the motion of the perihelion of Mercury, the deflection of light by a gravitational field, and the displacement of spectral lines towards the red, as well as the production and detection of black holes.
+	**E:**  Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects. Furthermore, more research is required concerning phenomena such as the motion of the perihelion of Mercury, the deflection of light by a gravitational field, and the displacement of spectral lines towards the red, as well as the production and detection of black holes.
 
 ***
 
