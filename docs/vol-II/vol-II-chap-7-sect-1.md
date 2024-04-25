@@ -49,7 +49,7 @@ Einstein considered from the fact that atoms have a real and not hypothetical ex
 
 The expression $D = (RT)/(6πηaN_A)$ is called the Stokes-Einstein equation, where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
 
-The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the X-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $x$ occurs. That is to say $λ_x=$ $\sqrt{〈x^2〉}$ $=\sqrt{2Dt} $. 
+The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the X-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $x$ occurs. That is to say $λ_x=$ $\sqrt{〈x^2〉}=$ $\sqrt{2Dt}$. 
 
 Einstein used the two previous equations that define $D$ and $λ_x$ and predicted that the root mean square deviation of the random displacements in an X direction had a linear behavior with respect to the temperature $T$ of the liquid and the time $t$ during which the Brownian particle suffers collisions with surrounding water molecules:
 
