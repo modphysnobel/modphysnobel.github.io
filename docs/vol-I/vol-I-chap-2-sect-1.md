@@ -72,11 +72,16 @@ At the beginning of past century four revolutionary experiments generated new id
 
 Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from ThomsonÂ´s paper.
 
-<figure markdown>
-	![Fig 8](./figs/Vol-I-chap-2-sect-1-Fig8b.PNG){width="480"}
-	<figcaption> (Image credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
-	</figcaption>
-	</figure>
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
+
+
+<center>
+(Image credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)	
+</center>
+
+
 
 **Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 	
@@ -115,11 +120,11 @@ Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 â
 	<tr>
 	<th width="50%" style="text-align: center">
 	<figure markdown>
-	![Fig9b](./figs/Vol-I-chap-2-sect-1-Fig9b.PNG){width="999"}
+	 <img width="999" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9b.PNG?raw=true"> 
 	</figure>
 	</th>
 	<th width="50%" style="text-align: center">
-	![Fig9c](./figs/Vol-I-chap-2-sect-1-Fig9c.PNG){width="200"}
+	 <img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9c.PNG?raw=true"> 
 	</th>
 	</tr>
 	<tr>
@@ -166,12 +171,12 @@ The experimental setting used by Franck and Heertz is described in terms of the 
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 11](./figs/Vol-I-chap-2-sect-1-Fig10b.PNG){ width="380" }
+	<img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig10b.PNG?raw=true"> 
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 12](./figs/Vol-I-chap-2-sect-1-Fig12.PNG){ width="380" }
+	<img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig12.PNG?raw=true"> 
 	</figure>
 	</th>
 	</tr>
@@ -222,12 +227,12 @@ What follows is a scheme describing the experimental setting where the three reg
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	![Fig 13](./figs/Vol-I-chap-2-sect-1-Fig13b.PNG){ width="380" }
+	<img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig13b.PNG?raw=true"> 
 	</figure>
 	</th>
 	<th width="50%">
 	<figure markdown>
-	![Fig 14](./figs/Vol-I-chap-2-sect-1-Fig14.PNG){ width="680" }
+	<img width="680" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig14.PNG?raw=true"> 
 	</figure>
 	</th>
 	</tr>
