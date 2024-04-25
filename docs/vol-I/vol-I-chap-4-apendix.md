@@ -33,7 +33,7 @@ Points M and N are in the middle of respective sides AB and AC so that BM = MA i
 
 **Figure 4.4.** Characteristics of the triangle ABC, the so-called Lagrange’s triangle.
 
-Now consider that Lagrange's triangle is suspended from point A and that a weight 2P is applied to point A and a weight P is applied to each endpoint B and C, as shown in Figure 4.6. Under such conditions, the triangle BAC is in equilibrium with respect to the axis that passes through the line AD: the weight 2P in A does not intervene because it is at a zero distance from the axis AD. The weights that hang from B and C satisfy the condition of the lever:
+Now consider that Lagrange's triangle is suspended from point A and that a weight 2P is applied to point A and a weight P is applied to each endpoint B and C, as shown in Figure 4.5. Under such conditions, the triangle BAC is in equilibrium with respect to the axis that passes through the line AD: the weight 2P in A does not intervene because it is at a zero distance from the axis AD. The weights that hang from B and C satisfy the condition of the lever:
 
 Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D}.
 
