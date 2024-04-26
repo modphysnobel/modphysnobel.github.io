@@ -92,177 +92,189 @@ EMERGENT
   </tr>
 </table>
 
+
+<center>
 (Source: elaboration by the authors.)
+</center>
 
-!!! info "Albert Einstein learning trayectory."
+### Albert Einstein learning trayectory.
 
-	Einstein’s life began in Ulm, Germany on March 14, 1879, and ended in Princeton, United States on April 18, 1955. For more information see the references at the end of the chapter. Next, we might ask in what types of *schools* did he learn.
+Einstein’s life began in Ulm, Germany on March 14, 1879, and ended in Princeton, United States on April 18, 1955. For more information see the references at the end of the chapter. Next, we might ask in what types of *schools* did he learn.
 
-	*Punitive barrack whose objective was to obey*.  His preuniversity learning was subjected to a traditional German instruction almost exclusively reduced to the transmission of information that had to be accepted and digested without questioning. Although he excelled in mathematics and physics, his school performance was mediocre and sometimes even poor. He paid little attention to the requirements of prescriptive learning related to encyclopedic-type content, implied conventional rote procedures, mainly expressed in terms of dogmatic, sectarian or authoritarian attitudes. He challenged systems and institutions and as an original and persistent autodidact, he began to generate some emerging learning of great creativity that he would later apply in all his intellectual productions.
+*Punitive barrack whose objective was to obey*.  His preuniversity learning was subjected to a traditional German instruction almost exclusively reduced to the transmission of information that had to be accepted and digested without questioning. Although he excelled in mathematics and physics, his school performance was mediocre and sometimes even poor. He paid little attention to the requirements of prescriptive learning related to encyclopedic-type content, implied conventional rote procedures, mainly expressed in terms of dogmatic, sectarian or authoritarian attitudes. He challenged systems and institutions and as an original and persistent autodidact, he began to generate some emerging learning of great creativity that he would later apply in all his intellectual productions.
 
-	*Efficient factory whose objective was to produce*. He could not be accepted to study physics at a university; after several attempts he was accepted at the Federal Institute of Technology in Zurich, Switzerland. He independently learned what was prescriptive but interested him, and he took time to work on emerging learning outside what was established. Instead of repeating other people's ideas, he thought and persistently followed challenging questions that apparently made no sense. On December 13, 1900 he sent to the journal *Annalen der Physik*  his first scientific paper at the age of twenty-one.
+*Efficient factory whose objective was to produce*. He could not be accepted to study physics at a university; after several attempts he was accepted at the Federal Institute of Technology in Zurich, Switzerland. He independently learned what was prescriptive but interested him, and he took time to work on emerging learning outside what was established. Instead of repeating other people's ideas, he thought and persistently followed challenging questions that apparently made no sense. On December 13, 1900 he sent to the journal *Annalen der Physik*  his first scientific paper at the age of twenty-one.
 
-	*Emotional festival whose objective was to create*. Throughout his life, his research work was empowered by a continuous emergent learning that made possible a unique scientific career where three epochs can be identified: 
+*Emotional festival whose objective was to create*. Throughout his life, his research work was empowered by a continuous emergent learning that made possible a unique scientific career where three epochs can be identified: 
 
-	(1)	*Revolutionary explosion*. In a period of 195 days five publications were submitted and accepted and at the end of the same year a sixth paper was submitted; he was 26 years old. Although those publications were written in German, in the second column of next Table 12.2 all the titles are in English. It is remarkable how self-explanatory are those titles.
+(1)	*Revolutionary explosion*. In a period of 195 days five publications were submitted and accepted and at the end of the same year a sixth paper was submitted; he was 26 years old. Although those publications were written in German, in the second column of next Table 12.2 all the titles are in English. It is remarkable how self-explanatory are those titles.
 
-	<table width="100%">
-    <tr>
-        <th colspan="3" style="text-align: center">
-	Table 12.2. Publications during the “Annus mirabillis” of 1905
-        </th>
-    </tr>
-	<tr>
-    <th width="20%" style="text-align: center">
-	DATE
+<table width="100%">
+<tr>
+    <th colspan="3" style="text-align: center">
+Table 12.2. Publications during the “Annus mirabillis” of 1905
     </th>
-    <th width="40%" style="text-align: center">
-	TITLE
+</tr>
+<tr>
+<th width="20%" style="text-align: center">
+DATE
+</th>
+<th width="40%" style="text-align: center">
+TITLE
+</th>
+<th width="40%" style="text-align: center">
+CONTRIBUTIONS
+</th>
+</tr>
+<tr>
+<td>
+March 17
+</td>
+<td>
+On a Heuristic Point of View Concerning the Production and Transformation of Light. 
+[Annalen der Physik (1905) 17, 132–148.]
+</td>
+<td>
+Description of the corpuscular nature of light and explanation of the photoelectric effect. 
+</td>
+</tr>
+<tr>
+<td>
+April 30
+</td>
+<td>
+On a new determination of molecular dimensions. 
+</td>
+<td>
+PhD thesis at the Federal Institute of Technology in Zurich, Switzerland.
+</td>
+</tr>
+<tr>
+<td>
+May 11
+</td>
+<td>
+On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat.
+[Annalen der Physik (1905) 17, 549-560.]
+</td>
+<td>
+Explanation of Brownian motion and Avogadro´s number calculation.
+</td>
+</tr>
+<tr>
+<td>
+June 30
+</td>
+<td>
+On the Electrodynamics of Moving Bodies.
+[Annalen der Physik (1905) 17, 891–921.]
+</td>
+<td>
+Description of the special theory of relativity.
+</td>
+</tr>
+<tr>
+<td>
+September 27
+</td>
+<td>
+Does the Inertia of a Body Depend upon its Energy Content?
+[Annalen der Physik (1905) 18, 639–641.]
+</td>
+<td>
+Obtention of equation $E = mc^2$.
+</td>
+</tr>
+<tr>
+    <td>
+December 19
+</td>
+<td>
+On the Theory of Brownian Motion.
+[Annalen der Physik (1906) 19, 371–381.]
+</td>
+<td>
+A second paper on Brownian motion is received by the editors. It will be published next year.
+</td>
+</tr>
+</table>
+
+
+<center>
+(Source: Pais, *Subtle is the Lord... The Science and the Life of Albert Einstein.*)
+</center>
+
+
+(2) *Leadership in theoretical physics*. . His realistic position regarding the existence of atoms and molecules remained against the opinion of many physicists in the early twentieth century. He convinced through the explanatory and predictive value of his theories. As an example of this capacity Table 12.3 indicates the number of years elapsed between five Einstein theoretical prediction and the experimental observation or production of the phenomenon in consideration.
+
+<div style="text-align:center;">
+<table>
+<tr>
+    <th colspan="2" style="text-align: center">
+Table 12.3. Years between prediction and observation.
     </th>
-	<th width="40%" style="text-align: center">
-	CONTRIBUTIONS
-    </th>
-    </tr>
-	<tr>
-    <td>
-	March 17
-    </td>
-    <td>
-	On a Heuristic Point of View Concerning the Production and Transformation of Light. 
-	[Annalen der Physik (1905) 17, 132–148.]
-    </td>
-    <td>
-	Description of the corpuscular nature of light and explanation of the photoelectric effect. 
-    </td>
-    </tr>
-	<tr>
-    <td>
-    April 30
-    </td>
-    <td>
-	On a new determination of molecular dimensions. 
-    </td>
-    <td>
-    PhD thesis at the Federal Institute of Technology in Zurich, Switzerland.
-    </td>
-	</tr>
-	<tr>
-    <td>
-    May 11
-    </td>
-    <td>
-	On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat.
-	[Annalen der Physik (1905) 17, 549-560.]
-    </td>
-    <td>
-    Explanation of Brownian motion and Avogadro´s number calculation.
-    </td>
-	</tr>
-	<tr>
-    <td>
-	June 30
-    </td>
-    <td>
-	On the Electrodynamics of Moving Bodies.
-	[Annalen der Physik (1905) 17, 891–921.]
-    </td>
-    <td>
-    Description of the special theory of relativity.
-    </td>
-	</tr>
-	<tr>
-    <td>
-    September 27
-    </td>
-    <td>
-	Does the Inertia of a Body Depend upon its Energy Content?
-	[Annalen der Physik (1905) 18, 639–641.]
-    </td>
-    <td>
-    Obtention of equation $E = mc^2$.
-    </td>
-    </tr>
-    <tr>
-     <td>
-    December 19
-    </td>
-    <td>
-	On the Theory of Brownian Motion.
-	[Annalen der Physik (1906) 19, 371–381.]
-    </td>
-    <td>
-    A second paper on Brownian motion is received by the editors. It will be published next year.
-    </td>
-	</tr>
-	</table>
+</tr>
+<tr>
+<th width="50%" style="text-align: center">
+PREDICTED PHENOMENON 
+</th>
+<th width="50%" style="text-align: center">
+YEARS
+</th>
+</tr>
+<tr>
+<td>
+Nuclear energy
+</td>
+<td>
+34
+</td>
+</tr>
+<tr>
+<td>
+Gravitational shift towards the red 
+</td>
+<td>
+44
+</td>
+</tr>
+<tr>
+<td>
+Stimulated energy radiation in laser
+</td>
+<td>
+37
+</td>
+</tr>
+<tr>
+<td>
+Bose-Einstein condensate
+</td>
+<td>
+70
+</td>
+</tr>
+<tr>
+<td>
+Entanglement of quantum states
+</td>
+<td>
+30
+</td>
+</tr>
+</table>
+</div> 
 
-	(Source: Pais, *Subtle is the Lord... The Science and the Life of Albert Einstein.*)
 
-	(2) *Leadership in theoretical physics*. . His realistic position regarding the existence of atoms and molecules remained against the opinion of many physicists in the early twentieth century. He convinced through the explanatory and predictive value of his theories. As an example of this capacity Table 12.3 indicates the number of years elapsed between five Einstein theoretical prediction and the experimental observation or production of the phenomenon in consideration.
-	
-    <div style="text-align:center;">
-	<table>
-    <tr>
-        <th colspan="2" style="text-align: center">
-	Table 12.3. Years between prediction and observation.
-        </th>
-    </tr>
-	<tr>
-    <th width="50%" style="text-align: center">
-	PREDICTED PHENOMENON 
-    </th>
-    <th width="50%" style="text-align: center">
-	YEARS
-    </th>
-    </tr>
-	<tr>
-    <td>
-	Nuclear energy
-    </td>
-    <td>
-	34
-    </td>
-    </tr>
-	<tr>
-    <td>
-    Gravitational shift towards the red 
-    </td>
-    <td>
-	44
-    </td>
-	</tr>
-	<tr>
-	<td>
-    Stimulated energy radiation in laser
-    </td>
-    <td>
-	37
-    </td>
-	</tr>
-	<tr>
-    <td>
-	Bose-Einstein condensate
-    </td>
-    <td>
-	70
-    </td>
-	</tr>
-	<tr>
-    <td>
-	Entanglement of quantum states
-    </td>
-    <td>
-	30
-    </td>
-	</tr>
-	</table>
-    </div> 
 
-	(Source: Rigden. *Einstein 1905: The Standard of Greatness.*)
+<center>
+(Source: Rigden. *Einstein 1905: The Standard of Greatness.*)
+</center>
 
-	(3) *Search and discrepancy.* During many years he concentrated on problems that remained unresolved, like a unified field treatment of gravitational and quantum phenomena. He participated also in debates with Niels Bohr (1885-1962) about the interpretation of quantum mechanics and with David Hilbert (1862-1943) about the formulation of gravitational theories. Although his emergent learnings was declining, he published several books and wrote many letters and articles about philosophy of science, pacifism, politics, education, morality, cosmic religiosity, ...
 
-	By all means, a lot of learning can be obtained from Einstein´s learning trajectory.
+(3) *Search and discrepancy.* During many years he concentrated on problems that remained unresolved, like a unified field treatment of gravitational and quantum phenomena. He participated also in debates with Niels Bohr (1885-1962) about the interpretation of quantum mechanics and with David Hilbert (1862-1943) about the formulation of gravitational theories. Although his emergent learnings was declining, he published several books and wrote many letters and articles about philosophy of science, pacifism, politics, education, morality, cosmic religiosity, ...
+
+By all means, a lot of learning can be obtained from Einstein´s learning trajectory.
 
 ***
 
