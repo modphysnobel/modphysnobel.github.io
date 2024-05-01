@@ -23,9 +23,9 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	**In 1922** “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
-	WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
+	**WORK:** “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
 
-	Nobel Lecture, *The structure of the atom* by Bohr. 
+	**Nobel Lecture:** *The structure of the atom* by Bohr. 
 
 	- The general picture of the atom 
 	- Atomic stability and electrodynamic theory 
@@ -118,9 +118,9 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	**In 1955**  “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
-	WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
+	**WORK:** “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
 
-	Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
+	**Nobel Lecture:** *Fine Structure of the Hydrogen Atom* by Lamb.
 
 !!! bug " Box 6.3. Concepts in Lamb´s Lecture."
 
@@ -182,13 +182,13 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	**In 1964** “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
-	WORK: “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes, Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
+	**WORK:** “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes, Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
 
-	Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
+	**Nobel Lecture:** *Production of Coherent Radiation by Atoms and Molecules* by Townes.
 
 	- Basic Maser principles
 	- Maser Clocks and Amplifiers
-	- Optical ad Infrared Masers, or Lasers
+	- Optical and Infrared Masers, or Lasers
 	- Present Performance of Lasers
 	- Some Applications of Lasers
 	- The Phonon Maser
@@ -272,9 +272,9 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	**In 1981** "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
-	WORK: “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
+	**WORK:** “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
 
-	Nobel Lecture: *Spectroscopy in a New Light* by Schawlow.
+	**Nobel Lecture:** *Spectroscopy in a New Light* by Schawlow.
 
 	- Introduction
 	- Laser spectroscopy
@@ -341,7 +341,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	- The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. <br>
 	- Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. <br>
 	- Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. <br>
-	- In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in 1015. <br>
+	- In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in $10^{15}$. <br>
 	- Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. <br>
 	- Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
 
