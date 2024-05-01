@@ -33,7 +33,7 @@
  
 	**Section 5.3.  Components of the explanation of a scientific theory.**
 
-	In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture On the Laws of Thermal Radiation and Planck´s Nobel Lecture The Genesis and Present State of Development of the Quantum Theory. 
+	In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture *On the Laws of Thermal Radiation* and Planck´s Nobel Lecture *The Genesis and Present State of Development of the Quantum Theory*. 
 
 ## 5.1.  Kinetic theory of gases and Thermodynamics.
 
@@ -52,7 +52,7 @@ In 1802 Joseph Louis Gay-Lussac (1778-1850) formulated an empirical rule that go
 
 The kinetic theory of gases introduced concepts such as collision probability, mean free path, energy equipartition and velocity distribution. Nevertheless, these concepts are not enough to explain the irreversibility of macroscopic phenomena. According to Boltzmann, the irreversibility of the movement of the particles in a gas needs to be approached statistically; that is, by considering a very large number of particles and calculating average values.
 
-It was Boltzmann who established the connection between the macroscopic states that thermodynamics describes and the microscopic states that statistical mechanics deals with. For example, the entropy (S) of the system is a macroscopic variable that is a function of three variables: energy (E), volume (V), and number of particles (N). These variables are related to the number of microscopic configurations or possible states (Ω) such that the entropy is the function $S(E,N,V) = k_Blog(Ω)$, where $k_B$ is a Boltzmann constant.
+It was Boltzmann who established the connection between the macroscopic states that thermodynamics describes and the microscopic states that statistical mechanics deals with. For example, the entropy (S) of the system is a macroscopic variable that is a function of three variables: energy (E), volume (V), and number of particles (N). These variables are related to the number of microscopic configurations or possible states (Ω) such that the entropy is the function $S(E,N,V) = k_Blog(Ω)$, where $k_B$ is the Boltzmann constant.
 
 ### The laws of Thermodynamics.
 
@@ -115,11 +115,11 @@ Nevertheless, there was a time in the history of physics when the unproven exist
 
 ### Chemistry Nobel Lectures related to Thermodynamics.
 
-In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: (1) some excerpts from the *Presentation Speech* corresponding to the *Award ceremony speech*, (2) the complete document called *WORK* which is a descriptive explanation of the contributions made by the laureate and (3) the title of his *Nobel Lecture*, its subtitles when they are in the original and some excerpts from the beginning of the document. At the end of the chapter, we present the appropriate references in MLA format.
+In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: (1) some excerpts from the *Presentation Speech* corresponding to the *Award ceremony speech*, (2) the complete document called *WORK* which is a descriptive explanation of the contributions made by the laureate and (3) his *Nobel Lecture*, including the title and subtitles, when they are in the original, and some excerpts from the beginning of the document. At the end of the chapter, we present the appropriate references in MLA format.
 
 **In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in thermochemistry”.
 
-*Presentation Speech* by Professor Gerard de Geer, President of the Royal Swedish Academy of Sciences, on December 10, 1921.
+<u>*Presentation Speech*</u> by Professor Gerard de Geer, President of the Royal Swedish Academy of Sciences, on December 10, 1921.
 	
 ……
 	
