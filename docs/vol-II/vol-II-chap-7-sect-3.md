@@ -39,6 +39,8 @@ TADIR is a problem solving procedure composed of five components: Translation (T
 		<td>
 	2. To obtain average values.
 	</td>
+    </tr>
+	<tr>
 		<td>
 	3. To calculate the average kinetic energies of the Brownian particles.
 		</td>
