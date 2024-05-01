@@ -9,7 +9,7 @@
 
 In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by Paul Langevin (1872 - 1946) to obtain Einstein´s equation for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
 
-TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive.  
+TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Box 7.1 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
 
 <p align="center" width="100%">
     <img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
@@ -18,6 +18,57 @@ TADIR is a problem solving procedure composed of five components: Translation (T
 <center>
 (Image credit: drawings made by the authors.)
 </center>
+
+!!! bug "Box 7.1. TADIR steps of Langevin´s procedure."
+
+<div style="text-align:center;">
+	<table cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+		<td style="text-align: center">
+	TRANSLATION
+	</td>
+		<td>
+	1. To describe the initial conditions that define the problem.
+	</td>
+	</tr>
+	<tr>
+		<td  style="text-align: center" rowspan=2>
+	ANALYSISE
+	</td>
+		<td>
+	2. To obtain average values.
+	</td>
+		<td>
+	3. To calculate the average kinetic energies of the Brownian particles.
+		</td>
+	</tr>
+	<tr>
+		<td  style="text-align: center" rowspan=2>
+	IMPLEMENTATION
+	</td>
+		<td>
+	6. To calculate the root mean squares of the displacements in random walks.
+		</td>
+	</tr>
+	<tr>
+		<td>
+	7. To calculate the integrals incorporating random walk results.
+	</td>
+	</tr>
+	<tr>
+		<td style="text-align: center">
+	REVIEW
+	</td>
+	</tr>
+	</tbody>
+	</table> 
+	</div> 
+
+
+
+
+
 
 
 In what follows we first define each TADIR component of the problem solving procedure and then describe the corresponding steps proposed by Langevin to obtain Einstein´s equation.
