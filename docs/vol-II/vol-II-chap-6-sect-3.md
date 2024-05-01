@@ -9,11 +9,13 @@
 
 Physics looks for explanations of certain observed and measured phenomena that mainly requires concepts, models, and theories to be understood and explained. These are cognitive constructs in need of logical developments, significative mathematical treatments, careful calculations, and clear interpretations of experimental results. 
 
-•	Concepts are elementary cognitive bricks for exploring and depicting specific phenomena or circumstances.
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-3-fig2.PNG?raw=true.PNG"> 
+</p>
 
-•	Models are effective descriptions of relationships among concepts for understanding the structure and function of objects or systems.
-
-•	Theories are integrated, synthetic and coherent representations and interpretations with explicative and predictive fruitful capacities.
+<center>
+(Image elaborated by the authors)
+</center>
 
 In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. In each case we start describing the year of the Prize, the name of the Laureate and the reasons for the award. Then we insert an official document called WORK describing the main contributions of each laureate. Finally, we include the title of each Lecture, its subtitles when they exist in the original and two boxes related to concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section. 
 
