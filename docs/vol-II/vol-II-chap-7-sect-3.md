@@ -21,61 +21,57 @@ TADIR is a problem solving procedure composed of five components: Translation (T
 
 !!! bug "Box 7.1. TADIR steps of Langevin´s procedure."
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-		<td style="text-align: center">
-	TRANSLATION
-	</td>
-		<td>
-	1. To describe the initial conditions that define the problem.
-	</td>
-	</tr>
-	<tr>
-		<td  style="text-align: center" rowspan=2>
-	ANALYSISE
-	</td>
-		<td>
-	2. To obtain average values.
-	</td>
-    </tr>
-	<tr>
-		<td>
-	3. To calculate the average kinetic energies of the Brownian particles.
-		</td>
-	</tr>
-	<tr>
-		<td  style="text-align: center" rowspan=2>
-	IMPLEMENTATION
-	</td>
-		<td>
-	6. To calculate the root mean squares of the displacements in random walks.
-		</td>
-	</tr>
-	<tr>
-		<td>
-	7. To calculate the integrals incorporating random walk results.
-	</td>
-	</tr>
-	<tr>
-		<td style="text-align: center">
-	REVIEW
-	</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+    <div style="text-align:center;">
+        <table cellspacing="0" cellpadding="0">
+        <tbody>
+        <tr>
+            <td style="text-align: center">
+        TRANSLATION
+        </td>
+            <td>
+        1. To describe the initial conditions that define the problem.
+        </td>
+        </tr>
+        <tr>
+            <td  style="text-align: center" rowspan=2>
+        ANALYSISE
+        </td>
+            <td>
+        2. To obtain average values.
+        </td>
+        </tr>
+        <tr>
+            <td>
+        3. To calculate the average kinetic energies of the Brownian particles.
+            </td>
+        </tr>
+        <tr>
+            <td  style="text-align: center" rowspan=2>
+        IMPLEMENTATION
+        </td>
+            <td>
+        6. To calculate the root mean squares of the displacements in random walks.
+            </td>
+        </tr>
+        <tr>
+            <td>
+        7. To calculate the integrals incorporating random walk results.
+        </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+        REVIEW
+        </td>
+        </tr>
+        </tbody>
+        </table> 
+        </div> 
 
-
-
-
-
-
+Next we describe Langevin´s procedure to obtain Einstein´s equation by following the five steps of the TADIR procedure.
 
 In what follows we first define each TADIR component of the problem solving procedure and then describe the corresponding steps proposed by Langevin to obtain Einstein´s equation.
 
-**TRANSLATION:** Concise description in natural language to identify the main objects, agents, and events characterizing the problem.
+**TRANSLATION** 
 
 Langevin describes the physical variables that intervene in the equation of motion of the Brownian particle and explains its interactions with the environment in terms of two forces: a force (F) which is the consequence of aleatory collisions produced on the Brownian particle by the very small molecules of the surrounding medium and the friction force (f) characterized by its viscosity (η) that experiments the Brownian particle during their displacements.
 
@@ -107,7 +103,7 @@ By substituting the previous equation into the equation of motion (2), we found 
 
 $\frac{m}{2}\frac{d^2(x^2)}{dt^2}-m(\frac{dx}{dt})^2=xF_x-6πηa\frac{1}{2}\frac{d(x^2)}{dt}$...(6)
 
-**ANALYSIS:**  Contextualized explanation in technical language to make clear and precise those approximations and simplifications required to solve the problem.
+**ANALYSIS**  
 
 Langevin's derivation starts from the energy equipartition theorem, which establishes that the average kinetic energy of the Brownian particle is $ε = ½k_BT$ for each degree of freedom; therefore $E = 3ε$. At this point, Langevin considers the problem in one dimension and makes the assumption that the displacement in the ($x$) direction is not correlated with the force ($F_x$) in that direction.
 
@@ -139,7 +135,7 @@ Therefore, $m\bar{(\frac{dx}{dt})^2}=\frac{1}{3}m\bar{v^2}=\frac{2}{3}\frac{m\ba
 
 $m\bar{(\frac{dx}{dt})^2}=\frac{2}{3}\frac{m\bar{v^2}}{2}=kT$...(12)
 
-DESIGN: Structural interconnection in a formal language: to integrate specialized concepts and models required for obtaining the solution.
+**DESIGN**
 
 To integrate the equation of motion of the Brownian particle, Langevin makes a change of variables, applies initial conditions with values that are consistent with the conditions of the experiment, and expresses the equation of motion in terms of finite increments.
 
@@ -181,7 +177,7 @@ Last equation can be expressed as
 
 $Δ\bar{x^2}=\frac{kT}{3πηa}Δt$...(20)
 
-**IMPLEMENTATION:** Practical obtention of results and their representations in iconic language to solve the problem and represent its results in terms of symbols, images, equations, numbers, diagrams, designs, pictures, …
+**IMPLEMENTATION**
 
 Since Brownian motion is similar to the diffusion of molecules in a gas, both statistical processes can be treated according to the random walk model. Langevin considers first a one-dimensional model of the random work and describes it as a linear time dependence of the root mean square deviation of the particle.
 
@@ -223,7 +219,9 @@ $〈x^2〉 =(\frac{k_BT}{3πηa})t$...(26)
 
 This corresponds exactly to the equation obtained by Einstein $(λ_x)^2 = 〈ΔX^2〉 = bt$, where the slope of the straight-line was $b = (k_BT)/(3πηa)$. The graphical interpretation of this equation was already presented in Figure 7.1.
 
-**REVIEW:**  Metacognitive reflection on the solution process and its consequences to start an helicoidal process for discussion of possible extensions or modifications to the initial statement of the problem.
+**REVIEW**
+
+STEP 8. To consider possible extensions or modifications to the initial statement of the problem and to re-examine the complete procedure.
 
 The metacognitive component of the TADIR process would consist in comparing the Langevin procedure with that of Einstein with the purpose of considering conceptual and formal coincidences and differences. It could also refer to more complete approaches where the diffusion process is treated as a Markofian process (see for instance Pais).
 
