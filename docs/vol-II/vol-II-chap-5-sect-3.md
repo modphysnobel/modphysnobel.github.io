@@ -7,25 +7,25 @@
 
 ## 5.3.  Components of the explanation of scientific theories.
 
-In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.9). 
+In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.7). 
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-3-fig2.PNG?raw=true.PNG"> 
 </p>
 
 <center>
-(Images credit: CC Wikimedia Commons)
+(Image elaborated by the authors)
 </center>
 
-**Figure 5.9.** Components of the explanation of scientific theories.
+**Figure 5.7.** Components of the explanation of scientific theories.
 
-In the following. for explanatory purposes, we arbitrarily divide the content of the Nobel lectures by Wien and by Planck into the previous six components of the explanation of a scientific theory. This division does not pretend to correspond to a unique form of considering that the content of these lectures has been organized according to these six components. Next, for  each component, we describe the main ideas contained in their corresponding texts. The full contents of both Lectures are included in Appendices 5.1 and 5.2.
+In the following, for explanatory purposes, we arbitrarily divide the content of the Nobel lectures by Wien and by Planck into the previous six components of the explanation of a scientific theory. Next, the main ideas contained in each component are described. The full contents of both Lectures are included in Appendices 5.1 and 5.2.
 
 ### Wien´s Nobel Lecture *On the Laws of Thermal Radiation*.
 
 #### Description of relevant facts.
 
-•	Using known physical laws, a general law of radiation theory (the displacement law) was derived by considering ideal processes as in a mental experiment. This procedure is like the one followed by Kirchhoff, when he assumed an ideal perfectly reflecting body in his derivation of the theorem about the constancy of the ratio of emission and absorption power. If a small aperture is made in the walls surrounding a cavity that is heated, through this hole a radiation can come out. This radiation is independent of the nature of the emitting body and is wholly determined by the temperature. 
+•	Using known physical laws, a general law of radiation theory (the displacement law) was derived by considering ideal processes as in a mental experiment. This procedure is like the one followed by Kirchhoff: he assumed an ideal perfectly reflecting body in his derivation of the theorem about the constancy of the ratio of emission and absorption power. 
 
 #### Analysis of critical concepts.
 
@@ -43,7 +43,7 @@ In the following. for explanatory purposes, we arbitrarily divide the content of
 
 •	Calculating of the wavelength of X-rays, which are produced by the impact of electrons on solid bodies. The electric energy of these rays would be a measure of their temperature. By applying the displacement law the wavelength of the maximum of the intensity will indicate a wavelength range of X-rays.
 
-•	Thermodynamics is not enough to determine the distribution of the intensity of radiation in terms of individual wavelengths; therefore, the mechanism of the radiation process requires a statistical approach. One possibility is to consider that radiations result from gas molecules moving according to laws of probability. Another possibility is to assume that when electrons generate radiation on striking molecules, they follow a velocity distribution satisfying Maxwell’s law. Any how the resulting equation deviates from experimental results for large wavelengths.
+•	Thermodynamics is not enough to determine the distribution of the intensity of radiation in terms of individual wavelengths; therefore, the mechanism of the radiation process requires a statistical approach. One possibility is to consider that radiations result from gas molecules moving according to laws of probability. Another possibility is to assume that when electrons generate radiation on striking molecules, they follow a velocity distribution satisfying Maxwell’s law. Anyhow the resulting equation deviates from experimental results for large wavelengths.
 
 •	Rayleigh proposed a different approach by applying to the radiation problem the equipartition theorem according to which all the degrees of freedom in a system in equilibrium have the same contribution to the kinetic energy. He calculated the number of free electromagnetic vibration modes per unit volume in the cavity and per unit wavelength. The resulting law indicates that the emission of radiation of a given wavelength is directly proportional to the absolute temperature, and inversely proportional to the fourth power of the wavelength. Measurements of the spectral emission of black bodies revealed that the emission agreed with Rayleigh's calculation at low frequencies but diverged at high frequencies.
 
@@ -95,7 +95,7 @@ In the following. for explanatory purposes, we arbitrarily divide the content of
 
 #### Possibilities for further understanding.
 
-•	Calculation of the specific heat of gases by considering that, in addition to the quantized vibrational motion of the molecules, their rotational energy is also quantized. Also, as affinity properties of a substance are determined by its entropy, the quantum-theoretical calculation of the entropy opens up the way to study chemical relationships.
+•	Calculation of the specific heat of gases by considering that, in addition to the quantized vibrational motion of the molecules, their rotational energy is also quantized. Furthermore, as affinity properties of a substance are determined by its entropy, the quantum-theoretical calculation of the entropy opens up the way to study chemical relationships.
 
 •	When an electron impacts a neutral atom, it causes emission of a light quantum or photon. This is a reverse process to that of electron emission through irradiation by quantized light as in Röntgen or gamma rays.
 
@@ -153,7 +153,7 @@ KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (
 
 ***
 
-[**Appendix.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-apendix/)
+[**Appendices.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-apendix/)
 
 
 
