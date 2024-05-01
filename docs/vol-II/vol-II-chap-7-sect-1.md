@@ -11,7 +11,7 @@
 
 	*Under what conditions is statistical mechanics necessary?*
 
-	Physical systems can be characterized in terms of three of properties of their components: size (T), velocity (V), and number (N). When N is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic model of the system, a statistical procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
+	Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num).  When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic model of the system, a statistical procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
 
 	**Learning objectives of Chapter 7.**
 
@@ -45,17 +45,17 @@ Albert Einstein (1879-1955) carried out in 1905 one of the first statistical mec
 
 In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: *“In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”*.
 
-Einstein considered from the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein considered that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle. 
+Einstein considered the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein assumed that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle.
 
 The expression $D = (RT)/(6πηaN_A)$ is called the Stokes-Einstein equation, where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
 
-The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the X-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $x$ occurs. That is to say $λ_x=$ $\sqrt{〈x^2〉}=$ $\sqrt{2Dt}$. 
+The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the $X$-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $X$ occurs. That is to say $λ_x=$ $\sqrt{\bar{x^2}}=$ $\sqrt{2Dt}$. 
 
 Einstein used the two previous equations that define $D$ and $λ_x$ and predicted that the root mean square deviation of the random displacements in an X direction had a linear behavior with respect to the temperature $T$ of the liquid and the time $t$ during which the Brownian particle suffers collisions with surrounding water molecules:
 
-$<ΔX^2> =[(kT)/(3πηa)](t)$
+$<ΔX^2> =[(k_BT)/(3πηa)](t)$
 
-In the previous equation, the Boltzmann constant $k = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
+In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 	
 <p align="center" width="100%">
     <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
@@ -100,7 +100,7 @@ Perrin carried out experiments on sedimentation (the settling of suspended parti
 </center>
 
 
-**Figure 7.2.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image). Both images come from the book *Les atoms*.
+**Figure 7.2.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image).
 
 To carry out his experiments, Perrin first very carefully prepared particles of the same radius ($0.53 \times 10^{-6}$ m)and then he marked on the microscope reticule the successive positions of a chosen particle. Then he plotted those points on a paper, determined the corresponding displacements of the particle and calculated the mean square value of those displacements. 
 	
@@ -172,7 +172,7 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 </center>
 
 
-The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium".  In what follows, we describe the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections whose subtitles are underlined are included in Appendix 7.1. Next we include an official text describing the work made by Perrin which was published in the web page of the Nobel Foundation. The references of these documents are given in MLA format at the end of the chapter.
+The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium".  In what follows, we describe the title of his Nobel Lecture and its corresponding subtitles. . The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. Next we include an official text describing the work made by Perrin which was published in the web page of the Nobel Foundation. The references of these documents are given in MLA format at the end of the chapter.
 	
 !!! tip "Jean Baptiste Perrin (1870-1942)."
 
