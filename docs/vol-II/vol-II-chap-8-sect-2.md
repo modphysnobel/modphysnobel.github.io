@@ -32,13 +32,14 @@ The photoelectric effect consists of the emission of electrons in certain metals
 
 The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure 8.1. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal.
 
-$E_c = ½mv^2=eV_0=hf-φ$
+
 
 <div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
 		<td>
+		$E_c = ½mv^2=eV_0=hf-φ$ <br>
 			<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig3.PNG?raw=true"> 
 		</td>
 		<td>
