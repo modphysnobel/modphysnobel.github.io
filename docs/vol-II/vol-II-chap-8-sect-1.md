@@ -43,11 +43,11 @@ Each one of the previous properties of space and time implies that a physical pr
 
 The previous connection between three types of symmetry properties with their respective conservation laws is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote Richard Feynman (first two paragraphs of section 26.3, pp. 26-4 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
 
-*Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident.*
+"Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident."
 
-*The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or Fermat's principle. His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the* ***shortest time.***
+"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or Fermat's principle. His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**."
 
-### info "Hamilton's principle of least action and Noether's theorem.
+### Hamilton's principle of least action and Noether's theorem.
 
 The relationship between the invariance with respect to certain mathematical transformations and mechanical conservation laws is derived from a combined application of the principle of least action formulated in 1834 by William Rowan Hamilton (1805-1865) and one of the theorems established in 1918 by Amalie Emmy Noether (1882 - 1935). Before considering a very simplified description of such contributions, let us describe the notion of temporal evolution of a physical system in the configuration space.
 
@@ -59,7 +59,7 @@ The relationship between the invariance with respect to certain mathematical tra
 
 - Within the framework of analytical mechanics, the Lagrangian function (L) is defined as the difference between the kinetic energy of the system ($E_c$) and its corresponding potential energy ($E_p$): $L = E_c – E_p$. This function depends on 6N generalized coordinates and of time $t$. In this context, the action function $S$ is defined as the time integral of the Lagrangian:
 
-$S= ∫_{t_i}^{t_f} [L(q,\dot{q})dt]$, where $L(q,\dot{q})$ means $L[(q_1,q_2,q_3,… q_N),(\dot{q}_1, \dot{q}_2, \dot{q}_3,...\dot{q}_N);t]$
+	$S= ∫_{t_i}^{t_f} [L(q,\dot{q})dt]$, where $L(q,\dot{q})$ means $L[(q_1,q_2,q_3,… q_N),(\dot{q}_1, \dot{q}_2, \dot{q}_3,...\dot{q}_N);t]$
 
 - As the previous definition indicates, the integral corresponds to adding all possible trajectories that start at an initial time $t_i$ and end at a final time $t_f$. Under these conditions, Hamilton's principle of least action indicates that all the possible trajectories described in the configuration space makes the action variation null; that is to say that $δS = 0$.
 
