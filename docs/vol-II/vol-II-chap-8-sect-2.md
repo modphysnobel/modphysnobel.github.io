@@ -30,7 +30,7 @@ In a famous paper *On a heuristic point of view concerning the generation and co
 
 The photoelectric effect consists of the emission of electrons in certain metals due to the incidence of light radiation of certain frequencies; an electric current is generated as a consequence of the release of electrons that were trapped inside the metal. In metals there are electrons that move more or less freely through the crystal lattice; however, they will remain inside the metal surface unless they receive enough energy from the outside to overcome the metal work function (φ).
 
-The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure 8.1. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal.
+The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure 8.1. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal. This is Einstein´s equation explaining the photoelectric effect: $E_c = ½mv^2=eV_0=hf-φ$.  
 
 
 
@@ -39,7 +39,6 @@ The emission of the photoelectrons can be detected in an experimental setup usin
 	<tbody>
 	<tr>
 		<td>
-		$E_c = ½mv^2=eV_0=hf-φ$ <br>
 			<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig3.PNG?raw=true"> 
 		</td>
 		<td>
@@ -54,7 +53,7 @@ The emission of the photoelectrons can be detected in an experimental setup usin
 (Image credit: CC Wikimedia Commons)
 </center>	
 
-**Figure 8.1.** Experimental device to detect the photoelectric effect: Einstein equation (upper left part) and the braking potential as a function of frequency (graph at the right). The red dots are experimental values. The box indicates the meaning of the physical quantities.
+**Figure 8.1.** Experimental device to detect the photoelectric effect (upper left part) and the braking potential as a function of frequency (graph at the right), where the red dots are experimental values. The box indicates the meaning of the physical quantities.
 
 The classical electromagnetic theory was formulated by Maxwell between 1864 and 1873. This theory summarizes all the existing knowledge about electricity and magnetism in four mathematical formulas and predicts that the electromagnetic field is a wave traveling at the speed of light $c=1⁄\sqrt{ε_0 μ_0}$. Its value is $3 \times 10^8$ m/s, where $ε_0$ is the electrical permittivity and $μ_0$ the magnetic permeability, both in vacuum. This fact was verified experimentally by Heinrich Hertz (1857-1894). In 1887 he showed that light is an electromagnetic wave and discovered the photoelectric effect.
 
@@ -62,13 +61,7 @@ Maxwell's theory is a wave theory and requires that the radiated energy be distr
 
 According to classical electromagnetism, for an intensity of $10^{-10} W/m^2$ and a wavelength of $λ = 500$ nm (1 nm = $10^{-9}$ m), around 5 hours should pass before the emission of photoelectrons. However, the first experimental results showed that the emission of photoelectrons was almost instantaneous with an estimated delay of $10^{-9}$ seconds.
 
-In the first experiments about the photoelectric effect, carried out in 1887 by Heinrich Hertz and Wilhelm Hallwachs (1859-1922), a well-polished zinc plate was connected to an electroscope. When the metal was illuminated with ultraviolet light coming from the jumping spark of a voltaic arc the ejected electrons could charge the electroscope (Figure 8.2).
-
-<p align="center" width="100%">
-    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-8-sect-2-fig2.JPG?raw=true"> 
-</p>
-
-**Figure 8.2.** Experimental device used by Hertz and Hallwachs.
+In the first experiments about the photoelectric effect, carried out in 1887 by Heinrich Hertz and Wilhelm Hallwachs (1859-1922), a well-polished zinc plate was connected to an electroscope. When the metal was illuminated with ultraviolet light coming from the jumping spark of a voltaic arc the ejected electrons could charge the electroscope.
 
 In 1899 Joseph John Thomson (1856-1940) and in 1902 Philipp Lenard (1862-1947) independently demonstrated that the action of light on a metallic surface was the cause of the emission of free negative charges that were identified as electrons. Further experimental results needed satisfactory explanations that could not be provided by the classical electromagnetic theory:
 
@@ -106,11 +99,11 @@ It is also important to point out different “philosophical” positions regard
 
 Einstein applied a whole new reasoning process and introduced the revolutionary hypothesis of the quantization of radiation energy (photons). He used the ideal gas model of particles to make an analogy with the quantized radiation model. He considered the entropy change of an ideal gas at constant temperature when the volume changes reversibily. From this he concluded, comparing equations, that the physical behavior of both systems must be equivalent: if the ideal gas refers to material "particles", the electromagnetic radiation must also refer to “particles”, in this case photons.
 
-An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. According to the Nobel Physics Committee: Siegbahn *“developed highly accurate measurements of energy levels in atoms by irradiating them with photons and measuring the energy of the electrons emitted using the photoelectric effect.”* For more information see his Nobel Lecture Electron Spectroscopy for Atoms, Molecules and Condensed Matter. The reference in MLA format is given at the end of the chapter. 
+An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. According to the Nobel Physics Committee: Siegbahn “developed highly accurate measurements of energy levels in atoms by irradiating them with photons and measuring the energy of the electrons emitted using the photoelectric effect.” For more information see his Nobel Lecture *Electron Spectroscopy for Atoms, Molecules and Condensed Matter*. The reference in MLA format is given at the end of the chapter. 
 	
 ### Nobel Lectures related to the invention of LED.
 
-A diode is an electronic component with two terminals (a cathode and an anode) that conducts current in one direction where the resistance is zero while in the other direction the resistance is high resistance. A semiconductor diode is a crystalline piece of a semiconductor material with a p-n junction connecting the two electrical terminals. 
+A diode is an electronic component with two terminals (a cathode and an anode) that conducts current in one direction where the resistance is zero while in the other direction the resistance is high. A semiconductor diode is a crystalline piece of a semiconductor material with a p-n junction connecting the two electrical terminals. 
 
 The n-region of the semiconductor has free electrons (excess electrons) and the p-region has free holes (absence or lack of electrons). When a positive voltage is applied to the p-region and a negative one to the n-region, the electrons on the n-region are pushed to the p-region and the electrons flow through the p material beyond the semiconductor boundaries.
 
@@ -182,12 +175,12 @@ ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
 
 1.	*INTRODUCTION*
 2.	*LED RESEARCH IN THE EARLY DAYS*
-3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* \
-	3.1. *Early attempts at development of GaN blue LED* \
-	3.2. *Reconsideration of growth technology* 
-4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* 
-	4.1. *Development of low-temperature buffer layer technology in MOVPE* \
-	4.2. *Model for the growth mode*
+3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
+	3.1. *Early attempts at development of GaN blue LED* <br>
+	3.2. *Reconsideration of growth technology* <br>
+4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
+	4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
+	4.2. *Model for the growth mode*<br>
 5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
 6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
 7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
