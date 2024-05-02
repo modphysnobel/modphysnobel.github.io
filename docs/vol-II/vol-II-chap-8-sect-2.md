@@ -202,12 +202,12 @@ SHUJI NAKAMURA: *Background Story of the Invention of Efficient Blue InGaN Light
 1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
 2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
 3.	*DEVELOPMENT OF GaN*
-4.	*DEVELOPMENT OF InGaN* \
-	4.1	*InGaN based devices*\
+4.	*DEVELOPMENT OF InGaN* <br>
+	4.1	*InGaN based devices*<br>
 	4.2	*Material Properties of InGaN*
-5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* \
-	5.1	*Luminous Efficacy* \
-	5.2	*Significant Milestones on the Journey to the White LED* \
+5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
+	5.1	*Luminous Efficacy* <br>
+	5.2	*Significant Milestones on the Journey to the White LED* <br>
 	5.3	*Contributions to the Efficient Blue LED*
 6.	*FORWARD LOOKING*
 
