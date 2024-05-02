@@ -198,7 +198,7 @@ For the space of the Merchandises the conceptual developments are related to rel
         </th>
 		</tr>
 	<tr>
-     <td colspan="2">
+     <td colspan="2" style="text-align: center">
 	• Referred to equipping oneself with the institutional, technical and conceptual instruments to make information navigable. <br>
 	• Everyone can locate themselves and recognize others according to interests, competences, projects, means and mutual identities in the new space. <br>
 	• Numerical networks, virtual universes and artificial life and intelligence.
