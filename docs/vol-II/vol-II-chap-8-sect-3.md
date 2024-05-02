@@ -9,13 +9,13 @@
 
 This section contains information obtained from Paul Levy´s book *Collective intelligence. Mindkind´s emerging world in cyberspace* (2004) where he describes four anthropological spaces. All excerpts taken from this book are written in between quotation marks. 
 
-Levy defines anthropological spaces as  *cultural manifestations of the dynamic evolution that tends to the construction of intelligent communities…. An anthropological space is a system of proximity* (neighborhood) *that defines a space and is anthropological because it is proper to humans. It depends on techniques, meanings, language, culture, conventions, representations and human emotions determined in the social spectrum*. 
+Levy defines anthropological spaces as “cultural manifestations of the dynamic evolution that tends to the construction of intelligent communities.”…”An anthropological space is a system of proximity (neighborhood) that defines a space and is anthropological because it is proper to humans. It depends on techniques, meanings, language, culture, conventions, representations and human emotions determined in the social spectrum.”
 
 Each space is characterized by a specific transformation which is indicated in parentheses: the Earth (the matter), the Territory (the borders), the Merchandises (the flows) and the Knowledge (the knowledge). These spaces are associated with navigation instruments, objects of knowledge (the figures of the space) and certain technological supports.
 
 In what follows we first present Lévy´s definitions of collective intelligence and of anthropological space as well as the characteristic phases of the development of collective intelligence. Then, in four Tables we indicate for each anthropological space its main Conceptual developments and Technological applications. 
 
-Concerning the meaning of collective intelligence Lévy mention that *Collective intelligence only starts with culture and increases with it. Certainly, we think with ideas, with languages, with cognitive technologies received from a community….  Let us remember that collective intelligence is an intelligence distributed everywhere, constantly valued, coordinated in real time, which leads to an effective mobilization of skills*.  
+Concerning the meaning of collective intelligence Lévy mention that “Collective intelligence only starts with culture and increases with it. Certainly, we think with ideas, with languages, with cognitive technologies received from a community.” …. “Let us remember that collective intelligence is an intelligence distributed everywhere, constantly valued, coordinated in real time, which leads to an effective mobilization of skills.” 
 
 Anthropological spaces do not exactly correspond to specific time periods described in timetables; they refer to states of development that can evolve in different moments with diverse types of manifestations. According to Lévy the following seven phases characterize the dynamical development of the collective intelligence:
 
@@ -159,17 +159,17 @@ For the space of the Merchandises the conceptual developments are related to rel
      <tr>
     <td>
 	Copernicus, Galileo and Newton explain motion. <br>
-	Paracelsus: Archidoxis magica on divination. <br>
-	J.  Leupold: Theatrum machinarum generale. <br>
-	B. Thompson, Count Rumford: An Inquiry Concerning the Source of Heat Which is Excited By Friction. <br>
-	J.R. Mayer: The Mechanical equivalent of Heat. <br>
-	J.P. Joule: On the Production of Heat by Voltaic Electricity. <br>
-	N.S. Carnot: On the Motive Power of Heat. <br>
-	R. Clausius: On the type of motion termed heat. <br>
-	W. Thompson (Kelvin): Heat and Thermodynamics. <br>
-	H.L.Helmholtz: On the conservation of energy. <br>
-	J. Tyndall: Heat as a mode of motion. <br>
-	M. Planck: The Second law of thermodynamics.
+	Paracelsus: *Archidoxis magica on divination*. <br>
+	J.  Leupold: *Theatrum machinarum generale*. <br>
+	B. Thompson, Count Rumford: *An Inquiry Concerning the Source of Heat Which is Excited By Friction*. <br>
+	J.R. Mayer: *The Mechanical equivalent of Heat*. <br>
+	J.P. Joule: *On the Production of Heat by Voltaic Electricity*. <br>
+	N.S. Carnot: *On the Motive Power of Heat*. <br>
+	R. Clausius: *On the type of motion termed heat*. <br>
+	W. Thompson (Kelvin): *Heat and Thermodynamics*. <br>
+	H.L.Helmholtz: *On the conservation of energy*. <br>
+	J. Tyndall: *Heat as a mode of motion*. <br>
+	M. Planck: *The Second law of thermodynamics*.
     </td>
     <td>
     Movable type printing. <br>
@@ -198,7 +198,7 @@ For the space of the Merchandises the conceptual developments are related to rel
         </th>
 		</tr>
 	<tr>
-     <td colspan="2" style="text-align: center">
+     <td colspan="2">
 	• Referred to equipping oneself with the institutional, technical and conceptual instruments to make information navigable. <br>
 	• Everyone can locate themselves and recognize others according to interests, competences, projects, means and mutual identities in the new space. <br>
 	• Numerical networks, virtual universes and artificial life and intelligence.
