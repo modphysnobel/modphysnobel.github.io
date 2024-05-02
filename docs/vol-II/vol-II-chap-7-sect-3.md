@@ -121,11 +121,11 @@ STEP 3. To calculate the average kinetic energies of the Brownian particles.
 
 The magnitude $〈(\frac{dx}{dt})^2〉$ represents the average value of the square of the projection of the velocity $v$ on the $X$ axis. Since the motion of the particles is completely random, then the average values of the squares of the components of the velocity in each of the three coordinate axes must be equal, that is:
 
-(9) $\〈(\frac{dx}{dt})^2〉=〈(\frac{dy}{dt})^2〉〈(\frac{dz}{dt})^2〉$
+(9) $〈(\frac{dx}{dt})^2〉=〈(\frac{dy}{dt})^2〉〈(\frac{dz}{dt})^2〉$
 
 The sum of these magnitudes must be equal to the average value of the square of the velocity $\bar{v^2}$ of the particles:
 
-(10) $\〈(\frac{dx}{dt})^2〉=〈(\frac{dy}{dt})^2〉〈(\frac{dz}{dt})^2〉=〈v^2〉$
+(10) $〈(\frac{dx}{dt})^2〉=〈(\frac{dy}{dt})^2〉〈(\frac{dz}{dt})^2〉=〈v^2〉$
 
 Then, the average value of each one of these components 
 
@@ -133,7 +133,7 @@ Then, the average value of each one of these components
 
 Therefore, $m〈(\frac{dx}{dt})^2〉=\frac{1}{3}m〈v^2〉=\frac{2}{3}\frac{m〈v^2〉}{2}$ , which corresponds to $⅔E_c$, where the kinetic energy $E_c = (3)(½)k_BT$ according to the energy equipartition theorem; $k = k_B$ is the Bolotzmann´s constant. As there are three degrees of freedom, it follows that
 
-(12) $m〈(\frac{dx}{dt})^2〉=\frac{2}{3}\frac{m〈v^2}〉{2}=kT$
+(12) $m〈(\frac{dx}{dt})^2〉=\frac{2}{3}\frac{m〈v^2〉}{2}=kT$
 
 **DESIGN**
 
