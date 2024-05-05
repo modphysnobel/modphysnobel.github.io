@@ -122,4 +122,4 @@ $F_3$: *Building of a coherent system that logically integrates facts and concep
 
 ***
 
-[**Appendix**](./vol-I-chap-4-apendix.md)
+[**Appendices.**](./vol-I-chap-4-apendix.md)
