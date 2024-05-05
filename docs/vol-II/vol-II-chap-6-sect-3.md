@@ -10,7 +10,7 @@
 Physics looks for explanations of certain observed and measured phenomena that mainly requires concepts, models, and theories to be understood and explained. These are cognitive constructs in need of logical developments, significative mathematical treatments, careful calculations, and clear interpretations of experimental results. 
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-3-fig2.PNG?raw=true.PNG"> 
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-3-fig1.PNG?raw=true"> 
 </p>
 
 <center>
