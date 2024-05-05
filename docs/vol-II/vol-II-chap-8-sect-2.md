@@ -125,7 +125,7 @@ In what follows we include three documents related to the 2014 Physics Nobel Pri
 	
 “LEDs are also more long-lasting than other lamps. Incandescent bulbs tend to last 1,000 hours, as heat destroys the filament, while fluorescent lamps usually last around 10,000 hours. LEDs can last for 100,000 hours, thus greatly reducing materials consumption.”
 
-#### Creating light in a semiconductor.**
+#### Creating light in a semiconductor.
 	
 …. 
 	
