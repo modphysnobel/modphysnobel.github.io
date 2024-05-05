@@ -230,7 +230,8 @@ As an example of diametral approaches for interpreting mathematical concepts and
 !!! example "A geometrical example."
 	The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.3). The main steps to be followed are now described.
 
-!!! example "STEP 1"
+  **STEP 1**
+
 	- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
 
 	- Draw a circumference of radio $R$ with center in $O$.
@@ -245,9 +246,8 @@ As an example of diametral approaches for interpreting mathematical concepts and
   (Image credit: drawings made by the authors.)
   </center>
 
-	
+  **STEP 2**
 
-!!! example "STEP 2"
 	- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
 
 	- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
@@ -262,7 +262,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
   (Image credit: drawings made by the authors.)
   </center>
 
-**Figure 1.3** Geometrical meaning of Pythagoras theorem.
+  **Figure 1.3** Geometrical meaning of Pythagoras theorem.
 
 ***
 
