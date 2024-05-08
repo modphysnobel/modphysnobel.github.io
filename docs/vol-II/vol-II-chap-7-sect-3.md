@@ -171,7 +171,7 @@ The conditions of the experiment are such that, in CGS units, $a ∼ 10^{-6}$ cm
 
 (19) $\frac{d(〈x^2〉)}{dt}=\frac{kT}{3πηa}$
 
-For finite intervals $Δt$ the above equation can be written in the form: $\frac{Δ\bar{x^2}}{Δt}=\frac{kT}{3πηa}$
+For finite intervals $Δt$ the above equation can be written in the form: $\frac{Δ〈x^2〉}{Δt}=\frac{kT}{3πηa}$
 
 Last equation can be expressed as
 
