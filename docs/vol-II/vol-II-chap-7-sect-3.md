@@ -12,7 +12,7 @@ In this section we apply the TADIR procedure in the description of the seven ste
 TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Box 7.1 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
 
 <p align="center" width="100%">
-    <img width="400" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
 </p>
 
 <center>
@@ -143,11 +143,11 @@ STEP 4. To integrate the equation of motion.
 
 Using equations (8) and (12) and defining
 
-(13) $\frac{d(\bar{x^2})}{dt}=Z$
+(13) $\frac{d(〈x^2〉)}{dt}=Z$ 
 
-equation (8) $\frac{m}{2}\frac{d^2(\bar{x^2})}{dt^2}-m\bar{(\frac{dx}{dt})^2}=-3πηa\frac{d(\bar{x^2})}{dt}$ can be expressed as
+equation (8) $\frac{m}{2}\frac{d^2(〈x^2〉)}{dt^2}-m〈(\frac{dx}{dt})^2〉=-3πηa\frac{d(\bar{x^2})}{dt}$ can be expressed as
 
-(14) $\frac{m}{2}\frac{dZ}{dt}-kT=-3πηaZ$
+(14) $\frac{m}{2}\frac{dZ}{dt}-k_BT=-3πηaZ$
 
 After the separation of variables, the above equation becomes:
 
@@ -163,19 +163,19 @@ Integrating the above equation, we get
 
 Defining the quantities $A=kT/3πηa$ and $B= -(\frac{6πηa}{m})(t)$, the above equation can be expressed as $ln(Z – A) – ln (-A) = ln[(Z – A)/(-A)] = ln [(A – Z)/(A)] = - B$. This equation corresponds to $(A – Z)/(A) = exp(-B)$ and solving for $Z$ it results $Z = A[1 – exp(-B)]$. Using the definitions of $A$ and $B$ as well as equation (13) we get
 
-(18) $Z=\frac{kT}{3πηa}(1-e^{\frac{-6πηa}{m}t})=\frac{d(\bar{x^2})}{dt}$
+(18) $Z=\frac{kT}{3πηa}(1-e^{\frac{-6πηa}{m}t})=\frac{d(〈x^2〉)}{dt}$
 
 STEP 5. To make approximations according to experimental conditions.
 
 The conditions of the experiment are such that, in CGS units, $a ∼ 10^{-6}$ cm and $η ∼ 10^{-2}$. As the density of spherical particles (ρ) is of the order of unity, the mass is $m ∼ 10^{-18}$ g (the corresponding volume is $a^3 = (10^{-6})^3$). Therefore, for $t ≈ 10^{-5}$ s, the term $B = (6πηat)/m ∼ 10^6$ and the term $exp(-B)$ can be neglected. Consequently, if the time intervals between consecutive observations of the particles are greater than $10^{-5}$ s and remembering the definition of $Z$ in (13), after canceling the term of the exponential $exp(-B)$, it is obtained that equation (18) corresponds to
 
-(19) $\frac{d(\bar{x^2})}{dt}=\frac{kT}{3πηa}$
+(19) $\frac{d(〈x^2〉)}{dt}=\frac{kT}{3πηa}$
 
 For finite intervals $Δt$ the above equation can be written in the form: $\frac{Δ\bar{x^2}}{Δt}=\frac{kT}{3πηa}$
 
 Last equation can be expressed as
 
-(20) $Δ\bar{x^2}=\frac{kT}{3πηa}Δt$
+(20) $Δ〈x^2〉=\frac{kT}{3πηa}Δt$
 
 **IMPLEMENTATION**
 
@@ -193,11 +193,11 @@ For the second step, the distance will have to be $x_2 = x_1 ± λ$, so that $(x
 
 For the next step $x_3 = x_2  ± λ$ and therefore $〈x_3^2〉 = 〈x_2^2〉 ± 2λ〈x^2〉+ 〈λ^2〉$, so that $〈x_3^2〉 = 〈x_2^2〉  + 〈λ^2〉 = 2λ^2 + λ^2 = 3λ^2$. Generalizing the process, we will have
 
-(21) $[〈x_N^2〉]^{1/2} = [Nλ^2]^{1/2} = N^{1/2}λ$
+(21) $\sqrt{〈(x_N)^2〉} = \sqrt{Nλ^2} = (\sqrt{N})(λ)$
 
-Applying the previous result to the movement of the Brownian particles, if their average speed is $\bar{v}$, the total distance traveled in time $t$ will be $d = \bar{v}t$ and the number of collisions $N$ in that same time $t$ will be equal to the distance traveled d between the size of each step $λ$:  $N = \bar{v}t /λ$. Since $〈x_N^2〉 = Nλ^2$, the mean square distance will be proportional to the time during which the $N$ steps have been taken, that is to say
+Applying the previous result to the movement of the Brownian particles, if their average speed is $〈v〉$, the total distance traveled in time $t$ will be $d = 〈v〉t$ and the number of collisions $N$ in that same time $t$ will be equal to the distance traveled d between the size of each step $λ$:  $N = 〈v〉t /λ$. Since $〈x_N^2〉 = Nλ^2$, the mean square distance will be proportional to the time during which the $N$ steps have been taken, that is to say
 
-(22) $〈x_N^2〉 = (\bar{v}t/λ)(λ^2) = (\bar{v}tλ) = (\bar{v}λ)t$
+(22) $〈x_N^2〉 = (〈v〉t/λ)(λ^2) = (〈v〉tλ) = (〈v〉λ)t$
 
 STEP 7. To calculate the integrals incorporating random walk results.
 
