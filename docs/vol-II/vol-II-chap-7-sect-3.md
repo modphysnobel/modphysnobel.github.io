@@ -12,7 +12,7 @@ In this section we apply the TADIR procedure in the description of the seven ste
 TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Box 7.1 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
 
 <p align="center" width="100%">
-    <img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
+    <img width="400" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
 </p>
 
 <center>
