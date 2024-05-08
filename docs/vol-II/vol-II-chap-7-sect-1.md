@@ -111,7 +111,7 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 	<tbody>
 	<tr>
 	<th colspan="3" style="text-align: center">
-		Table 7.1. Values of Avogadro's number NA calculated by Einstein and measured by Perrin.
+		Table 7.1. Values of Avogadro's number $N_A$ calculated by Einstein and measured by Perrin.
 	</th>
 	</tr>
 	<tr>
@@ -172,7 +172,7 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 </center>
 
 
-The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium".  In what follows, we describe the title of his Nobel Lecture and its corresponding subtitles. . The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. Next we include an official text describing the work made by Perrin which was published in the web page of the Nobel Foundation. The references of these documents are given in MLA format at the end of the chapter.
+The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we include the document published in the web page of the Nobel Foundation under the title of WORK describing the work made by Perrin. Then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. The references of these documents are given at the end of the chapter in MLA format.
 	
 !!! tip "Jean Baptiste Perrin (1870-1942)."
 
