@@ -159,7 +159,7 @@ For the space of the Merchandises the conceptual developments are related to rel
      <tr>
     <td>
 	Copernicus, Galileo and Newton explain motion. <br>
-	Paracelsus: *Archidoxis magica on divination*. <br>
+	Paracelsus: _Archidoxis magica on divination_. <br>
 	J.  Leupold: *Theatrum machinarum generale*. <br>
 	B. Thompson, Count Rumford: *An Inquiry Concerning the Source of Heat Which is Excited By Friction*. <br>
 	J.R. Mayer: *The Mechanical equivalent of Heat*. <br>
