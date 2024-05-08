@@ -109,7 +109,7 @@ The n-region of the semiconductor has free electrons (excess electrons) and the 
 
 A Light Emitting Diode (LED) is a semiconductor diode that generates light when it is traversed by an electric current. As a photocell generates a current when a radiation impacts on a metal, in a sort of inverse photoelectric effect a LED generates light when a current traverse a semiconductor. Depending on the material of the semiconductor the emitted light will be of different frequency corresponding to red, green, yellow, amber, or infrared colors.
 
-In what follows we include three documents related to the 2014 Physics Nobel Prize: (1)  excerpts of Popular information: *Blue LEDs – Filling the world with new light*, (2) the complete transcription of document called WORK describing the main contributions of the three laureates, and (3) the subtitles describing the content of each one of the three Nobel Lectures. All the references are in MLA format are given at the end of the chapter.
+In what follows we include three documents related to the 2014 Physics Nobel Prize: (1)  excerpts from Popular information: *Blue LEDs – Filling the world with new light*, (2) the complete transcription of document called WORK describing the main contributions of the three laureates, and (3) the subtitles describing the content of each one of the three Nobel Lectures. All the references are in MLA format are given at the end of the chapter.
 
 (1)	2014 Physics Nobel Prize: Popular information: *Blue LEDs – Filling the world with new light*.
 
