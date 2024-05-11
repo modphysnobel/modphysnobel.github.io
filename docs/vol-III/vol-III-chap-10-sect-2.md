@@ -8,9 +8,14 @@
 
 Until very recently the gravitational force had resisted any experimental demonstration that the boson representing its quantum field really exists: the graviton. One of the problems is that the estimated interaction time of this particle is of the order of years. Such times are much shorter for the bosons that correspond to the other three forces of nature. If we indicate these times in seconds, for the photon, the quantum of electromagnetic force, it is between $10^{-14}$ and $10^{-20}$, for the gluon, the quantum of the strong force, it is less than $10^{-22}$ and for the $W^+$, $W^-$ and $Z^0$ particles, the quanta of the weak force, it is between $10^{-8}$ and $10^{-13}$. 
 
-The quanta associated with gravitational, electromagnetic, and strong interactions have zero mass and infinite range, while the weak force messenger, the gluon, has finite mass and short range. Another fact characterizes the type of propagation of two of these interactions: while photons propagate through electromagnetic waves, gravitons do so through gravitational waves. According to Thorne, next table describes the main difference between these waves:
+The quanta associated with gravitational, electromagnetic, and strong interactions have zero mass and infinite range, while the weak force messenger, the gluon, has finite mass and short range. Another fact characterizes the type of propagation of two of these interactions: while photons propagate through electromagnetic waves, gravitons do so through gravitational waves. According to Thorne, next Table 10.1 describes the main differences between these waves:
 
 <table width="100%">
+<tr>
+	<th colspan="2" style="text-align: center">
+		Table 10.1. Differences between electromagnetic waves and gravitational waves.
+	</th>
+</tr>
     <tr>
     <th style="text-align: center">
     Electomagnetic waves
@@ -21,33 +26,33 @@ Gravitational waves
         </tr>
      <tr>
     <td>
-    The oscillations propagate through three-dimensional space. 
+    "The oscillations propagate through three-dimensional space." 
     </td>
     <td>
-    The oscillations propagate through the very space-time “fabric” or shape of which the universe is made.
-    </td>
-    </tr>
-    <tr>
-    <td>
-    The waves are incoherent superposition of emissions produced by individual charged particles, atoms or molecules. 
-    </td>
-    <td>
-    The waves are emitted coherently by the bulk motion of matter or energy.
+    "The oscillations propagate through the very space-time “fabric” or shape of which the universe is made."
     </td>
     </tr>
     <tr>
     <td>
-    They are too easily absorbed and scattered by matter between their source and Earth. 
+    "The waves are incoherent superposition of emissions produced by individual charged particles, atoms or molecules." 
     </td>
     <td>
-    They are never significantly absorbed or scattered by matter, even when emitted in the earliest moments of the Universe´s life.
+    "The waves are emitted coherently by the bulk motion of matter or energy."
+    </td>
+    </tr>
+    <tr>
+    <td>
+    "They are too easily absorbed and scattered by matter between their source and Earth." 
+    </td>
+    <td>
+    "They are never significantly absorbed or scattered by matter, even when emitted in the earliest moments of the Universe´s life."
     </td>
     </tr>
 </table>
 
 
 <center>
-(Source: Thorne's Nobel Lecture.) 
+(Source: Thorne's 2017 Nobel Lecture: LIGO and Gravitational Waves III)
 </center>
 
 An interference pattern produced by gravitational waves was detected and measured on 14 September 2015, after more than forty years of collaboration of over one thousand researchers from nearly twenty countries. However, it was not reported until February 11, 2016 because its authors wanted to refine their calculations.
@@ -63,23 +68,23 @@ When the interferometer’s arms did not change length, both signals traveled eq
 </p>
 
 <center>
-Source: Figure 3 taken from the document Popular information: The Nobel Prize in Physics 2017.
+Source: Figure 3 taken from the document *Popular information*: The Nobel Prize in Physics 2017.
 </center>
 
 
-**Figure 10.2.** ***Figure 3.*** *How to catch a gravitational wave. The world’s first captured gravitational waves were created in a violent collision between two black holes, 1.3 billion lightyears away. When these waves passed the Earth, 1.3 billion years later, they had weakened considerably: the disturbance in spacetime that LIGO measured was thousands of times smaller than an atomic nucleus.*
+**Figure 10.2.** ***Figure 3.*** "How to catch a gravitational wave. The world’s first captured gravitational waves were created in a violent collision between two black holes, 1.3 billion lightyears away. When these waves passed the Earth, 1.3 billion years later, they had weakened considerably: the disturbance in spacetime that LIGO measured was thousands of times smaller than an atomic nucleus."
 
-“The fact of having detected gravitational waves manifests three characteristics of how physics is done in our time:”  
+According to the document Popular information, the detection of gravitational waves manifests three characteristics of how physics is done in our time:”
 
-1.	Broad and deep theoretical advances
+- Broad and deep theoretical advances
 
 “The predictions of Einstein's theory of general relativity, according to which the dimensions and scope of three-dimensional space are interrelated with the fourth dimension of time, were revised and updated. This fact is a consequence of the presence of very massive objects that produce the curvature of space-time where gravitational waves can be produced and propagated. Because these waves carry energy, they can produce observable effects.”
 
-2.	Multidisciplinary and international collaborations
+- Multidisciplinary and international collaborations
 
 “The work was recognized in 2017 with the Nobel Prize in Physics to only three scientists, but has involved the collaboration of many people for more than 40 years. Participation in what became the LIGO project was initiated by Weiss and Thorne around 1980; then Barish led the participation of more than a thousand scientists (theoretical and experimental physicists, engineers, technologists and administrators). In August 2017 LIG0 and the Italian detector VIRGO simultaneously recorded three new events.”
 
-3.	Powerful detection and recording instruments 
+- Powerful detection and recording instruments 
 
 “The two arms of the LIGO interferometer are two tunnels perpendicular to each other. At the end of each tunnel of length $d = 4$ km there is a mirror that reflects the light coming from a laser. The two beams of reflected light then overlap after traveling an effective distance on each arm that differs from $d$ in much very small but significant amounts. By the effect of the gravitational wave, while the length in one arm of the interferometer is shortened, in the other arm it lengthens. Then the light travels different distances in each arm and the electromagnetic waves arrive out of phase to the meeting point where they produce interference.  This effect is amplified if the laser light bounces off the mirrors many times to increase the total distance traveled and make the difference in the lengths of each arm more evident.”
 
@@ -154,7 +159,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 	
 	“When a gravitational wave crosses the interferometer, it stretches one arm and compresses the other, at the frequency of the gravitational wave. Consequently, the light from the two arms returns at slightly different times (or phase) and the two beams no longer completely cancel. This process reverses itself, stretching the other arm and squeezing the initial arm at the frequency of the gravitational wave. The resulting frequency and time-dependent amount of light is recorded by a photo-sensor and recorded as the waveform from the passage of a gravitational wave. The experimental challenge is to make the interferometer sensitive to the incredibly tiny distortions of spacetime that come from a gravitational wave, while at the same time, suppressing the various background noise sources.”
 
-	“The spacetime distortions from the passage of an astrophysical source are expected to be of the order of $h = ΔL/L ~ 10^{-21}$, a difference in length of a small fraction of the size of a proton.”…..
+	“The spacetime distortions from the passage of an astrophysical source are expected to be of the order of $h = ΔL/L$ ~ $10^{-21}$, a difference in length of a small fraction of the size of a proton.”…..
 
 	…..
 
