@@ -145,7 +145,7 @@ Using equations (8) and (12) and defining
 
 (13) $\frac{d(〈x^2〉)}{dt}=Z$ 
 
-equation (8) $\frac{m}{2}\frac{d^2(〈x^2〉)}{dt^2}-m〈(\frac{dx}{dt})^2〉=-3πηa\frac{d(\bar{x^2})}{dt}$ can be expressed as
+equation (8) $\frac{m}{2}\frac{d^2(〈x^2〉)}{dt^2}-m〈(\frac{dx}{dt})^2〉=-3πηa\frac{d(〈x^2〉)}{dt}$ can be expressed as
 
 (14) $\frac{m}{2}\frac{dZ}{dt}-k_BT=-3πηaZ$
 
