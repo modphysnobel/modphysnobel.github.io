@@ -207,7 +207,7 @@ $V=\frac{c}{β}=\frac{c^2}{v}$
 
 $n= \frac{V}{v}=\frac{1}{1-(\frac{ν_0}{ν})^2}$
 	
-“A  <pre><<group velocity>></pre> corresponds to this <<law of dispersion>>. You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
+“A  «group velocity» corresponds to this «law of dispersion». You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
 
 $\frac{1}{U}=  \frac{δ(nν)}{δν}$
 
