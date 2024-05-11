@@ -7,11 +7,58 @@
 
 ## 9.3.  Communication formats for describing scientific texts.
 
-Information contained in texts to be shared is usually expressed in terms of oral and/or verbal communications written in different formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies: 
+Information contained in scientific texts to be shared is usually expressed in terms of different communication formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies, as described in next Table 9.2.
 
-<p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-3-fig3.PNG?raw=true"> 
-</p>
+<div style="text-align:center;">
+	<table cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+	<th colspan="2" style="text-align: center">
+		Table 9.2. Descriptions of scientific texts.
+	</th>
+	</tr>
+	<tr>
+		<td>
+	Communication strategies
+	</td>
+		<td>
+	Communication formats
+	</td>
+	</tr>
+	<tr>
+		<td  rowspan=2>
+	Organization of contents
+	</td>
+		<td>
+	Diagrams
+	</td>
+	</tr>
+	<tr>
+		<td>
+	Designs
+	</td>
+	</tr>
+	<tr>
+		<td  rowspan=2>
+	Application of procedures
+	</td>
+		<td>
+	Dialogues
+	</td>
+	</tr>
+	<tr>
+		<td>
+	Discourses
+	</td>
+	</tr>
+	</tbody>
+	</table> 
+	</div> 
+
+<center>
+(Table elaborated by the authors.)
+</center>
+
 
 (1) the strategy for the organization of contents to be communicated in terms of **diagrams** for showing structural interconnections and **designs** for describing components of systems or sequences of actions, and 
 
