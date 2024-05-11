@@ -33,11 +33,11 @@
 
 	**Section 9.3. Communication formats for describing scientific texts.**
 
-	We apply the Communication formats for describing scientific texts to consider the organization of contents in terms of diagrams and designs as well as the application of procedures in terms of dialogues and discourses. Examples of these communication formats are obtained by analyzing Nobel Lectures related to matter waves, diffraction of electrons, and correspondence and uncertainty principles.  
+	We apply the Communication formats for describing scientific texts to consider the organization of contents in terms of diagrams and designs as well as the application of procedures in terms of dialogues and discourses. Examples of these communication formats are described in terms of Nobel Lectures related to matter waves, diffraction of electrons, and correspondence and uncertainty principles.  
 
 ## 9.1. From a theoretical proposition to an experimental demonstration. 
 
-The quantization relationship $E = nhν$ connects the concept of energy (E), characteristic of particles, with frequency (ν) which is a typically wave property. The constant of proportionality is Planck's constant $h$, of the order of $10^{-27}$ erg.sec. The equation proposed by de Broglie $p = h/λ$ also connects a corpuscular property, the linear momentum (p), with a wave property, the wavelength (λ); again, the constant of proportionality is $h$. The equation $E = nhν$ refers to the quantization of energy and the equation $p = h/ λ$ concerns matter waves.
+The quantization relationship $E = nhν$ connects the concept of energy ($E$), characteristic of particles, with frequency ($ν$) which is a typically wave property. The constant of proportionality is Planck's constant $h$, of the order of $10^{-27}$ erg.sec. The equation proposed by de Broglie $p = h/λ$ also connects a corpuscular property, the linear momentum (p), with a wave property, the wavelength (λ); again, the constant of proportionality is $h$. The equation $E = nhν$ refers to the quantization of energy and the equation $p = h/ λ$ concerns matter waves.
 
 ### The de Broglie hypothesis.
 
@@ -49,9 +49,9 @@ Following Einstein $E = mc^2$ and Planck $E = hν$ when $n = 1$. We also have th
 
 The term $hν_0$ is an indication that a vibrational wave could be represented by the sinusoidal function $A_0 ≈ sin(2πν_0t_0)$ where $A_0$ is the amplitude and $t_0$ is the time measured in the reference system at rest.
 
-2) The Lorentz transformations that relates the time $t_0$ to the time $t$ measured in a reference frame that moves with velocity $v$ in the $x$ direction with respect to the frame of the photon is $t_0= γ[t-\frac{vx}{c^2} ]$ where the relativistic parameter $γ=[ 1 - β^2 ]^{(-1⁄2)}$ with $β= \frac{v}{c}$.
+2) The Lorentz transformations that relates the time $t_0$ to the time $t$ measured in a reference frame that moves with velocity $v$ in the $x$ direction with respect to the frame of the photon is $t_0= γ[t-\frac{νx}{c^2} ]$ where the relativistic parameter $γ=[ 1 - β^2 ]^{(-1⁄2)}$ with $β= \frac{v}{c}$.
 
-In accordance with the above, the sinusoidal function in the system at rest can be written as $A(x,t)≈sin[2πν_0 γ(t-\frac{vx}{c^2} )]$, while for the moving system we will have $A(x,t)≈sin[2πν(t-\frac{x}{w})]$. This second equation represents a wave of frequency $ν$ and phase velocity $w =λν$, where $ν= γν_0$ and $w=  \frac{c^2}{v}$.
+In accordance with the above, the sinusoidal function in the system at rest can be written as $A(x,t)≈sin[2πν_0 γ(t-\frac{νx}{c^2} )]$, while for the moving system we will have $A(x,t)≈sin[2πν(t-\frac{x}{w})]$. This second equation represents a wave of frequency $ν$ and phase velocity $w =λν$, where $ν= γν_0$ and $w=  \frac{c^2}{v}$.
 
 3) For the photon in the laboratory reference system $E = mc^2 = hν$. Substituting in this equation the relation $ν= γν_0$ we obtain $E = hν=hγν_0$.  Besides, using the relativistic relation $m = γm_0$ it results $E =mc^2= γm_0 c^2$. From $E = hγν_0 = γm_0 c^2w$ it can be obtained  $hν_0=m_0 c^2$.
 
