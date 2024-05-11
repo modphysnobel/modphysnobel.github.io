@@ -207,7 +207,7 @@ $V=\frac{c}{β}=\frac{c^2}{v}$
 
 $n= \frac{V}{v}=\frac{1}{1-(\frac{ν_0}{ν})^2}$
 	
-“A <code> <<group velocity>> </code> corresponds to this <<law of dispersion>>. You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
+“A  <pre><<group velocity>></pre> corresponds to this <<law of dispersion>>. You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
 
 $\frac{1}{U}=  \frac{δ(nν)}{δν}$
 
@@ -283,32 +283,25 @@ $W=hν$ $p=\frac{hν}{c}$
 
 ### REFERENCES
 
-FRENCH, A.P. TAYLOR, E.F. Introduction to Quantum Physics. The MIT Introductory Physics Series. New York, W.W. Norton, (1978)
+FRENCH, A.P. TAYLOR, E.F. *Introduction to Quantum Physics*. The MIT Introductory Physics Series. New York, W.W. Norton, (1978)
 
-Physics Nobel Lectures:
-
-NIELS BOHR: The Structure of the Atom.
-Nobel Lecture, December 11, 1922.
+NIELS BOHR: *The Structure of the Atom*. Nobel Lecture, December 11, 1922.
 
 MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. <https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/>
 
-LOUIS DE BROGLIE: The Wave Nature of the Electron.
-Nobel Lecture, December 12, 1929.
+LOUIS DE BROGLIE: *The Wave Nature of the Electron*. Lecture, December 12, 1929.
 
 MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. <https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/>
 
-WERNER HEISENBERG: The Development of Quantum Mechanics.
-Nobel Lecture, December 11, 1933.
+WERNER HEISENBERG: *The Development of Quantum Mechanics*. Nobel Lecture, December 11, 1933.
 
 MLA style: Werner Heisenberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. <https://www.nobelprize.org/prizes/physics/1932/heisenberg/lecture/>
 
-CLINTON J. DAVISSON: The discovery of electron waves. 
-Nobel Lecture, December 13, 1937.
+CLINTON J. DAVISSON: *The discovery of electron waves*. Nobel Lecture, December 13, 1937.
 
 MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
-GEORGE P. THOMSON: Electronic Waves. 
-Nobel Lecture, June 7, 1938
+GEORGE P. THOMSON: *Electronic Waves*. Nobel Lecture, June 7, 1938
 
 MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/thomson/lecture/
 
