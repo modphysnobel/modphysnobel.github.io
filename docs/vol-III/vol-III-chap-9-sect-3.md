@@ -66,8 +66,7 @@ Information contained in scientific texts to be shared is usually expressed in t
 
 Next, we analyze how the four previous communication formats can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as with the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given at the end of this chapter.
 
-(1). Flux **diagram** for obtaining de Broglie equation $p = h/λ$ (as described in Section 9.1 and explained in his Nobel Lecture).
-
+### (1). Flux DIAGRAM for obtaining de Broglie equation $𝑝= ℎ/𝜆$ (as described in Section 9.1 and explained in his Nobel Lecture).
 
 
 <p align="center" width="100%">
@@ -75,7 +74,7 @@ Next, we analyze how the four previous communication formats can be used to desc
 </p>
 	
 
-(2). Experimental **designs** explained by Davisson and by Thomson in their Nobel Lectures.
+### (2). Experimental DESIGNS explained by Davisson and by Thomson in their Nobel Lectures.
 
 Diffraction of electrons by crystals was independently observed by Davisson and Germer and by Thomson using quite different experimental settings. Both experiments demonstrated the physical existence of electron waves and therefore that electrons satisfy de Broglie’s equation  $p = h/λ$. They obtained equivalent experimental values: Davisson and Germer obtained $λ = 1.66 Å$ for the electron wavelength, and Thomson obtained $λ = 1.65 Å$.
 
@@ -99,7 +98,7 @@ Thomson experiments were different in two aspects:
 
 It is interesting to note that in 1897 Joseph John Thomson (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
 
-(3). **Dialogues** between Bohr and Heisenberg about correspondence and uncertainty principles.
+### (3). DIALOGUES between Bohr and Heisenberg about correspondence and uncertainty principles.
 
 This is a hypothetical dialogue between the two laureates that could occurred if we select and quote some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932.
 
@@ -123,7 +122,7 @@ This is a hypothetical dialogue between the two laureates that could occurred if
 
 “It is true we no longer think that the rotation is reflected in the spectra in the way claimed by classical electrodynamics, but rather that the line components are due to transitions between stationary states which differ as regards rotational motion. That the phenomenon retains its essential feature, however, is a typical consequence of the correspondence principle.”
 
--Heisenber´s Lecture *The Development of Quantum Mechanics* contains comments on the correspondence principle as well as explanations concerning the uncertainty principle.
+- Heisenber´s Lecture *The Development of Quantum Mechanics* contains comments on the correspondence principle as well as explanations concerning the uncertainty principle.
 
 “Quantum mechanics, on which I am to speak here, arose, in its formal content, from the endeavour to expand Bohr’s principle of correspondence to a complete mathematical scheme by refining his assertions. The physically new viewpoints that distinguish quantum mechanics from classical physics were prepared by the researches of various investigators engaged in analyzing the difficulties posed in Bohr’s theory of atomic structure and in the radiation theory of light.”
 	
@@ -143,7 +142,10 @@ This is a hypothetical dialogue between the two laureates that could occurred if
 	
 ….. “Closer examination of the formalism shows that between the accuracy with which the location of a particle can be ascertained and the accuracy with which its momentum can simultaneously be known, there is a relation according to which the product of the probable errors in the measurement of the location and momentum is invariably at least as large as Planck’s constant divided by 4π. In a very general form, therefore, we should have
 
+<center>
 $Δp Δq  ≥ h/4π$
+</center>
+
 
 where p and q are canonically conjugated variables. These uncertainty relations for the results of the measurement of classical variables form the necessary conditions for enabling the result of a measurement to be expressed in the formalism of the quantum theory. Bohr has shown in a series of examples how the perturbation necessarily associated with each observation indeed ensures that one cannot go below the limit set by the uncertainty relations. He contends that in the final analysis an uncertainty introduced by the concept of measurement itself is responsible for part of that perturbation remaining fundamentally unknown.” 
 	
@@ -159,13 +161,13 @@ where p and q are canonically conjugated variables. These uncertainty relations 
 	
 “For the clearest analysis of the conceptual principles of quantum mechanics we are indebted to Bohr who, in particular, applied the concept of complementarity to interpret the validity of the quantum-mechanical laws. The uncertainty relations alone afford an instance of how in quantum mechanics the exact knowledge of one variable can exclude the exact knowledge of another. This complementary relationship between different aspects of one and the same physical process is indeed characteristic for the whole structure of quantum mechanics. I had just mentioned that, for example, the determination of energetic relations excludes the detailed description of spacetime processes.” 
 
-(4). **Discourse** presented by de Broglie when he received the Physics Nobel Prize (excerpts from his Nobel Lecture *The Wave Nature of the Electron*).
+### (4). DISCOURSE presented by de Broglie when he received the 1929 Physics Nobel Prize (excerpts from his Nobel Lecture *The Wave Nature of the Electron*).
 
 …..
 	
 “For a long time physicists had been wondering whether light was composed of small, rapidly moving corpuscles. This idea was put forward by the philosophers of antiquity and upheld by Newton in the 18th century. After Thomas Young’s discovery of interference phenomena and following the admirable work of Augustin Fresnel, the hypothesis of a granular structure of light was entirely abandoned and the wave theory unanimously adopted.”…... “Experiment also yielded decisive proof in favour of an atomic constitution of electricity; the concept of the electricity corpuscle owes its appearance to Sir J. J. Thomson and you will all be familiar with H. A. Lorentz’s use of it in his theory of electrons.” 
 
-“Some thirty years ago, physics was hence divided into two: firstly the physics of matter based on the concept of corpuscles and atoms which were supposed to obey Newton’s classical laws of mechanics, and secondly radiation physics based on the concept of wave propagation in a hypothetical continuous medium, i.e. the light ether or electromagnetic ether.” … “By an intuition of his genius Planck realized the way of avoiding it: instead of assuming, in common with the classical wave theory, that a light source emits its radiation continuously, it had to be assumed on the contrary that it emits equal and finite quantities, quanta. The energy of each quantum has, moreover, a value proportional to the frequency v of the radiation. It is equal to hv, h being a universal constant since referred to as Planck’s constant.”
+“Some thirty years ago, physics was hence divided into two: firstly the physics of matter based on the concept of corpuscles and atoms which were supposed to obey Newton’s classical laws of mechanics, and secondly radiation physics based on the concept of wave propagation in a hypothetical continuous medium, i.e. the light ether or electromagnetic ether.” … “By an intuition of his genius Planck realized the way of avoiding it: instead of assuming, in common with the classical wave theory, that a light source emits its radiation continuously, it had to be assumed on the contrary that it emits equal and finite quantities, quanta. The energy of each quantum has, moreover, a value proportional to the frequency v of the radiation. It is equal to $hv$, $h$ being a universal constant since referred to as Planck’s constant.”
 
 “The success of Planck’s ideas entailed serious consequences. If light is emitted as quanta, ought it not, once emitted, to have a granular structure? The existence of radiation quanta thus implies the corpuscular concept of light. “…. “It must therefore be assumed that traditional dynamics, even as modified by Einstein’s theory of relativity, is incapable of accounting for motion on a very small scale.”
 
@@ -193,7 +195,7 @@ $t_0=\frac{t-\frac{βx}{c}}{√(1-β^2 )}$
 
 $sin⁡[(\frac{ν_0}{√(1-β^2 )})(t-\frac{βx}{c}- τ_0)]$
 	
-“him the wave will thus have a frequency:”
+“For him the wave will thus have a frequency:”
 	
 $ν = \frac{ν_0}{√(1-β^2)}$
 
@@ -203,9 +205,9 @@ $V=\frac{c}{β}=\frac{c^2}{v}$
 
 “By the elimination of  β between the two preceding formulae the following relation can readily be derived which defines the refractive index of the vacuum n for the waves considered:”
 
-$n= \frac{V}{v}=\frac{1}{1-(\frac{ν_0}{ν})^2$
+$n= \frac{V}{v}=\frac{1}{1-(\frac{ν_0}{ν})^2}$
 	
-“A <<group velocity>> corresponds to this <<law of dispersion>>. You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
+“A <code> <<group velocity>> </code> corresponds to this <<law of dispersion>>. You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
 
 $\frac{1}{U}=  \frac{δ(nν)}{δν}$
 
