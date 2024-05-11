@@ -49,7 +49,7 @@ Single particles are not easily isolated in the quantum domain because they lose
 
 Phonons are quantized sound waves that correspond to collective excitations representing quantized modes of vibration in lattices formed by elastic arrangement of atoms or molecules in condensed matter. Several condensates can be formed by bosons like pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation. According to Ginzburg, “superconductivity is the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid”. Einstein predicted the phenomena of condensation in a paper published in July 1924; nevertheless, the phenomena was experimentally discovered till 1994 by Cornell, Wieman and Ketterle. In connection with this prediction, it is worthwhile considering how prescriptive learning and emergent learning were present in Einstein´s life.
 
-The Hall effect is produced when a magnetic field is applied perpendicularly to a metal strip causing electrons to distribute along both ends of the strip, creating a voltage. A century later, in 1980 von Klitzing discovered that this voltage is quantized (the quantum Hall effect). Later, in 1982-83, the fractional quantum Hall effect was discovered experimentally by Störmer and Tsui and theoretically explained by Laughlin. Although the electrons usually repel each other because they are fermions, fractional quantization was because the electron gas behaved as a quantum fluid composed by fermions that can condense and are produced by fractionally charged “quasiparticles”.
+The Hall effect is produced when a magnetic field is applied perpendicularly to a metal strip causing electrons to distribute along both ends of the strip, creating a voltage. A century later, in 1980 von Klitzing discovered that this voltage is quantized (the quantum Hall effect). Later, in 1982-83, the fractional quantum Hall effect was discovered experimentally by Störmer and Tsui and theoretically explained by Laughlin. Although the electrons usually repel each other because they are fermions, fractional quantization was produced because the electron gas behaved as a quantum fluid composed by fermions that can condense and are produced by fractionally charged “quasiparticles”.
 
 In connection with previous reported contributions, Physics Nobel Prizes have been awarded to J. Bardeen, L. N. Cooper, J.R. Schrieffer, K. von Klitzing, D. M. Lee, D. D. Osheroff, R. C. Richardson, R.B. Laughlin, H.L. Störmer, D.C. Tsui, E.A. Cornell, W. Ketterle, and C,E. Wieman.
 
@@ -58,7 +58,7 @@ In connection with previous reported contributions, Physics Nobel Prizes have be
 Created: 2023-03-12; Updated: 2023-11-24 
 
 Barojas-Weber, J.R., & Lizárraga-Celaya, C. (2023).
-_Modern Physics through Nobel Prizes_.
+_Modern Physics by Exploring Nobel Prizes._
 
 [Creative Commons:  Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
