@@ -24,7 +24,7 @@
 
 	**Section 10.1. The Michelson interferometer and the Michelson-Morley experiment.**
 
-	We consider the interferometer designed and build in 1881 by Albert Abraham Michelson (1852-1931)  Starting in 1887, with the collaboration of Edward Williams Morley (1838-1923), they tried to prove experimentally that the ether existed as an absolute  reference system. The 1907 Physics Nobel Prize was awarded to Michelson “for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid”.
+	We consider the interferometer designed and build in 1881 by Albert Abraham Michelson (1852-1931). Starting in 1887, with the collaboration of Edward Williams Morley (1838-1923), they tried to prove experimentally that the ether existed as an absolute  reference system. The 1907 Physics Nobel Prize was awarded to Michelson “for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid”.
 
 	**Section 10.2. Gravitational astronomy.**
 
@@ -96,7 +96,7 @@ It is worth comparing the drawing made by Michelson of his own interferometer an
 
 !!! info ""
 
-	Accordingly, the light from the vacuum tube at $a$ passes through an ordinary spectroscope $bc$, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit $d$ into the interferometer. As explained above, the light divides at the plate $e$, part going to the mirror $f$, which is movable, and part passing through, to the mirror $g$. The first ray returns on the path feh. The second returns to $e$, is reflected, and passes into the telescope $h$.
+	"Accordingly, the light from the vacuum tube at $a$ passes through an ordinary spectroscope $bc$, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit $d$ into the interferometer. As explained above, the light divides at the plate $e$, part going to the mirror $f$, which is movable, and part passing through, to the mirror $g$. The first ray returns on the path feh. The second returns to $e$, is reflected, and passes into the telescope $h$."
 
 The Michelson-Morley experiment was planned assuming that after the splitting of the original light ray in the mirror $g$ of the interferometer, one ray will move in one direction, for instance in the direction of the motion of the Earth, and at the same time the other ray will travel in the interferometer the same total distance but in a perpendicular direction to the previous ray. When both rays coincided in $D$ they arrived with different relative velocities, because to the speed of propagation of light with respect to the ether was needed to add or to subtract the speed of translation of the Earth around the Sun. 
 
