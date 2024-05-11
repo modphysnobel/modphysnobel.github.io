@@ -215,7 +215,7 @@ $\frac{1}{U}=  \frac{δ(nν)}{δν}$
 
 “The corpuscle is thus defined in the system $xyzt$ by the frequency $ν$ and the phase velocity $V$ of its associated wave. To establish the parallelism of which we have spoken, we must seek to link these parameters to the mechanical parameters, energy and quantity of motion. Since the proportionality between energy and frequency is one of the most characteristic relations of the quantum theory, and since, moreover, the frequency and the energy transform in the same way when the Galilean reference system is changed, we may simply write” 
 
-$energy = h \times frequency$, or $W = hv$
+$energy = h \times frequency$, or $W = hν$
 
 “where $h$ is Planck’s constant. This relation must apply in all Galilean systems and in the intrinsic system of the corpuscle where the energy of the corpuscle, according to Einstein, reduces to its internal energy $m_0c^2$ ($m_0$ being the rest mass) we have”
 
