@@ -179,7 +179,7 @@ For an atom of mass $m$, radius $r$ and velocity $v$, its linear momentum is $p 
 
 The previous condition implies the possibility of obtaining diffraction patterns of matter waves if a beam of electrons passes through a double slit of the size of $a_0$. This would resemble the light wave diffraction experiment performed in 1801 by Thomas Young (1773 – 1829). Nevertheless, the first experiments to detect matter waves were carried out around 1927, in an industrial laboratory in the United States by Clinton Davisson (1881 - 1958) and Lester Germer (1896 -1971) and in a university laboratory in England by George Paget Thomson (1892 - 1975).
 	
-If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½mev^2 = qeV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (mev)^2= 2meqeV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ (see Figure 9.1).
+If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½m_ev^2 = q_eV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (m_ev)^2= 2m_eq_eV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ (see Figure 9.1).
 
 
 <p align="center" width="100%">
