@@ -45,17 +45,15 @@
 
 	We apply the *Analysis of learning trajectories* to the description of main characteristics of Albert Einstein life in connection with prescriptive and emergent learning.
 
-## 12.1. Bose-Einstein condensation, superfluidity and superconductivity.
+## 12.1. Boson condensation. 
 
 Statistical mechanics is a branch of physics in which statistical calculations of microscopic variables are related to macroscopic observables. The probability that something happens in a physical system depends on the number of possible configurations describing the structure and dynamics of the system. How configurations are counted depends on what kind of assumptions and criteria are applied according to classical physics or to modern physics.
 
 In classical mechanics the particles of a physical system can be distinguished from each other and are localizable by specifying simultaneously their vectors of position ($r$) and momentum ($p = mv$). To count configurations of particles with such properties we speak of classical Maxwell-Boltzmann statistics (MB).
 
-In quantum mechanics the Heisenberg uncertainty principle ($Δr Δpx ~ h$) must be satisfied and the positions of the N particles of the system are described in probabilistic terms by the wave function $Ψ(r_1, r_2,  r_3,...  r_N)$. Two situations may arise with respect to the exchange of positions between two of the components of the system: the symmetric case characterizing bosons corresponds to Bose-Einstein statistics (BE) where $Ψ(r_1, r_2, r_3,... r_N) = (+)Ψ(r_2, r_1, r_3,... r_N)$, while the antisymmetric case characterizing fermions corresponds to the so-called Fermi-Dirac (FD) statistic where $Ψ(r_1, r_2, r_3,... r_N) = (-)Ψ(r_2, r_1, r_3,...  r_N)$.  
+In quantum mechanics the Heisenberg uncertainty principle ($Δr Δp_x$ ~ $h$) must be satisfied and the positions of the N particles of the system are described in probabilistic terms by the wave function $Ψ(r_1, r_2,  r_3,...  r_N)$. Two situations may arise with respect to the exchange of positions between two of the components of the system: the symmetric case characterizing bosons corresponds to Bose-Einstein statistics (BE) where $Ψ(r_1, r_2, r_3,... r_N) = (+)Ψ(r_2, r_1, r_3,... r_N)$, while the antisymmetric case characterizing fermions corresponds to the so-called Fermi-Dirac (FD) statistic where $Ψ(r_1, r_2, r_3,... r_N) = (-)Ψ(r_2, r_1, r_3,...  r_N)$.  
 
 Fermions have half-integral spin, they are selective and obey the exclusion principle; a gas of fermions have at most one particle in each one-particle quantum states. Bosons have integral spin, they are gregarious and can condense in a quantum state described by one and the same wavefunction; below a certain critical temperature they form a Bose-Einstein condensate.
-
-### Boson condensation.
  
 In June 4, 1924 Einstein received a letter from Satyendra Nath Bose (1894-1977) explaining that a recent paper written by him was rejected for publication. He had worked on a derivation of Planck´s law of black-body radiation by introducing a new procedure for the coarse-grained counting in the phase space. Accompanying his letter Bose sent a translation in English of his rejected paper and asked Einstein, that in case he might think the work had sufficient merit, to arrange it for a publication in a German journal. 
 
@@ -65,18 +63,18 @@ Bose described certain rules for determining if two photons could be considered 
 	
 Bose-Einstein condensation is a new state of matter, a state of microscopic quantum coherence. When the atoms are cooled down near the absolute zero, their quantum wave functions begin to overlap and the atoms lose their individual identities, behaving more like a single super-atom than an agglomeration of distinct atoms glued together. All these atoms occupy the same position with an almost null momentum. They satisfy Heisenberg´s indeterminacy principle. 
 	
-At the time of the publication of Bose and Einstein papers the possibility of observing boson condensation was considered as having “a purely imaginary character”, also with no possible connections with unknown effects like superconductivity or superfluidity. These effects were experimentally discovered before their satisfactory theoretical explanations were available. Let us follow the sequence in time of this conceptual trajectory by following a selected group of Nobel Lectures. We will consider condensates formed by bosons like pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation.
+At the time of the publication of Bose and Einstein papers the possibility of observing boson condensation was considered as having “a purely imaginary character”, also with no possible connections with unknown effects like superconductivity or superfluidity. These effects were experimentally discovered before their satisfactory theoretical explanations were available. Let us follow the sequence in time of this conceptual trajectory whose main steps are the condensates formed by bosons in these conditions: pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation.
 	
 In 1908 Heike Kamerlingh Onnes (1853-1926) obtained liquid helium for the first time; afterwards it will be used as refrigerant. In 1911 he discovered superconductivity when he observed the sudden nullification of the electrical resistance of mercury at 4.2° K. (see Figure 12.1). 
 
-To make clear the experimental conditions of the measurements of the electrical resistance, Kammerling Onnes mentioned in his 1913 Nobel Lecture: “The disappearance did not take place gradually but (compare Fig. 17) abruptly. From 1/500 the resistance at 4.2oK drops to a millionth part. At the lowest temperature, 1.5°K, it could be established that the resistance had become less than a thousand-millionth part of that at normal temperature.”
+To make clear the experimental conditions of the measurements of the electrical resistance, Kammerling Onnes mentioned in his 1913 Nobel Lecture: “The disappearance did not take place gradually but (compare Fig. 17) abruptly. From 1/500 the resistance at 4.2°K drops to a millionth part. At the lowest temperature, 1.5°K, it could be established that the resistance had become less than a thousand-millionth part of that at normal temperature.”
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig2.JPG?raw=true" width=480 align=center>
 	</p>
 
 
-(Source: taken from Kammerling Onnes´s Nobel Lecture Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium.)
+(Source: taken from Kammerling Onnes´s Nobel Lecture *Investigations into the properties of substances at low temperatures*, which have led, amongst other things, to the preparation of liquid helium.)
 
 MLA style: Heike Kamerlingh Onnes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1913/onnes/lecture/
 
@@ -100,9 +98,9 @@ In 1941 Lev Landau (1908-1968) studied the movement of superfluid liquid helium 
 
 In 1950 Landau in collaboration with Vitaly Ginzburg (1916-2009) proposed the phenomenological Ginzburg- Landau theory to explain superconductivity. This theory is a combination of Landau's theory of second-order phase transition with a Schrödinger-like wave equation.  
 	
-Landau was recognized with the Physics Nobel Prize in 1962 and Ginzburg shared with Alexei A. Abrikosov (1928-2017) and Anthony L. Legett (1938) the 2003 Physics Nobel Prize “for pioneering contributions to the theory of superconductors and superfluids”.  For more details see their Nobel Lectures: *Type II superconductors and the vortex lattice by Abrikisov, On Superconductivity and Superfluidity by Ginzburg and Superfluid 3-He: the early days as seen by a theorist by* Leggett. 
+Landau was recognized with the Physics Nobel Prize in 1962 and Ginzburg shared with Alexei A. Abrikosov (1928-2017) and Anthony L. Legett (1938) the 2003 Physics Nobel Prize “for pioneering contributions to the theory of superconductors and superfluids”.  For more details see their Nobel Lectures: *Type II superconductors and the vortex lattice* by Abrikisov, *On Superconductivity and Superfluidity* by Ginzburg and *Superfluid 3-He: the early days as seen by a theorist* by Leggett. 
 
-Ginzburg mentions in his Nobel Lecture *On Superconductivity and Superfluidity* that *Superconductivity is, if you please, the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid.*
+Ginzburg mentions in his Nobel Lecture *On Superconductivity and Superfluidity* that “Superconductivity is, if you please, the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid.”
 
 In 1952 Alexei Abrikosov formulated a theory for the second type of superconductor and introduced a mathematical function that described vortexes that forms in the conductor when an external magnetic field is applied.
 
@@ -153,11 +151,11 @@ Two methods have been used to force the atoms to attain their lowest energy leve
 
 As an application of Heisenberg’s uncertainty principle to the condensation effect, we next quote the explanation given by Ketterle in his Nobel Lecture: *When atoms behave as waves: Bose-Einstein condensation and the atom laser.*
 
-When a gas of bosonic atoms is cooled below a critical temperature $T_c$, a large fraction of the atoms condenses in the lowest quantum state. Atoms at temperature T and with mass m can be regarded as quantum-mechanical wavepackets that have a spatial extent on the order of a thermal de Broglie wavelength $λ_{dB}= (2πħ^2/mk_BT)^{1/2}$. The value of $λ_{dB}$ is the position uncertainty associated with the thermal momentum distribution and increases with decreasing temperature. When atoms are cooled to the point where $λ_{dB}$ is comparable to the interatomic separation, the atomic wavepackets “overlap” and the gas starts to become a “quantum soup” of indistinguishable particles. Bosonic atoms undergo a quantum-mechanical phase transition and form a Bose-Einstein condensate, a cloud of atoms all occupying the same quantum mechanical state at a precise temperature which, for an ideal gas, is related to the peak atomic density n by $n(λ_{dB})^3 = 2.612$. If the atoms are fermions, cooling gradually brings the gas closer to being a “Fermi sea” in which exactly one atom occupies each low-energy state.
+"When a gas of bosonic atoms is cooled below a critical temperature $T_c$, a large fraction of the atoms condenses in the lowest quantum state. Atoms at temperature T and with mass m can be regarded as quantum-mechanical wavepackets that have a spatial extent on the order of a thermal de Broglie wavelength $λ_{dB}= (2πħ^2/mk_BT)^{1/2}$. The value of $λ_{dB}$ is the position uncertainty associated with the thermal momentum distribution and increases with decreasing temperature. When atoms are cooled to the point where $λ_{dB}$ is comparable to the interatomic separation, the atomic wavepackets “overlap” and the gas starts to become a “quantum soup” of indistinguishable particles. Bosonic atoms undergo a quantum-mechanical phase transition and form a Bose-Einstein condensate, a cloud of atoms all occupying the same quantum mechanical state at a precise temperature which, for an ideal gas, is related to the peak atomic density n by $n(λ_{dB})^3 = 2.612$. If the atoms are fermions, cooling gradually brings the gas closer to being a “Fermi sea” in which exactly one atom occupies each low-energy state".
 
-Note: *the reduced Planck constant or Dirac constant is* $ħ =h⁄((2π))$.
+Note: *the reduced Planck constant or Dirac constant is* $ħ =h⁄(2π)$.
 	
-Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture, 
+Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig6.JPG?raw=true" width=480 align=center>
