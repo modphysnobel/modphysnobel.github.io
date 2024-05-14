@@ -114,7 +114,7 @@ In previous experiments quantum states were observed through quantum non-demolit
 
 ### On the verge of a new computer revolution.
 
-“A possible application of ion traps that many scientists dream of is the quantum computer. In present-day classical computers the smallest unit of information is a bit that takes the value of either 1 or 0. In a quantum computer, however, the basic unit of information – a quantum bit or qubit – can be 1 and 0 at the same time. Two quantum bits can simultaneously take on four values – 00, 01, 10 and 11 – and each additional qubit doubles the amount of possible states. For n quantum bits there are 2n possible states, and a quantum computer of only 300 qubits could hold $2^{300}$ values simultaneously, more than the number of atoms in the universe.”
+“A possible application of ion traps that many scientists dream of is the quantum computer. In present-day classical computers the smallest unit of information is a bit that takes the value of either 1 or 0. In a quantum computer, however, the basic unit of information – a quantum bit or qubit – can be 1 and 0 at the same time. Two quantum bits can simultaneously take on four values – 00, 01, 10 and 11 – and each additional qubit doubles the amount of possible states. For n quantum bits there are $2^n$ possible states, and a quantum computer of only 300 qubits could hold $2^{300}$ values simultaneously, more than the number of atoms in the universe.”
 
 “Wineland’s group was the first in the world to demonstrate a quantum operation with two quantum bits. Since control operations have already been achieved with a few qubits, there is in principle no reason to believe that it should not be possible to achieve such operations with many more qubits. However, to build such a quantum computer is an enormous practical challenge. One has to satisfy two opposing requirements: the qubits need to be adequately isolated from their environment in order not to destroy their quantum properties, yet they must also be able to communicate with the outside world in order to pass on the results of their calculations.” ….
 
@@ -130,31 +130,32 @@ WORK (Haroche): “When it comes to the smallest components of our universe, our
 
 NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary.* S. Haroche.
 
-Control of single particles in a quantum world <br>
-A personal account of the early days of cavity quantum electrodynamics <br>
-Counting photons without destroying them: a new photon box and circular rydberg atoms <br>
-Quantum feedback <br>
-Field state reconstruction <br>
-Schrödinger cat states of light and decoherence studies <br>
-Quantum information in cavity qed <br>
-Perspectives for the work of ens <br>
-Relation to other domains in quantum information science <br>
-Acknowledgments
+CONTROL OF SINGLE PARTICLES IN A QUANTUM WORLD<br>
+A PERSONAL ACCOUNT OF THE EARLY DAYS OF CAVITY QUANTUM ELECTRODYNAMICS<br>
+COUNTING PHOTONS WITHOUT DESTROYING THEM: A NEW PHOTON BOX AND CIRCULAR RYDBERG ATOMS<br>
+QUANTUM FEEDBACK<br>
+FIELD STATE RECONSTRUCTION<br>
+SCHRÖDINGER CAT STATES OF LIGHT AND DECOHERENCE STUDIES<br>
+QUANTUM INFORMATION IN CAVITY QED<br>
+PERSPECTIVES FOR THE WORK OF ENS<br>
+RELATION TO OTHER DOMAINS IN QUANTUM INFORMATION SCIENCE<br>
+ACKNOWLEDGMENTS
 
 WORK (Wineland): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
 
 NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by D. J. Wineland.
 
-I. Introduction <br>
-II. Some early steps towards quantum control <br>
-III. Controlling the quantum levels of individual trapped ions <br>
-IV. Manipulating ion motion at the quantum level <br>
-V. Schrödinger’s cat <br>
-VI. Enter quantum information <br>
-A. Quantum simulation <br>
-B. Spectroscopy and quantum metrology <br>
-VII. Summary <br>
-VIII. Acknowledgements
+I. INTRODUCTION<br>
+II. SOME EARLY STEPS TOWARDS QUANTUM CONTROL<br>
+III. CONTROLLING THE QUANTUM LEVELS OF INDIVIDUAL TRAPPED IONS<br>
+IV. MANIPULATING ION MOTION AT THE QUANTUM LEVEL<br>
+V. SCHRÖDINGER’S CAT<br>
+VI. ENTER QUANTUM INFORMATION<br>
+A. Quantum simulation<br>
+B. Spectroscopy and quantum metrology<br>
+VII. SUMMARY<br>
+VIII. ACKNOWLEDGEMENTS
+
 
 ***
 
