@@ -6,7 +6,7 @@
 
 ## 12.3.	Analysis of learning trajectories.
 
-Albert Einstein predicted the phenomena of condensation in a paper with the title of *“Quantentheorie des einatomigen idealen gases”* published in July 1924, when he was a mature and well recognized physicists of 45 years of age. The phenomena was experimentally discovered till 1994 by Eric Cornell, Carl Wieman and Wolfgang Ketterle. What and how did Einstein learn to be able to make a theoretical prediction that was experimentally verified after 70 years? An answer to this question can be related to how prescriptive learning and emergent learning were present in Einstein´s life.
+Albert Einstein predicted the phenomena of condensation in the following publication *Quantentheorie des einatomigen idealen gases*. Königliche Preußische Akademie der Wissenschaften. Sitzungsberichte, (1924), 261–267. At that time he was a mature and well recognized physicists of 45 years of age. The phenomena was experimentally discovered till 1994 by Eric Cornell, Carl Wieman and Wolfgang Ketterle. What and how did Einstein learn to be able to make a theoretical prediction that was experimentally verified after 70 years? An answer to this question can be related to how prescriptive learning and emergent learning were present in Einstein´s life.
 
 Unlike what is simple to learn and has been previously prescribed, learning the new is difficult, especially in recently explored topics, when important problems are poorly explained or badly solved; also when writing lacks precision, coherence and clarity. Prescriptive learning and emergent learning consider in different ways how the following elements are described in next Table.
 
@@ -17,13 +17,13 @@ Unlike what is simple to learn and has been previously prescribed, learning the 
         </th>
     </tr>
   <tr>
-    <th width="20%" style="text-align: center">
+    <th width="15%" style="text-align: center">
   ELEMENTS
     </th>
-    <th width="40%" style="text-align: center">
+    <th width="42.5%" style="text-align: center">
 PRESCRIPTIVE
     </th>
- <th width="40%" style="text-align: center">
+ <th width="42.5%" style="text-align: center">
 EMERGENT
     </th>
     </tr>
