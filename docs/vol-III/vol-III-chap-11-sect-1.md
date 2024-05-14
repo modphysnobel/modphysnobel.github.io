@@ -29,7 +29,7 @@
 
 	**Section 11.2. Production of new materials and study of individual quantum systems.**
 
-	We refer refer to the Physics Nobel Prize awarded in  2010 to Andre Geim (1958) and Konstantin Novoselov (1974) “for groundbreaking experiments regarding the two-dimensional material graphene”, and in 2012 to Serge Haroche (1944) and David J. Wineland (1944) “for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems”.
+	We referto the Physics Nobel Prize awarded in  2010 to Andre Geim (1958) and Konstantin Novoselov (1974) “for groundbreaking experiments regarding the two-dimensional material graphene”, and in 2012 to Serge Haroche (1944) and David J. Wineland (1944) “for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems”.
 
 	**Section 11.3. Phases in learning and research processes.**
 
@@ -57,13 +57,14 @@ Starting in 1912 Max von Laue and his assistants obtained photographs showing in
 
 Bragg´s law relates the observed X-ray diffraction pattern to the arrangement of atoms in the crystal that produces the pattern. The experiments made by the Braggs proved the wave-like nature of X-rays and demonstrated that crystals are made of three-dimensional regular, repeating geometrical patterns of atoms, forming natural diffraction gratings. 
 
-WORK (Braggs): “Max von Laue's discovery that diffraction patterns occur when X-rays pass through crystals inspired William and Lawrence Bragg to conduct their own studies in the area. Their contributions included establishing the relationship between the wavelength of the X-ray, its angle of incidence, and the distance between the atomic layers inside the crystal. This provided a powerful tool for studying crystals' structures. Using diffraction pattern methods, it now also became possible to calculate the positions of atoms in crystalline structures.”
+!!! tip ""
+	WORK (Braggs): “Max von Laue's discovery that diffraction patterns occur when X-rays pass through crystals inspired William and Lawrence Bragg to conduct their own studies in the area. Their contributions included establishing the relationship between the wavelength of the X-ray, its angle of incidence, and the distance between the atomic layers inside the crystal. This provided a powerful tool for studying crystals' structures. Using diffraction pattern methods, it now also became possible to calculate the positions of atoms in crystalline structures.”
 
 NOBEL LECTURE: *Diffraction of X-Rays by Crystals* by W.L. Bragg.
 	
 ……
 
-….. Prof. von Laue had made some of his earliest experiments with a crystal of zinc sulphide, and had obtained results which proved that the diffracted pencils showed the symmetry of the underlying crystal structure, which in this case was cubic. …. In studying his work, it occurred to me that perhaps we ought to look for the origin of this selection of certain directions of diffraction in the peculiarities of the crystal structure, and not in the constitution of the X-ray beam…”
+….. "Prof. von Laue had made some of his earliest experiments with a crystal of zinc sulphide, and had obtained results which proved that the diffracted pencils showed the symmetry of the underlying crystal structure, which in this case was cubic". …. "I"n studying his work, it occurred to me that perhaps we ought to look for the origin of this selection of certain directions of diffraction in the peculiarities of the crystal structure, and not in the constitution of the X-ray beam…"
 
 ……
 
@@ -109,7 +110,8 @@ Light waves are diffracted when they pass through the spaces inside the material
 
 The contributions made by Ernst Ruska are now considered in two parts: (1) by including a short description of his works, and (2) by including excerpts from his Nobel Lecture. 
 
-WORK (Ruska): “Very small objects can be studied in a microscope, but when objects become as small as the wavelength of light, an image no longer is produced. The discovery that beams of electrons behave as waves with wavelengths shorter than visible light opened up new opportunities. Ernst Ruska discovered that a magnetic coil could be used as a lens for electron beams and developed the first electron microscope in 1933. It captures images of extremely small objects by means of electron beams that are directed towards an object and captured on a screen.”
+!!! tip ""
+	WORK (Ruska): “Very small objects can be studied in a microscope, but when objects become as small as the wavelength of light, an image no longer is produced. The discovery that beams of electrons behave as waves with wavelengths shorter than visible light opened up new opportunities. Ernst Ruska discovered that a magnetic coil could be used as a lens for electron beams and developed the first electron microscope in 1933. It captures images of extremely small objects by means of electron beams that are directed towards an object and captured on a screen.”
 
 NOBEL LECTURE: *The Development of the Electron Microscope and of Electron Microscopy* by E. Ruska.
 
@@ -157,35 +159,36 @@ In 1981 Gerd Binnig and Heinrich Rohrer built a scanning tunneling microscope to
 
 Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, for instance: the production of extremely fine stylus so that the tip contained only a few atoms, and the elimination of environment vibrations by placing the microscope upon a heavy permanent magnet floating freely in a dish of superconducting lead.
 
-WORK (Binning and Rohrer): “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
+!!! tip !!
+	WORK (Binning and Rohrer): “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
 
 NOBEL LECTURE: *Scanning Tunneling Microscopy – From Birth to Adolescence* by G. Binnig and H. Rohrer.
 
 The Lecture is just a detailed narrative of the historical developments of their research. As the laureates mention it “simply reflects what we thought, how we acted and what we felt.” 
 
-For a review of the physical and technical aspects of the Prize, the authors recommend their publication:  Binnig, G., and Rohrer, H. (1986), Scanning tunneling microscopy, IBM J. Res. Develop. 30, 355.
+For a review of the physical and technical aspects of the Prize, the authors recommend their publication:  Binnig, G., and Rohrer, H. (1986), *Scanning tunneling microscopy*, IBM J. Res. Develop. 30, 355.
 
 ### Neutron spectroscopy.
 
-Neutrons are elementary particles that behave both as particles and as waves, have no electric charge and its mass is about the same as a proton. Neutrons are basic building blocks of the atomic nucleus and as free particles participate in many nuclear reactions. They were discovered in 1932 by James Chadwick (1891-1974) when he observed a penetrating form of radiation emanating from beryllium metal when activated by alpha-particles coming from a radium source. For more details, see Chadwick´s 1935 Nobel Lecture: *The Neutron and Its Properties* and the 1938 Nobel Lecture by Enrico Fermi (1901-1954): *Artificial Radioactivity Produced by Neutron Bombardment*.
+Neutrons are elementary particles that behave both as particles and as waves, have no electric charge and its mass is about the same as a proton. Neutrons are basic building blocks of the atomic nucleus and as free particles participate in many nuclear reactions. They were discovered in 1932 by James Chadwick (1891-1974) when he observed a penetrating form of radiation emanating from beryllium metal activated by alpha-particles coming from a radium source. For more details, see Chadwick´s 1935 Nobel Lecture: *The Neutron and Its Properties* and the 1938 Nobel Lecture by Enrico Fermi (1901-1954): *Artificial Radioactivity Produced by Neutron Bombardment*.
 
 Initially neutrons were used to split atomic nuclei and produce atomic bombs. Later, fluxes of neutrons coming out from nuclear reactors served to study the effects of collisions atom-neutron on the structural and dynamical properties of condensed matter. The structural properties defined by the positions of atoms were determined by registering changes in the directions of scattered neutrons. The neutron velocities were related to the dynamical properties of the individual or collective oscillations of the atoms.  
 
 The following  information has been obtained from the document Press release *The structure and dynamics of matter revealed.*
 
-Neutrons have interesting scattering properties because their energy is of the same order of magnitude as that of the phonons in solid and fluid matter. Neutron diffraction has served to study the relative orientations of small atomic materials.
+Neutrons have interesting scattering properties because their energy is of the same order of magnitude as that of the phonons in solid and fluid matter. Neutron diffraction has served to study the relative orientations of small atomic materials. …. “neutrons have been used to an increasing extent for studying the structure (arrangement) and dynamics (movement) of solid and fluid matter.”
 
 Shull developed neutron scattering techniques based on the diffraction of elastically scattered neutrons (there is no energy change) and the wavelength of neutrons leaving out from a reactor are roughly equal to the distance between the atoms in a solid body or a liquid. By following the directions of the scattered neutrons, the structure in which the atoms are arranged can be determined. Furthermore, as protons are very efficient neutron scattering centers their positions can be determined with neutron diffraction. 
 
-WORK (Shull): “Atomic nuclei are composed of protons and neutrons. Clifford Shull and Bertram Brockhouse developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. According to principles of quantum mechanics, neutrons and other particles can be described as a wave movement, and neutron radiation that passes a regular atomic structure gives rise to diffraction patterns. In 1946 Shull developed methods to make use of this to determine the structure of different molecules and materials.”
+!!! tip ""
+	WORK (Shull): “Atomic nuclei are composed of protons and neutrons. Clifford Shull and Bertram Brockhouse developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. According to principles of quantum mechanics, neutrons and other particles can be described as a wave movement, and neutron radiation that passes a regular atomic structure gives rise to diffraction patterns. In 1946 Shull developed methods to make use of this to determine the structure of different molecules and materials.”
 
 NOBEL LECTURE: *Early Development of Neutron Scattering* by C.G. Shull.
 
-Otherwise Brockhouse concentrated more on inelastic scattering where neutrons lose part of their energy to the material or pick up energy from it. Some of the neutron’s energy is converted into vibrations (the phonons) whose fixed energy levels form an energy spectrum. 
-
 Shull´s lecture is a narrative of the historical projects for building nuclear reactors and neutron spectrometers. It includes improvements in the instrumentation and in the registration, interpretation, and classification of data on diffraction patterns, as well as studies on hydrogen-containing crystals and the determination of coherent scattering amplitudes for hydrogen and deuterium.  
 
-WORK (Brockhouse): “Atomic nuclei are composed of protons and neutrons. Bertram Brockhouse and Clifford Shull developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. When neutron beams come in contact with a material, some of the neutron’s energy is converted into vibrations. The vibrations, known as phonons, correspond to fixed energy levels that form a spectrum. During the 1950s Bertram Brockhouse developed methods for using these spectrums to chart properties of different molecules and materials.”
+!!! tip ""
+	WORK (Brockhouse): “Atomic nuclei are composed of protons and neutrons. Bertram Brockhouse and Clifford Shull developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. When neutron beams come in contact with a material, some of the neutron’s energy is converted into vibrations. The vibrations, known as phonons, correspond to fixed energy levels that form a spectrum. During the 1950s Bertram Brockhouse developed methods for using these spectrums to chart properties of different molecules and materials.”
 
 Brockhouse´s Lecture presents different developments of neutron spectrometers, descriptions of experiments (in particular with light and heavy water and other liquids like helium), obtention of dispersion curves for phonons in metals and alloys, studies about the spin waves (magnons), calculations of distribution functions and of correlation functions, phonon-electron interactions in metals, interatomic force systems of long range and great complexity, neutron spectroscopies in crystals, applications of digital computers, comparisons of models, analysis of published results, and discussions of theories of condensed matter. We include the subtitles as in the original.
 
