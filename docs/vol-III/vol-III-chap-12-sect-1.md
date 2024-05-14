@@ -27,19 +27,20 @@
 
 	After this Chapter you should be able to:
 
-	- Describe Physics Nobel Prize contributions for understanding Boson condensation, superfluidity and superconductivity.
-	- Discuss the Integral and Fractional Quantum Hall Effects.
+	- Describe Physics Nobel Prize contributions for understanding boson condensation: superconductivity. superfluidity and Bose Einstein condensation.
+	- Describe Physics Nobel Prize contributions for understanding the Integral and Fractional Quantum Hall Effects.
 	- Analyze the differences among prescriptive learning and emergent learning and consider Albert Einstein productive learning trajectory.
+
 
 !!! abstract "Description of content of Chapter 12."
 
-	**Section 12.1. Bose-Einstein condensation, superfluidity and superconductivity.**
- 
-	We review three phenomena connected with the concept of boson condensation: superconductivity, superfluidity and Bose-Einstein condensation; in particular we refer to Ketterle´s Nobel Lecture. 
+	**Section 12.1. Boson condensation.**
+
+	We review three phenomena connected with the concept of boson condensation: superconductivity, superfluidity and Bose-Einstein condensation. We refer to Ketterle´s Nobel Lecture.
 
 	**Section 12.2. Quantum Hall effects.**
 
-	We deal with the behavior of electrons in quantum Hall effects when this quantization is described in terms of entire or fractional numbers. We refer to the 1998 Physics Nobel Lectures by Laughlin, Störmer and Tsui.
+	We deal with the behavior of electrons in quantum Hall effects when this quantization is described in terms of entire or fractional numbers. We refer to the Physics Nobel Prizes awarded in 1985 to Klaus von Klitzing “for the discovery of the quantized Hall effect” and in 1998 to Laughlin, Störmer and Tsui ““for their discovery of a new form of quantum fluid with fractionally charged excitations”.
 
 	**Section 12.3. Schools for education and learning trajectories.**
 
