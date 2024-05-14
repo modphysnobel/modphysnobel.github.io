@@ -215,10 +215,10 @@ Table 12.3. Years between prediction and observation.
     </th>
 </tr>
 <tr>
-<th width="50%" style="text-align: center">
+<th width="70%" style="text-align: center">
 PREDICTED PHENOMENON 
 </th>
-<th width="50%" style="text-align: center">
+<th width="30%" style="text-align: center">
 YEARS
 </th>
 </tr>
@@ -306,9 +306,9 @@ MLA style: Wolfgang Ketterle – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 MLA style: Eric A. Cornell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. <https://www.nobelprize.org/prizes/physics/2001/cornell/lecture/
 
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/advanced-information/
+MLA style: *Advanced information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/advanced-information/
 
-Cao, Yuan; Fatemi, Valla; Demir, Ahmet; Fang, Shiang; Tomarken, Spencer L.; Luo, Jason Y.; Sanchez-Yamagishi, Javier D.; Watanabe, Kenji; Taniguchi, Takashi; Kaxiras, Efthimios; Ashoori, Ray C.; Jarillo-Herrero, Pablo (5 de marzo de 2018). «Correlated insulator behaviour at half-filling in magic-angle graphene superlattices». En Springer Science and Business Media LLC, ed. Nature 556 (7699): 80-84.
+Cao, Yuan; Fatemi, Valla; Demir, Ahmet; Fang, Shiang; Tomarken, Spencer L.; Luo, Jason Y.; Sanchez-Yamagishi, Javier D.; Watanabe, Kenji; Taniguchi, Takashi; Kaxiras, Efthimios; Ashoori, Ray C.; Jarillo-Herrero, Pablo (5 de marzo de 2018). *Correlated insulator behaviour at half-filling in magic-angle graphene superlattices*. En Springer Science and Business Media LLC, ed. Nature 556 (7699): 80-84.
 
 MLA style: Klaus von Klitzing – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1985/klitzing/lecture/>
 
@@ -318,35 +318,44 @@ MLA style: Robert B. Laughlin – Nobel Lecture. NobelPrize.org. Nobel Prize Out
 
 MLA style: Daniel C. Tsui – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1998/tsui/lecture/>
 
+MLA style: Robert B. Laughlin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/
+
+MLA style: Horst L. Störmer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/stormer/facts/
+
+**Electrons in New Guises**. 
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 30 Apr 2024. <https://www.nobelprize.org/prizes/physics/1998/press-release/>
+
+
 **References about Einstein.**
 
-EINSTEIN, ALBERT, Out of my Later Years, The Philosophical Library, New York, (1950).
+EINSTEIN, ALBERT, *Out of my Later Years*, The Philosophical Library, New York, (1950).
 
-EINSTEIN, ALBERT, Ideas and Opinions, Wings Books, New York, (1954).
+EINSTEIN, ALBERT, *Ideas and Opinions*, Wings Books, New York, (1954).
 
 FRANK, PHILIPP, Einstein: His Life and Times, Alfred A. Knopf Inc., New York, (1953).
 
-GAL-OR, BENJAMIN, Cosmology, Physics and Philosophy; Springer-Verlag, New York, (1983).
+GAL-OR, BENJAMIN, *Cosmology, Physics and Philosophy*; Springer-Verlag, New York, (1983).
 
-GOLDBERG, STANLEY, Understanding Relativity. Origin and Impact of a Scientific Revolution, Birkhäuser, Boston, (1984).
+GOLDBERG, STANLEY, *Understanding Relativity. Origin and Impact of a Scientific Revolution*, Birkhäuser, Boston, (1984).
 
-JAMMER, MAX, Einstein and Religion. Physics and Theology, Princeton University Press, Princeton, (1999).
+JAMMER, MAX, *Einstein and Religion. Physics and Theology*, Princeton University Press, Princeton, (1999).
 
-KUHN, THOMAS S., The Structure of Scientific Revolutions. The University of Chicago Press, Chicago, (1970).
+KUHN, THOMAS S., *The Structure of Scientific Revolutions*. The University of Chicago Press, Chicago, (1970).
 
-LANCZOS, CORNELIUS, Albert Einstein and the cosmic world order, Interscience Publishers, New York, (1965).
+LANCZOS, CORNELIUS, *Albert Einstein and the cosmic world order*, Interscience Publishers, New York, (1965).
 
-LAUGHLIN, ROBERT B., A Different Universe: Reinventing Physics from the Bottom Down. Basic Books, New York, (2006). 
+LAUGHLIN, ROBERT B., *A Different Universe: Reinventing Physics from the Bottom Down*. Basic Books, New York, (2006). 
 
-PAGELS, HEINZ R., The Dreams of Reason. The Computer and the Rise of the Sciences of Complexity, Bantam Books, New York, (1988).
+PAGELS, HEINZ R., *The Dreams of Reason. The Computer and the Rise of the Sciences of Complexity*, Bantam Books, New York, (1988).
 
-PAIS, ABRAHAM, Subtle is the Lord… The Science and the Life of Albert Einstein, Oxford University Press, Oxford, (1982).
+PAIS, ABRAHAM, *Subtle is the Lord… The Science and the Life of Albert Einstein*, Oxford University Press, Oxford, (1982).
 
-RIGDEN, JOHN S., Einstein 1905: The Standard of Greatness. Harvard University Press, (2009).
+RIGDEN, JOHN S., *Einstein 1905: The Standard of Greatness*. Harvard University Press, Cambridge, Massachusetts, (2009).
 
-SCHILPP, PAUL ARTHUR, Albert Einstein: Philosopher-Scientist. The Library of Living Philosophers, vol. 7, Evanston, IL, (1949).
+SCHILPP, PAUL ARTHUR, *Albert Einstein: Philosopher-Scientist*. The Library of Living Philosophers, vol. 7, Evanston, IL, (1949).
 
-STACHEL, JOHN, Einstein Miracolous Year. Five Papers that Changed the Face of Physics. Princ
+STACHEL, JOHN, *Einstein Miracolous Year. Five Papers that Changed the Face of Physics*. Princeton University Press, Princeton, New Jersey (1998).
 
 ***
 
