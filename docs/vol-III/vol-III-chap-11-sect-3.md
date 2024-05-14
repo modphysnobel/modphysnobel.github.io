@@ -11,7 +11,7 @@ In this section we describe Geim´s Lecture *Random Walk to Graphene* as a learn
 
 •	The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
 
-•	The research phase is for evaluating and communicating and consists in the description of the testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
+•	The research phase is for evaluating and communicating and consists in the description of testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
 
 In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table refers to the corresponding subtitle included in the original document.  The first column in the Table describes reported activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been predominantly involved in each activity. For simplicity, we omit many names and simplify the descriptions of such  activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
 
@@ -49,7 +49,7 @@ Publ
         </tr>
           <tr>
     <td>
-PhD dissertation in 1987: “Investigation of mechanisms of transport relaxation in metals by a helicon resonance method”.
+PhD dissertation in 1987: *Investigation of mechanisms of transport relaxation in metals by a helicon resonance method*.
         </td>
         <th>
 X
@@ -633,7 +633,7 @@ X
         </tr>
     <tr>
     <td>
-Appearance of three badly shaped thought clouds: concept of ‘metallic electronics”, carbon nanotubes, and intercalated graphite compounds. The three thought clouds s merged into the PhD project. 
+Appearance of three badly shaped thought clouds: concept of ‘metallic electronics”, carbon nanotubes, and intercalated graphite compounds. The three thought clouds merged into the PhD project. 
         </td>
         <th>
 -
@@ -742,7 +742,7 @@ X
         </tr>
          <tr>
     <td>
-Geim suggested the use of an oxidized Si wafers as substrates. Placing thin graphite fragments onto those wafers allowed to observe interference colours indicating that some of the fragments were optically transparent. some of these fragments were just a few nm thick: this was a first real breakthrough.
+Geim suggested the use of an oxidized Si wafers as substrates. Placing thin graphite fragments onto those wafers allowed to observe interference colours indicating that some of the fragments were optically transparent. Some of these fragments were just a few nm thick: this was a first real breakthrough.
         </td>
         <th>
 -
