@@ -159,7 +159,7 @@ In 1981 Gerd Binnig and Heinrich Rohrer built a scanning tunneling microscope to
 
 Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, for instance: the production of extremely fine stylus so that the tip contained only a few atoms, and the elimination of environment vibrations by placing the microscope upon a heavy permanent magnet floating freely in a dish of superconducting lead.
 
-!!! tip !!
+!!! tip ""
 	WORK (Binning and Rohrer): “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
 
 NOBEL LECTURE: *Scanning Tunneling Microscopy – From Birth to Adolescence* by G. Binnig and H. Rohrer.
