@@ -43,7 +43,7 @@ Better models of condensed matter have been developed because more powerful tool
 Single particles are not easily isolated in the quantum domain because they lose their properties as soon as they interact with their surrounding environment. However, research groups leaded by S. Haroche and D.J. Wineland have independently observed, examined, controlled, and counted individual quantum particles without destroying them. They shared a Physics Nobel Prize. While S. Haroche controlled and measured trapped photons by sending atoms through a trap formed by a microwave cavity, D.J. Wineland trapped electrically charged atoms, or ions, controlling and measuring them with light, or photons.
         
 ## 12.  Bosons or fermions in condensed matter.
-### 12.1 [Bose-Einstein condensation, superfluidity and superconductivity](vol-III-chap-12-sect-1.md).
+### 12.1 [Boson condensation](vol-III-chap-12-sect-1.md).
 ### 12.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
 ### 12.3  [Schools for education and learning trajectories](vol-III-chap-12-sect-3.md).
 
