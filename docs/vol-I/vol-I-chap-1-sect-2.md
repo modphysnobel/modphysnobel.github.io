@@ -75,10 +75,10 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
   </tr>
   <tr>
   <td style="text-align: center">
-  a
+  (a)
   </td>
   <td style="text-align: center">
-  b
+  (b)
   </td>
   </tr>
 <tr>
@@ -91,10 +91,10 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
   </tr>
   <tr>
   <td style="text-align: center">
-  c
+  (c)
   </td>
   <td style="text-align: center">
-  d
+  (d)
   </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ One of the first urban architects Hippodamus of Miletus (498 BC- 408 BC) rebuild
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 1.4.** Plans of different archeological sites: a) Mileto in Asia Minor, nearby 490 BC.; b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and d) Massada in Israel, nearby 20 BC.
+**Figure 1.4.** Plans of different archeological sites: (a) Mileto in Asia Minor, nearby 490 BC.; (b) Sun pyramid in Teotihuacan, Mexico, nearby 450 AC; (c) residential palace in Machu Pichu, Peru, nearby 1500 AC, and (d) Massada in Israel, nearby 20 BC.
 
 ### Astronomical and geometrical spaces.
 
