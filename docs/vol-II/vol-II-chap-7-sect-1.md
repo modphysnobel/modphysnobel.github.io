@@ -7,7 +7,7 @@
 
 ## 7.  Brownian motion and specific heats.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*Under what conditions is statistical mechanics necessary?*
 
