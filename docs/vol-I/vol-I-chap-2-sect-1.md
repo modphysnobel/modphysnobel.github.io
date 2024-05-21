@@ -8,7 +8,7 @@
 
 # 2. Production and control of electronic motions. 
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 	*What are the main characteristics of the electron?*
 
 	This Chapter deals with the principal characteristics of electronic motions under different experimental conditions; it concerns their production, detection, representation, and interpretations.
@@ -124,7 +124,7 @@ Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 â
 	</figure>
 	</th>
 	<th width="50%" style="text-align: center">
-	 <img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9c.PNG?raw=true"> 
+	 <img width="150" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9c.PNG?raw=true"> 
 	</th>
 	</tr>
 	<tr>
