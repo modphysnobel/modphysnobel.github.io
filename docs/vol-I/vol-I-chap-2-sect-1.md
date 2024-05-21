@@ -238,10 +238,10 @@ What follows is a scheme describing the experimental setting where the three reg
 	</tr>
 	<tr>
 	<td style="text-align: center">
-	a
+	(a)
 	</td>
 	<td style="text-align: center">
-	b
+	(b)
 	</td>
 	</tr>
 	</table>
