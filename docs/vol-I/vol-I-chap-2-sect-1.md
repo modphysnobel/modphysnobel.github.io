@@ -182,10 +182,10 @@ The experimental setting used by Franck and Heertz is described in terms of the 
 	</tr>
 	<tr>
 	<td style="text-align: center">
-	a
+	(a)
 	</td>
 	<td style="text-align: center">
-	b
+	(b)
 	</td>
 	</tr>
 	</table>
