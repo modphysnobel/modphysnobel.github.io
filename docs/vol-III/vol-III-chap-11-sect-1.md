@@ -7,7 +7,7 @@
 
 ## 11.	Quantum waves in condensed matter physics.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What kind of waves characterize condensed matter?*
 
