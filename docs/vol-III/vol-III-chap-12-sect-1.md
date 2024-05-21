@@ -7,7 +7,7 @@
 
 ## 12. Bosons or fermions in condensed matter.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*When there are bosons and where fermions?*
 
