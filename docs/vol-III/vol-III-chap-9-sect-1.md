@@ -7,7 +7,7 @@
 
 ## 9.  Matter waves and quantum mechanics principles. 
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What is light made of?  Is it a wave or a corpuscle?*
 
