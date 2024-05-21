@@ -7,7 +7,7 @@
 
 ## 5.   Energy quantization in the black body radiation
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*Why the color of an object changes when it is heated?*
 
