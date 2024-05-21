@@ -6,7 +6,7 @@
 ***
 ## 10.	  Interferences of electromagnetic and gravitational waves.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*When electromagnetic and gravitational waves produce interferences?*
 
