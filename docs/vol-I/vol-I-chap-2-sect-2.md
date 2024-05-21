@@ -8,8 +8,8 @@
 
 In what follows, we consider two kinds of publications that are available in the web page of the Nobel Foundation: a document called *WORK* that explains in a very synthetic form the reasons for awarding the Physics Nobel Prize to Thomson, Millikan, Franck, Hertz and Condon, and their corresponding Nobel Lectures. The first document is fully quoted; the text is indicated in quotation marks. The second document is divided in two parts and inserted as boxes: the first box is called *Accepted knowledge or questions under discussion in laureate´s time* and the second box refers to *Laureate´s contributions or explanations*. All the documents include their corresponding references. When the Nobel Lecture contains subtitles, they are mentioned after the title of the Lecture.
 
-!!! tip "J.J. Thomson (1856-1940)."
-	WORK: "The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms."
+!!! tip "1906 Physics Nobel Prize."
+	WORK: "The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson (1856-1940) managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms."
 
 	MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 1 Mar 2023. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
 
@@ -35,8 +35,8 @@ In what follows, we consider two kinds of publications that are available in the
 	- "In all known cases in which negative electricity occurs in gases at very low pressures, it occurs in the form of corpuscles, small bodies with an invariable charge and mass."
 
 
-!!! tip "R. A. Millikan (1868-1953)."
-	WORK: "During the 1890s the theory that electricity was conveyed by a miniscule unit, the electron, gained acceptance. In 1910 Robert Millikan succeeded in precisely determining the magnitude of the electron’s charge. Small electrically charged drops of oil were suspended between two metal plates where they were subjected to the downward force of gravity and the upward attraction of an electrical field. By measuring how the various drops of oil moved about, Millikan showed that their charge always was a multiple of a precisely determined charge—the electron’s charge."
+!!! tip "1923 Physics Nobel Prize."
+	WORK: "During the 1890s the theory that electricity was conveyed by a miniscule unit, the electron, gained acceptance. In 1910 Robert Millikan (1868-1953) succeeded in precisely determining the magnitude of the electron’s charge. Small electrically charged drops of oil were suspended between two metal plates where they were subjected to the downward force of gravity and the upward attraction of an electrical field. By measuring how the various drops of oil moved about, Millikan showed that their charge always was a multiple of a precisely determined charge—the electron’s charge."
 
 	MLA style: Robert A. Millikan – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
 
@@ -56,8 +56,8 @@ In what follows, we consider two kinds of publications that are available in the
 	- The first direct experimental proof of the exact validity of Einstein´s equation for the photoelectric effect and the first direct determination of Planck’s constant were made in 1914. Einstein’s equation is one of exact validity (always within the present small limits of experimental error) and of very general applicability. Einstein’s light-quanta may be considered as experimentally established.
  
 
-!!! tip "J. Franck (1882-1964)."         
-	WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, James Franck and Gustav Hertz conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."
+!!! tip "1925 Physics Nobel Prize."         
+	WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, James Franck (1882-1964) and Gustav Hertz conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."
 
 	MLA style: James Franck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
@@ -90,8 +90,8 @@ In what follows, we consider two kinds of publications that are available in the
 	- "The elastic collisions at low electron velocities show that for these impacts no energy is taken up as inner energy, and the first critical energy step results in just that amount of energy required for the excitation of the longest wave absorption line of Hg."
 
 
-!!! tip "G. L. Hertz (1987-1975)."
-	WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, Gustav Hertz and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."	
+!!! tip "1925 Physics Nobel Prize."
+	WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, Gustav Hertz (1987-1975) and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."	
 
 	MLA style: Gustav Hertz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. 
 	<https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
@@ -119,8 +119,8 @@ In what follows, we consider two kinds of publications that are available in the
 	- "Summarizing therefore, it can be stated that all the results so far attained with the electron-impact method agree very closely with Bohr’s theory and in particular that they verify experimentally Bohr’s interpretation of the series terms as a measure of the energy of the atom in its various stationary states."
 
 
-!!! tip "A.H. Compton (1892-1962)."
-	WORK: "According to Einstein’s photoelectric effect theory, light consists of quanta, “packages” with definite energies corresponding to certain frequencies. A light quantum is called a photon. When Arthur Compton directed X-ray photons onto a metal surface in 1922, electrons were emancipated and the X-rays’ wavelength increased because some of the incident photon energy was transferred to the electrons. The experiment confirmed that electromagnetic radiation could also be described as photon particles following the laws of mechanics."
+!!! tip "1927 Physics Nobel Prize."
+	WORK: "According to Einstein’s photoelectric effect theory, light consists of quanta, “packages” with definite energies corresponding to certain frequencies. A light quantum is called a photon. When Arthur Compton (1892-1962) directed X-ray photons onto a metal surface in 1922, electrons were emancipated and the X-rays’ wavelength increased because some of the incident photon energy was transferred to the electrons. The experiment confirmed that electromagnetic radiation could also be described as photon particles following the laws of mechanics."
 
 	MLA style: Arthur H. Compton – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1927/compton/facts/>
 
