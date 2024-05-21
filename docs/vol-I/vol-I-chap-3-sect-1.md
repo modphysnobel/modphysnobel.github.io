@@ -7,7 +7,7 @@
 
 # 3. Detecting signals in the eye and creating maps in the brain.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 	*What can be seen with our eyes and located in our brains?*
 
 	This Chapter refers to the process of viewing that occurs when the tracks of bundles of light rays are concentrated in the human eye. We also consider the processes of creating mental maps for positioning and orientation.
