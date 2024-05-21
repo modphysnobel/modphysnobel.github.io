@@ -4,7 +4,7 @@
 
 # 1.   Dictatorial and democratic conceptualizations of spaces.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 	*What are the main characteristics of dictatorial or democratic conceptualizations?*
 	
 	We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
@@ -229,14 +229,14 @@ As an example of diametral approaches for interpreting mathematical concepts and
 
 !!! example "A geometrical example."
 	The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.3). The main steps to be followed are now described.
-
+  
   **STEP 1**
 
-	- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
+  - Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
 
-	- Draw a circumference of radio $R$ with center in $O$.
+  - Draw a circumference of radio $R$ with center in $O$.
 
-	- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
+  - Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
 
 	<p align="center">
 	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
