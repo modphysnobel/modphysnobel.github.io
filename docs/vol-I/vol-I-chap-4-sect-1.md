@@ -7,7 +7,7 @@
 
 # 4. Geometrization of the description of motion.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What kind of space represents the physical properties of the universe?*
 
