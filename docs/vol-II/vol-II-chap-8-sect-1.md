@@ -7,7 +7,7 @@
 
 ## 8. Conservation and transformation of energy.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*Why a metal generates electrons when it is radiated with light and a LED emits light when electrons flow through it?*
   
