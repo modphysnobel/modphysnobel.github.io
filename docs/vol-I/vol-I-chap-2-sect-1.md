@@ -129,10 +129,10 @@ Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 â
 	</tr>
 	<tr>
 	<td style="text-align: center">
-  	a
+  	(a)
 	</td>
 	<td style="text-align: center">
-	b
+	(b)
 	</td>
 	</tr>
 	</table>
