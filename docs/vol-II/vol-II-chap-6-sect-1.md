@@ -7,7 +7,7 @@
 
 ## 6.   Spectroscopic studies of electronic levels.	
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What happens when an electron changes its energy levels?* 
 
