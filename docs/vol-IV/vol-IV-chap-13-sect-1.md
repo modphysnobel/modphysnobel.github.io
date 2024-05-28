@@ -7,7 +7,7 @@
 
 ## 13. Development of knowledge in high energy physics.     
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What are the structures of the atomic nuclei and the elementary particles?*
 
