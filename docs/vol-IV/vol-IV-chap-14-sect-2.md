@@ -43,6 +43,8 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	- The works of Davis and Koshiba have led to a new field of research, neutrino astronomy, where the intensities of high energy neutrinos are estimated from  astrophysical sources such as neutron stars, pulsars, binary systems, active galactic nuclei, and supernovae, as well as blazars (objects which emit energy across the entire electromagnetic spectrum, and are characterized by a variability which scales from long to short periods).
 
+!!! info ""
+
 	WORK (Giacconi): “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes”.
 
 !!! info "PHYSICS CONTENT (based on *Press release* and *Popular information.*)"
