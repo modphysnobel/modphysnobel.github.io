@@ -587,12 +587,16 @@ IV. A FEAST OF EXOPLANETS
 
 Here comes the transit
 
-	Change of perspectives
+Change of perspectives
 
-	Exoplanetary science begins
+Exoplanetary science begins
 	
-	V. PROSPECTS
+V. PROSPECTS
 
-	Acknowledgements
+Acknowledgements
+
+***
+
+[**Next: 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](./vol-IV-chap-15-sect-1.md)
 
 	
