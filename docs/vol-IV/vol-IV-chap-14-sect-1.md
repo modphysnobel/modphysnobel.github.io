@@ -7,7 +7,7 @@
 
 ## 14. Evolution of cosmology.
 
-!!! abstract "Introduction"
+!!! abstract "Introduction."
 
 	*What do we understand by cosmology?* 
 
