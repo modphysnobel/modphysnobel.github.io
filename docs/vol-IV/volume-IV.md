@@ -24,8 +24,8 @@ The chapters 13 and 14 are dedicated to Physics and deal with high energy physic
 The Chapters of this fourth Volume are the following:
 
 ## 13.    Development of knowledge in high energy physics.     
-### 13.1  [Steps in the development of Nuclear Physics.](./vol-IV-chap-13-sect-1.md)
-### 13.2  [Steps in the development of Particle Physics.](./vol-IV-chap-13-sect-2.md)
+### 13.1  [Steps in the development of high energy physics.](./vol-IV-chap-13-sect-1.md)
+### 13.2  [Timeline of the main developments in high energy physics.](./vol-IV-chap-13-sect-2.md)
 ### 13.3  [Levels of operation of the mechanism of knowing.](./vol-IV-chap-13-sect-3.md)
 
 Since the atoms were not considered as indivisible, the study of its nuclei became interesting and possible due to more advanced theoretical interpretations of matter and energy, as well as to the fact that the realization of experiments had the support of complex technological infrastructures and extensive systems of collaboration.  First, physicists and chemist studied radioactivity and discovered that atoms contained protons, neutrons and electrons. Then they start understanding and even provoking nuclear reactions resulting in new elements, isotopes, particles, strange entities called quarks, and great amounts of energy.
