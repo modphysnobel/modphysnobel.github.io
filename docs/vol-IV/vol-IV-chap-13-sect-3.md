@@ -87,4 +87,6 @@ The selected contributions of the Nobel laureates that have been considered in p
 - Kobayashi and Maskawa explain the asymmetry in the decay of kaons (1972).
 - Gross, Politzer and Wilczek develop Quantum ChromoDynamics (1973).
 	
-[**Appendices.**](./vol-IV-chap-13-sect-3.md)
+***
+
+[**Appendices.**](docs/vol-IV/Appendix 13.1.md)
