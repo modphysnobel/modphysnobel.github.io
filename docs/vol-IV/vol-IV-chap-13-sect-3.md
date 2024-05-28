@@ -95,3 +95,5 @@ J. Piaget and R. Garcia. (1988). Psychogenesis and the History of Science. Colum
 
 ***
 
+[**Appendices.**](./vol-IV-Appendix 13.1.md)
+
