@@ -86,7 +86,12 @@ The selected contributions of the Nobel laureates that have been considered in p
 - t'Hooft and Veltman explain the quantum structure of electroweak interaction (1970).
 - Kobayashi and Maskawa explain the asymmetry in the decay of kaons (1972).
 - Gross, Politzer and Wilczek develop Quantum ChromoDynamics (1973).
-	
+
+*** 
+
+## REFERENCES
+
+J. Piaget and R. Garcia. (1988). Psychogenesis and the History of Science. Columbia University Press.
+
 ***
 
-[**Appendices.**](docs/vol-IV/Appendix 13.1.md)
