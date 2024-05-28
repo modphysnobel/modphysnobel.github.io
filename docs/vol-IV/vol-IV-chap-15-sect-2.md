@@ -7,7 +7,7 @@
 
 ## 15.2. Role of statistical analysis in the formulation of models.
 
-In this Section we refer to the 1969 Prize in Economic Science as a recognition of the initial steps in econometry. We include excerpts from the *Award ceremony speech* presented by Professor Erik Lundberg of the Royal Academy of Sciences, and afterwards we present summaries and quotes related to the Prize Lectures given by Ragnar Frisch and by Jan Tinbergen.  The references are indicated in the MLA format.
+In this Section we refer to the 1969 Prize in Economic Science as a recognition of the initial steps in econometry. We include excerpts from the *Award ceremony speech* presented by Professor Erik Lundberg of the Royal Academy of Sciences, and afterwards we present summaries and quotes related to the Prize Lectures given by Ragnar Frisch and by Jan Tinbergen.
 
 !!! tip "Award ceremony speech." 
 
