@@ -96,7 +96,7 @@ In what follows, PNP means Physics Nobel Prize.
 
 	WORK (Hewish): “Stars and other astronomical objects emit not only visible light, but also radio waves. In 1967 Antony Hewish and Jocelyn Bell discovered a previously unknown source of radiation that emitted radio waves in the form of pulses at intervals that were extremely regular. It turned out that this type of astronomical object, which became known as pulsars, has a core consisting of an extremely compact star, a neutron star. Their discovery allowed scientists to prove these stars exist.”
 
-!!! "PHYSICS CONTENT (based on *Press release* and *Speed read: Radio Stars*)."
+!!! info "PHYSICS CONTENT (based on *Press release* and *Speed read: Radio Stars*)."
 
 	- Radio astronomy is the study of the universe made by detecting and analyzing radio waves emitted by stars and other cosmological objects. Those objects have been registered over distances thousands of millions of lightyears or more. All these happened many years ago, at the beginning of the universe. A light year is the distance that light travels during a year of 31,556 952 seconds at a speed of 299 792 458 m/s. Such distance is the product of velocity multiplied by time; it corresponds to 9.460 536 207 $ \times 10^{15}$ meters per second, nearly $10^{16}$ m/s.
 
