@@ -597,6 +597,6 @@ Acknowledgements
 
 ***
 
-[**Next: 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](./vol-IV-chap-15-sect-1.md)
+[**Appendices.**](./vol-IV-chap-14-apendix.md) 
 
 	
