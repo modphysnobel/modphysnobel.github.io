@@ -66,4 +66,4 @@ The explanations given by Kepler, Newton and Einstein are elements in a chain of
 
 ***
 
-[**Appendices.**](docs/vol-IV/Appendix 13.1.md) 
+[**Appendices.**](./vol-I-chap-3-apendix.md)
