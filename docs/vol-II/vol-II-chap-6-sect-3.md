@@ -27,7 +27,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
 
-	**Nobel Lecture:** *The structure of the atom* by Bohr. 
+	Nobel Lecture: *The structure of the atom*. 
 
 	- The general picture of the atom 
 	- Atomic stability and electrodynamic theory 
@@ -125,7 +125,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1955/lamb/facts/
 
-	Nobel Lecture: *Fine Structure of the Hydrogen Atom* by Lamb.
+	Nobel Lecture: *Fine Structure of the Hydrogen Atom*.
 
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
@@ -193,7 +193,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
 
-	Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
+	Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules*.
 
 	- Basic Maser principles
 	- Maser Clocks and Amplifiers
@@ -287,7 +287,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes///schawlow/facts/
 
-	Nobel Lecture: *Spectroscopy in a New Light* 
+	Nobel Lecture: *Spectroscopy in a New Light*. 
 
 	- Introduction
 	- Laser spectroscopy
