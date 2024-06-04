@@ -119,7 +119,7 @@ The contributions made by Ernst Ruska are now considered in two parts: (1) by in
 
 	MLA style: Ernst Ruska – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/ruska/facts/
 
-	NOBEL LECTURE: *The Development of the Electron Microscope and of Electron Microscopy* by E. Ruska.
+	Nobel Lecture: *The Development of the Electron Microscope and of Electron Microscopy*.
 
 	*A.	Parents’ house, family*
 
