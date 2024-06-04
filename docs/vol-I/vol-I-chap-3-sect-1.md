@@ -53,7 +53,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Allvar Gullstrand – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/>
  
-	NOBEL LECTURE: *How I Found the Mechanism of Intracapsular Accomodation.*
+	Nobel Lecture: *How I Found the Mechanism of Intracapsular Accomodation.*
  
 	MLA style: Allvar Gullstrand – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/>
 
@@ -77,7 +77,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Ragnar Granit – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/facts/>
  
-	NOBEL LECTURE: *The Development of Retinal Neurophysiology.*
+	Nobel Lecture: *The Development of Retinal Neurophysiology.*
  
 	MLA style: Ragnar Granit – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/>
 
@@ -105,7 +105,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Keffer Hartline – – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/>
  
-	NOBEL LECTURE: *Visual Receptors and Retinal Interaction.*
+	Nobel Lecture: *Visual Receptors and Retinal Interaction.*
  
 	MLA style: Keffer Hartline – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/>
 
@@ -130,7 +130,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: George Wald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/facts/>
  
-	NOBEL LECTURE: *The Molecular Basis of Visual Excitation.*
+	Nobel Lecture: *The Molecular Basis of Visual Excitation.*
  
 	MLA style: George Wald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/>
 
@@ -159,7 +159,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: David H. Hubel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/>
  
-	NOBEL LECTURE: *Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account.*
+	Nobel Lecture: *Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account.*
 
 	- INTRODUCTION
 	- HIERARCHY OF VISUAL CELLS
@@ -202,7 +202,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Torsten N. Wiesel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/facts/>
  
-	NOBEL LECTURE: *The postnatal development of the visual cortex and the influence of environment.*
+	Nobel Lecture: *The postnatal development of the visual cortex and the influence of environment.*
  
 	- INTRODUCTION
 	- MONOCULAR DEPRIVATION
