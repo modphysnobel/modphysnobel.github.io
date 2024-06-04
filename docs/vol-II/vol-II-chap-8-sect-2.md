@@ -166,50 +166,60 @@ In what follows we include three documents related to the 2014 Physics Nobel Pri
 “LED lamps are thus flexible light sources, already with several applications in the field of illumination – millions of different colours can be produced; the colours and intensity can be varied as needed. Colourful light panels, several hundred square metres in size, blink, change colours and patterns. And everything can be controlled by computers. The possibility to control the colour of light also implies that LED lamps can reproduce the alternations of natural light and follow our biological clock. Greenhouse-cultivation using artificial light is already a reality.”
 
 …..
+
+!!! tip "2014 Physics Nobel Prize"
+
+	(2) WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
+
+	MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
+
+	(3)	2014 PHYSICS NOBEL LECTURES
+
+	ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
+
+	1.	*INTRODUCTION*
+	2.	*LED RESEARCH IN THE EARLY DAYS*
+	3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
+		3.1. *Early attempts at development of GaN blue LED* <br>
+		3.2. *Reconsideration of growth technology* <br>
+	4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
+		4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
+		4.2. *Model for the growth mode*<br>
+	5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
+	6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
+	7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
+	8. *DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES*
+	9. *SUMMARY AND FUTURE EXPECTATIONS*
+
+	MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
 	
-(2)	WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
+	HIROSHI AMANO: *Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by LowEnergy Electron Beam Irradiation.*
 
-(3)	2014 PHYSICS NOBEL LECTURES
+	1.	*MOTIVATION FOR STARTING BLUE LED RESEARCH*
+	2.	*DIFFICULTY OF REALIZING HIGH-PERFORMANCE BLUE LEDs BASED ON GaN*
+	3.	*FUNDING SITUATION OF OUR LABORATORY IN THE MID-1980S AND THE DIFFICULTY OF GROWING GaN ON A SAPPHIRE SUBSTRATE*
+	4.	*LOW-TEMPERATURE DEPOSITED BUFFER LAYER*
+	5.	*REALIZATION OF p-TYPE GaN*
+	6.	*ATTEMPTS TO GROW InGaN*
+	7.	*CONTRIBUTION OF InGaN-BASED BLUE LEDs TO ENERGY SAVING*
 
-ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
+	MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/amano/lecture/
 
-1.	*INTRODUCTION*
-2.	*LED RESEARCH IN THE EARLY DAYS*
-3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
-	3.1. *Early attempts at development of GaN blue LED* <br>
-	3.2. *Reconsideration of growth technology* <br>
-4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
-	4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
-	4.2. *Model for the growth mode*<br>
-5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
-6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
-7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
-8. *DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES*
-9. *SUMMARY AND FUTURE EXPECTATIONS*
+	SHUJI NAKAMURA: *Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes.*
 
-HIROSHI AMANO: *Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by LowEnergy Electron Beam Irradiation.*
+	1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
+	2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
+	3.	*DEVELOPMENT OF GaN*
+	4.	*DEVELOPMENT OF InGaN* <br>
+		4.1	*InGaN based devices*<br>
+		4.2	*Material Properties of InGaN*
+	5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
+		5.1	*Luminous Efficacy* <br>
+		5.2	*Significant Milestones on the Journey to the White LED* <br>
+		5.3	*Contributions to the Efficient Blue LED*
+	6.	*FORWARD LOOKING*
 
-1.	*MOTIVATION FOR STARTING BLUE LED RESEARCH*
-2.	*DIFFICULTY OF REALIZING HIGH-PERFORMANCE BLUE LEDs BASED ON GaN*
-3.	*FUNDING SITUATION OF OUR LABORATORY IN THE MID-1980S AND THE DIFFICULTY OF GROWING GaN ON A SAPPHIRE SUBSTRATE*
-4.	*LOW-TEMPERATURE DEPOSITED BUFFER LAYER*
-5.	*REALIZATION OF p-TYPE GaN*
-6.	*ATTEMPTS TO GROW InGaN*
-7.	*CONTRIBUTION OF InGaN-BASED BLUE LEDs TO ENERGY SAVING*
-
-SHUJI NAKAMURA: *Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes.*
-
-1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
-2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
-3.	*DEVELOPMENT OF GaN*
-4.	*DEVELOPMENT OF InGaN* <br>
-	4.1	*InGaN based devices*<br>
-	4.2	*Material Properties of InGaN*
-5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
-	5.1	*Luminous Efficacy* <br>
-	5.2	*Significant Milestones on the Journey to the White LED* <br>
-	5.3	*Contributions to the Efficient Blue LED*
-6.	*FORWARD LOOKING*
+	MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
 ***
 
