@@ -174,11 +174,13 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 
 The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we include the document published in the web page of the Nobel Foundation under the title of WORK describing the work made by Perrin. Then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. The references of these documents are given at the end of the chapter in MLA format.
 	
-!!! tip "Jean Baptiste Perrin (1870-1942)."
+!!! tip "1926 Physics Nobel Prize."
 
-	WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
+	WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin (1870-1942) maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
 
-	Nobel Lecture: *Discontinuous Structure of Matter* by Perrin.
+	MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
+
+	Nobel Lecture: *Discontinuous Structure of Matter.* 
 
 	- Introduction
 	- **The Brownian movement**
@@ -189,7 +191,7 @@ The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) 
 	- Monomolecular films
 	- The discontinuous structure of the atom
 
-
+	MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
 
 In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
