@@ -90,11 +90,13 @@ According to the document Popular information, the detection of gravitational wa
 
 In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them.Furthermore, for each laureate we include the document called WORK describing his contributions.
 
-!!! tip "Rainer Weiss (1932)."
+!!! tip "2017 Physics Nobel Lecture. "
 
-	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Rainer Weiss has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
+	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Rainer Weiss (1932) has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
-	NOBEL LECTURE: *LIGO and Gravitational Waves I.*
+	MLA style: Rainer Weiss – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/weiss/facts/
+
+	Nobel Lecture: *LIGO and Gravitational Waves I.*
 	
 	…..
 
@@ -124,11 +126,15 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOTE: Weiss´ Lecture contains detailed descriptions of experimental contributions leading to the organization of the LIGO Project. These aspects will be considered in the activities reported in Table 10.1, Section 10.3. 
 
+	MLA style: Rainer Weiss – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. https://www.nobelprize.org/prizes/physics/2017/weiss/lecture/
+
 !!! tip "Barry C. Barish (1936)." 
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed to record gravitational waves. Barry Barish had a leading role in the project from 1994 and made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
-	NOBEL LECTURE: *LIGO and Gravitational Waves II.*
+	MLA style: Barry C. Barish – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/barish/facts/
+
+	Nobel Lecture: *LIGO and Gravitational Waves II.*
 
 	INTRODUCTION  <br>
 	THE LIGO LABORATORY <br>
@@ -167,11 +173,15 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOTE: Barish´s Lecture contains detailed descriptions of activities leading to the organization of the LIGO Project. These aspects will be considered in the activities reported in Table 10.2, Section 10.3.
 
-!!! tip "Kip S. Thorne (1940)."
+	MLA style: Barry C. Barish – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. https://www.nobelprize.org/prizes/physics/2017/barish/lecture/
 
-	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Kip Thorne has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
+!!! tip "2017 Physics Nobel Prize."
 
-	NOBEL LECTURE: *LIGO and Gravitational Waves III.*
+	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Kip Thorne (1940) has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
+
+	MLA style: Kip S. Thorne – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/thorne/facts/
+
+	Nobel Lecture: *LIGO and Gravitational Waves III.*
 
 	We just present some excerpts corresponding to the last subtitle. 
 
@@ -198,13 +208,15 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 		Exploring Black Holes and Geometrodynamics with Gravitational Waves<br>
 		Exploring the First One Second of our Universe’s Life
 
-	CONCLUSION
+	MLA style: Kip S. Thorne – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 4 Jun 2023. https://www.nobelprize.org/prizes/physics/2017/thorne/lecture/
+
+CONCLUSION
 	
-	“Four hundred years ago, Galileo built a small optical telescope and, pointing it at Jupiter, discovered Jupiter’s four largest moons; and pointing it at our moon, discovered the moon’s craters. This was the birth of electromagnetic astronomy.”
+“Four hundred years ago, Galileo built a small optical telescope and, pointing it at Jupiter, discovered Jupiter’s four largest moons; and pointing it at our moon, discovered the moon’s craters. This was the birth of electromagnetic astronomy.”
 
-	“Two years ago, LIGO scientists turned on their Advanced LIGO detector and, with the data-analysis help of VIRGO scientists, discovered the gravitational waves from two colliding black holes 1.3 billion light years from Earth.”
+“Two years ago, LIGO scientists turned on their Advanced LIGO detector and, with the data-analysis help of VIRGO scientists, discovered the gravitational waves from two colliding black holes 1.3 billion light years from Earth.”
 
-	“When we contemplate the enormous revolution in our understanding of the universe that has come from electromagnetic astronomy over the four centuries since Galileo, we are led to wonder what revolution will come from gravitational astronomy, and from its multi-messenger partnerships, over the coming four centuries.”
+“When we contemplate the enormous revolution in our understanding of the universe that has come from electromagnetic astronomy over the four centuries since Galileo, we are led to wonder what revolution will come from gravitational astronomy, and from its multi-messenger partnerships, over the coming four centuries.”
 
 ***
 
