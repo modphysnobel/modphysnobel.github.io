@@ -28,11 +28,17 @@ The crystallographic structure of graphene resembles that of graphite, determine
 - The material remains stable at room temperature and does not oxidize in contact with air.
 - The electric charge carriers in graphene monolayers behave as massless fermions, while in graphene double layers such charge carriers do manifest mass.”
 
-WORK (Geim and Novoselov): “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
+!!! tip "1986 Physics Nobel Prize."
 
-We deal with Geim´s Nobel Lecture *Random Walk to Graphen* in next section 11.3.
+    WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
 
-NOBEL LECTURE: *Graphene: Materials in the Flatlan* by K. Novoselov.
+    We deal with Geim´s Nobel Lecture *Random Walk to Graphen* in next section 11.3.
+
+    MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/binnig/facts/
+
+    Nobel Lecture: *Graphene: Materials in the Flatlan*.
+
+    MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
 
 *GRAPHENE AND ITS UNUSUAL PROPERTIES*
 
@@ -126,35 +132,48 @@ For more advanced explanations consult Scientific background: *Measuring and man
 
 Next, for each laureate we quote the section WORK and the title and subtitles of their lectures.
 
-WORK (Haroche): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
+!!! tip "2012 Physics Nobel Prize."
 
-NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary.* S. Haroche.
+    WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
 
-CONTROL OF SINGLE PARTICLES IN A QUANTUM WORLD<br>
-A PERSONAL ACCOUNT OF THE EARLY DAYS OF CAVITY QUANTUM ELECTRODYNAMICS<br>
-COUNTING PHOTONS WITHOUT DESTROYING THEM: A NEW PHOTON BOX AND CIRCULAR RYDBERG ATOMS<br>
-QUANTUM FEEDBACK<br>
-FIELD STATE RECONSTRUCTION<br>
-SCHRÖDINGER CAT STATES OF LIGHT AND DECOHERENCE STUDIES<br>
-QUANTUM INFORMATION IN CAVITY QED<br>
-PERSPECTIVES FOR THE WORK OF ENS<br>
-RELATION TO OTHER DOMAINS IN QUANTUM INFORMATION SCIENCE<br>
-ACKNOWLEDGMENTS
+    MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
 
-WORK (Wineland): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
+    Nobel Lecture: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary.*
 
-NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by D. J. Wineland.
+    MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
 
-I. INTRODUCTION<br>
-II. SOME EARLY STEPS TOWARDS QUANTUM CONTROL<br>
-III. CONTROLLING THE QUANTUM LEVELS OF INDIVIDUAL TRAPPED IONS<br>
-IV. MANIPULATING ION MOTION AT THE QUANTUM LEVEL<br>
-V. SCHRÖDINGER’S CAT<br>
-VI. ENTER QUANTUM INFORMATION<br>
-A. Quantum simulation<br>
-B. Spectroscopy and quantum metrology<br>
-VII. SUMMARY<br>
-VIII. ACKNOWLEDGEMENTS
+    CONTROL OF SINGLE PARTICLES IN A QUANTUM WORLD<br>
+    A PERSONAL ACCOUNT OF THE EARLY DAYS OF CAVITY QUANTUM ELECTRODYNAMICS<br>
+    COUNTING PHOTONS WITHOUT DESTROYING THEM: A NEW PHOTON BOX AND CIRCULAR RYDBERG ATOMS<br>
+    QUANTUM FEEDBACK<br>
+    FIELD STATE RECONSTRUCTION<br>
+    SCHRÖDINGER CAT STATES OF LIGHT AND DECOHERENCE STUDIES<br>
+    QUANTUM INFORMATION IN CAVITY QED<br>
+    PERSPECTIVES FOR THE WORK OF ENS<br>
+    RELATION TO OTHER DOMAINS IN QUANTUM INFORMATION SCIENCE<br>
+    ACKNOWLEDGMENTS
+
+
+!!! tip "2012 Physics Nobel Prize."
+
+    WORK (Wineland): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
+
+    MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/wineland/facts/
+
+    Nobel Lecture: *Superposition, Entanglement, and Raising Schrödinger’s Cat*.
+
+    I. INTRODUCTION<br>
+    II. SOME EARLY STEPS TOWARDS QUANTUM CONTROL<br>
+    III. CONTROLLING THE QUANTUM LEVELS OF INDIVIDUAL TRAPPED IONS<br>
+    IV. MANIPULATING ION MOTION AT THE QUANTUM LEVEL<br>
+    V. SCHRÖDINGER’S CAT<br>
+    VI. ENTER QUANTUM INFORMATION<br>
+    A. Quantum simulation<br>
+    B. Spectroscopy and quantum metrology<br>
+    VII. SUMMARY<br>
+    VIII. ACKNOWLEDGEMENTS
+
+    MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/
 
 
 ***
