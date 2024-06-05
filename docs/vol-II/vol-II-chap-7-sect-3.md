@@ -71,7 +71,7 @@ Next we describe Langevin´s procedure to obtain Einstein´s equation by followi
 
 In what follows we first define each TADIR component of the problem solving procedure and then describe the corresponding steps proposed by Langevin to obtain Einstein´s equation.
 
-**TRANSLATION** 
+**TRANSLATION.** 
 
 Langevin describes the physical variables that intervene in the equation of motion of the Brownian particle and explains its interactions with the environment in terms of two forces: a force (F) which is the consequence of aleatory collisions produced on the Brownian particle by the very small molecules of the surrounding medium and the friction force (f) characterized by its viscosity (η) that experiments the Brownian particle during their displacements.
 
@@ -103,7 +103,7 @@ By substituting the previous equation into the equation of motion (2), we found 
 
 (6) $\frac{m}{2}\frac{d^2(x^2)}{dt^2}-m(\frac{dx}{dt})^2=xF_x-6πηa\frac{1}{2}\frac{d(x^2)}{dt}$
 
-**ANALYSIS**  
+**ANALYSIS.**  
 
 Langevin's derivation starts from the energy equipartition theorem, which establishes that the average kinetic energy of the Brownian particle is $ε = ½k_BT$ for each degree of freedom; therefore $E = 3ε$. At this point, Langevin considers the problem in one dimension and makes the assumption that the displacement in the ($x$) direction is not correlated with the force ($F_x$) in that direction.
 
@@ -135,7 +135,7 @@ Therefore, $m〈(\frac{dx}{dt})^2〉=\frac{1}{3}m〈v^2〉=\frac{2}{3}\frac{m〈
 
 (12) $m〈(\frac{dx}{dt})^2〉=\frac{2}{3}\frac{m〈v^2〉}{2}=kT$
 
-**DESIGN**
+**DESIGN.**
 
 To integrate the equation of motion of the Brownian particle, Langevin makes a change of variables, applies initial conditions with values that are consistent with the conditions of the experiment, and expresses the equation of motion in terms of finite increments.
 
@@ -177,7 +177,7 @@ Last equation can be expressed as
 
 (20) $Δ〈x^2〉=\frac{kT}{3πηa}Δt$
 
-**IMPLEMENTATION**
+**IMPLEMENTATION.**
 
 Since Brownian motion is similar to the diffusion of molecules in a gas, both statistical processes can be treated according to the random walk model. Langevin considers first a one-dimensional model of the random work and describes it as a linear time dependence of the root mean square deviation of the particle.
 
@@ -219,7 +219,7 @@ Using separation of variables and integrating both sides we get,
 
 This corresponds exactly to the equation obtained by Einstein $(λ_x)^2 = 〈ΔX^2〉 = bt$, where the slope of the straight-line was $b = (k_BT)/(3πηa)$. The graphical interpretation of this equation was already presented in Figure 7.1.
 
-**REVIEW**
+**REVIEW.**
 
 STEP 8. To consider possible extensions or modifications to the initial statement of the problem and to re-examine the complete procedure.
 
