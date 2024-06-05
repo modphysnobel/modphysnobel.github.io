@@ -5,14 +5,15 @@
 ## 1.   Dictatorial and democratic conceptualizations of spaces.
 
 !!! abstract "Introduction."
-	*What are the main characteristics of dictatorial or democratic conceptualizations?*
-  
+
+  *What are the main characteristics of dictatorial or democratic conceptualizations?*
+    
   We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
-  
+    
   **Learning objectives of Chapter 1.**
-  
+    
   After this Chapter you should be able to: 
-  
+    
   - Describe some ancient Greece contributions in mathematics and science in terms of democratic and dictatorial conceptualizations of space.
   - Explain the Nobel Prizes awarded to Wolfgang Pauli and Max Born for their development of quantum statistics.
   - Identify Archimedes steps followed by him to solve the golden crown problem presented by King Heron.
@@ -228,6 +229,7 @@ Mathematics is a language for explaining nature, a way of thinking for doing sci
 As an example of diametral approaches for interpreting mathematical concepts and procedures let us consider two possibilities for explaining the meaning of the equation of a circumference: (1) in a *dictatorial* approach all the distances between the center and any point in the curve must be a constant, and (2) in a *democratic* approach all the points in a circumference are at equal distances to the center. Dictatorial approaches are repulsive, restrictive, centrifugal and go from the center to the periphery. Democratic approaches are attractive, liberating, centripetal and go from the periphery to the center.  
 
 !!! example "A geometrical example."
+  
   The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$ (Figure 1.3). The main steps to be followed are now described.
 
   **STEP 1**
@@ -237,8 +239,8 @@ As an example of diametral approaches for interpreting mathematical concepts and
   - Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
 
   <p align="center">
-	![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
-	</p>
+  ![Fig8](./figs/Vol-I-chap-1-sect-1-Fig8.PNG){width="300"}
+  </p>
 
   <center>
   (Image credit: drawings made by the authors.)
@@ -251,8 +253,8 @@ As an example of diametral approaches for interpreting mathematical concepts and
   - Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
 
   <p align="center">
-	![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="300"}
-	</p>
+  ![Fig9](./figs/Vol-I-chap-1-sect-1-Fig9.PNG){width="300"}
+  </p>
 
   <center>
   (Image credit: drawings made by the authors.)
