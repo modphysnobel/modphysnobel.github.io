@@ -26,7 +26,7 @@ The knowledge obtained from analyzing the information described previously in Se
 <table width="100%">
     <tr>
         <th colspan="3" style="text-align: center">
-    Table 2.1. Basic properties of the electron
+    Table 2.1. Basic properties of the electron.
         </th>
     </tr>
   <tr>
