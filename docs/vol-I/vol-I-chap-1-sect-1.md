@@ -2,7 +2,7 @@
 
 ***
 
-# 1.   Dictatorial and democratic conceptualizations of spaces.
+## 1.   Dictatorial and democratic conceptualizations of spaces.
 
 !!! abstract "Introduction."
 	*What are the main characteristics of dictatorial or democratic conceptualizations?*
