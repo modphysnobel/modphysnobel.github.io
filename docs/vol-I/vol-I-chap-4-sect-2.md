@@ -15,7 +15,7 @@ Next, we include some excerpts from this Lecture. Subtitles do not come in the o
 
 MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Mar 2023. https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/
 
-**(1)	Aspects considered in the theory of relativity**
+**(1)	Aspects considered in the theory of relativity.**
 
 - "Physics problem: whether there are physically preferred states of motion in Nature?"
 
@@ -25,7 +25,7 @@ MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 ** NOTE: Stipulate: To specify as a requirement or condition for agreement.
 
-**(2)	The preferred states of motion**
+**(2)	The preferred states of motion.**
 
 - "States of motion are preferred when, relative to the formulation of the laws of Nature, coordinate systems are distinguished by their simplicity. In classical mechanics the states of motion of the inertial frames are physically preferred."
 
@@ -33,7 +33,7 @@ MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 - "In classical mechanics a distinction is made (absolutely) between unaccelerated and accelerated motions. Velocities have only a relative existence (dependent on the selection of the inertial frame), while accelerations and rotations have an absolute existence (independent of the selection of the inertial frame). This means that "velocity relativity" exists, but not "acceleration relativity"."
 
-**(3)	Formulation of the law of inertia in classical mechanics**
+**(3)	Formulation of the law of inertia in classical mechanics.**
 
 - "In an inertial frame the time is fixed and the state of motion to the system of coordinates is such that force-free material points undergo no acceleration. There is a lack of experimental criterion for whether a material point is force free."
 
@@ -41,7 +41,7 @@ MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 - "There are an infinite number of inertial frames which are in uniform translational motion relative to each other, and hence there is an infinite number of mutually equivalent, physically preferred states of motion."
 
-**(4)	Stipulation of meaning concerning motion**
+**(4)	Stipulation of meaning concerning motion.**
 
 - "Motion can only be conceived as the relative motion of bodies with respect to some system of coordinates."
 
@@ -51,7 +51,7 @@ MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 - "It is physically significant that Euclidean geometry is valid in classical mechanics as well as in the special theory of relativity, but it is not in the general theory of relativity."
 
-**(5)	The concept of rigid body**
+**(5)	The concept of rigid body.**
 
 - "It is logically unjustifiable to base all physical consideration on the rigid body and then finally reconstruct that body atomically by means of elementary physical laws which in turn have been determined by means of the rigid measuring body."
 
@@ -59,7 +59,7 @@ MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 NOTE: The concept of metric refers to the distance between two points. In Euclidean geometry this is represented as $ds^2= (dx^2 + dy^2 + dz^2)$. In the four dimensions of relativity the **space time metric** corresponds to $ds^2= (c dt)^2 - (dx^2 + dy^2 + dz^2)$.
 
-**(6)	Principles of the special theory of relativity**
+**(6)	Principles of the special theory of relativity.**
 
 - "Relativity principle: all inertial frames are equivalent for the formulation of the laws of Nature."
 
@@ -69,7 +69,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "To harmonize the relativity principle and the light principle, the assumptions that space and time are absolute do not apply."
 
-**(7)	 Measurements in the special theory of relativity**
+**(7)	 Measurements in the special theory of relativity.**
 
 - "The state of motion and the time of the inertial frame are defined, in accordance with the stipulation of meaning, by the requirement that the light principle should apply to it."
 
@@ -77,7 +77,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "Consequences: the time for each inertial frame is measured by identical clocks that are stationary relative to the frame, the object's length of a moving object is shorter than the length measured in the object's own rest frame, energy and inertial mass are of like nature."…
 
-**(8)	Preferred reference systems**
+**(8)	Preferred reference systems.**
 
 - "According to the theory of light only a single state of motion is preferred: the one that remains stationary with respect to the light ether. In classical mechanics and in the special theory of relativity only states of motion are preferred in inertial frames."
 
@@ -85,7 +85,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "A more general principle needs to be applied if in the formulation of the laws of Nature any arbitrarily moved frame of reference is equivalent to any other, meaning that there are not preferred states of motion at all in respect of regions of finite extension."
 
-**(9)	Equivalence principle in the general theory of relativity**
+**(9)	Equivalence principle in the general theory of relativity.**
 
 "General relativity principle: let K be an inertial frame without a gravitational field and K’ a system of coordinates accelerated uniformly relative to K. The behavior of material points relative to K’ is the same as if K’ were an inertial frame in respect of which a homogeneous gravitational field exists."
 
@@ -93,7 +93,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "The principle of equivalence means that gravitational attractions are of geometrodynamic nature:  the force of gravity is due to space-time deformations produced by strong concentration of matter. Physical interactions are explained in terms of geometrical properties."
 
-**(10)	The special theory as an approximation of the general theory**
+**(10)	The special theory as an approximation of the general theory.**
 
 - "For each infinitesimal point-environment in an arbitrary gravitational field a local frame of coordinates can be given such that no gravitational field exists; it is a local inertial frame. The results of the special relativity theory are correct to a first approximation for such infinitesimally small regions."
 
@@ -103,7 +103,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 ![Fig 1](./figs/Vol-I-chap-4-sect-3-Fig1.png){width="300"}
 </figure>
 
-**(11)	The gravitational field equations**
+**(11)	The gravitational field equations.**
 
 - "In Riemannian geometry two infinitely adjacent points are at a "distance" ds, the square of which is such that"
 
@@ -115,7 +115,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "In mathematical terms the search for the field equations amounts to ascertaining the simplest generally covariant differential equations to which the gravitational potentials $g_{µv}$ can be subjected. To complete the basis of the general theory of relativity, the field equations must incorporate the electromagnetic field as well as the structure of matter."
   
-**(12)	Problems with the law of inertia**
+**(12)	Problems with the law of inertia.**
 
 - "According to Newton theory the observable material bodies are responsible for the gravitational behaviour of a material point. However, the material cause for the inertial behaviour of the material point is not indicated but attributed to the absolute space or to the inertial ether."
   
@@ -123,7 +123,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "In the general relativity theory, the distinction between inertial and gravitational effects is eliminated when the gravitational potentials $g_{μν}$ are completely determined by the matter."
 
-**(13)	Affine correlations in Riemannian geometry**
+**(13)	Affine correlations in Riemannian geometry.**
 
 - "The characteristic assumption of Riemannian geometry is the attribution to two infinitely adjacent points of a "distance" ds."
 
@@ -131,7 +131,7 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "The most important concept of Riemannian geometry, "space curvature", on which the gravitational equations are also based, is based exclusively on the "affine correlation"."
 
-**(14)	Further developments**
+**(14)	Further developments.**
 
 - "By seeking the simplest differential equations which can be obeyed by an affine correlation there is reason to hope that a generalization of the gravitation equations will be found which includes the laws of the electromagnetic field."
 
