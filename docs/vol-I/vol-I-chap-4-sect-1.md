@@ -135,4 +135,4 @@ In a new consideration of the first natural state of moving bodies, the equilibr
 
 ***
 
-[**Next: 4.2. Einstein´s theories of relativity**](./vol-I-chap-4-sect-2.md)
+[**Next: 4.2. Einstein´s theories of relativity.**](./vol-I-chap-4-sect-2.md)
