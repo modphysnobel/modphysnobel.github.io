@@ -73,5 +73,5 @@ In what follows, we quote the document WORK describing the main contributions of
 
 ***
 
-[**Next: 3.3.  Cognitive procedures for creating scientific knowledge**](./vol-I-chap-3-sect-3.md)
+[**Next: 3.3.  Cognitive procedures for creating scientific knowledge.**](./vol-I-chap-3-sect-3.md)
 
