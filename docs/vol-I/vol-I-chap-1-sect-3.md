@@ -82,6 +82,6 @@ The solution obtained by Archimedes can be summarized in terms of two processes:
  
 ***
 
-[**Next: 2.1 Production and control of electronic motions.**](./vol-I-chap-2-sect-1.md)
+[**Next: 2.1 Regions for doing experiments.**](./vol-I-chap-2-sect-1.md)
 
 
