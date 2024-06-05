@@ -69,8 +69,8 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 	MLA style: Horst L. Störmer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/stormer/lecture/
 
 	Nobel Lecture: *Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields*.
-	PROLOGUE
-
+	
+	PROLOGUE<br>
 	TWO-DIMENSIONAL MAGNETO-TRANSPORT<br>
 	QUANTUM PHASE TRANSITIONS IN IQHE<br>
 	THE FQHE<br>
