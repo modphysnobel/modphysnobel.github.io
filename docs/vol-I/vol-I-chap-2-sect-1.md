@@ -13,6 +13,8 @@
 
 	This Chapter deals with the principal characteristics of electronic motions under different experimental conditions; it concerns their production, detection, representation, and interpretations.
 
+	**Learning objectives of Chapter 2.**
+
 	After this Chapter you should be able to: 
 
 	* Explain what happens on different interaction regions in experiments realized for the  determination of electronic properties at the beginning of last century.
