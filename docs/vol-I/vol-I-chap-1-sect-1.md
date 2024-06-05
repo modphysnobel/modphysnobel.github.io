@@ -106,7 +106,7 @@ Principal social and cultural events as well as relevant contributions to mathem
 <table width="100%">
     <tr>
         <th colspan="2" style="text-align: center"> 
-    Table 1.1. Timeline of ancient Greece 
+    Table 1.1. Timeline of ancient Greece. 
         </th>
     </tr>
   <tr>
@@ -120,7 +120,7 @@ AND PHYSICS
   </tr>
   <tr>
         <th colspan="2" style="text-align: center">
-		1.	The rise of Greece (1000 – 480)
+		1.	The rise of Greece (1000 – 480).
 		</th>
     </tr>
   <tr>
@@ -140,7 +140,7 @@ AND PHYSICS
     </td>
     </tr>
     <tr>
-        <th colspan="2" style="text-align: center">2.	The Golden age (480 – 400)</th>
+        <th colspan="2" style="text-align: center">2.	The Golden age (480 – 400).</th>
     </tr>
   <tr>
     <td>
@@ -156,7 +156,7 @@ AND PHYSICS
     </td>
   </tr>
     <tr>
-        <th colspan="2" style="text-align: center">3.	 The decline and fall of Greek freedom and the helenistic dispersion (400 – 146)</th>
+        <th colspan="2" style="text-align: center">3.	 The decline and fall of Greek freedom and the helenistic dispersion (400 – 146).</th>
     </tr>
   <tr>
     <td>
@@ -176,7 +176,7 @@ AND PHYSICS
   </tr>
 </table>
 
-### Archimedes
+### Archimedes.
 
 The most outstanding scientist in ancient Greece is without any doubt Archimedes. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city.  His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid. 
 
