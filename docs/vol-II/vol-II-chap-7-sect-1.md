@@ -264,7 +264,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
 	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
 
-!!! quote "Box 7.3. Issues requiring explaining models in Perrin´s Lecture (2)"
+!!! quote "Box 7.3. Issues requiring explaining models in Perrin´s Lecture (2)."
 
 	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
 	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
