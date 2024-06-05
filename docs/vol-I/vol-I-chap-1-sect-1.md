@@ -9,7 +9,9 @@
 	
 	We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
 
-	After this Chapter you should be able to: 
+	**Learning objectives of Chapter 1.**
+  
+  After this Chapter you should be able to: 
 	
 	- Describe some ancient Greece contributions in mathematics and science in terms of democratic and dictatorial conceptualizations of space.
 	
