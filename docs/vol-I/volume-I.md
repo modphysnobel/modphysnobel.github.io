@@ -44,7 +44,7 @@ Although motion usually refers to changes in time of certain properties of physi
 
 At the beginning of past century few critical experiments were dedicated to the observation and interpretation of electronic motions. Their purpose was to determine some of the properties of this elementary particle and their forms of interaction. The realization of such experiments were recognized with Physics Nobel Prizes to J.J. Thomson, R. A. Millikan , J. Franck, G. L. Hertz, and A.H. Compton. These experiments are described and analyzed in terms of three regions: preparation, transformation and detection and measurement. These regions are the scenarios where knowledge domains (Factual, Analytic, Conceptual and Operational) are applied for understanding how and when electrons move.	
 
-## 3. Detecting signals in the eye and creating maps in the brain</strong>
+## 3. Detecting signals in the eye and creating maps in the brain.</strong>
 
 ### 3.1  [Understanding the mechanisms of vision](./vol-I-chap-3-sect-1.md).
 
@@ -54,7 +54,7 @@ At the beginning of past century few critical experiments were dedicated to the 
 
 Detection of motion by humans is very complicated; however, in here we just refer to the detection of signals by the eye, which involves a mechanism of vision, and the production and use of maps in the brain, which implies the organization of a GPS created by a network of cerebral neuron cells. Different Nobel Prizes in Medicine were awarded to researchers in these fields: A. Gullstrand, R. Granit, K. Hartline, G. Wald, D. H. Hubel, T. N. Wiesel, J. O’Keefe, MB. Moser and E, Moser. The functions of such neural cells can be associated with the cognitive procedures required for creating scientific knowledge (Inquiring, Training, Comprehension, and Metacognition). These procedures serve to analyze the geometrical and physical explanations describing the movement of Mercury in its planetary orbit around the Sun.
          
-## 4. Geometrization of the description of motion.
+## 4. Geometrization of the description of motion.</strong>
 
 ### 4.1  [On Euclidean geometry and non-Euclidean geometries](./vol-I-chap-4-sect-1.md).
 
