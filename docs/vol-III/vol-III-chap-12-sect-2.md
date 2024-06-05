@@ -1,6 +1,6 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 12.1. Bose-Einstein condensation, superfluidity and superconductivity.*](./vol-III-chap-12-sect-1.md) 
+[**Previous: 12.1.Boson condensation.**](./vol-III-chap-12-sect-1.md) 
 
 ***
 
