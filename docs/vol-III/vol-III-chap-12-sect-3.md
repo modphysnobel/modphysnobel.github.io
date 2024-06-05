@@ -112,7 +112,7 @@ Einstein’s life began in Ulm, Germany on March 14, 1879, and ended in Princeto
 <table width="100%">
 <tr>
     <th colspan="3" style="text-align: center">
-Table 12.2. Publications during the “Annus mirabillis” of 1905
+Table 12.2. Publications during the “Annus mirabillis” of 1905.
     </th>
 </tr>
 <tr>
