@@ -33,7 +33,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Koshiba): “Certain nuclear reactions, including those where hydrogen atoms combine with helium, form elusive particles called neutrinos. By proving the existence of neutrinos in cosmic radiation, Raymond Davis showed that the sun's energy originates from such nuclear reactions. From 1980, Masatoshi Koshiba provided further proof of this through measurements taken inside an enormous water tank within a mine. In rare cases, neutrinos react with atomic nuclei in water, creating an electron and thus a flash of light that can be detected.”
 
-!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*.)"
+!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)".
 
 	- A radioactive beta decay is a three-body process in which an atomic nucleus emits an electron and another subatomic particle which is created in the interaction process. In a beta decay of a neutron it is transformed into a proton by the emission of an electron accompanied by an antineutrino. Conversely, a proton is converted into a neutron by the emission of a positron with a neutrino in the so-called positron emission. These transformations between neutrons and protons corresponds to exchanges of the quantum bosons of the weak force carriers: the particles named as $W^+$, $W^-$ and $Z^0$.  
 
@@ -47,7 +47,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Giacconi): “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes”.
 
-!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information.*)"
+!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)."
 
 	- As X-ray radiation is almost entirely absorbed by the air in the Earth’s thick atmosphere it was not until the 1940s that rockets had been developed to transport detection and measurement instruments. In 1959 Riccardo Giacconi formed a group for carrying out rocket experiments to try to prove the presence of X-ray radiation from the universe. 
 
@@ -61,7 +61,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (McDonald): “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In an experimental facility in a mine in Canada in 2000, Arthur McDonald studied neutrinos created in nuclear reactions in the sun. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
 
-!!! info "PHYSICS CONTENT (based on *Press release, Popular information* and *Advanced information.*)"
+!!! info "PHYSICS CONTENT (based on *Press release, Popular information* and *Advanced information*)."
 
 	- In 1930 Wolfgang Pauli proposed the existence of an extra particle to satisfy the conservation of energy in the beta disintegration of a neutron into a proton and an electron. Later, such extra particle was named neutrino by Fermi.
 
@@ -83,7 +83,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Penzias and Wilson): “Radiation falls toward the earth from outer space. This cosmic radiation initially appeared to become weaker as wavelengths of the radiation became shorter. However, when Arno Penzias and Robert Wilson studied cosmic radiation in 1964, they discovered that microwaves with a wavelength of about 7 centimeters were stronger than expected. At first they thought that the results were caused by distortions or faults in the measurements, but that was not the case. This cosmic background radiation probably is a remnant of the Big Bang when the universe was created.”
 
-!!! info "PHYSICS CONTENT (based on *Speed read* and *Press release*.)"
+!!! info "PHYSICS CONTENT (based on *Speed read* and *Press release*)."
 
 	- In the 1940s there have been attempts for explaining how and when the synthesis of chemical elements was accomplished. Ralph Alpher, Hans Bethe and George Gamow published a paper untitled *The Origin of Chemical Elements*. Also, Robert Dicke did search for evidence to support the theory that the universe was created from a single, highly explosive moment: the Big Bang.  He predicted that such event should leave a faint, cold afterglow that could be detected, as a reminder of the moment, 15 billion years ago, when the hot and rapidly expanding universe began to cool down. 
 
@@ -97,7 +97,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Smoot): “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. George Smoot led a project that in 1992 was able to point out small variations in radiation in different directions. This provides a clue to how stars and other heavenly bodies have come into existence. The variations can be explained by a kind of quantum mechanical fluctuations that have caused matter in certain places to form clumps that then have grown because of gravitation."
 
-!!! info "PHYSICS CONTENT (based on *Press release, Speed read* and *Popular Information*.)"
+!!! info "PHYSICS CONTENT (based on *Press release, Speed read* and *Popular Information*)."
 
 	- The first measurements of the cosmic microwave background radiation were made from high mountain summits, rocket probes and balloons. However, as the Earth’s atmosphere absorbs much of these radiations, the measurements need to be carried out at great altitude; furthermore, earthbound instruments cannot easily investigate all directions of the Universe. To overcome these obstacles, in 1974 the US National Aeronautics and Space Administration (NASA) issued an invitation to submit proposals for new space-based experiments oriented to investigate the blackbody spectrum of the microwave background radiation.
 
@@ -113,7 +113,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Perlmutter, Schmidt, and Riess): “The universe’s stars and galaxies are moving away from one another; the universe is expanding. Up until recently, the majority of astrophysicists believed that this expansion would eventually wane, due to the effect of opposing gravitational forces. Saul Perlmutter, Brian Schmidt, and Adam Riess studied exploding stars, called supernovae. Because the light emitted by stars appears weaker from a larger distance and takes on a reddish hue as it moves further from the observer, the researchers were able to determine how the supernovae moved. In 1998 they reached a surprising result: the universe is expanding at an ever-increasing rate.”
 
-!!! info "PHYSICS CONTENT (based on *Presse release* and *Popular information*.)"
+!!! info "PHYSICS CONTENT (based on *Presse release* and *Popular information*)."
 
 	For almost a century, the Universe has been known to be expanding because of the great explosion called Big Bang, about 13.8 $\times 10^9$ years ago. 
 
@@ -139,7 +139,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Peebles): “Fundamental questions about the universe’s structure and history have always fascinated human beings. James Peebles’ theoretical framework, developed since the mid-1960s, is the basis of our contemporary ideas about the universe. The cosmic background radiation is a remaining trace of the formation of the universe. Using his theoretical tools and calculations, James Peebles was able to interpret these traces from the infancy of the universe and discover new physical processes. The results showed us a universe in which just five per cent of its content is known matter. The rest, 95 per cent, is unknown dark matter and dark energy.”
 
-!!! info "PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information*, and *Advanced Information*.)"
+!!! info "PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information*, and *Advanced Information*)."
 
 	- Since the mid-1960s James Peebles has contributed to the development of cosmology. He considered that the traces left by the Big Bang explosion at the beginning of the universe, the cosmic microwave background radiation, were essential in the formation of stars, galaxies, and galaxy clusters. He explained that the radiation’s temperature could provide information about the quantity of matter created at the Big Bang explosion. 
 
@@ -147,7 +147,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Mayor and Queloz): “Fundamental questions about the universe’s structure and history have always fascinated human beings. In 1995, Michel Mayor and Didier Queloz announced the first discovery of a planet outside our solar system, an exoplanet, orbiting a solar-type star in our home galaxy, the Milky Way. Using custom-made instruments, they were able to see planet 51 Pegasi b, in the Pegasus constellation. Since then over 4,000 exoplanets have been found in the Milky Way. Eventually, we may find an answer to the eternal question of whether other life is out there.”
 
-!!! info "PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information* and *Advanced Information*.)"
+!!! info "PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information* and *Advanced Information*)."
 
 	- In October 1995, Michel Mayor and Didier Queloz announced the first discovery of a planet outside our solar system, an exoplanet. They were able to see planet 51 Pegasi b which is 50 light years from the Earth. It is a gaseous ball comparable with the solar system’s biggest gas giant, Jupiter.
 
