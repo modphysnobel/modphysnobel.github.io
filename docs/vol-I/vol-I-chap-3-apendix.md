@@ -8,33 +8,33 @@
 
 ### *Spatial Cells in the Hippocampal Formation*.
 
-#### Accepted knowledge or questions under discussion in O´Keefe´s times.
+!!! bug "Accepted knowledge or questions under discussion in O´Keefe´s times."
 
-•	EC Tolman wrote in 1948 that: “We believe that in the course of learning, something like a field map of the environment gets established in the rat’s brain.”
+    •	EC Tolman wrote in 1948 that: “We believe that in the course of learning, something like a field map of the environment gets established in the rat’s brain.”
 
-•	Works by Brenda Milner in 1957 on a patient who had “extensive removal of both medial temporal lobes including the hippocampus as well as surrounding structures for the relief of severe temporal lobe epilepsy…. He not only failed to lay down new memories of his day-to-day experiences but was unable to recall ones previously stored. He suffered a profound episodic memory déficit”.
+    •	Works by Brenda Milner in 1957 on a patient who had “extensive removal of both medial temporal lobes including the hippocampus as well as surrounding structures for the relief of severe temporal lobe epilepsy…. He not only failed to lay down new memories of his day-to-day experiences but was unable to recall ones previously stored. He suffered a profound episodic memory déficit”.
 
-•	In order to test predictions of the cognitive map theory, in 1981 Richard Morris devised ”a simple but powerful spatial navigation task which required the animal to approach a location defined by distal environmental cues when started from any one of several different start positions thus forcing it to approach the goal from different directions on different trials.”
+    •	In order to test predictions of the cognitive map theory, in 1981 Richard Morris devised ”a simple but powerful spatial navigation task which required the animal to approach a location defined by distal environmental cues when started from any one of several different start positions thus forcing it to approach the goal from different directions on different trials.”
 
-•	In 2000 Eleanor Maguire and collaborators wrote a paper on Navigation-related structural change in the hippocampi of taxi drivers. “For having some clues about what kind of strategy London taxists used to apply, she explored if they were using either a cognitive map strategy or a route-finding one in which they followed a series of marked paths, a non-hippocampal strategy.”
+    •	In 2000 Eleanor Maguire and collaborators wrote a paper on Navigation-related structural change in the hippocampi of taxi drivers. “For having some clues about what kind of strategy London taxists used to apply, she explored if they were using either a cognitive map strategy or a route-finding one in which they followed a series of marked paths, a non-hippocampal strategy.”
 
-•	In 2013 Yartsev and Ulanovsky reported on Representation of three-dimensional space in the hippocampus of flying bats. 
+    •	In 2013 Yartsev and Ulanovsky reported on Representation of three-dimensional space in the hippocampus of flying bats. 
 
-#### O´Keefe´s contributions or explanations.
+!!! quote "O´Keefe´s contributions or explanations."
 
-•	“In the late 1960s, I had been recording somatosensory cells in the thalamus of the rat using our newly developed techniques for recording from single units in freely moving animals and on one occasion had inadvertently positioned electrodes more laterally in the hippocampus. There I found a cell… which clearly was activated by some higher-order aspect of the animal’s movement such as speed of movement of the head… I moved more to the study of the hippocampus in an attempt to see what memories looked like at the single cell level.”
+    •	“In the late 1960s, I had been recording somatosensory cells in the thalamus of the rat using our newly developed techniques for recording from single units in freely moving animals and on one occasion had inadvertently positioned electrodes more laterally in the hippocampus. There I found a cell… which clearly was activated by some higher-order aspect of the animal’s movement such as speed of movement of the head… I moved more to the study of the hippocampus in an attempt to see what memories looked like at the single cell level.”
 
-•	In a paper published with Jonathan Dostrovsky in 1971 we wrote that “These findings suggest that the hippocampus provides the rest of the brain with a spatial reference map.” 
+    •	In a paper published with Jonathan Dostrovsky in 1971 we wrote that “These findings suggest that the hippocampus provides the rest of the brain with a spatial reference map.” 
 	
-•	“In a subsequent paper I wrote in 1971: Each place cell receives two different inputs, one conveying information about a large number of environmental stimuli or events, and the other from a navigational system which calculates where an animal is in an environment independently of the stimuli impinging on it at that moment”.
+    •	“In a subsequent paper I wrote in 1971: Each place cell receives two different inputs, one conveying information about a large number of environmental stimuli or events, and the other from a navigational system which calculates where an animal is in an environment independently of the stimuli impinging on it at that moment”.
 
-•	“In the book “Hippocampus as a Cognitive Map”, published by me and Lynn Nadel in 1978, we said that: The distance and direction vectors which connect the places in the map of an environment are derived from the animal’s movements in that environment”. … “We predicted the existence of hippocampal signals coding for direction, distance and speed of movement and showed how the known effects of hippocampal lesions could be explained by impaired place learning, navigation, and exploration.”
+    •	“In the book “Hippocampus as a Cognitive Map”, published by me and Lynn Nadel in 1978, we said that: The distance and direction vectors which connect the places in the map of an environment are derived from the animal’s movements in that environment”. … “We predicted the existence of hippocampal signals coding for direction, distance and speed of movement and showed how the known effects of hippocampal lesions could be explained by impaired place learning, navigation, and exploration.”
 
-•	In a paper published in 1996 O´Keefe reported about a type of vectorial representation created by the animal to indicate distances in certain directions as well as “to generate predictions about what will be experienced at particular locations forms the basis of learning in the cognitive map”
+    •	In a paper published in 1996 O´Keefe reported about a type of vectorial representation created by the animal to indicate distances in certain directions as well as “to generate predictions about what will be experienced at particular locations forms the basis of learning in the cognitive map”
 
-•	In a paper published in 1998 O’Keefe and collaborators reported that “place cell firing rate is modulated by the animal’s speed of running…. Subsequently a small number of pure speed cells have been found in the hippocampus itself.”
+    •	In a paper published in 1998 O’Keefe and collaborators reported that “place cell firing rate is modulated by the animal’s speed of running…. Subsequently a small number of pure speed cells have been found in the hippocampus itself.”
 
-•	“In papers published in 2009, 2012 and 2015 we described the spatial cells included in the hippocampal formation: place cells tell the animal where it is in a familiar environment, head direction cells tell which direction it is pointing in, boundary cells tell how close it is to a boundary in a particular direction, and grid cells provide the metric for measuring distances between points in the map.”
+    •	“In papers published in 2009, 2012 and 2015 we described the spatial cells included in the hippocampal formation: place cells tell the animal where it is in a familiar environment, head direction cells tell which direction it is pointing in, boundary cells tell how close it is to a boundary in a particular direction, and grid cells provide the metric for measuring distances between points in the map.”
 
 ## Appendix 2B.  Excerpts from May-Britt Moser Nobel Lecture.
 
