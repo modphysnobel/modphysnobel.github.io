@@ -233,4 +233,4 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 ***
 
- [**Next: 3.2. Generation of a mental Global Positioning System (GPS)**](./vol-I-chap-3-sect-2.md)
+ [**Next: 3.2. Generation of a mental Global Positioning System (GPS).**](./vol-I-chap-3-sect-2.md)
