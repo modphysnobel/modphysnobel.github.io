@@ -33,7 +33,7 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	WORK (Koshiba): “Certain nuclear reactions, including those where hydrogen atoms combine with helium, form elusive particles called neutrinos. By proving the existence of neutrinos in cosmic radiation, Raymond Davis showed that the sun's energy originates from such nuclear reactions. From 1980, Masatoshi Koshiba provided further proof of this through measurements taken inside an enormous water tank within a mine. In rare cases, neutrinos react with atomic nuclei in water, creating an electron and thus a flash of light that can be detected.”
 
-!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)".
+!!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)."
 
 	- A radioactive beta decay is a three-body process in which an atomic nucleus emits an electron and another subatomic particle which is created in the interaction process. In a beta decay of a neutron it is transformed into a proton by the emission of an electron accompanied by an antineutrino. Conversely, a proton is converted into a neutron by the emission of a positron with a neutrino in the so-called positron emission. These transformations between neutrons and protons corresponds to exchanges of the quantum bosons of the weak force carriers: the particles named as $W^+$, $W^-$ and $Z^0$.  
 
