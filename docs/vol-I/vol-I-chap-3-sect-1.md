@@ -20,7 +20,7 @@
 
 	• Identify the cognitive procedures (Inquiring, Training, Comprehension, and Metacognition) in the description of the perihelion precession of the planet Mercury. 
 
-!!! abstract "Description of content of Chapter 3"
+!!! abstract "Description of content of Chapter 3."
 
 	**Section 3.1. Understanding the mechanisms of vision.**
 	
@@ -186,11 +186,11 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	Links to other sites: A Nobel Partnership: Hubel & Wiesel <https://braintour.harvard.edu/archives/portfolio-items/hubel-and-wiesel>
 
-	**Hubel & Wiesel Come to Harvard**
+	**Hubel & Wiesel Come to Harvard.**
 
 	"Hubel and Wiesel recorded electrical activity from individual neurons in the brains of cats. They used a slide projector to show specific patterns to the cats and noted that specific patterns stimulated activity in specific parts of the brain.  Such single-neuron recordings were an innovation at the time, enabled by Hubel’s earlier invention of a special recording electrode.  They systematically created a map of the visual cortex with these experiments. The original film projector, light filters and slides, are held at the Warren Anatomical Museum at the Countway Library of Medicine."
 
-	**Plasticity & Critical Periods**
+	**Plasticity & Critical Periods.**
 
 	"Hubel and Wiesel demonstrated that some neurons were only responsive to information that came from a single eye, a phenomenon they referred to as “ocular dominance”. Intriguingly, neurons that are tuned to a particular eye cluster together in anatomical columns in the visual cortex of the brain. They called these “ocular dominance columns”. They also measured how distinct neurons respond to distinct visual features, such as the orientation of a line projected on a screen, or specific patterns of lines. These experiments were instrumental to our understanding of visual processing."
 
