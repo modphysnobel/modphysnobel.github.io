@@ -26,7 +26,7 @@ The Chapters of this second Volume are the following:
 
 Quantization of energy is one of the most important concepts in Modern Physics. It was revolutionarily introduced by Planck to solve a strong discrepancy between experimental values of the intensity of the black body radiation and two theoretical attempts to explain those results. The experimental values obtained by spectroscopists were compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies (Rayleigh – Jeans law). Although Planck introduced the hypothesis that energy is quantized, it was Einstein who generalized such assumption by conceiving that the quanta of electromagnetic radiation are photons of different frequencies. For those contributions, M. Planck and A. Einstein received a Physics Nobel Prize.
 
-## 6.	Spectroscopic studies of atomic structures.
+## 6.	Spectroscopic studies of electronic levels.
 
 ### 6.1	 [Electronic energy levels according to atomic models](vol-II-chap-6-sect-1.md).
 ### 6.2	 [Splitting of degenerated electronic energy levels in the hydrogen atom](vol-II-chap-6-sect-2.md).
