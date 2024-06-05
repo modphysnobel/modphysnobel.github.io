@@ -13,8 +13,6 @@
 
 	Three basic facts characterize quantization in condense matter: electrons and neutrons exhibit quantized wave like behaviors, photons are the quanta of electromagnetic radiations, and phonons are collective excitations representing quantized modes of vibration in lattices formed by atoms or molecules. 
 
-	**Learning objectives of Chapter 11:**
-
 	After this Chapter you should be able to:
 
 	- Describe the Physics Nobel Prizes awarded in 1915, 1986, 1944, and 1994 related to the use of microscopes and spectroscopes for the study of condensed matter.
