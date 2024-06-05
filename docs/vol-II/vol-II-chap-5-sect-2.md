@@ -43,7 +43,7 @@ Previous pattern of vibration does not change with time if the following conditi
 
 The conceptual and experimental discrepancy between continuous and discrete values of physical variables started in modern times when modern physics was born on December 14, 1900. That day Max Planck presented to the German Physical Society a work describing his hypothesis of the quantization of energy and introduced the constant $h = 6.63 \times 10^{-34}$ J.s, which is measured in units of action (energy per time) and which now bears his name. Below, we present in four stages an elementary analysis of Planck's revolutionary contribution to solve a critical problem: energy quantization in the black body radiation.
 
-<u>STAGE 1:</u> *Description in a common daily language of the basic notions and conceptual relationships required to interpret and solve a given problem. Main antecedents of the problem are described, and its difficulties are considered.*
+STAGE 1: *Description in a common daily language of the basic notions and conceptual relationships required to interpret and solve a given problem. Main antecedents of the problem are described, and its difficulties are considered.*
 
 A black body is a physical object that does not lose energy by reflection or transmission, only by emission; that is, it absorbs all the energy that falls on it. Since it does not reflect the incident light, it appears to the observer as something dark (black). Depending on the temperatures of the physical objects, they emit radiation visible to the human eye (the color of the object) or in other regions of the electromagnetic spectrum such as infrared when the object has been heated. 
 
@@ -72,7 +72,7 @@ In 1879 Josef Stefan (1835-1893) inferred from his observations that the rate at
 
 ***
 
-<u>STAGE 2:</u> *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
+STAGE 2: *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
 
 According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by Wilhelm Carl Werner Otto Fritz Franz Wien (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
 	
@@ -190,7 +190,7 @@ In the limit of $λ→0$ Planck's law leads to Wien's law when $exp(hc/(kTλ)) >
 
 ***
 
-<u>STAGE 3:</u> *Description in a formal language corresponding to the reasoning process that leads to the solution The use of diagrams, schemes and other iconic elements is proposed.* 
+STAGE 3: *Description in a formal language corresponding to the reasoning process that leads to the solution The use of diagrams, schemes and other iconic elements is proposed.* 
 
 The possible reasoning followed by Planck is described below:
 
@@ -208,7 +208,7 @@ The possible reasoning followed by Planck is described below:
 
 ***
 
-<u>STAGE 4:</u> Consideration of the changes introduced by Planck's solution according to what characterizes scientific revolutions (Kuhn, 1962):
+STAGE 4: Consideration of the changes introduced by Planck's solution according to what characterizes scientific revolutions (Kuhn, 1962):
 	
 (1)	*Changes in meanings of basic terms and the way words and phrases relate to nature.*
 
