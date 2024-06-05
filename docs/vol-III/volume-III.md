@@ -27,7 +27,7 @@ The Chapters of this third Volume are the following:
 The transmission of energy of the electromagnetic radiation is usually considered in terms of waves, however the interactions of photons on matter shows that the quanta of energy present a corpuscle like behavior as in the photoelectric effect. Then, in a sort of symmetrical relationship, the transport of electrons is usually considered in terms of corpuscles, however the interactions of electrons with matter shows a diffraction pattern that corresponds to a wave like behavior as in the diffraction of electrons. The formulation of this new quantum mechanics of material waves and quantized states required new principles: the correspondence principle proposed by N.H. Bohr and the uncertainty principle proposed by W.K. Heisenberg. Physics Nobel Prizes were awarded to L. Broglie in recognition for his work on the existence of matter waves and to C.J. Davisson, and G.P. Thomson for the experimental demonstration of the diffraction of electrons. W.K. Heisenberg received a Physics Nobel Prize for his contributions to the creation of quantum mechanics.
 
 ## 10.  Interferences of electromagnetic and gravitational waves.
-### 10.1  [Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
+### 10.1  [The Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
 ### 10.2  [Gravitational astronomy](vol-III-chap-10-sect-2.md).
 ### 10.3  [Organization and evaluation of learning communities](vol-III-chap-10-sect-3.md).
 
