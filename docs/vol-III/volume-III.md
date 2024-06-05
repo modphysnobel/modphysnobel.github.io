@@ -45,7 +45,7 @@ Single particles are not easily isolated in the quantum domain because they lose
 ## 12.  Bosons or fermions in condensed matter.
 ### 12.1 [Boson condensation](vol-III-chap-12-sect-1.md).
 ### 12.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
-### 12.3  [Schools for education and learning trajectories](vol-III-chap-12-sect-3.md).
+### 12.3  [Analysis of learning trajectories](vol-III-chap-12-sect-3.md).
 
 Phonons are quantized sound waves that correspond to collective excitations representing quantized modes of vibration in lattices formed by elastic arrangement of atoms or molecules in condensed matter. Several condensates can be formed by bosons like pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation. According to Ginzburg, “superconductivity is the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid”. Einstein predicted the phenomena of condensation in a paper published in July 1924; nevertheless, the phenomena was experimentally discovered till 1994 by Cornell, Wieman and Ketterle. In connection with this prediction, it is worthwhile considering how prescriptive learning and emergent learning were present in Einstein´s life.
 
