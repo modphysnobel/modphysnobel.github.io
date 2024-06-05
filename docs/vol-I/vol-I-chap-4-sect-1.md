@@ -5,7 +5,7 @@
 
 ***
 
-# 4. Geometrization of the description of motion.
+## 4. Geometrization of the description of motion.
 
 !!! abstract "Introduction."
 
