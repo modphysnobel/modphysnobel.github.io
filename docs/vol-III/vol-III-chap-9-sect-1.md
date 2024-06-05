@@ -21,7 +21,7 @@
 	- Analyze the content of the correspondence principle proposed by Bohr and the uncertainty principle proposed by Heisenberg.
 	- Explain the content of the Nobel Lectures by L. de Broglie, C. J. Davisson, G. P. Thomson, N. Bohr, and W. Heisenberg.
 
-!!! abstract "Description of content of Chapter 9:"
+!!! abstract "Description of content of Chapter 9."
 
 	**Section 9.1. From a theoretical proposition to an experimental demonstration.**
 
@@ -67,7 +67,7 @@ To have an idea of the order of magnitude of the wavelength assigned by de Brogl
 	<table width="100%">
 	<tr>
 	<th colspan="3" style="text-align: center">
-	Table 9.1. Values of de Broglie wavelengths
+	Table 9.1. Values of de Broglie wavelengths.
 	</th>
 	</tr>
 		<tr>
