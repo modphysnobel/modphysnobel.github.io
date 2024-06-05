@@ -19,7 +19,8 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 	2.	Two- Dimensional Electron Gas
 	3.	Quantum Transport of a 2DEG in Strong Magnetic Fields
 	4.	Experimental Data
-	5.	Application of the Quantum Hall Effect in Metrology<br>
+	5.	Application of the Quantum Hall Effect in Metrology
+	
 	Acknowledgements
 
 	MLA style: Klaus von Klitzing – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1985/klitzing/lecture/
