@@ -202,7 +202,7 @@ X
 <table width="100%">
     <tr>
     <th colspan="6" style="text-align: center">
-    Table 11.3. Dutch comfort
+    Table 11.3. Dutch comfort.
         </th>
      </tr>
      <tr>
