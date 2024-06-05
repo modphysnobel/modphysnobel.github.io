@@ -75,7 +75,7 @@ The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Ryd
 
 The manifest regularity of the values of the spectral lines that satisfied the Rydberg formula posed serious problems of theoretical interpretation in the first decades of the 20th century. New approaches were necessary regarding the atomic structure and the processes by which the spectral lines were produced. It is here where Niels Henrik David Bohr (1885-1962) makes his entrance.
 
-### Bohr's model
+### Bohr's model.
 
 In 1913 Niels Bohr considered Rutherford's atomic model as a starting point for his interpretation of atomic spectra. According to such model, the atom	 is electrostatically neutral but not indivisible; it is composed of a heavy positively charged nucleus, surrounded by negative electrical charges, the electrons. Bohr assumed that under stable conditions the electron does not emit radiation even when it circulates in closed orbits around the nucleus. He connected the frequencies of the spectral lines with transitions between different electronic states and proposed a frequency condition: the difference in the energies of the orbits from an initial electronic state ($E_i$) to a final state ($E_f$) should be proportional to the frequency $ν_{if}$ of the photon of the quantized radiation emitted or absorbed. This means that $E_f - E_i = hν_{if}$, where $h$ is Planck's constant.
 
