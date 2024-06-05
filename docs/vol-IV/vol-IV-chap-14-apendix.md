@@ -1,4 +1,10 @@
-Appendix 14.1. Analysis of the content of Peebles´ Nobel Lecture How Physical Cosmology Grew according to contextualization of learning.
+[**Volume IV: Universe**](./volume-IV.md)
+
+[**Previous: 14.3. Contextualization of learning about the universe.**](./vol-IV-chap-14-sect-3.md) 
+
+***
+
+## Appendix 14A. Analysis of the content of Peebles´ Nobel Lecture How Physical Cosmology Grew according to contextualization of learning.
 
 In Section 14.2 we described the application of contextualization of learning to Peebles´ Lecture, where the third component (the description of the answers to the generating questions) only contained the titles explaining the meaning of each paragraph and its corresponding number. However, in this Appendix 14.1 we make explicit the content of those paragraphs by including a series of quotes taken from the original Lecture. In some cases, we add a NOTE for explanatory purposes.
 
