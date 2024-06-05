@@ -40,7 +40,7 @@ STAGE 3: calculation of average energy.
 
 Calculating the average energy in an oscillator in one dimension involves solving the following integrals $〈E〉 = \frac{∫_{-∞}^∞ dv ∫_{-∞}^∞ dx(Ee^{-βE})}{∫_{-∞}^∞ dv ∫_{-∞}^∞dx(e^{-βE})}$ . We will leave aside the details of the calculation; we simply indicate the result $〈E〉 =  \frac{1}{β}=k_B T$.
 
-STG4: calculation of internal energy and specific heat.
+STAGE 4: calculation of internal energy and specific heat.
 
 From the definition $U= N_A〈E〉$ and the previous result $〈E〉 =k_B T$, it can be obtained that $U = N_Ak_B T = RT$ with $R = N_Ak_B$. If the three degrees of freedom are considered, $U = 3RT$, from where $C_V = (δU/δT)_V = 3R = 3 \times  (8.3143 J K^{-1} mol^{-1}) = 24.9429 J K^{-1}mol^{-1}$. This means that the specific heat at constant volume is the same for all materials.
 
