@@ -72,7 +72,7 @@ The solution obtained by Archimedes can be summarized in terms of two processes:
 
 ***
 
-## REFERENCES
+### REFERENCES
  
 1. BERNAL, J. D., Science in History. Cambridge, Massachusetts, MIT Press, (1954).
 2. DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simon and Schuster, (1966).
