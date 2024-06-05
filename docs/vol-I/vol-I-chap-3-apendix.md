@@ -4,7 +4,7 @@
 
 ***
 
-## Appendix 2A. Summary of John O’Keefe Nobel Lecture.
+## Appendix 3A. Summary of John O’Keefe Nobel Lecture.
 
 ### *Spatial Cells in the Hippocampal Formation*.
 
@@ -36,7 +36,7 @@
 
     •	“In papers published in 2009, 2012 and 2015 we described the spatial cells included in the hippocampal formation: place cells tell the animal where it is in a familiar environment, head direction cells tell which direction it is pointing in, boundary cells tell how close it is to a boundary in a particular direction, and grid cells provide the metric for measuring distances between points in the map.”
 
-## Appendix 2B.  Excerpts from May-Britt Moser Nobel Lecture.
+## Appendix 3B.  Excerpts from May-Britt Moser Nobel Lecture.
 
 ### *Grid Cells, Place Cells and Memory.*
 
@@ -97,7 +97,7 @@
 
 •	“In the final part of my talk I would like to ask how the brain uses hippocampal and entorhinal maps for navigation. For animals to get from one place to another, there must be mechanisms for reading out the information expressed in place cells and grid cells.” 
 
-## Appendix 2C. Excerpts from Edvard I. Moser Nobel Lecture.
+## Appendix 3C. Excerpts from Edvard I. Moser Nobel Lecture.
 
 ### *Grid Cells and the Enthorinal Map of Space.*
 
