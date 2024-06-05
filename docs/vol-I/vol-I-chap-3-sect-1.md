@@ -5,7 +5,7 @@
 
 ***
 
-# 3. Detecting signals in the eye and creating maps in the brain.
+## 3. Detecting signals in the eye and creating maps in the brain.
 
 !!! abstract "Introduction."
 	*What can be seen with our eyes and located in our brains?*
