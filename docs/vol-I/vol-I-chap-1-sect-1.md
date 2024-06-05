@@ -6,18 +6,16 @@
 
 !!! abstract "Introduction."
 	*What are the main characteristics of dictatorial or democratic conceptualizations?*
-	
-	We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
+  
+  We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
   
   **Learning objectives of Chapter 1.**
   
   After this Chapter you should be able to: 
-	
-	- Describe some ancient Greece contributions in mathematics and science in terms of democratic and dictatorial conceptualizations of space.
-	
-	- Explain the Nobel Prizes awarded to Wolfgang Pauli and Max Born for their development of quantum statistics.
-	
-	- Identify Archimedes steps followed by him to solve the golden crown problem presented by King Heron.
+  
+  - Describe some ancient Greece contributions in mathematics and science in terms of democratic and dictatorial conceptualizations of space.
+  - Explain the Nobel Prizes awarded to Wolfgang Pauli and Max Born for their development of quantum statistics.
+  - Identify Archimedes steps followed by him to solve the golden crown problem presented by King Heron.
 
 !!! abstract "Description of content of Chapter 1."
 	**Section 1.1. Mathematics and science in ancient Greece.**
