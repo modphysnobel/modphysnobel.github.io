@@ -13,6 +13,8 @@
 
 	In this chapter we consider those Physics Nobel laureates that have contributed to improve our understanding of cosmology: the study of the origin and evolution of the universe. It refers to existing objects and observed phenomena detected outside the Earth. It implies very high energies, successes that are very old and had occurred long time ago. Up to now, explanations of some phenomena are still unclear and incomplete.
 
+	**Learning objectives of Chapter 14.**
+
 	After this Chapter you should be able to: 
 
 	- Describe some Nobel laureate’s explanations of the structure and functioning of stars, pulsars, and black holes. 
