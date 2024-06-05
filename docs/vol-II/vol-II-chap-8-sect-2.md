@@ -167,7 +167,7 @@ In what follows we include three documents related to the 2014 Physics Nobel Pri
 
 …..
 
-!!! tip "2014 Physics Nobel Prize"
+!!! tip "2014 Physics Nobel Prize."
 
 	(2) WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
 
