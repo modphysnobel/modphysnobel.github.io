@@ -78,7 +78,7 @@
 
 ## Appendix 5B. Transcription of Planck´s Nobel Lecture.
 
-### **The Genesis and Present State of Development of the Quantum Theory.**
+### *The Genesis and Present State of Development of the Quantum Theory.*
 
 #### Description of relevant facts.
 
