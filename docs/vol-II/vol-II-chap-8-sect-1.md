@@ -21,7 +21,7 @@
 	- Analyze Einstein´s explanation of the photoelectric effect and describe the 2014 Physics Nobel Prize awarded for the invention of LEDs.
 	- Explain some conceptual developments and technological applications on energy connected with the four anthropological spaces related to the Earth, the Territory, the Merchandises and the Knowledge. 
 
-!!! abstract "Description of content of Chapter 8:"
+!!! abstract "Description of content of Chapter 8."
 
 	**Section 8.1. Conservation laws and the existence of symmetries.**
 
