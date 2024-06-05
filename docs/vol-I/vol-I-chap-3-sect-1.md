@@ -12,6 +12,8 @@
 
 	This Chapter refers to the process of viewing that occurs when the tracks of bundles of light rays are concentrated in the human eye. We also consider the processes of creating mental maps for positioning and orientation.
 
+	**Learning objectives of Chapter 3.**
+
 	After this Chapter you should be able to: 
 
 	• Describe the Nobel Prizes in Medicine awarded in 1911, 1967 and 1981 concerning visual systems and processes.
