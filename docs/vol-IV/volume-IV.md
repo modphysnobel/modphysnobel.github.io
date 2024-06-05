@@ -24,7 +24,7 @@ The chapters 13 and 14 are dedicated to Physics and deal with high energy physic
 The Chapters of this fourth Volume are the following:
 
 ## 13.    Development of knowledge in high energy physics.     
-### 13.1  [Steps in the development of high energy physics.](./vol-IV-chap-13-sect-1.md)
+### 13.1  [Steps in the development of Nuclear Physics.](./vol-IV-chap-13-sect-1.md)
 ### 13.2  [Timeline of the main developments in high energy physics.](./vol-IV-chap-13-sect-2.md)
 ### 13.3  [Levels of operation of the mechanism of knowing.](./vol-IV-chap-13-sect-3.md)
 
