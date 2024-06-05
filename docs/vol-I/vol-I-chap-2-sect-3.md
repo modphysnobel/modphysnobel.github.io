@@ -110,7 +110,7 @@ measuring three distances ($l$, $s$, and $d$) and two field intensities (E and B
 <table width="100%">
     <tr>
         <th colspan="3" style="text-align: center">
-    Table 2.2. Interacting electrons
+    Table 2.2. Interacting electrons.
         </th>
     </tr>
   <tr>
