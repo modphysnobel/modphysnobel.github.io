@@ -38,30 +38,31 @@ The crystallographic structure of graphene resembles that of graphite, determine
 
     Nobel Lecture: *Graphene: Materials in the Flatlan*.
 
+    *GRAPHENE AND ITS UNUSUAL PROPERTIES*
+
+    I. TWO-DIMENSIONAL CRYSTALS <br>
+    Stability of 2D crystals <br>
+    Graphene creation <br>
+    Other 2D crystals <br>
+    Out to Spaceland: 2D-based heterostructures
+
+    II. CHIRAL QUASIPARTICLES AND THE ELECTRONIC PROPERTIES OF GRAPHENE <br>
+    Linear dispersion relation and chirality <br>
+    The Klein paradox <br>
+    Half-integer quantum Hall effect <br>
+    Effect of mechanical deformation <br>
+    Graphene optics <br>
+    Bilayer graphene
+
+    III. GRAPHENE APPLICATIONS <br>
+    Graphene support <br>
+    Transparent conductive coating <br>
+    Graphene transistors <br>
+    Graphene composites <br>
+    Other applications
+
     MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
 
-*GRAPHENE AND ITS UNUSUAL PROPERTIES*
-
-I. TWO-DIMENSIONAL CRYSTALS <br>
-Stability of 2D crystals <br>
-Graphene creation <br>
-Other 2D crystals <br>
-Out to Spaceland: 2D-based heterostructures
-
-II. CHIRAL QUASIPARTICLES AND THE ELECTRONIC PROPERTIES OF GRAPHENE <br>
-Linear dispersion relation and chirality <br>
-The Klein paradox <br>
-Half-integer quantum Hall effect <br>
-Effect of mechanical deformation <br>
-Graphene optics <br>
-Bilayer graphene
-
-III. GRAPHENE APPLICATIONS <br>
-Graphene support <br>
-Transparent conductive coating <br>
-Graphene transistors <br>
-Graphene composites <br>
-Other applications
 
 ### Methods for individual control of photons and ions.
 
