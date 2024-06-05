@@ -23,8 +23,6 @@
 
 	In 2001 to Eric A. Cornell (1961), Wolfgang Ketterle (1957) and Carl E. Wieman (1951) “for the achievement of Bose-Einstein condensation in dilute gases of alkali atoms, and for early fundamental studies of the properties of the condensates”.
 
-	**Learning objectives of Chapter 12:**
-
 	After this Chapter you should be able to:
 
 	- Describe Physics Nobel Prize contributions for understanding boson condensation: superconductivity. superfluidity and Bose Einstein condensation.
