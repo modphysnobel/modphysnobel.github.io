@@ -5,7 +5,7 @@
 
 ***
 
-### APPENDIX 4.1. How the lever principle serves to justify that the postulate of the parallels is satisfied.
+## Appendix 4A. How the lever principle serves to justify that the postulate of the parallels is satisfied.
 
 In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
 
@@ -77,7 +77,7 @@ Since the above condition is satisfied because the lever is in equilibrium, we g
 
 The previous affirmation is identified with the fifth postulate of parallels, which indicates that the sum of the angles α = NED and β = CDE is two right angles, each of these angles being equal to 90° and that therefore $α + β = 180°$. This means that the static equilibrium in Lagrange's triangle is explained in terms of the lever principle, showing that the applicability of such a principle justifies Euclid's parallel postulate. Certainly, this implies that the lever principle is applicable only in flat spaces of zero curvature corresponding to Euclidean spaces.
 
-### APPENDIX 4.2. Connections of the lever principle with the natural states of motion as well as with conservation laws.
+## Appendix 4B. Connections of the lever principle with the natural states of motion as well as with conservation laws.
 
 **First natural state of bodies in motion**: the uniform translational motion of bodies on Earth.
 
