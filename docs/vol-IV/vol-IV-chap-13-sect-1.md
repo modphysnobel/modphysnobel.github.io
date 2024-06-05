@@ -12,6 +12,8 @@
 	*What are the structures of the atomic nuclei and the elementary particles?*
 
 	This is the first chapter dedicated to the Universe. We describe the levels of operation of the mechanisms of knowledge concerning high energy physics: nuclear physics and particle physics. Cosmology is considered in next Chapter 14.
+
+	**Learning objectives of Chapter 13.**
 	
 	After this Chapter you should be able to: 
 
