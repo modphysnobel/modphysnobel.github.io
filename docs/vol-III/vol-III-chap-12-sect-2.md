@@ -10,62 +10,74 @@ The Hall effect was discovered in 1879 by Edwin H. Hall (1855-1938). When an ele
 
 In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Klitzing “for the discovery of the quantized Hall effect” and to the 1998 Prize awarded to Robert B. Laughlin, Horst L. Störmer and Daniel C. Tsui “for their discovery of a new form of quantum fluid with fractionally charged excitations”. Next, we present the documents called WORK describing the main contributions made by the laureates and the title and subtitles of their Nobel Lectures. Afterwards, we present some information taken from the document *Press release. Electrons in New Guises* and insert some figures taken from the Nobel Lectures by von Klitzing and by Störmer. The appropriate references in MLA format are given at the end of the chapter.
 
-!!! tip ""
-	WORK (von Klitzing): “If an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. Known as the Hall effect, it comes about because the movement of the electrons is deflected by the magnetic field. In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. In this effect, changes in the magnetic field result in changes in what is known as Hall conductance that vary in steps of whole-number multiples of a constant.”
+!!! tip "1985 Physics Nobel Prize."
+	WORK: “If an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. Known as the Hall effect, it comes about because the movement of the electrons is deflected by the magnetic field. In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. In this effect, changes in the magnetic field result in changes in what is known as Hall conductance that vary in steps of whole-number multiples of a constant.”
 
-1985 PHYSIC NOBEL LECTURE: *The Quantized Hall Effect* by von Klitzing.
+	Nobel Lecture: *The Quantized Hall Effect*.
 
-1.	Introduction
-2.	Two- Dimensional Electron Gas
-3.	Quantum Transport of a 2DEG in Strong Magnetic Fields
-4.	Experimental Data
-5.	Application of the Quantum Hall Effect in Metrology<br>
-Acknowledgements
+	1.	Introduction
+	2.	Two- Dimensional Electron Gas
+	3.	Quantum Transport of a 2DEG in Strong Magnetic Fields
+	4.	Experimental Data
+	5.	Application of the Quantum Hall Effect in Metrology<br>
+	Acknowledgements
 
-!!! tip ""
-	WORK (Laughlin): “The Hall effect refers to the fact that if an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. In interfaces in certain materials a quantum Hall effect occurs. After Horst Störmer and Daniel Tsui discovered that changes in the magnetic field result in changes in Hall conductance that vary in steps that represent fractions of a constant, Robert Laughlin explained the phenomenon in 1983 with the formation of quasiparticles and a kind of quantum fluid.” 
+	MLA style: Klaus von Klitzing – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1985/klitzing/lecture/
 
-1998 PHYSIC NOBEL LECTURE: *Fractional Quantization* by R. Laughlin.
+!!! tip "1998 Physics Nobel Prize."
+	WORK: “The Hall effect refers to the fact that if an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. In interfaces in certain materials a quantum Hall effect occurs. After Horst Störmer and Daniel Tsui discovered that changes in the magnetic field result in changes in Hall conductance that vary in steps that represent fractions of a constant, Robert Laughlin explained the phenomenon in 1983 with the formation of quasiparticles and a kind of quantum fluid.” 
 
-SOLITONS<br>
-LOCALIZATION<br>
-FRACTIONAL QUANTUM HALL STATE<br>
-FRACTIONAL STATISTICS<br>
-REMARKS
+	MLA style: Robert B. Laughlin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/
 
-!!! tip ""
-	WORK (Störmer and Tsui): “Hall effect refers to the fact that if an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. In interfaces in certain materials a quantum Hall effect occurs. Klaus von Klitzing discovered that changes in the magnetic field result in changes in what is known as Hall conductance that vary in steps of whole-number multiples of a constant. Subsequently, Horst Störmer and Daniel Tsui discovered in 1982 that there also are steps that represent fractions of the constant.”
+	Nobel Lecture: *Fractional Quantization*.
 
-1998 PHYSIC NOBEL LECTURE: *The Fractional Quantum Hall Effect* by H. Störmer.
+	SOLITONS<br>
+	LOCALIZATION<br>
+	FRACTIONAL QUANTUM HALL STATE<br>
+	FRACTIONAL STATISTICS<br>
+	REMARKS
 
-INTRODUCTION<br>
-TWO-DIMENSIONAL ELECTRON SYSTEMS<br>
-MODULATION-DOPING<br>
-THE HALL EFFECT<br>
-THE INTEGRAL QUANTUM HALL EFFECT<br>
-THE FRACTIONAL QUANTUM HALL EFFECT<br>
-Discovery<br>
-Origin<br>
-Of Electrons and Flux Quanta<br>
-Composite Particles<br>
-Fermions and Bosons<br>
-Composite Particle Statistics<br>
-1/3 Fractional Quantum Hall State<br>
-The State at $v = ½$<br>
-All Those Other FQHE States<br>
-The Peculiar State at $v = 5/2$<br>
-CONCLUSIONS<br>
-EPILOGUE<br>
-BIBLIOGRAPHY
+	MLA style: Robert B. Laughlin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/laughlin/lecture/
 
-1998 PHYSIC NOBEL LECTURE: *Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields* by D.H. Tsui
-PROLOGUE
+!!! tip "1998 Physics Nobel Prize."
+	WORK: “Hall effect refers to the fact that if an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. In interfaces in certain materials a quantum Hall effect occurs. Klaus von Klitzing discovered that changes in the magnetic field result in changes in what is known as Hall conductance that vary in steps of whole-number multiples of a constant. Subsequently, Horst Störmer and Daniel Tsui discovered in 1982 that there also are steps that represent fractions of the constant.”
 
-TWO-DIMENSIONAL MAGNETO-TRANSPORT<br>
-QUANTUM PHASE TRANSITIONS IN IQHE<br>
-THE FQHE<br>
-THE MAGNETIC FIELD INDUCED CRYSTAL REGIME<br>
-ACKNOWLEDGEMENTS 
+	MLA style: Horst L. Störmer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/stormer/facts/
+
+	Nobel Lecture: *The Fractional Quantum Hall Effect*.
+
+	INTRODUCTION<br>
+	TWO-DIMENSIONAL ELECTRON SYSTEMS<br>
+	MODULATION-DOPING<br>
+	THE HALL EFFECT<br>
+	THE INTEGRAL QUANTUM HALL EFFECT<br>
+	THE FRACTIONAL QUANTUM HALL EFFECT<br>
+	Discovery<br>
+	Origin<br>
+	Of Electrons and Flux Quanta<br>
+	Composite Particles<br>
+	Fermions and Bosons<br>
+	Composite Particle Statistics<br>
+	1/3 Fractional Quantum Hall State<br>
+	The State at $v = ½$<br>
+	All Those Other FQHE States<br>
+	The Peculiar State at $v = 5/2$<br>
+	CONCLUSIONS<br>
+	EPILOGUE<br>
+	BIBLIOGRAPHY
+
+	MLA style: Horst L. Störmer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/stormer/lecture/
+
+	Nobel Lecture: *Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields*.
+	PROLOGUE
+
+	TWO-DIMENSIONAL MAGNETO-TRANSPORT<br>
+	QUANTUM PHASE TRANSITIONS IN IQHE<br>
+	THE FQHE<br>
+	THE MAGNETIC FIELD INDUCED CRYSTAL REGIME<br>
+	ACKNOWLEDGEMENTS 
+
+	MLA style: Daniel C. Tsui – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1998/tsui/lecture/
 
 In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. At very low temperatures the electrons moved as in two dimensions only, and changes in the magnetic field resulted in changes in the Hall conductance that does not vary in linear fashion, but “stepwise”. The quantized values of the Hall resistance $R_H$ were $(h/e2)/f$, where $h$ is Planck’s constant, $e$ is the elementary charge of the electron and $f$ (the filling factor) is an integer number. According to von Klitzing, the fact that normal Ohmic resistance disappeared was an indication that the material became a sort of a superconductor. Next Figures 12.8 and 12.9 come from his Nobel Lecture The Quantized Hall Effect.
 
