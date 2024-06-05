@@ -33,11 +33,11 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 
 !!! tip "Prize Lecture: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Ragnar Frisch."
 
-	**INTRODUCTION** 
+	**INTRODUCTION.** 
 
 	“In this essay on econometrics in its conception and its use in economic planning for the betterment of man’s fate, I will try to cover a very broad field.” ….
 
-	**1.	THE LURES OF UNSOLVABLE PROBLEMS**
+	**1.	THE LURES OF UNSOLVABLE PROBLEMS.**
 
 	“Deep in the human nature there is an almost irresistible tendency to concentrate physical and mental energy on attempts at solving problems that seem to be unsolvable.”
 	
@@ -45,7 +45,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	Description of the following problems: The mountain climber, The Alchemists, The alluring symmetry problem in particle physics, The population explosion in the world of elementary particles, Matter and antimatter, Travelling at a speed superior to that of light, The dream of Stanley Jevons (The English mathematician and economist Stanley Jevons (1835-1882) dreamed of the day when we would be able to quantify at least some of the laws and regularities of economics, and Struggle, sweat and tears.
 
-	**2.	A PHILOSOPHY OF CHAOS. THE EVOLUTION TOWARDS A MAMMOTH SINGULAR TRANSFORMATION**
+	**2.	A PHILOSOPHY OF CHAOS. THE EVOLUTION TOWARDS A MAMMOTH SINGULAR TRANSFORMATION.**
 
 	Definition of Philosophy in The Concise Oxford Dictionary: “love of wisdom or knowledge, especially that which deals with ultimate reality, or with the most general causes and principles of things”. 
 	
@@ -57,7 +57,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	“This search for regularities may well be thought of as the essence of what we traditionally mean by the word “understanding”. This “understanding”is one aspect of man’s activity. Another - and equally important - is a vision of the purpose of the understanding.” 
 
-	**3.	A BRIEF SURVEY OF THE DEVELOPMENT OF ECONOMICS IN THE LAST CENTURY**
+	**3.	A BRIEF SURVEY OF THE DEVELOPMENT OF ECONOMICS IN THE LAST CENTURY.**
 
 	“In the middle of the 19th century John Stuart Mill (1806-1873) in his famous work “Principles of Economics”said that so far as general principles are concerned the theory of value and price was now completely elaborated.”
 	
@@ -75,7 +75,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	“As long as economic theory still works on a purely qualitative basis without attempting to measure the numerical importance of the various factors, practically any “conclusion”can be drawn and defended.”
 
-	**4.	SOME HISTORICAL NOTES ON THE FOUNDING OF THE ECONOMETRIC SOCIETY**
+	**4.	SOME HISTORICAL NOTES ON THE FOUNDING OF THE ECONOMETRIC SOCIETY.**
 
 	Reference to letters dating from the years when the plans for the creation of an econometric society took shape…. The creation of the journal “Econometrica” as well as an international cercle of mathematical economist were also considered.
 
@@ -91,7 +91,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	The Econometric Society was formed in Cleveland, Ohio on 29 December 1930.
 
-	**5.	TYPES OF ECONOMETRIC MODELS AS SEEN FROM AN ADVANCED VIEWPOINT TODAY**
+	**5.	TYPES OF ECONOMETRIC MODELS AS SEEN FROM AN ADVANCED VIEWPOINT TODAY.**
 
 	“In connection with the Second World Congress of The Econometric Society to be held in Cambridge, England 7-14 September 1970, Frisch gives *a survey of types of econometric models at the national level and an example of how one selected problem may be handled.*
 
@@ -115,7 +115,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	“It is not the task for us as econometricians and social engineers to go into a detailed discussion of the political system. Somewhere in the hierarchy of sciences a line of demarcation has to be drawn. And here is where we find the line of demarcation for the econometric planner.”
 
-	**6.	THE TRANSITION TOWARDS ECONOMIC PLANNING AT THE NATIONAL LEVEL**
+	**6.	THE TRANSITION TOWARDS ECONOMIC PLANNING AT THE NATIONAL LEVEL.**
 
 	“Any econometrician who wants to see practical application of his science, will be highly concerned with applications to economic planning at the national level.”
 
@@ -147,7 +147,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 	
 	“We should proceed to a discussion of what sort of political compromise that might be reached in the formulation of a unified system of preferences. And then having reached this compromise formulation, there would appear a compromise optimal solution. Here too an iteration between politicians and experts would take place.”
 
-	**7.	INVESTMENT STARTING vs. INVESTMENT SINKING**
+	**7.	INVESTMENT STARTING vs. INVESTMENT SINKING.**
 
 	“I shall give an example illustrating an advanced approach to a point in the planning technique. It concerns the measurement of investments in an advanced planning model. If the planning model has a time horizon of more than, say, a year or two, and if investment decisions are an important part of the analyses, the distinction between investment starting and investment *sinking* (investment carry-on-activity) is essential.” 
 
@@ -167,7 +167,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 
 !!! tip "Prize Lecture: *The Use of Models: Experience and Prospects* by Jan Tinbergen."
 	
-	**1. Essence of models**
+	**1. Essence of models.**
 
 	“In this lecture I propose to discuss the experience we have had with the method of model building as a contribution to economic science and the prospects for its further application. First of all I want to remind you of the essential features of models. In my opinion they are: (i) drawing up a list of the variables to be considered; (ii) drawing up a list of the equations or relations the variables have to obey and (iii) testing the validity of the equations, which implies the estimation of their coefficients, if any. As a consequence of especially (iii) we may have to revise (i) and (ii) so as to arrive at a satisfactory degree of realism of the theory embodied in the model. Then, the model may be used for various purposes, that is, for the solution of various problems. The advantages of models are, on one hand, that they force us to present a “complete” theory by which I mean a theory taking into account all relevant phenomena and relations and, on the other hand, the confrontation with observation, that is, reality. Of course, these remarks are far from new.”
 
@@ -175,7 +175,7 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 
 	“Models have been built for a number of different purposes; first of all, for purposes of explaining actual developments and next, for finding ways of influencing actual development in some desired direction. Another aspect is whether short-term or long-term movements were the objective of either explanation or policies. There are large numbers of further alternatives of focusing. We will discuss some of them in this lecture.”
 
-	**2. Some experiences**
+	**2. Some experiences.**
 
 	“First, I am going to discuss a number of experiences econometricians had with the activity of model building. Some of us were masters in hunting after high correlations, that is, good fits with observed values. …. I am afraid that the first subject I tackled in my work for the League of Nations, namely to explain the fluctuations in investment activity never has become a great success. In the Netherlands Central Planning Bureau we found it safer, after some years, to ask industrialists for their investment programs rather than rely on an econometric explanation. Also government expenditures were among the variables difficult to explain. In both cases we may account for the lack of success by the fact that a small number of decision makers determine the picture and that hence random deviations will be important.” 
 
