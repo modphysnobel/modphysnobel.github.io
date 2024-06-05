@@ -1,6 +1,6 @@
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 13.2. Steps in the development of Particle Physics.**](./vol-IV-chap-13-sect-2.md) 
+[**Previous: 13.2. Timeline of the main developments in high energy physics.**](./vol-IV-chap-13-sect-2.md) 
 
 ***
 
