@@ -1,7 +1,7 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 10.3.	Organization and evaluation of learning communities.**](./vol-III-chap-10-sect-3.md) 
+[**Previous: 11.3. Phases in a learning and research process.**](./vol-III-chap-11-sect-3.md) 
 
 ***
 
