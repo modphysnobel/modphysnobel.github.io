@@ -9,7 +9,7 @@
 	
 	We understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas. 
 
-	**Learning objectives of Chapter 1.**
+  **Learning objectives of Chapter 1.**
   
   After this Chapter you should be able to: 
 	
