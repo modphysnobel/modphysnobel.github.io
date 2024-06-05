@@ -224,4 +224,4 @@ Planck solved the blackbody radiation problem by treating it in a similar way to
 
 ***
 
-[**Next: 5.3. Components of the explanation of scientific theories**](./vol-II-chap-5-sect-3.md)
+[**Next: 5.3. Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md)
