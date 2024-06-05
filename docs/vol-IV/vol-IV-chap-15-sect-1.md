@@ -14,6 +14,8 @@
 	Is it worthwhile to talk about universes in Economic Sciences? What can we learn from the descriptions of the Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel? 
 
 	Several mathematical ideas and procedures as well as physical concepts and models have been used and adapted to study social processes from a perspective based in Economic sciences. Furthermore, many economists have been former mathematicians and some of them studied Physics.
+
+	**Learning objectives of Chapter 15.**
  	
 	After this Chapter you should be able to: 
 
