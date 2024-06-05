@@ -5,7 +5,7 @@
 
 ***
 
-## 5.   Energy quantization in the black body radiation
+## 5.   Energy quantization in the black body radiation.
 
 !!! abstract "Introduction."
 
