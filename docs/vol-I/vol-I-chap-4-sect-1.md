@@ -91,7 +91,7 @@ Archimedes considered that mechanical experiments could be used to extend geomet
 
 Archimedes stated his law as follows: “commensurable magnitudes will balance at distances inversely proportional to their gravities”. The phrase *“Pa bo, kai tan gan kino”* is attributed to Archimedes, which in the Doric dialect spoken in Syracuse means *“Give me a foothold and I will move the world”*. The proof of this principle is presented below. 
 
-Consider a mechanical system made up of two bodies A and B of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $P_A$ and $P_B$ with magnitudes $[P_A] = m_Ag$ and $[P_B] = m_Bg$, where $g$ is the constant of gravitational attraction.
+Consider a mechanical system made up of two bodies A and B of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $\vec{P_A}$ and $\vec{P_B}$ with magnitudes $[\vec{P_A}] = m_Ag$ and $[\vec{P_B}] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
 <figure markdown>
 ![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="300"}
@@ -103,11 +103,11 @@ Consider a mechanical system made up of two bodies A and B of unequal masses $m_
 
 The distances from each mass to the center of rotation C are measured in the horizontal direction and correspond to the magnitudes $d_A$ and $d_B$, while the weights act in the vertical direction along lines that are parallel to each other. 
 
-The forces $P$ acting on the ends of the lever produce torques $τ = r \times P$. The magnitude of these vectors is $[τ] = [r][P](sin θ)$ where $θ$ is the angle between the vectors $r$ and $P$; $r$ is the vector that joins the center C with the point where each weight $P$ is applied. As can be seen in Figure 4.3, the angle $θ$ is 90° for each weight. The rotations produced by each torque are usually assigned a sign that is positive for the clockwise rotation of the mass $m_B: [τ_B] = (+)[d_B][P_B]$, while it is negative for the leftward rotation of the mass $m_A: [τ_A] = (-)[d_A][P_A]$. 
+The forces $\vec{P}$ acting on the ends of the lever produce torques $τ = r \times \vec{P}$. The magnitude of these vectors is $[τ] = [r][\vec{P}](sin θ)$ where $θ$ is the angle between the vectors $r$ and $\vec{P}$; $r$ is the vector that joins the center C with the point where each weight $\vec{P}$ is applied. As can be seen in Figure 4.3, the angle $θ$ is 90° for each weight. The rotations produced by each torque are usually assigned a sign that is positive for the clockwise rotation of the mass $m_B: [τ_B] = (+)[d_B][\vec{P_B}]$, while it is negative for the leftward rotation of the mass $m_A: [τ_A] = (-)[d_A][\vec{P_A}]$. 
 
-When the complete mechanical system is in equilibrium- the lever does not turn and do not translate- the resulting torque is null and $[τ_A] + [τ_B] = 0$. Then $(-)[d_A][P_A] (+)[d_B][P_B] = 0$, From this, the principle of the lever indicates that the products of the distances of the masses $m_A$ and $m_B$ to the center of balance C multiplied by the magnitude of the corresponding weights are equal for both bodies:
+When the complete mechanical system is in equilibrium- the lever does not turn and do not translate- the resulting torque is null and $[τ_A] + [τ_B] = 0$. Then $(-)[d_A][\vec{P_A}] (+)[d_B][\vec{P_B}] = 0$, From this, the principle of the lever indicates that the products of the distances of the masses $m_A$ and $m_B$ to the center of balance C multiplied by the magnitude of the corresponding weights are equal for both bodies:
 
-$d_AP_A = d_BP_B$
+$d_A\vec{P_A} = d_B\vec{P_B}$
 
 As in any mathematical approach involving geometric figures, it will be assumed that lines and points have no mass and their dimensions are one and zero, respectively. Furthermore, the lever principle applies only in a plane and not on surfaces with non-zero curvature.
 
