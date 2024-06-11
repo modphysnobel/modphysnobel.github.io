@@ -256,19 +256,19 @@ What follows is a scheme describing the experimental setting where the three reg
 
 The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)\vec{n_i}$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)vec{n_f}$.  (The unitary vectors $vec{n_i}$ and $vec{n_f}$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(vec{n_i}) \cdot (vec{n_f})=(\cos \theta)$.
+Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)\vec{n_i}$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)\vec{n_f}$.  (The unitary vectors $\vec{n_i}$ and $\vec{n_f}$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(\vec{n_i}) \cdot (\vec{n_f})=(\cos \theta)$.
 
-Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $vec{p}$ in the direction of the angle $Φ$.
+Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $\vec{p}$ in the direction of the angle $Φ$.
 
-According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $vec{p}$ is the magnitude of its momentum $vec{p}$ and $c$ the velocity of light.
+According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $\vec{p}$ is the magnitude of its momentum $\vec{p}$ and $c$ the velocity of light.
 
 The equations for the conservation of energy and momentum are  
 
-$Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) vec{n_i}= (\frac{Q}{c}) vec{n_f}+ vec{p}$
+$Q_0+ m_0c^2=E+Q$  and $(\frac{Q_0}{c}) \vec{n_i}= (\frac{Q}{c}) \vec{n_f}+ \vec{p}$
 
-Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0vec{n_i}- Qvec{n_f} )= cvec{p}$
+Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0\vec{n_i}- Q\vec{n_f} )= c\vec{p}$
 
-Then, taking into account that $(vec{n_i}).(vec{n_f})=(\cos \theta)$, we obtain in previous equation: 
+Then, taking into account that $(\vec{n_i}).(\vec{n_f})=(\cos \theta)$, we obtain in previous equation: 
 
 $(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ ..... (1)
 
