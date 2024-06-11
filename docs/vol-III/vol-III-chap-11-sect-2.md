@@ -80,9 +80,11 @@ A Rydberg atom has electronically excited states quite close to ionization energ
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-11-sect-2-fig1.jpg?raw=true" width=640 align=center>
 </p>
 
-(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
+(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
-**Figure 11.1.** Experimental setting for trapping individual photons (reproduced from Figure 3 in *Information for the Public: Particle control in a quantum world*).
+**Figure 11.1.** Experimental setting for trapping individual photons. Reproduced from Figure 3 in *Information for the Public: Particle control in a quantum world*: 
+
+“**Figure 3.** In the Serge Haroche laboratory in Paris, in vacuum and at a temperature of almost absolute zero, the microwave photons bounce back and forth inside a small cavity between two mirrors. The mirrors are so reflective that a single photon stays for more than a tenth of a second before it is lost. During its long life time, many quantum manipulations can be performed with the trapped photon without destroying it. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
 
 *Wineland´s experiments.* The experimental procedure for controlling single ions in a trap consist in the following: (1) electrically charged atoms (ions) were trapped by electric fields produced by electrodes, and (2) a laser suppressed the ion’s thermal motion in the trap and generated a coherent quantum superposition of two ion’s energy states: one state is in a lowest energy level and the other one is in a higher energy level excited by a laser pulse. (See Figure 11.2).
 
@@ -93,9 +95,11 @@ A Rydberg atom has electronically excited states quite close to ionization energ
 </p>
 
 
-(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
+(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
-**Figure 11.2.** Experimental setting for trapping individual ions (reproduced from Figure 2 in *Information for the Public: Particle control in a quantum world*.)
+**Figure 11.2.** Experimental setting for trapping individual ions. Reproduced from Figure 2 in *Information for the Public: Particle control in a quantum world*: 
+
+“**Figure 2.** In David Wineland’s laboratory in Boulder, Colorado, electrically charged atoms or ions are kept inside a trap by surrounding electric fields. One of the secrets behind Wineland’s breakthrough is mastery of the art of using laser beams and creating laser pulses. A laser is used to put the ion in its lowest energy state and thus enabling the study of quantum phenomena with the trapped ion. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
 
 In previous experiments quantum states were observed through quantum non-demolition measurements where two-level systems were coupled to a quantized harmonic oscillator.  In Haroche case it was a highly excited atom with two Rydberg levels coupled by a microwave field. In Wineland case the two-level system consisted of an ion in two levels coupled by laser light. The quantized harmonic oscillator described the microwave field in the cavity or the ion’s motion in the trap. Next we quote some excerpts taken from *Information for the Public: Particle control in a quantum world.*
 
