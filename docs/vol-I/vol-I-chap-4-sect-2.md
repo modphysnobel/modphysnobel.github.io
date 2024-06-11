@@ -11,7 +11,7 @@ In Section 4.3 we will compare the descriptions of motion proposed by Kepler, Ga
 
 ### Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*.
 
-Next, we include some excerpts from this Lecture. Subtitles do not come in the original; they are inserted and numbered for identifying the components of the Lecture. Some external NOTES are introduced to make clear certain issues, based on information obtained in Pais (1982). When the excerpts correspond to complete quotations, the corresponding text is indicated in between quotation marks. The lecture was delivered to the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923.  
+Next, we include some excerpts from this Lecture. Subtitles do not come in the original; they are inserted and numbered for identifying the components of the Lecture. Some external NOTES are introduced to make clear certain issues, based on information obtained in Pais (1982). When the excerpts correspond to complete quotations, the text is indicated in between quotation marks. The lecture was delivered at the Nordic Assembly of Naturalists at Gothenburg, July 11, 1923.  
 
 MLA style: Albert Einstein – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Mar 2023. https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/
 
@@ -102,6 +102,10 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 <figure markdown>
 ![Fig 1](./figs/Vol-I-chap-4-sect-3-Fig1.png){width="300"}
 </figure>
+
+<center>
+$ds^2=c^2t^2-dx^2-dy^2-dz^2$
+</center>
 
 **(11)	The gravitational field equations.**
 
