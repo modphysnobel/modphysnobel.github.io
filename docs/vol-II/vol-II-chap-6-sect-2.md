@@ -27,7 +27,9 @@ Considering previous data, we obtain the following spacings between neighboring 
 </figcaption>
 </figure>
 
-**Figure 6.5.** Electronic levels for the first levels of the hydrogen atom. (The positions of the levels are not to scale. The fine structure and the splitting of the levels corresponding to n = 3 are not shown. 
+Source: diagram elaborated by the authors.
+
+**Figure 6.5.** First electronic levels of the hydrogen atom. (The positions of the levels are not to scale. The fine structure and the splitting of the levels corresponding to n = 3 are not shown.)
 
 ### Lamb shift measurements.
 
