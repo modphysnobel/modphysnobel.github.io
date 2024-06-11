@@ -55,582 +55,90 @@ Level L3: in addition to what is done at level L2, new knowledge is generated an
 
 It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking what implied the LIGO project and consider if an international learning community has been formed.
 
-The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a timeline for publications of papers, reports or proposals as well as for actions undertaken by individuals or institutions participating in the project. The selection of the principle that mostly applies to each activity is marked with an X in next Tables 10.2 and 10.3. This selection is just a personal interpretation, neither unique nor based on explicit and direct explanations made by the Nobel laureates.
+The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a timeline for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped in more than one principle. When required, texts quoted from the Lectures are indicated in between quotes. 
 
-When required, texts quoted from each Nobel Lecture are indicated in between quotes. The following notation is used in columns second to fifth: AK for accessible knowledge, VT for visible thought, ML for mutual learning and CL for continuous learning.
+#### ACTIVITIES DESCRIBED IN WEISS´ LECTURE.
 
-<table width="100%">
-    <tr>
-    <th>
-    Table 10.2. Activities reported in Weiss´ Lecture.
-        </th>
-     <th>
-	AK
-        </th>
-        <th>
-	VT
-        </th>
-        <th>
-	ML
-        </th>
-        <th>
-	CL
-        </th>
-        </tr>
-     <tr>
-    <td>
-    1915: Einstein publishes the General Theory of Relativity and presents the idea that mass distorts the geometry of space and the flow of time.
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1916, 1918: Einstein proposes the existence of gravitational waves.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1957: John Wheeler and Joseph Weber consider gravitational wave as a tidal force transverse to the propagation direction and treat the detection of weak gravitational waves as a Newtonian interaction of these forces exciting a mechanical resonator.
-    </td>
-    <td>
-	-
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1960, 1969: Joseph Weber publish two papers *Detection and generation of gravitational waves* and “Evidence for the Discovery of Gravitational Waves”
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-	</td>
-    </tr>
-     <tr>
-    <td>
-    1966: Rainer Weiss prepare a course in General Relativity to be taught at Massachusetts Institute of Technology (MIT) Physics Department. He thinks about a simple gedanken experiment to measure a gravitational wave and the possibility to do a real experiment by using a Michelson interferometer.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1970: There is no confirmations of the Weber experiments.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1970: Kip Thorne starts a research group in theoretical gravitation at the California Institute of Technology (Caltech). Plans are made for a new complementary program in experimental gravitation.
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1972: Rainer Weiss, publish a paper on *Electromagnetically coupled broadband gravitational antenna*.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-	X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1974: Russell Hulse and Joseph Taylor discover a binary pulsar system and showed evidence for energy loss due to the radiation of gravitational waves. (They were awarded the Nobel Prize in Physics in 1993).
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1975: Kip Thorne and Rainer Weiss work on a committee to study the possible role of the space program in research on gravitation and cosmology.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1978, 1980: Caltech forms a group with significant internal investment and Stan Whitcomb as a new leader.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1983: The Gravity Research Group in Glasgow, Scotland published a paper on *Interferometric detectors for gravitational radiation*.
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1983: MIT and Caltch present a report to an NSF committee: *A study of a long baseline gravitational wave antenna system*. The committee was remarkably encouraging in their evaluation.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1987: A report by an independent Panel on Interferometric Observatories for Gravitational Waves encouraged the NSF to build two full scale interferometric detectors at widely separated sites and insisted that the project find a single Director before moving forward.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1988: The Max Planck Institute of Astrophysics Group in Germany publishes a paper on *Noise behavior of the Garching 30-meterpprototype gravitational-wave detector*.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1989: Caltech and MIT present a joint proposal to the NSF *The construction, operation and supporting research and development of a LASER INTERFEROMETER GRAVITATIONAL-WAVE OBSERVATORY*
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1994: As Director of LIGO Barry Barish makes possible a transition from independent investigator small-scale science to the project organization required for a large-scale coordinated scientific effort. He also conceived and organized the LIGO Scientific Collaboration.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-	</table>
+RELATED TO ACCESSIBLE KNOWLEDGE.
 
-We indicate with quotation marks those activities reported in Table 10.3 corresponding to quotations taken from Barish´s Nobel lecture.
+1915: Einstein publishes the General Theory of Relativity and presents the idea that mass distorts the geometry of space and the flow of time.
 
-<table width="100%">
-    <tr>
-    <th>
-    Table 10.3. Activities reported in Barish’s Lecture.
-        </th>
-     <th>
-	AK
-        </th>
-        <th>
-	VT
-        </th>
-        <th>
-	ML
-        </th>
-        <th>
-	CL
-        </th>
-        </tr>
-     <tr>
-    <td>
-    1994: Cancellation of the Superconducting Super Collider (SSC) in Texas by the U.S. Congress.
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1994: A new structure for the project is proposed  around the LIGO Laboratory by unifying the Caltech and MIT efforts, by developing two distant instruments in Hanford, Washington and Livingston, Louisiana, and by integrating new members to the existing staff.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    1994: "Kip Thorne and Barry Barish present LIGO to the National Science Board describing both the theoretical underpinnings of gravitational waves and their plans for the project, in particular to develop and test Advanced LIGO technologies. They received formal approval at the full requested funding for Initial LIGO, with a commitment to support the crucial R&D program for Advanced LIGO".
-    </td>
-    <td>
-	X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1994-1999: Construction of the initial version of LIGO, "employing technologies that represented a balance between being capable of achieving sensitivity levels where the detections of gravitational waves might be ‘possible,’ and using techniques that we had fully demonstrated in our laboratories".
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	1997: Barry Barish makes a proposal to the NSF to improve LIGO Scientific Collaboration (LSC). Nearly 1200 members, from 108 institutions and 18 countries have participated in making the discovery of gravitational waves, analyzing the data, interpreting the results, and in writing up and presenting the results.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-	2003: A proposal to the NSF of the Advanced LIGO plan is submitted where a research and development program is presented and approved, implying that the initial LIGO sensitivity of the gravitational wave detector are improved and the background noise levels are reduced. Potential sources of gravitational waves are searched in mergers of binary black holes, a black hole and a neutron star, and binary neutron star systems.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    2004: A major funding through the NSF Major Research Equipment and Construction (MREFC) program is granted to the Advanced LIGO project. 
-	"Additional significant contributions to Advanced LIGO included: a pre-stabilized laser system from the Max Planck Institute (Germany); Test Mass Suspension systems from the Science and Technology Facilities Council (UK); and thermal compensation wavefront sensors and interferometer controls components from the Australian Research Council". 
-	Higher laser power, larger test masses and improved mirror coatings have been incorporated".
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is following by the final merger, and then, the merged single object rings down". … "The two black holes inspiral and merge together due to the emission of gravitational radiation coming from the accelerations".
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    2015, 2016, 2017: "The first Advanced LIGO data run (O1) continued for four months, from September 2015 to January 2016. Our second data run (O2) ran from December 2016 to the end of August 2017". … "We are actively searching for other signals, besides binary merges, including bust signals from phenomena like supernova explosions or gamma ray bursts, continuous wave signals from spinning neutron stars (pulsars), stochastic background signals, etc. So far, we have only detected binary merger signals, but hope to detect others as our sensitivity improves".
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-     <tr>
-    <td>
-	2016: On February 11 the observation of gravitational waves in LIGO is announced.
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    2017: The Physics Nobel Prize is awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne “for decisive contributions to the LIGO detector and the observation of gravitational waves.”
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-    2017: “Two weeks after the Nobel announcement in October and almost two months before this lecture, we announced the first observation of a merger of a neutron star binary system. This was also the first gravitational wave event to have electromagnetic counterparts observed in a large variety of astronomical instruments.”
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	2017: Observation of one more black hole merger event (GW170814); “for the first time this was also observed in the Virgo detector near Pisa in Italy. Virgo is a collaboration of France, Italy, Netherlands, Poland and Hungary.” … “ Virgo, in this detection, not only gives independent confirmation of the LIGO black hole merger detections but improves markedly the ability to triangulate. This is a precursor to also adding KAGRA in Japan and LIGO-India detectors to the network.”
-    </td>
-    <td>
-    X
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    </tr>
-     <tr>
-    <td>
-	2017: Two weeks after the Nobel announcement in October and almost two months before this lecture, we announced the first observation of a merger of a neutron star binary system. This was also the first gravitational wave event to have electromagnetic counterparts observed in a large variety of astronomical instruments.
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    -
-    </td>
-    <td>
-    X
-    </td>
-    </tr>
-	</table>
+1970: Kip Thorne starts a research group in theoretical gravitation at the California Institute of Technology (Caltech). Plans are made for a new complementary program in experimental gravitation.
 
-“On August 17, 2017, LIGO and Virgo registered a gravitational wave signal from the inspiral of two neutron stars. Many of us expected the first source we would observe in LIGO would be from the merger of binary neutron stars, because there is a known rate of detected binary neutron stars in our own galaxies by radio telescopes.” This was the first joint detection of gravitational and electromagnetic waves from the same astrophysical source (event GW170817). …. “All the data agrees with the hypothesis that the source is the merger of two neutron stars in the host galaxy NGC4993 in the constellation of Hydra.”    
+1974: Russell Hulse and Joseph Taylor discover a binary pulsar system and showed evidence for energy loss due to the radiation of gravitational waves. (They were awarded the Nobel Prize in Physics in 1993).
+
+1983: The Gravity Research Group in Glasgow, Scotland published a paper on *Interferometric detectors for gravitational radiation*.
+
+RELATED TO VISIBLE THOUGHT.
+
+1916, 1918: Einstein proposes the existence of gravitational waves.
+
+1957: John Wheeler and Joseph Weber consider gravitational wave as a tidal force transverse to the propagation direction and treat the detection of weak gravitational waves as a Newtonian interaction of these forces exciting a mechanical resonator.
+
+1972: Rainer Weiss, publish a paper on *Electromagnetically coupled broadband gravitational antenna*.
+
+1975: Kip Thorne and Rainer Weiss work on a committee to study the possible role of the space program in research on gravitation and cosmology.
+
+1983: MIT and Caltch present a report to an NSF committee: *A study of a long baseline gravitational wave antenna system*. The committee was remarkably encouraging in their evaluation.
+
+1988: The Max Planck Institute of Astrophysics Group in Germany publishes a paper on *Noise behavior of the Garching 30-meterpprototype gravitational-wave detector*.
+
+RELATED TO MUTUAL LEARNING.
+
+1960, 1969: Joseph Weber publish two papers *Detection and generation of gravitational waves and Evidence for the Discovery of Gravitational Waves*.
+
+1970: There are no confirmations of the Weber experiments.
+
+1994: As Director of LIGO Barry Barish makes possible a transition from independent investigator small-scale science to the project organization required for a large-scale coordinated scientific effort. He also conceived and organized the LIGO Scientific Collaboration.
+
+RELATED TO CONTINUOUS LEARNING.
+
+1966: Rainer Weiss prepare a course in General Relativity to be taught at Massachusetts Institute of Technology (MIT) Physics Department. He thinks about a simple gedanken experiment to measure a gravitational wave and the possibility to do a real experiment by using a Michelson interferometer.
+
+1978, 1980: Caltech forms a group with significant internal investment and Stan Whitcomb as a new leader.
+
+1987: A report by an independent Panel on Interferometric Observatories for Gravitational Waves encouraged the NSF to build two full scale interferometric detectors at widely separated sites and insisted that the project find a single Director before moving forward.
+
+1989: Caltech and MIT present a joint proposal to the NSF *The construction, operation and supporting research and development of a LASER INTERFEROMETER GRAVITATIONAL-WAVE OBSERVATORY*.
+
+
+#### ACTIVITIES DESCRIBED IN BARISH´S LECTURE.
+
+RELATED TO ACCESSIBLE KNOWLEDGE.
+
+1994: Cancellation of the Superconducting Super Collider (SSC) in Texas by the U.S. Congress.
+
+1994: "Kip Thorne and Barry Barish present LIGO to the National Science Board describing both the theoretical underpinnings of gravitational waves and their plans for the project, in particular to develop and test Advanced LIGO technologies. They received formal approval at the full requested funding for Initial LIGO, with a commitment to support the crucial R&D program for Advanced LIGO".
+
+2004: A major funding through the NSF Major Research Equipment and Construction (MREFC) program is granted to the Advanced LIGO project. "Additional significant contributions to Advanced LIGO included: a pre-stabilized laser system from the Max Planck Institute (Germany); Test Mass Suspension systems from the Science and Technology Facilities Council (UK); and thermal compensation wavefront sensors and interferometer controls components from the Australian Research Council. Higher laser power, larger test masses and improved mirror coatings have been incorporated".
+
+2016: On February 11 the observation of gravitational waves in LIGO is announced.
+
+2017: The Physics Nobel Prize is awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne “for decisive contributions to the LIGO detector and the observation of gravitational waves.”
+
+2017: “Two weeks after the Nobel announcement in October and almost two months before this lecture, we announced the first observation of a merger of a neutron star binary system. This was also the first gravitational wave event to have electromagnetic counterparts observed in a large variety of astronomical instruments.”
+
+2017: Observation of one more black hole merger event (GW170814); “for the first time this was also observed in the Virgo detector near Pisa in Italy. Virgo is a collaboration of France, Italy, Netherlands, Poland and Hungary.” … “ Virgo, in this detection, not only gives independent confirmation of the LIGO black hole merger detections but improves markedly the ability to triangulate. This is a precursor to also adding KAGRA in Japan and LIGO-India detectors to the network.”
+RELATED TO VISIBLE THOUGHT.
+
+1994: A new structure for the project is proposed around the LIGO Laboratory by unifying the Caltech and MIT efforts, by developing two distant instruments in Hanford, Washington and Livingston, Louisiana, and by integrating new members to the existing staff.
+
+2003: A proposal to the NSF of the Advanced LIGO plan is submitted where a research and development program is presented and approved, implying that the initial LIGO sensitivity of the gravitational wave detector are improved, and the background noise levels are reduced. Potential sources of gravitational waves are searched in mergers of binary black holes, a black hole and a neutron star, and binary neutron star systems.
+
+2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is following by the final merger, and then, the merged single object rings down". … "The two black holes inspiral and merge together due to the emission of gravitational radiation coming from the accelerations".
+
+RELATED TO MUTUAL LEARNING.
+
+1994-1999: Construction of the initial version of LIGO, "employing technologies that represented a balance between being capable of achieving sensitivity levels where the detections of gravitational waves might be ‘possible,’ and using techniques that we had fully demonstrated in our laboratories".
+
+2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is following by the final merger, and then, the merged single object rings down". … "The two black holes in spiral and merge together due to the emission of gravitational radiation coming from the accelerations".
+
+RELATED TO CONTINUOUS LEARNING.
+
+1997: Barry Barish makes a proposal to the NSF to improve LIGO Scientific Collaboration (LSC). Nearly 1200 members, from 108 institutions and 18 countries have participated in making the discovery of gravitational waves, analyzing the data, interpreting the results, and in writing up and presenting the results.
+
+2015, 2016, 2017: "The first Advanced LIGO data run (O1) continued for four months, from September 2015 to January 2016. Our second data run (O2) ran from December 2016 to the end of August 2017". … "We are actively searching for other signals, besides binary merges, including bust signals from phenomena like supernova explosions or gamma ray bursts, continuous wave signals from spinning neutron stars (pulsars), stochastic background signals, etc. So far, we have only detected binary merger signals, but hope to detect others as our sensitivity improves".
+
 
 ***
 
