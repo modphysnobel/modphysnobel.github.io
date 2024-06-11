@@ -17,7 +17,7 @@ Physics looks for explanations of certain observed and measured phenomena that m
 (Image elaborated by the authors)
 </center>
 
-In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. In each case we start indicating the name of the Laureate and then the year and the reasons for the award. Next, we insert an official document called WORK describing the main contributions of each laureate. Finally, we include the title of each Lecture, its subtitles when they exist in the original and two boxes related to concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section.
+This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, and Schawlow. In each case we start indicating the year of the Prize and insert an official document called WORK explaining the main contributions of each laureate. Then, we include the title of each Nobel Lecture and its subtitles when they exist in the original. Finally, a table and a box respectively describe the concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section.
 
 **In 1922** “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
@@ -43,11 +43,15 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
 	
-!!! bug "Box 6.1. Concepts in Bohr´s Lecture."	
 	
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
+	 <tr>
+        <th colspan="2" style="text-align: center"> 
+    Table 6.1. Concepts in Bohr´s Lecture. 
+        </th>
+    </tr>
 	<tr>
 		<td>
 	•	atom<br>
@@ -100,7 +104,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	</div> 
 
 
-!!! quote "Box 6.2. Issues requiring explaining models in Bohr´s Lecture."
+!!! quote "Box 6.1. . Issues requiring explaining models in Bohr´s Lecture."
 
 	- Atomic structures by Thomson and by Rutherford. 
 	- Classification of elements and existence of isotopes according to electronic level structures. 
@@ -129,11 +133,16 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
-!!! bug " Box 6.3. Concepts in Lamb´s Lecture."
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
+	 <tr>
+        <th colspan="2" style="text-align: center"> 
+    Table 6.2. Concepts in Lamb´s Lecture. 
+        </th>
+    </tr>
+	<tr>
 	<tr>
 		<td>
 	•	elementary particle <br>
@@ -173,7 +182,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	</table> 
 	</div> 
 
-!!! quote "Box 6.4. Issues requiring explaining models in Lamb´s Lecture."
+!!! quote "Box 6.2. Issues requiring explaining models in Lamb´s Lecture."
 
 	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
 	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
@@ -205,11 +214,15 @@ In what follows we describe the main concepts and models contained in the Nobel 
 
 	MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
 
-!!! bug "Box 6.5. Concepts in Townes´ Lecture."
 
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
+	<tr>
+        <th colspan="2" style="text-align: center"> 
+    Table 6.3. Concepts in Townes´ Lecture.
+        </th>
+    </tr>
 	<tr>
 		<td>
 	•	light <br>
@@ -258,7 +271,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	</table>
 	</div> 
 
-!!! quote "Box 6.6. Issues requiring explaining models in Townes´ Lecture."
+!!! quote "Box 6.3. Issues requiring explaining models in Townes´ Lecture."
 
 	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
 	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
@@ -299,11 +312,15 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/
 
 
-!!! bug "Box 6.7. Concepts in Schawlow´s Lecture."
-
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
+	<tr>
+        <th colspan="2" style="text-align: center"> 
+    Table 6.4. Concepts in Schawlow´s Lecture.
+        </th>
+    </tr>
+	<tr>
 	<tr>
 		<td>
 	•	spectrum lines <br>
@@ -336,7 +353,7 @@ In what follows we describe the main concepts and models contained in the Nobel 
 	</table> 
 	</div> 
 
-!!! quote "Box 6.8. Issues requiring explaining models in Schawlow´s Lecture."
+!!! quote "Box 6.4. Issues requiring explaining models in Schawlow´s Lecture."
 
 	- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
 	- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
