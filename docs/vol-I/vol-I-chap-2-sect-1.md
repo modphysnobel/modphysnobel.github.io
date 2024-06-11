@@ -271,7 +271,7 @@ Such equations can be rearranged as $(Q_0-Q)+ m_0c^2=E$ and $(Q_0\vec{n_i}- Q\ve
 Then, taking into account that $(\vec{n_i}).(\vec{n_f})=(\cos \theta)$, we obtain in previous equation: 
 
 <center>
-	$(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ \dotfill (1)
+	$(Q_0- Q)^2+ 2(Q_0-Q)(m_0c^2 )+ (m_0c^2 )^2 = E^2$ \dotfill & (1)
 </center>
 
 <center>
