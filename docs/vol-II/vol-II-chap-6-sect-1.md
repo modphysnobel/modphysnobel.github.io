@@ -33,7 +33,7 @@
 
 	**Section 6.3. Identification of concepts and descriptions of models.**
 	
-	We apply the procedure Identification of concepts and descriptions of models to the analysis of the content of four Physics Nobel Lectures: *The Structure of the Atom* by Niels Bohr, *Fine Structure of the Hydrogen Atom* by Willis E. Lamb, *Production of Coherent Radiation by Atoms and Molecules* by Charles Townes, and *Spectroscopy in a new light* by Arthur A. Schawlow.
+	We apply the procedure Identification of concepts and descriptions of models to the analysis of the content of the Physics Nobel Prizes awarded to: Niels Henrik David Bohr (1985-1962) in 1922 “for his services in the investigation of the structure of atoms and of the radiation emanating from them”, Willis Eugene Lamb (1985-1962) in 1955 “for his discoveries concerning the fine structure of the hydrogen spectrum” (Prize shared with Polykarp Kusch), Charles Hard Townes (1915-2015) in 1964 “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle” (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov) and Arthur Leonard Schawlow (1921-1999) in 1981 "for their contribution to the development of laser spectroscopy" (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 	
 ## 6.1. Electronic energy levels according to atomic models.
 
