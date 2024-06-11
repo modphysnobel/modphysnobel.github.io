@@ -71,7 +71,7 @@ Two non-Euclidean geometries can be considered depending on the curvature of the
 (Image credit: CC Wikimedia Commons)
 </center>
 
-**Figure 4.1.**  Geometric properties of surfaces of different curvature; C indicates the value of the circunference and   corresponds to the addition of the three internal angles in a triangle.
+**Figure 4.1.**  Geometric properties of surfaces of different curvature; C indicates the value of the circunference and   corresponds to the addition ($Σ$) of the three internal angles in a triangle.
 
 It is not clear who was the first mathematician writing about non-Euclidean geometries. The merit is shared by next four mathematicians:
 
