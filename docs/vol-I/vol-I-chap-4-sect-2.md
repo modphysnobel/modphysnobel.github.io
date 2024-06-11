@@ -99,10 +99,6 @@ NOTE: The concept of metric refers to the distance between two points. In Euclid
 
 - "There are an infinite number of such local inertial frames at any space-time point; they are associated by Lorentz transformations. If x, y, z, t represent coordinates and time measured with reference to a local inertial frame; Lorentz transformations leave invariant the "distance" ds of two infinitely adjacent point events such that:"
 
-<figure markdown>
-![Fig 1](./figs/Vol-I-chap-4-sect-3-Fig1.png){width="300"}
-</figure>
-
 <center>
 $ds^2=c^2t^2-dx^2-dy^2-dz^2$
 </center>
@@ -114,6 +110,10 @@ $ds^2=c^2t^2-dx^2-dy^2-dz^2$
 <figure markdown>
 ![Fig 2](./figs/Vol-I-chap-4-sect-3-Fig2.png){width="300"}
 </figure>
+
+<center>
+$ds^2=Σg_{μν}dx_μdx_ν$ ($g_{μν}=g_{νμ}$)
+</center>
 
 - "The gravitational potentials $g_{μν}$ describe the gravitational field. They determine the space-time metric ds which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
 
