@@ -10,7 +10,7 @@ This section contains three examples of the calculation of the thermodynamic qua
 
 The specific heat ($C$) is a thermodynamic quantity of an extensive nature: it increases with the size of the system and depends on its internal structure. It is defined as the quotient of the differential increase in the amount of heat ($δQ$) divided by the differential increase in temperature $(δT): C = δQ/δT$.
 
-On the other hand, the internal energy ($U$) of a system is a function of the thermodynamic parameters of temperature ($T$), pressure ($p$) and volume ($V$). The internal energy $U$ is associated with the disordered movement that the components of the system present at the microscopic level. It corresponds to the total energy of the system, which has been necessary to create it. It is not connected with the block movements of the complete system (in bulk), nor with the energies caused when the complete system is under the action of external forces.
+On the other hand, the internal energy ($U$) of a system is a function of the thermodynamic parameters of temperature ($T$), pressure <br> ($p$) and volume ($V$). The internal energy $U$ is associated with the disordered movement that the components of the system present at the microscopic level. It corresponds to the total energy of the system, which has been necessary to create it. It is not connected with the block movements of the complete system (in bulk), nor with the energies caused when the complete system is under the action of external forces.
 
 If the amount of heat $dQ$ is introduced to the system, the change in its internal energy ($dU$) is the sum of the heat transferred ($dQ$) plus or minus the work done $(pdV): dU = dQ ± pdV$. This equation corresponds to the first law of thermodynamics, associated with the conservation of energy.
 
@@ -173,7 +173,7 @@ As $U = 3N_A〈E〉$ and $C_V = (dU/dT)_V$ we will have that $C_V = (3N_Ahν)  \
 
 $C_V = [(3R)(\frac{hν}{k_B T})^2 ]$ $\frac{e^{\frac{hν}{k_B T}}}{(e^{\frac{hν}{k_B T}}-1)^2}$
 
-Now it is convenient to take two limit cases, depending on the temperature $T$. At high temperatures, the exponent $βhν = \frac{hν}{k_B T}≪1$. Then, developing to first order the exponential the average energy is $〈E〉 =   \frac{hν}{e^{βhν}- 1} = \frac{hν}{(1+ βhν+⋯ -1)} =   \frac{hν}{βhν} = k_B T$, from which Dulong and Petit's law is obtained $C_V  = (3N_A )   \frac{d〈E〉}{dT}=3N_A k_B=3R$.
+Now it is convenient to take two limit cases, depending on the temperature $T$. At high temperatures, the exponent $βhν = \frac{hν}{k_B T}≪1$. <br> Then, developing to first order the exponential the average energy is $〈E〉 =   \frac{hν}{e^{βhν}- 1} = \frac{hν}{(1+ βhν+⋯ -1)} =   \frac{hν}{βhν} = k_B T$, from which Dulong and Petit's law is obtained $C_V  = (3N_A )   \frac{d〈E〉}{dT}=3N_A k_B=3R$.
 
 At low temperatures $βhν =  \frac{hν}{k_B T}≫ 1$ and the exponential $e^{ \frac{hν}{k_B T}}≫ 1$, which results in:
 
@@ -189,7 +189,7 @@ The elastic waves that represent the phonons can vibrate both in a longitudinal 
 
 STAGE 2:  description of the distribution function.
 
-As in Einstein's model, Debye considered that the same distribution function applies with discrete values of the energy $E_n: f($**v, r**$) = e^{-βE_n }$, but now $E_n$ is a continuous function of the quantized frequencies.
+As in Einstein's model, Debye considered that the same distribution function applies with discrete values of the energy <br> $E_n: f($**v, r**$) = e^{-βE_n }$, but now $E_n$ is a continuous function of the quantized frequencies.
 
 STAGE 3:  calculation of average energy.
 
