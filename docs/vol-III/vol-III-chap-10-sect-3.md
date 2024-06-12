@@ -32,7 +32,7 @@ OC-08. Promote the systematic recording of the knowledge acquired by different t
 P3: Mutual Learning (ML).
 
 OC-09. Encourage LC members to listen to and learn from each other. <br>
-OC-10. Design social activities that promote productive and respectful interactions.<br>  
+OC-10. Design social activities that promote productive and respectful interactions.
 OC-11. Encourage the members of the LC to design and prudently apply the criteria and standards characteristic of the project in which they are involved. <br>
 OC-12. Organize multiple structured social activities.
 
