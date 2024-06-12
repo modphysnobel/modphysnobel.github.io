@@ -245,7 +245,7 @@ $λ= \frac{h}{p}$
 
 “These concepts lead to an interpretation of the conditions of stability introduced by the quantum theory. Actually, if we consider a closed trajectory C in a constant field, it is very natural to assume that the phase of the associated wave must be a uniform function along this trajectory. Hence we may write:”
 
-$∫_C \frac{dl}{λ} = ∫_C \frac{dpl}{h}=integer$
+$∫_C \frac{dl}{λ} = ∫_C \frac{p}{h}dl=integer$
 
 “This is precisely Planck’s condition of stability for periodic atomic motions. The conditions of quantum stability thus emerge as analogous to resonance phenomena and the appearance of integers becomes as natural here as in the theory of vibrating cords and plates.”
 
