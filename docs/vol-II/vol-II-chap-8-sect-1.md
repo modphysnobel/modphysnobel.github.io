@@ -41,7 +41,7 @@ Since ancient times it has been assumed that the Newtonian space has the propert
 
 Each one of the previous properties of space and time implies that a physical property remains constant in the system because an invariant mathematical condition applies. What remains invariant in each case is the consequence of a symmetry with respect to a specific transformation in space or time. 
 
-The previous connection between three types of symmetry properties with their respective conservation laws is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote Richard Feynman (first two paragraphs of section 26.3, pp. 26-4 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
+The previous connection between three types of symmetry properties with their respective conservation laws is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote Richard Feynman (first two paragraphs of section 26-3 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
 
 "Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident."
 
@@ -55,7 +55,7 @@ The relationship between the invariance with respect to certain mathematical tra
 
 - The evolution in time of a mechanical system is determined when the equations of motion of the system are solved. This mathematical procedure requires the complete description as a function of time of the position of each one of the particles in the system. In the most advanced treatment of Newtonian mechanics, analytical mechanics, a physical system of N particles is described in the so-called configuration phase space, This space is composed of 6N coordinates: 3N coordinates correspond to the components of positions $[(x_1,y_1,z_1,x_2,y_2…x_N,y_N,z_N )]$ and other 3N coordinates to the components of velocities $[(\dot{x_1},\dot{y_1},\dot{z_1},\dot{x_2},\dot{y_2}…\dot{x_N},\dot{y_N},\dot{z_N})]$. In this expression the following notation has been used $\dot{x_i}=v_{x_i}= \frac{dx_i}{dt}$ for $i=1,2,3,…,N$.
 	
-- The description in the configuration space is more efficient when generalized coordinates $(q,\dot{q})$ are used instead of the cartesian coordinates $(x,v)$. The canonically conjugate variable of $qk$ is  $(\dot{q}) = (δq_k)/δt$, like the velocity associated with the position  ${\dot{x}}_{i} = v_{x_{i}} = \frac{dx_{i}}{dt}$.
+- The description in the configuration space is more efficient when generalized coordinates $(q,\dot{q})$ are used instead of the cartesian coordinates $(x,v)$. The canonically conjugate variable of $q_k$ is  $(\dot{q}) = (δq_k)/δt$, like the velocity associated with the position  ${\dot{x}}_{i} = v_{x_{i}} = \frac{dx_{i}}{dt}$.
 
 - Within the framework of analytical mechanics, the Lagrangian function (L) is defined as the difference between the kinetic energy of the system ($E_c$) and its corresponding potential energy ($E_p$): $L = E_c – E_p$. This function depends on 6N generalized coordinates and of time $t$. In this context, the action function $S$ is defined as the time integral of the Lagrangian:
 
