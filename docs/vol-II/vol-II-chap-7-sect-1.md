@@ -197,11 +197,14 @@ The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) 
 
 In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
-!!! bug "Box 7.1. Concepts in Perrin´s Lecture."
-
-	<div style="text-align:center;">
+<div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
+	<tr>
+	<th colspan="3" style="text-align: center">
+		Table 7.2. Concepts in Perrin´s Lecture.
+	</th>
+	</tr>
 	<tr>
 		<td>
 	•	fluid <br>
@@ -245,7 +248,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	</div> 
 
 
-!!! quote "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (1)."
+!!! quote "Box 7.1. Issues requiring explaining models in Perrin´s Lecture (1)."
 
 	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
 	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
@@ -266,7 +269,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
 	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
 
-!!! quote "Box 7.3. Issues requiring explaining models in Perrin´s Lecture (2)."
+!!! quote "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (2)."
 
 	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
 	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
