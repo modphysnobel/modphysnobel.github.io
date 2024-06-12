@@ -20,9 +20,9 @@ The variable $U$ has two components: the kinetic energy or thermal energy caused
 
 In statistical mechanics, the internal energy is equal to the average over the ensemble in question of the total energy of the system: $U = N_A <〈E〉$, where $〈E〉$ is the average value of the energy and $N_A$ is Avogadro's number. If the energy of each microstate has discrete values $E_i$, with probability $p_i$, $U= N_A〈E〉= N_A ∑_{i=1}^N p_i E_i$ where $p_i$ and $E_i$ are, respectively, the probability of occupation of the i-th microstate and its corresponding energy. These probabilities satisfy the normalization condition such that $∑_{i=1}^Np_i=1$.
 
-When the energy spectrum is continuous, the summation in the previous equation becomes an integral; furthermore $p_i$ is described in terms of a normalized probability distribution function $f($**v, r**$)$ and $〈E〉=\frac{∬Ef(v,r)dvdr}{∬f(v,r)dvdr}$. In Cartesian coordinates we have $d$**v** $= dv_xdv_ydv_z$ and $d$**r** $= dxdydz$.
+When the energy spectrum is continuous, the summation in the previous equation becomes an integral; furthermore $p_i$ is described in terms of a normalized probability distribution function $f(\vec{v},\vec{r})$ and $〈E〉=\frac{∬Ef(\vec{v},\vec{r})d\vec{v}d\vec{r}}{∬f(\vec{v},\vec{r})d\vec{v}d\vec{r}}$. In Cartesian coordinates we have $d\vec{v}= d\vec{v}_xdv_ydv_z$ and $d\vec{r}= dxdydz$.
 
-Next, for each one of the previously mentioned models, we consider four stages for calculating the internal energy, to then obtain the specific heat $C_V$. In the first two stages (STG1 and STG2)  the interpretation model of the physical system and the corresponding distribution function are described. The next two stages (STG3 and STG4) refer to the calculations of the average energy, the internal energy and the specific heat $C_V$.
+Next, for each one of the previously mentioned models, we consider four stages for calculating the internal energy, to then obtain the specific heat $C_V$. In the first two stages (STAGE 1 and STAGE 2)  the interpretation model of the physical system and the corresponding distribution function are described. The next two stages (STAGE 3 and STAGE 4) refer to the calculations of the average energy, the internal energy and the specific heat $C_V$.
 
 ### Dulong and Petit classic model.
 
@@ -34,11 +34,11 @@ In Cartesian coordinates $v^2 = v_x^2 + v_y^2 + v_z^2$ and $r^2 = x^2 + y^2 + z^
 
 STAGE 2: description of the distribution function.
 
-In this classical case, the function $f($**v, r**$)$ will correspond to the Maxwell-Boltzmann distribution, which describes the probability that one of the classical oscillators in the crystal lattice has an energy $E$ at temperature $T$. As we are considering only one degree of freedom, simplifying the notation and writing $v_x = v$, the total energy of the oscillator is $E = ½[mv^2 + Kx^2]$ and the distribution function $f($**v, r**$)  = f(v_x, x) =  e^{-βE}$ where $β = \frac{1}{k_B T}$ and $k_B$ is Boltzmann's constant.
+In this classical case, the function $f(\vec{v}, \vec{r})$ will correspond to the Maxwell-Boltzmann distribution, which describes the probability that one of the classical oscillators in the crystal lattice has an energy $E$ at temperature $T$. As we are considering only one degree of freedom, simplifying the notation and writing $v_x = \vec{v}$, the total energy of the oscillator is $E = ½[mv^2 + Kx^2]$ and the distribution function $f(\vec{v}, \vec{r})  = f(v_x, x) =  e^{-βE}$ where $β = \frac{1}{k_B T}$ and $k_B$ is Boltzmann's constant.
 
 STAGE 3: calculation of average energy.
 
-Calculating the average energy in an oscillator in one dimension involves solving the following integrals $〈E〉 = \frac{∫_{-∞}^∞ dv ∫_{-∞}^∞ dx(Ee^{-βE})}{∫_{-∞}^∞ dv ∫_{-∞}^∞dx(e^{-βE})}$ . We will leave aside the details of the calculation; we simply indicate the result $〈E〉 =  \frac{1}{β}=k_B T$.
+Calculating the average energy in an oscillator in one dimension involves solving the following integrals $〈E〉 = \frac{∫_{-∞}^∞ d\vec{v} ∫_{-∞}^∞ dx(Ee^{-βE})}{∫_{-∞}^∞ d\vec{v} ∫_{-∞}^∞dx(e^{-βE})}$ . We will leave aside the details of the calculation; we simply indicate the result $〈E〉 =  \frac{1}{β}=k_B T$.
 
 STAGE 4: calculation of internal energy and specific heat.
 
@@ -161,7 +161,7 @@ In this case, the crystal lattice is supposed to be formed by atoms represented 
 
 STAGE 2:  description of the distribution function.
 
-As in the previous model, the same Maxwell-Boltzmann distribution function is considered, now with discrete values of the energy $E_n: f($**v, r**$) = e^{-βE_n}$. 
+As in the previous model, the same Maxwell-Boltzmann distribution function is considered, now with discrete values of the energy $E_n: f(\vec{v}, \vec{r}) = e^{-βE_n}$. 
 
 STAGE 3: calculation of average energy.
 
@@ -189,7 +189,7 @@ The elastic waves that represent the phonons can vibrate both in a longitudinal 
 
 STAGE 2:  description of the distribution function.
 
-As in Einstein's model, Debye considered that the same distribution function applies with discrete values of the energy <br> $E_n: f($**v, r**$) = e^{-βE_n }$, but now $E_n$ is a continuous function of the quantized frequencies.
+As in Einstein's model, Debye considered that the same distribution function applies with discrete values of the energy <br> $E_n: f(\vec{v}, \vec{r}) = e^{-βE_n }$, but now $E_n$ is a continuous function of the quantized frequencies.
 
 STAGE 3:  calculation of average energy.
 
