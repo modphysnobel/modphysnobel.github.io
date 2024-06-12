@@ -26,7 +26,7 @@ In the photoelectric effect the energy of the photoelectrons that leave the meta
 
 It is for the application of the conservation of energy to the photoelectric effect that Einstein was recognized in 1921 with a Physics Nobel Prize. The Physics Nobel Committee explained that such Prize was awarded “for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect”. However, his Nobel Lecture was related to relativity theories; it was already considered in Section 4.2. 
 
-In a famous paper *On a heuristic point of view concerning the generation and conversion of light*, published in Annalen der Physik, 17, 132, (1905), Einstein wrote: *“The quanta of energy penetrate the surface of the material and their respective energies are at least in part changed into the kinetic energy of electrons.”*
+In a famous paper *On a heuristic point of view concerning the generation and conversion of light*, published in Annalen der Physik, 17, 132, (1905), Einstein wrote: “The quanta of energy penetrate the surface of the material and their respective energies are at least in part changed into the kinetic energy of electrons.”
 
 The photoelectric effect consists of the emission of electrons in certain metals due to the incidence of light radiation of certain frequencies; an electric current is generated as a consequence of the release of electrons that were trapped inside the metal. In metals there are electrons that move more or less freely through the crystal lattice; however, they will remain inside the metal surface unless they receive enough energy from the outside to overcome the metal work function (φ).
 
