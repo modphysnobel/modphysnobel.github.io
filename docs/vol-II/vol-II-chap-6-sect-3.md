@@ -48,7 +48,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	 <tr>
-        <th colspan="2" style="text-align: center"> 
+        <th colspan="3" style="text-align: center"> 
     Table 6.1. Concepts in Bohr´s Lecture. 
         </th>
     </tr>
@@ -138,7 +138,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	 <tr>
-        <th colspan="2" style="text-align: center"> 
+        <th colspan="3" style="text-align: center"> 
     Table 6.2. Concepts in Lamb´s Lecture. 
         </th>
     </tr>
@@ -219,7 +219,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
-        <th colspan="2" style="text-align: center"> 
+        <th colspan="3" style="text-align: center"> 
     Table 6.3. Concepts in Townes´ Lecture.
         </th>
     </tr>
@@ -316,7 +316,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	<table cellspacing="0" cellpadding="0">
 	<tbody>
 	<tr>
-        <th colspan="2" style="text-align: center"> 
+        <th colspan="3" style="text-align: center"> 
     Table 6.4. Concepts in Schawlow´s Lecture.
         </th>
     </tr>
