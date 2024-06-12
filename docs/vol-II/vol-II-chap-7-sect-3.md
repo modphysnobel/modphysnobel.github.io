@@ -19,11 +19,14 @@ TADIR is a problem solving procedure composed of five components: Translation (T
 (Image credit: drawings made by the authors.)
 </center>
 
-!!! bug "Box 7.1. TADIR steps of Langevin´s procedure."
-
-    <div style="text-align:center;">
+<div style="text-align:center;">
         <table cellspacing="0" cellpadding="0">
         <tbody>
+        <tr>
+        <th colspan="2" style="text-align: center"> 
+    Table 7.3 TADIR steps of Langevin´s procedure.
+        </th>
+    </tr>
         <tr>
             <td style="text-align: center">
         TRANSLATION
@@ -50,12 +53,12 @@ TADIR is a problem solving procedure composed of five components: Translation (T
         IMPLEMENTATION
         </td>
             <td>
-        6. To calculate the root mean squares of the displacements in random walks.
+        4. To calculate the root mean squares of the displacements in random walks.
             </td>
         </tr>
         <tr>
             <td>
-        7. To calculate the integrals incorporating random walk results.
+        5. To calculate the integrals incorporating random walk results.
         </td>
         </tr>
         <tr>
