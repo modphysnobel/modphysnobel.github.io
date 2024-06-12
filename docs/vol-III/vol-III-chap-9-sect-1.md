@@ -59,7 +59,7 @@ In accordance with the above, the sinusoidal function in the system at rest can 
 
 $λ=  \frac{w}{ν}=  (\frac{c^2⁄v}{ν}= \frac{c^2}{v(γν_0 )}   = (\frac{hc^2}{v})(\frac{1}{hγν_0})= (\frac{hc^2}{v})(\frac{1}{γm_0 c^2})= \frac{h}{mv+}= \frac{h}{p}$
 
-In his article *A tentative theory of light quanta*, published in Phil. Mag. 47, 446 (1924), de Broglie wrote: *"We are inclined to suppose that everybody in motion can be accompanied by a wave and that it is impossible to separate the motion of the body from the propagation of the wave."*
+In his article *A tentative theory of light quanta*, published in Phil. Mag. 47, 446 (1924), de Broglie wrote: "We are inclined to suppose that everybody in motion can be accompanied by a wave and that it is impossible to separate the motion of the body from the propagation of the wave."
 
 To have an idea of the order of magnitude of the wavelength assigned by de Broglie to particles previously considered as corpuscles, see the following table Table 9.1. The second column shows the values of $λ$ measured in Ångstroms ($1Å = 10^{-10} m$) or in Fermis ($1F = 10^{-5}Å = 10^{-15} m$). Last column indicates the value of the energy with which the electrons are accelerated, expressed in electron-volts (eV) or in the corresponding temperature in Kelvin degrees (K).
 
@@ -175,7 +175,7 @@ To have an idea of the order of magnitude of the wavelength assigned by de Brogl
 
 ### Electron diffraction.
 
-For an atom of mass $m$, radius $r$ and velocity $v$, its linear momentum is $p = mv$, the magnitude of its quantized angular momentum is $L = rp = nh/(2π)$. For $n = 1$, $p = h/(2πr)$. If $r = a_0$ is the Bohr radius $p = h/(2πa_0)$ and the de Broglie relation $λ = h/p = h/[h/(2πa_0)] = 2πa_0$. Therefore, the wavelength associated to the electron is of the order of the Bohr radius ($λ ≈ a_0 = 0.529 Å$).
+For an atom of mass $m$, radius $r$ and velocity $v$, its linear momentum is $p = mv$, the magnitude of its quantized angular momentum is $L = rp = nh/(2π)$. For $n = 1$, $p = h/(2πr)$. If $r = a_0$ is the Bohr radius, wich means $p = h/(2πa_0)$ and the de Broglie relation $λ = h/p = h/[h/(2πa_0)] = 2πa_0$. Therefore, the wavelength associated to the electron is of the order of the Bohr radius <br> ($λ ≈ a_0 = 0.529 Å$).
 
 The previous condition implies the possibility of obtaining diffraction patterns of matter waves if a beam of electrons passes through a double slit of the size of $a_0$. This would resemble the light wave diffraction experiment performed in 1801 by Thomas Young (1773 – 1829). Nevertheless, the first experiments to detect matter waves were carried out around 1927, in an industrial laboratory in the United States by Clinton Davisson (1881 - 1958) and Lester Germer (1896 -1971) and in a university laboratory in England by George Paget Thomson (1892 - 1975).
 	
