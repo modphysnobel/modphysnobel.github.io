@@ -43,7 +43,7 @@ To calculate average values of quantities related to physical observables, inter
 
 Albert Einstein (1879-1955) carried out in 1905 one of the first statistical mechanics calculations to explain the Brownian movement, having the audacity to assume the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the diffusion of many particles.
 
-In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: *“In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”*.
+In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: “In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”.
 
 Einstein considered the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein assumed that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle.
 
@@ -53,7 +53,9 @@ The diffusion of the particles can be seen as a probabilistic process where the 
 
 Einstein used the two previous equations that define $D$ and $λ_x$ and predicted that the root mean square deviation of the random displacements in an X direction had a linear behavior with respect to the temperature $T$ of the liquid and the time $t$ during which the Brownian particle suffers collisions with surrounding water molecules:
 
+<center>
 $<ΔX^2> =[(k_BT)/(3πηa)](t)$
+</center>
 
 In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 	
@@ -74,9 +76,9 @@ Einstein's theoretical work contributed to the following: (1) to demonstrate the
 
 ### Observations and measurements of the Brownian motion.
 
-The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist Robert Brown (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *“A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies”*.
+The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist Robert Brown (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies*.
 
-Many years later in 1910, Jean Perrin (1870-1942) published the results of his work in the article *"Brownian motion and molecular reality"* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
+Many years later in 1910, Jean Perrin (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
 
 Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
 	
