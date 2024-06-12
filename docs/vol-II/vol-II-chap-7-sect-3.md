@@ -116,7 +116,7 @@ If a fairly large number of particles is considered, the above equation (6) is t
 
 (7) $\frac{m}{2}\frac{d^2(〈x^2〉)}{dt^2}-m〈(\frac{dx}{dt})^2〉=〈xF_x〉-3πηa\frac{d(〈x^2〉)}{dt}$
 
-For a large number of particles, both quantities $x$ and $F_x$ are not correlated and can take both positive or negative values, so ($\bar{xF_x} = 0)$ and the equation of motion is left as
+For a large number of particles, both quantities $x$ and $F_x$ are not correlated and can take both positive or negative values, so ($〈xF_x〉 = 0)$ and the equation of motion is left as
 
 (8) $\frac{m}{2}\frac{d^2(〈x^2〉)}{dt^2}-m〈(\frac{dx}{dt})^2〉=-3πηa\frac{d(〈x^2〉)}{dt}$
 
