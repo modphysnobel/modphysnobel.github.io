@@ -87,7 +87,7 @@ The following Table 7.2 indicates in the first column the materials studied, in 
 	Sulfur
 	</td>
 	<td>
-	0.0288 
+	0.0288 <br>
 	0.0293 <br>
 	0.0298 <br>
 	0.0314 <br>
