@@ -21,7 +21,7 @@ MLA style: May-Britt Moser – Biographical. NobelPrize.org. Nobel Prize Outreac
 
 MLA style: Edvard Moser – Biographical. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 17 Dec 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/biographical/>
 
-In what follows, we quote the document WORK describing the main contributions of each one of the laureates and describe the content of his or her Nobel Lecture by indicating their corresponding subtitles. We present in three Appendices more detailed descriptions of their Nobel Lectures: Appendix 2A contains two parts: the first one related to the Accepted knowledge or questions under discussion in O´Keefe´s time, and the second one concerning O´Keefe main contributions or explanations reported in his Lecture. Next two Appendices contain excerpts of the other two Nobel Lectures: Appendix 2B corresponds to May-Britt Moser and Appendix 2C to Edvard I. Moser.
+In what follows, we quote the document WORK describing the main contributions of each one of the laureates and describe the content of his or her Nobel Lecture by indicating their corresponding subtitles. We present in three Appendices more detailed descriptions of their Nobel Lectures: Appendix 2A contains two parts: the first one related to the *Accepted knowledge or questions under discussion in O´Keefe´s time*, and the second one concerning *O´Keefe main contributions or explanations* reported in his Lecture. Next two Appendices contain excerpts of the other two Nobel Lectures: Appendix 2B corresponds to May-Britt Moser and Appendix 2C to Edvard I. Moser.
 
 ### 2014 Nobel Laurates in Physiology or Medicine: John O´Keefe, May-Britt Moser and Edvard I. Moser.
 
