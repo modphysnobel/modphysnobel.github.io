@@ -382,22 +382,6 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 ### REFERENCES
 
-MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
-
-MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
-
-MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. <https://www.nobelprize.org/prizes/physics/1955/lamb/facts/>
-
-MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. <https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/>
-
-MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
-
-MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
-
-MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/schawlow/facts/
-
-MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. <https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/>
-
 ***
 
 [**Next: 7.1. Experimental results concerning the Brownian motion.**](./vol-II-chap-7-sect-1.md)
