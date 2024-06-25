@@ -1822,19 +1822,9 @@ Physics and Chemistry Nobel Prizes
 
 MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/1915/speedread/>
 
-MLA style: William Bragg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/1915/wh-bragg/facts/>
-
-MLA style: Lawrence Bragg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/1915/wl-bragg/lecture/>
-
 MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/speedread/
 
 MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/perspectives/
-
-MLA style: Ernst Ruska – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/ruska/lecture/>
-
-MLA style: Ernst Ruska – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/ruska/facts/
-
-MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/1986/binnig/facts/>
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/press-release/>
 
@@ -1846,14 +1836,6 @@ MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/press-release/
 
-MLA style: Clifford G. Shull – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. <https://www.nobelprize.org/prizes/physics/1994/shull/lecture/>
-
-MLA style: Clifford G. Shull – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/shull/facts/
-
-MLA style: Bertram N. Brockhouse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/brockhouse/facts/
-
-MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. <https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/>
-
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/2010/popular-information/>
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/chemistry/1996/press-release/>
@@ -1862,19 +1844,9 @@ MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB
 
 MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
 
-MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. <https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/>
-
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/popular-information/
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/advanced-information/
-
-MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
-
-MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
-
-MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. <https://www.nobelprize.org/prizes/physics/2012/wineland/facts/>
-
-MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. <https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/>
 
 ***
 
