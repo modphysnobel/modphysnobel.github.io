@@ -266,14 +266,6 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. We
 Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/2014/advanced-information/>
- 
-MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
-
-MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
-
-MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/2014/amano/lecture/>
-
-MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
 Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
 
