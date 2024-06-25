@@ -249,12 +249,6 @@ PERRIN, J. Les atomes, Cuarta edición, Librairie Alcan, París, (1914).
 
 PERRIN, J. Atoms, (D.L. Hammick, Traductor), Van Nostrand, New York, (1916).
 
-Perrin´s Physics Nobel Prize
-
-MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. <https://www.nobelprize.org/prizes/physics/1926/perrin/facts/>
-
-MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
-
 ***
 
 [**Next: 8.1. Conservation laws and the existence of symmetries.**](./vol-II-chap-8-sect-1.md)
