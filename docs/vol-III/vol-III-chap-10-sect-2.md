@@ -88,7 +88,7 @@ According to the document Popular information, the detection of gravitational wa
 
 “The two arms of the LIGO interferometer are two tunnels perpendicular to each other. At the end of each tunnel of length $d = 4$ km there is a mirror that reflects the light coming from a laser. The two beams of reflected light then overlap after traveling an effective distance on each arm that differs from $d$ in much very small but significant amounts. By the effect of the gravitational wave, while the length in one arm of the interferometer is shortened, in the other arm it lengthens. Then the light travels different distances in each arm and the electromagnetic waves arrive out of phase to the meeting point where they produce interference.  This effect is amplified if the laser light bounces off the mirrors many times to increase the total distance traveled and make the difference in the lengths of each arm more evident.”
 
-In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them.Furthermore, for each laureate we include the document called WORK describing his contributions.
+In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them. Furthermore, for each laureate we include the document called WORK describing his contributions.
 
 !!! tip "2017 Physics Nobel Prize."
 
