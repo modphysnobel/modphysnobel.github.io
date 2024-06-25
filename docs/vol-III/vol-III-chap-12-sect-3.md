@@ -310,18 +310,6 @@ MLA style: *Advanced information*. NobelPrize.org. Nobel Prize Outreach AB 2023.
 
 Cao, Yuan; Fatemi, Valla; Demir, Ahmet; Fang, Shiang; Tomarken, Spencer L.; Luo, Jason Y.; Sanchez-Yamagishi, Javier D.; Watanabe, Kenji; Taniguchi, Takashi; Kaxiras, Efthimios; Ashoori, Ray C.; Jarillo-Herrero, Pablo (5 de marzo de 2018). *Correlated insulator behaviour at half-filling in magic-angle graphene superlattices*. En Springer Science and Business Media LLC, ed. Nature 556 (7699): 80-84.
 
-MLA style: Klaus von Klitzing – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1985/klitzing/lecture/>
-
-MLA style: Horst L. Störmer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. <https://www.nobelprize.org/prizes/physics/1998/stormer/lecture/>
-
-MLA style: Robert B. Laughlin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023.    Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/laughlin/lecture/
-
-MLA style: Daniel C. Tsui – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1998/tsui/lecture/>
-
-MLA style: Robert B. Laughlin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/
-
-MLA style: Horst L. Störmer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/stormer/facts/
-
 **Electrons in New Guises**. 
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 30 Apr 2024. <https://www.nobelprize.org/prizes/physics/1998/press-release/>
