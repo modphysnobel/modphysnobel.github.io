@@ -115,35 +115,16 @@ Chemistry Nobel Prizes.
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/ceremony-speech/
 
-MLA style: Walther Nernst – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/facts/
-
-MLA style: Walther Nernst – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/lecture/
-
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/chemistry/1949/ceremony-speech/
-
-MLA style: William F. Giauque – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/facts/
-
-MLA style: William F. Giauque – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. <https://www.nobelprize.org/prizes/chemistry/1949/giauque/lecture/>
 
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/ceremony-speech/
 
-MLA style: Lars Onsager – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. <https://www.nobelprize.org/prizes/chemistry/1968/onsager/facts/>
-
-MLA style: Lars Onsager – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/lecture/
-
 MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/
 
-MLA style: Ilya Prigogine – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. <https://www.nobelprize.org/prizes/chemistry/1977/prigogine/facts/>
-
-MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
 
 **5.2. The photon is a quantum of energy.**
 
 Physics Nobel Prizes. 
-
-MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
-
-MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/
 
 MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
 
