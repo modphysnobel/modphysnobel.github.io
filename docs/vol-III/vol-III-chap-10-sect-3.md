@@ -149,19 +149,8 @@ Linn, M.C. and His, S. (2000). *Computers, Teachers, Peers: Science learning par
 PHYSICS NOBEL PRIZES
 MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. <https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/>
 
-MLA style: Kip S. Thorne – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 4 Jun 2023. <https://www.nobelprize.org/prizes/physics/2017/thorne/lecture/>
-
 MLA style: *Popular information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 17 May 2023. <https://www.nobelprize.org/prizes/physics/2017/popular-information/>
 
-MLA style: Rainer Weiss – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. https://www.nobelprize.org/prizes/physics/2017/weiss/lecture/
-
-MLA style: Barry C. Barish – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. <https://www.nobelprize.org/prizes/physics/2017/barish/lecture/>
-
-MLA style: Rainer Weiss – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/weiss/facts/
-
-MLA style: Barry C. Barish – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. <https://www.nobelprize.org/prizes/physics/2017/barish/facts/>
-
-MLA style: Kip S. Thorne – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. <https://www.nobelprize.org/prizes/physics/2017/thorne/facts/>
 
 ***
 
