@@ -90,7 +90,7 @@ According to the document Popular information, the detection of gravitational wa
 
 In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them. Furthermore, for each laureate we include the document called WORK describing his contributions.
 
-!!! tip "2017 Physics Nobel Prize."
+!!! tip "2017 Physics Nobel Prize awarded to Weiss."
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Rainer Weiss (1932) has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
@@ -128,7 +128,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	MLA style: Rainer Weiss – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. https://www.nobelprize.org/prizes/physics/2017/weiss/lecture/
 
-!!! tip "2017 Physics Nobel Prize." 
+!!! tip "2017 Physics Nobel Prize awarded to Barish." 
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed to record gravitational waves. Barry Barish (1936) had a leading role in the project from 1994 and made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
@@ -175,7 +175,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	MLA style: Barry C. Barish – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 15 May 2023. https://www.nobelprize.org/prizes/physics/2017/barish/lecture/
 
-!!! tip "2017 Physics Nobel Prize."
+!!! tip "2017 Physics Nobel Prize awarded to Thorne."
 
 	WORK: “One consequence of Einstein’s general theory of relativity is the existence of gravitational waves. These are like ripples in a four-dimensional spacetime that occur when objects with mass accelerate. The effects are very small. Beginning in the 1970s the LIGO detector was developed. In this detector laser technology is used to measure small changes in length caused by gravitational waves. Kip Thorne (1940) has made crucial contributions to the development of the detector. In 2015 gravitational waves were detected for the first time.”
 
