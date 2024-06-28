@@ -21,7 +21,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 **In 1922** “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
-!!! tip "1922 Physics Nobel Prize."
+!!! tip "1922 Physics Nobel Prize awarded to Bohr."
 
 	WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr (1985-1962) proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
 
@@ -123,7 +123,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
  
 **In 1955**  “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
-!!! tip "1955 Physics Nobel Prize."
+!!! tip "1955 Physics Nobel Prize awarded to Lamb."
 
 	WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb (1985-1962) used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
 
@@ -196,7 +196,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 **In 1964** “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
-!!! tip "1964 Physics Nobel Prize."
+!!! tip "1964 Physics Nobel Prize awarded to Townes."
 
 	WORK: “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes (1915-2015), Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
 
@@ -294,7 +294,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 **In 1981** "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
-!!! tip "1981 Physics Nobel Prize."
+!!! tip "1981 Physics Nobel Prize awarded to Schawlow."
 
 	WORK: “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow (1921-1999) made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
 
