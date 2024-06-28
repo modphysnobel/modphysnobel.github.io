@@ -49,7 +49,7 @@ The study of Optics, as a branch of Physics, deals with three aspects of light: 
 In what follows we analyze three Nobel Prizes in Physiology or Medicine recognizing important contributions to the study of vision: the Prizes awarded in 1911 to Allvar Gullstrand, in 1967 to Ragnar Granit, Haldan Keffer Hartline and George Wald, and in 1981 to David H. Hubel and Torsten N. Wiesel.  For each one of these six laureates we analyze two kinds of publications available in the web page of the Nobel Foundation: a full quotation of the document called WORK that explains the main contributions of each laureate and the description of their Nobel Lectures that we concentrate in two boxes: the first one dedicated to *Accepted knowledge or questions under discussion in laureate´s time* and the second one regarding *Laureate´s contributions or explanations*.  
 	
 
-!!! tip "1911 Medicine Nobel Prize."
+!!! tip "1911 Medicine Nobel Prize awarded to Gullstrand."
 
 	WORK: "Our vision is based on the eye’s lens breaking up light from the outside world and converting it into an image at the back of the eye. From here, photosensitive retinal cells convert the light into nerve impulses that eventually become visual images. Calculating the path rays of light take through the eye and how an image is created is very complicated because the eye’s lens consists of different layers that refract light to different degrees. Moreover, the lens also changes shape. However, Allvar Gullstrand (1862-1930) succeeded in doing just that in the 1890s using advanced mathematics."
 
@@ -74,7 +74,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- Knowledge about the structure of the cornea required more precise information about the shape and thickness of the lens surfaces as well as about how the convergence of light changes during passage through the heterogeneous medium. 
  
-!!! tip "1967 Medicine Nobel Prize."
+!!! tip "1967 Medicine Nobel Prize awarded to Granit."
 	WORK: "Our vision works by the light around us being captured by a large number of light-sensitive cells located in the retinas at the back of our eyes. After a series of nerve switches and conversions of chemical and electrical signals, this results in visual impressions. Using very sophisticated electrodes, Ragnar Granit (1900-1991) was able to study the electrical impulses from the retina’s cells. In studies conducted from the 1930s to the 1950s, he demonstrated that there are different types of cones (the cells that enable color vision) and that these are sensitive to light of three different wavelengths."
 
 	MLA style: Ragnar Granit – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/facts/>
@@ -102,7 +102,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- “The mechanism of colour reception is organized by the peripheral visual apparatus, the number of colour-sensitive elements is relatively limited, and these elements represent widely different regions of the visible spectrum.”
 
-!!! tip "1967 Medicine Nobel Prize."
+!!! tip "1967 Medicine Nobel Prize awarded to Hartline."
 	WORK: "Our vision functions because light from the surrounding world is captured by many light-sensitive cells in the retina at the back of the eye. A series of reconnections and transformations of chemical and electrical signals finally result in visual impressions. In studies of the horseshoe crab around 1950, Keffer Hartline (1903-1983) analyzed how the primary signals from visual cells are processed in a network of nerve cells. Among other things, he showed that when a cell is stimulated, signals from surrounding cells are suppressed. This makes it easier to understand the concept of contrasts."
 
 	MLA style: Keffer Hartline – – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/>
@@ -127,7 +127,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- “The unitary analysis of visual function has yielded substantial knowledge about receptor properties, and about dynamic integrative mechanisms in the retina. The main results of these clarification efforts have been the following: (1) the codification process of impulses generated in the sensory cells when they respond to different intensities and duration of illumination on visual receptors and (2) the mechanisms associated to the perception of brightness, form, and motion.”
 
-!!! tip "1967 Medicine Nobel Prize."
+!!! tip "1967 Medicine Nobel Prize awarded to Wald."
 	WORK: "Our vision functions because light from the surrounding world is captured by many light-sensitive cells in the retina at the back of the eye. George Wald (1906-1997) found that vitamin A is an important component in rhodopsin, a light-sensitive substance in the retina, and explained in a series of studies from the 1930s to the 1960s how light causes rhodopsin to change form and be converted. This conversion gives rise to signals in a complicated network of nerve cells by which a number of reconnections and transformations occur before the signals eventually are transformed into visual impressions in the brain."
 
 	MLA style: George Wald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/facts/>
@@ -156,7 +156,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- “…..some of the most significant aspects of the photoreceptor process come from its being laid out in two dimensions: on the molecular level, in two-dimensional arrays of oriented molecules, the membranes that compose the photoreceptor organelles; and on the cellular level, in the single layer of receptor cells that composes the retinal mosaic.”
 
-!!! tip "1981 Medicine Nobel Prize."
+!!! tip "1981 Medicine Nobel Prize awarded to Hubel."
 	WORK: "Our vision works by the light around us being captured by a large number of light-sensitive cells located in the retinas at the back of our eyes. The light is converted into signals that are sent to the brain and there converted into visual impressions. David Hubel (1926-2013) and Torsten Wiesel clarified how this process works during the 1960s: In the cerebral cortex signals are analyzed in sequence by cells with the specific tasks of interpreting contrasts, patterns, and movements. They also showed that this ability develops in children during the initial period after birth."
 
 	MLA style: David H. Hubel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/>
@@ -199,7 +199,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 	"This precise organization called to question the role that experience plays in the development of the visual system. In a series of papers, Hubel and Wiesel showed that blocking visual input from one eye during the first few months of life dramatically altered the organization of the columns. When an eye of an adult cat was deprived of input, the organization of the ocular dominance columns did not change. Hubel and Wiesel concluded that such plasticity is limited to early life, and called this a ‘critical period’ of visual cortex development. The discovery of critical periods demonstrated how experience shapes the developing brain’s circuitry, thus perception of the external world. This finding applies across all sensory systems, and even has been shown to be present in the development of social behavior and language acquisition. This critical period of visual plasticity forms the basis for medical interventions in strabismus and amblyopia in children."
  
 
-!!! tip "1981 Medicine Nobel Prize."
+!!! tip "1981 Medicine Nobel Prize awarded to Wiesel."
 	WORK: "Our vision works by the light around us being captured by a large number of light-sensitive cells located in the retinas at the back of our eyes. The light is converted into signals that are sent to the brain and there converted into visual impressions. Torsten Wiesel (1924) and David Hubel clarified how this process works during the 1960s: In the cerebral cortex signals are analyzed in sequence by cells with the specific tasks of interpreting contrasts, patterns, and movements. They also showed that this ability develops in children during the initial period after birth."
 
 	MLA style: Torsten N. Wiesel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/facts/>
