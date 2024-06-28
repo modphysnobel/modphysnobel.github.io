@@ -28,7 +28,7 @@ The crystallographic structure of graphene resembles that of graphite, determine
 - The material remains stable at room temperature and does not oxidize in contact with air.
 - The electric charge carriers in graphene monolayers behave as massless fermions, while in graphene double layers such charge carriers do manifest mass.”
 
-!!! tip "1986 Physics Nobel Prize."
+!!! tip "1986 Physics Nobel Prize awarded to Binnig."
 
     WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
 
@@ -137,7 +137,7 @@ For more advanced explanations consult Scientific background: *Measuring and man
 
 Next, for each laureate we quote the section WORK and the title and subtitles of their lectures.
 
-!!! tip "2012 Physics Nobel Prize."
+!!! tip "2012 Physics Nobel Prize awarded to Haroche."
 
     WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
 
@@ -159,7 +159,7 @@ Next, for each laureate we quote the section WORK and the title and subtitles of
     ACKNOWLEDGMENTS
 
 
-!!! tip "2012 Physics Nobel Prize."
+!!! tip "2012 Physics Nobel Prize awarded to Wineland."
 
     WORK (Wineland): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
 
