@@ -25,7 +25,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 ### 2014 Nobel Laurates in Physiology or Medicine: John O´Keefe, May-Britt Moser and Edvard I. Moser.
 
-!!! tip "2014 Medicine Nobel Prize."
+!!! tip "2014 Medicine Nobel Prize awarded to O’Keefe."
 	WORK: "The awareness of one’s location and how to find the way to other places is crucial for both humans and animals. To understand the ability to orient ourselves in space, John O’Keefe (1939) studied the movements of rats and signals from nerve cells in the hippocampus, an area located in the center of the brain. In 1971 he discovered that when a rat was at a certain location in a room, certain cells were activated, and that when the rat moved to another location, other cells became activated. That is to say, the cells form a kind of internal map of the room."
 
 	MLA style: John O'Keefe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/>
@@ -37,7 +37,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 	MLA style: John O’Keefe – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/okeefe/lecture/>
 
-!!! tip "2014 Medicine Nobel Prize."
+!!! tip "2014 Medicine Nobel Prize awarded to May-Britt Moser."
 	WORK: "The awareness of one’s location and how to find the way to other places is crucial for both humans and animals. In 2005 May-Britt Moser (1963) and Edvard I. Moser discovered a type of cell that is important for determining position close to the hippocampus, an area located in the center of the brain. They found that when a rat passed certain points arranged in a hexagonal grid in space, nerve cells that form a kind of coordinate system for navigation were activated. They then went on to demonstrate how these different cell types cooperate."
 
 	MLA style: May-Britt Moser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/>
@@ -53,7 +53,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 	MLA style: May-Britt Moser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/lecture/>
 
-!!! tip "2014 Medicine Nobel Prize."
+!!! tip "2014 Medicine Nobel Prize awarded to Edvard I. Moser."
 	WORK: "The awareness of one’s location and how to find the way to other places is crucial for both humans and animals. In 2005 May-Britt Moser and Edvard I. Moser (1962) discovered a type of cell that is important for determining position close to the hippocampus, an area located in the center of the brain. They found that when a rat passed certain points arranged in a hexagonal grid in space, nerve cells that form a kind of coordinate system for navigation were activated. They then went on to demonstrate how these different cell types cooperate."
 
 	MLA style: Edvard I. Moser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts/>
