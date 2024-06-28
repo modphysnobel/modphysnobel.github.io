@@ -143,7 +143,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 	
 “The most significant advance which chemistry owes to Nernst’s thermochemical work might in short be stated by saying that it is now possible to calculate beforehand the conditions under which a given chemical reaction will take place to the extent where a required product will be obtained in sufficient quantities to make the method of production a practical proposition. Technical difficulties can naturally appear during the course of the experiments, but it is a most significant step forward to know that the aim can be achieved and that there is every chance that the experiments will finally succeed.”
 
-!!! tip "1920 Chemistry Nobel Prize."
+!!! tip "1920 Chemistry Nobel Prize awarded to Nernst."
 
 	WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst (1864-1941) was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
 
@@ -196,7 +196,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 “Giauque’s achievements in the field of chemical thermodynamics and especially his work on the behaviour of matter at low temperatures and his closely allied studies of entropy comprise one of the most significant contributions to modern physical chemistry.” …
 
-!!! tip "1949 Chemistry Nobel Prize."
+!!! tip "1949 Chemistry Nobel Prize awarded to Giauque."
 
 	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque (1895-1982) used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
 
@@ -242,7 +242,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 “The proof of the reciprocal relations was brilliant. Onsager started from a statistical mechanical calculation of the fluctuations in a system, which could be directly based on the simple laws of motion which are symmetrical with regard to time. Furthermore, he made the independent assumption that the return of a fluctuation to equilibrium in the mean occurs according to the transport equations mentioned earlier. By means of this combination of macroscopic and microscopic concepts in conjunction with an extremely skilful mathematical analysis he obtained those relationships which are now called Onsager’s Reciprocal Relations.”
 
-!!! tip "1968 Chemistry Nobel Prize."
+!!! tip "1968 Chemistry Nobel Prize awarded to Onsager."
 
 	WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager (1903-1976) analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
 
@@ -274,7 +274,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 “Prigogine has been particularly captivated by the problem of explaining how ordered structures – biological systems, for example – can develop from disorder. Even if Onsager’s relations are utilized, the classical principles of equilibrium in thermodynamics still show that linear systems close to equilibrium always develop into states of disorder which are stable to perturbations and cannot explain the occurrence of ordered structures.” 
 
-!!! tip "1977 Chemistry Nobel Prize."
+!!! tip "1977 Chemistry Nobel Prize awarded to Prigogine."
 
 	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine (1917-2003) developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
  
