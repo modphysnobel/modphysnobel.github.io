@@ -11,9 +11,9 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP1995:** awarded "for pioneering experimental contributions to lepton physics" jointly with one half to Martin L. Perl "for the discovery of the tau lepton" and with one half to Frederick Reines "for the detection of the neutrino". We focus only on Reines.
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Reines."
 
-	WORK (Reines): “During the beta decay of a nucleus, a neutron is converted to a proton and an electron is produced. In studying the electron’s velocity, it was clear that this decay violated energy-conversation and other laws. It was thus proposed that an additional particle—a neutrino—was formed during beta decay. In the early 1950s, Frederick Reines passed radiation from a nuclear reactor through a water tank and discovered reactions that proved the neutrino’s existence.”
+	WORK: “During the beta decay of a nucleus, a neutron is converted to a proton and an electron is produced. In studying the electron’s velocity, it was clear that this decay violated energy-conversation and other laws. It was thus proposed that an additional particle—a neutrino—was formed during beta decay. In the early 1950s, Frederick Reines passed radiation from a nuclear reactor through a water tank and discovered reactions that proved the neutrino’s existence.”
 
 !!! info "PHYSICS CONTENT (based on *Press release, Award ceremony speech* and *Advanced information*)."
 
@@ -27,10 +27,12 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP2002:** divided, one half jointly to Raymond Davis Jr. and Masatoshi Koshiba "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos" and the other half to Riccardo Giacconi "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources".
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Davis."
 
-	WORK (Davis): “In certain nuclear reactions (such as when protons combine to form helium nuclei) elusive particles called neutrinos are created. Raymond Davies wanted to detect neutrinos in radiation from space to confirm the theory that this kind of nuclear reaction is the source of the sun’s energy. Beginning in the 1960s, he placed a large tank containing a chlorine-rich liquid inside a mine. In rare cases, a neutrino interacted with a chlorine atom to form an argon atom. By counting these argon atoms, neutrinos from space could be detected.”
+	WORK: “In certain nuclear reactions (such as when protons combine to form helium nuclei) elusive particles called neutrinos are created. Raymond Davies wanted to detect neutrinos in radiation from space to confirm the theory that this kind of nuclear reaction is the source of the sun’s energy. Beginning in the 1960s, he placed a large tank containing a chlorine-rich liquid inside a mine. In rare cases, a neutrino interacted with a chlorine atom to form an argon atom. By counting these argon atoms, neutrinos from space could be detected.”
 
+
+!!! tip "Physics Nobel Prize awarded to Koshiba."
 	WORK (Koshiba): “Certain nuclear reactions, including those where hydrogen atoms combine with helium, form elusive particles called neutrinos. By proving the existence of neutrinos in cosmic radiation, Raymond Davis showed that the sun's energy originates from such nuclear reactions. From 1980, Masatoshi Koshiba provided further proof of this through measurements taken inside an enormous water tank within a mine. In rare cases, neutrinos react with atomic nuclei in water, creating an electron and thus a flash of light that can be detected.”
 
 !!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)."
@@ -43,9 +45,9 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 	- The works of Davis and Koshiba have led to a new field of research, neutrino astronomy, where the intensities of high energy neutrinos are estimated from  astrophysical sources such as neutron stars, pulsars, binary systems, active galactic nuclei, and supernovae, as well as blazars (objects which emit energy across the entire electromagnetic spectrum, and are characterized by a variability which scales from long to short periods).
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Giacconi."
 
-	WORK (Giacconi): “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes”.
+	WORK: “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes”.
 
 !!! info "PHYSICS CONTENT (based on *Press release* and *Popular information*)."
 
@@ -55,11 +57,13 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP2015:** awarded jointly to Takaaki Kajita and Arthur B. McDonald "for the discovery of neutrino oscillations, which shows that neutrinos have mass".
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Kajita."
 
-	WORK (Kajita): “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In the Super-Kamiokande detector, an experimental facility in a mine in Japan in 1998, Takaaki Kajita detected neutrinos created in reactions between cosmic rays and the Earth’s atmosphere. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
+	WORK: “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In the Super-Kamiokande detector, an experimental facility in a mine in Japan in 1998, Takaaki Kajita detected neutrinos created in reactions between cosmic rays and the Earth’s atmosphere. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
 
-	WORK (McDonald): “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In an experimental facility in a mine in Canada in 2000, Arthur McDonald studied neutrinos created in nuclear reactions in the sun. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
+
+!!! tip "Physics Nobel Prize awarded to McDonald."
+	WORK: “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In an experimental facility in a mine in Canada in 2000, Arthur McDonald studied neutrinos created in nuclear reactions in the sun. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
 
 !!! info "PHYSICS CONTENT (based on *Press release, Popular information* and *Advanced information*)."
 
@@ -79,9 +83,9 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP1978:** divided, one half awarded to Pyotr Leonidovich Kapitsa "for his basic inventions and discoveries in the area of low-temperature physics", the other half jointly to Arno Allan Penzias and Robert Woodrow Wilson "for their discovery of cosmic microwave background radiation". We focus only on Penzias and Wilson.
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Penzias and Wilson."
 
-	WORK (Penzias and Wilson): “Radiation falls toward the earth from outer space. This cosmic radiation initially appeared to become weaker as wavelengths of the radiation became shorter. However, when Arno Penzias and Robert Wilson studied cosmic radiation in 1964, they discovered that microwaves with a wavelength of about 7 centimeters were stronger than expected. At first they thought that the results were caused by distortions or faults in the measurements, but that was not the case. This cosmic background radiation probably is a remnant of the Big Bang when the universe was created.”
+	WORK: “Radiation falls toward the earth from outer space. This cosmic radiation initially appeared to become weaker as wavelengths of the radiation became shorter. However, when Arno Penzias and Robert Wilson studied cosmic radiation in 1964, they discovered that microwaves with a wavelength of about 7 centimeters were stronger than expected. At first they thought that the results were caused by distortions or faults in the measurements, but that was not the case. This cosmic background radiation probably is a remnant of the Big Bang when the universe was created.”
 
 !!! info "PHYSICS CONTENT (based on *Speed read* and *Press release*)."
 
@@ -91,11 +95,13 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP2006:** awarded jointly to John C. Mather and George F. Smoot "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation".
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Mather."
 
-	WORK (Mather): “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. John Mather, a driving force in the project, had particular responsibility for a part that in 1989 indicated that cosmic background radiation’s spectrum corresponds to black-body radiation—radiation emitted by a dark, glowing body. The result provided evidence that the background radiation is a remnant from the creation of the universe in the Big Bang.”
+	WORK: “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. John Mather, a driving force in the project, had particular responsibility for a part that in 1989 indicated that cosmic background radiation’s spectrum corresponds to black-body radiation—radiation emitted by a dark, glowing body. The result provided evidence that the background radiation is a remnant from the creation of the universe in the Big Bang.”
 
-	WORK (Smoot): “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. George Smoot led a project that in 1992 was able to point out small variations in radiation in different directions. This provides a clue to how stars and other heavenly bodies have come into existence. The variations can be explained by a kind of quantum mechanical fluctuations that have caused matter in certain places to form clumps that then have grown because of gravitation."
+!!! tip "Physics Nobel Prize awarded to Smoot."
+
+	WORK: “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. George Smoot led a project that in 1992 was able to point out small variations in radiation in different directions. This provides a clue to how stars and other heavenly bodies have come into existence. The variations can be explained by a kind of quantum mechanical fluctuations that have caused matter in certain places to form clumps that then have grown because of gravitation."
 
 !!! info "PHYSICS CONTENT (based on *Press release, Speed read* and *Popular Information*)."
 
@@ -109,9 +115,9 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP2011:** divided, one half awarded to Saul Perlmutter, the other half jointly to Brian P. Schmidt and Adam G. Riess "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae".
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Perlmutter, Schmidt, and Riess."
 
-	WORK (Perlmutter, Schmidt, and Riess): “The universe’s stars and galaxies are moving away from one another; the universe is expanding. Up until recently, the majority of astrophysicists believed that this expansion would eventually wane, due to the effect of opposing gravitational forces. Saul Perlmutter, Brian Schmidt, and Adam Riess studied exploding stars, called supernovae. Because the light emitted by stars appears weaker from a larger distance and takes on a reddish hue as it moves further from the observer, the researchers were able to determine how the supernovae moved. In 1998 they reached a surprising result: the universe is expanding at an ever-increasing rate.”
+	WORK: “The universe’s stars and galaxies are moving away from one another; the universe is expanding. Up until recently, the majority of astrophysicists believed that this expansion would eventually wane, due to the effect of opposing gravitational forces. Saul Perlmutter, Brian Schmidt, and Adam Riess studied exploding stars, called supernovae. Because the light emitted by stars appears weaker from a larger distance and takes on a reddish hue as it moves further from the observer, the researchers were able to determine how the supernovae moved. In 1998 they reached a surprising result: the universe is expanding at an ever-increasing rate.”
 
 !!! info "PHYSICS CONTENT (based on *Presse release* and *Popular information*)."
 
@@ -135,9 +141,9 @@ Again, as in previous section, PNP means Physics Nobel Prize.
 
 **PNP2019:** awarded "for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos" with one half to James Peebles "for theoretical discoveries in physical cosmology", the other half jointly to Michel Mayor and Didier Queloz "for the discovery of an exoplanet orbiting a solar-type star".
 
-!!! tip "Physics Nobel Prize."
+!!! tip "Physics Nobel Prize awarded to Peebles."
 
-	WORK (Peebles): “Fundamental questions about the universe’s structure and history have always fascinated human beings. James Peebles’ theoretical framework, developed since the mid-1960s, is the basis of our contemporary ideas about the universe. The cosmic background radiation is a remaining trace of the formation of the universe. Using his theoretical tools and calculations, James Peebles was able to interpret these traces from the infancy of the universe and discover new physical processes. The results showed us a universe in which just five per cent of its content is known matter. The rest, 95 per cent, is unknown dark matter and dark energy.”
+	WORK: “Fundamental questions about the universe’s structure and history have always fascinated human beings. James Peebles’ theoretical framework, developed since the mid-1960s, is the basis of our contemporary ideas about the universe. The cosmic background radiation is a remaining trace of the formation of the universe. Using his theoretical tools and calculations, James Peebles was able to interpret these traces from the infancy of the universe and discover new physical processes. The results showed us a universe in which just five per cent of its content is known matter. The rest, 95 per cent, is unknown dark matter and dark energy.”
 
 !!! info "PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information*, and *Advanced Information*)."
 
