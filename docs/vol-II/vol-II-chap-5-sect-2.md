@@ -88,7 +88,7 @@ According to experimental results, the maximum intensity of the radiation emitte
 
 Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law. Wien´s Physics Nobel Lecture *On the Laws of Thermal Radiation* is considered in section 5.3 and in Appendix 5.1. A concise description of Wien contributions is given by official Nobel document called FACTS.
 
-!!! tip "1911 Physics Nobel Prize." 
+!!! tip "1911 Physics Nobel Prize awarded to Wien." 
 
 	WORK: “When a completely dark body is heated, it emits visible light and other electromagnetic radiation. The spectrum of the radiation is entirely dependent on the temperature of the body and not its composition. In 1893 Wilhelm Wien (1864-1928) formulated his displacement law, which indicates at which wavelength the radiation is most intense at a certain temperature. He subsequently also formulated a law indicating how the radiation spectrum varies as temperature changes. However, this does not apply to long wavelengths, and in 1900 Max Planck formulated a law that conforms better.”
 
