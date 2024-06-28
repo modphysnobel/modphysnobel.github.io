@@ -57,7 +57,7 @@ Starting in 1912 Max von Laue and his assistants obtained photographs showing in
 
 Bragg´s law relates the observed X-ray diffraction pattern to the arrangement of atoms in the crystal that produces the pattern. The experiments made by the Braggs proved the wave-like nature of X-rays and demonstrated that crystals are made of three-dimensional regular, repeating geometrical patterns of atoms, forming natural diffraction gratings. 
 
-!!! tip "1915 Physics Nobel Prize."
+!!! tip "1915 Physics Nobel Prize awarded to Bragg."
 	
 	WORK: “Max von Laue's discovery that diffraction patterns occur when X-rays pass through crystals inspired William and Lawrence Bragg to conduct their own studies in the area. Their contributions included establishing the relationship between the wavelength of the X-ray, its angle of incidence, and the distance between the atomic layers inside the crystal. This provided a powerful tool for studying crystals' structures. Using diffraction pattern methods, it now also became possible to calculate the positions of atoms in crystalline structures.”
 
@@ -113,7 +113,7 @@ Light waves are diffracted when they pass through the spaces inside the material
 
 The contributions made by Ernst Ruska are now considered in two parts: (1) by including a short description of his works, and (2) by including excerpts from his Nobel Lecture. 
 
-!!! tip "1986 Physics Nobel Prize."
+!!! tip "1986 Physics Nobel Prize awarded to Ruska."
 	
 	WORK: “Very small objects can be studied in a microscope, but when objects become as small as the wavelength of light, an image no longer is produced. The discovery that beams of electrons behave as waves with wavelengths shorter than visible light opened up new opportunities. Ernst Ruska discovered that a magnetic coil could be used as a lens for electron beams and developed the first electron microscope in 1933. It captures images of extremely small objects by means of electron beams that are directed towards an object and captured on a screen.”
 
@@ -167,7 +167,7 @@ In 1981 Gerd Binnig and Heinrich Rohrer built a scanning tunneling microscope to
 
 Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, for instance: the production of extremely fine stylus so that the tip contained only a few atoms, and the elimination of environment vibrations by placing the microscope upon a heavy permanent magnet floating freely in a dish of superconducting lead.
 
-!!! tip "1986 Physics Nobel Prize."
+!!! tip "1986 Physics Nobel Prize awarded to Binnig."
 
 	WORK: “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
 
@@ -191,7 +191,7 @@ Neutrons have interesting scattering properties because their energy is of the s
 
 Shull developed neutron scattering techniques based on the diffraction of elastically scattered neutrons (there is no energy change) and the wavelength of neutrons leaving out from a reactor are roughly equal to the distance between the atoms in a solid body or a liquid. By following the directions of the scattered neutrons, the structure in which the atoms are arranged can be determined. Furthermore, as protons are very efficient neutron scattering centers their positions can be determined with neutron diffraction. 
 
-!!! tip "1994 Physics Nobel Prize."
+!!! tip "1994 Physics Nobel Prize awarded to Shull."
 	
 	WORK: “Atomic nuclei are composed of protons and neutrons. Clifford Shull and Bertram Brockhouse developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. According to principles of quantum mechanics, neutrons and other particles can be described as a wave movement, and neutron radiation that passes a regular atomic structure gives rise to diffraction patterns. In 1946 Shull developed methods to make use of this to determine the structure of different molecules and materials.”
 
@@ -203,7 +203,7 @@ Shull developed neutron scattering techniques based on the diffraction of elasti
 
 	MLA style: Clifford G. Shull – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/shull/lecture/
 
-!!! tip "1994 Physics Nobel Prize."
+!!! tip "1994 Physics Nobel Prize awarded to Brockhouse."
 	
 	WORK: “Atomic nuclei are composed of protons and neutrons. Bertram Brockhouse and Clifford Shull developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. When neutron beams come in contact with a material, some of the neutron’s energy is converted into vibrations. The vibrations, known as phonons, correspond to fixed energy levels that form a spectrum. During the 1950s Bertram Brockhouse developed methods for using these spectrums to chart properties of different molecules and materials.”
 
