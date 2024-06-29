@@ -13,7 +13,7 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 1 Mar 2023. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
 
-	Nobel Lecture: *Carriers of Negative Electricity*.
+	NOBEL LECTURE: *Carriers of Negative Electricity*.
 
 	- Introductory
 	- Electric deflection of the rays
@@ -40,7 +40,7 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: Robert A. Millikan – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
 
-	Nobel Lecture: *The Electron and the Light-Quant from the Experimental Point of View.*
+	NOBEL LECTURE: *The Electron and the Light-Quant from the Experimental Point of View.*
 
 	MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/>
 
@@ -61,7 +61,7 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: James Franck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023.	<https://www.nobelprize.org/prizes/physics/1925/franck/facts/>
 
-	Nobel Lecture: *Transformation of Kinetic Energy of Free Electrons into Excitation Energy of Atoms by Impacts.*
+	NOBEL LECTURE: *Transformation of Kinetic Energy of Free Electrons into Excitation Energy of Atoms by Impacts.*
 
 	MLA style: James Franck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 3 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/lecture/>
 
@@ -96,7 +96,7 @@ In what follows, we consider two kinds of publications that are available in the
 	MLA style: Gustav Hertz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. 
 	<https://www.nobelprize.org/prizes/physics/1925/hertz/facts/>
 	
-	Nobel Lecture: *The Results of the Electron-Impact Tests in the Light of Bohr’s Theory of Atoms.*
+	NOBEL LECTURE: *The Results of the Electron-Impact Tests in the Light of Bohr’s Theory of Atoms.*
 
 	MLA style: Gustav Hertz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
@@ -124,7 +124,7 @@ In what follows, we consider two kinds of publications that are available in the
 
 	MLA style: Arthur H. Compton – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1927/compton/facts/>
 
-	Nobel Lecture: *X-rays as a Branch of Optics.*
+	NOBEL LECTURE: *X-rays as a Branch of Optics.*
 
 	• The refraction and reflection of X-rays
 
