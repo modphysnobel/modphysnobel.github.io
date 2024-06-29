@@ -30,7 +30,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 	MLA style: John O'Keefe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/okeefe/facts/>
 
-	Nobel Lecture: *Spatial Cells in the Hippocampal Formation.*
+	NOBEL LECTURE: *Spatial Cells in the Hippocampal Formation.*
 
 	- Introduction
 	- What about the other cell types required by the theory?
@@ -42,7 +42,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 	MLA style: May-Britt Moser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/facts/>
 
-	Nobel Lecture: *Grid Cells, Place Cells and Memory.*
+	NOBEL LECTURE: *Grid Cells, Place Cells and Memory.*
 
 	- THE RELATIONSHIP BETWEEN GRID CELLS AND PLACE CELLS.
 	- ENTORHINAL SPEED CELLS.
@@ -58,7 +58,7 @@ In what follows, we quote the document WORK describing the main contributions of
 
 	MLA style: Edvard I. Moser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/facts/>
 
-	Nobel Lecture: *Grid Cells and the Enthorinal Map of Space.*
+	NOBEL LECTURE: *Grid Cells and the Enthorinal Map of Space.*
 
 	1.	From psychology to neurophysiology—and back.
 	2.	Moving into unknown territory—the entorhinal cortex.
