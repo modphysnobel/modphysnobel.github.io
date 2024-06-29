@@ -124,12 +124,6 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 **5.2. The photon is a quantum of energy.**
 
-Physics Nobel Prizes. 
-
-MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
-
-MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
-
 KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (1962).
 
 ***
