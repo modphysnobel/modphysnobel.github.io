@@ -115,7 +115,7 @@ Nevertheless, there was a time in the history of physics when the unproven exist
 
 ### Chemistry Nobel Lectures related to Thermodynamics.
 
-In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: (1) some excerpts from the *Presentation Speech* corresponding to the *Award ceremony speech*, (2) the complete document called *WORK* which is a descriptive explanation of the contributions made by the laureate and (3) his *Nobel Lecture*, including the title and subtitles, when they are in the original, and some excerpts from the beginning of the document. At the end of the chapter, we present the appropriate references in MLA format.
+In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: some excerpts from the *Presentation Speech* corresponding to the *Award ceremony speech*, the complete document called *WORK* which is a descriptive explanation of the contributions made by the laureate, and his *Nobel Lecture*, including the title and subtitles, when they are in the original. For all these documents their appropriate references are indicated in MLA format. 
 
 **In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in thermochemistry”.
 
@@ -149,7 +149,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 	MLA style: Walther Nernst – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/facts/
 
-	Nobel Lecture: *Studies in Chemical Thermodynamics*.
+	NOBEL LECTURE: *Studies in Chemical Thermodynamics*.
 
 	“I should best fulfil my obligation to give a lecture relating to my prizewinning publications, if I discussed my heat theorem, which supplements the older thermodynamics, with special reference to its chemical applications, and described the experimental tests which it has undergone in numerous investigations in my laboratory. 
 
@@ -202,7 +202,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 	MLA style: William F. Giauque – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/facts/
 
-	Nobel Lecture: *Some Consequences of Low Temperature Research in Chemical Thermodynamics*.
+	NOBEL LECTURE: *Some Consequences of Low Temperature Research in Chemical Thermodynamics*.
 
 	“The basic purpose which underlies most of the work in the Low Temperature Laboratory, of the University of California, is the study of entropy. It is easy for a chemist to write an equation for a desired reaction, but this does not mean that the reaction will actually take place. If one knows the heats of formation and entropies of the substances concerned in the equation, the so-called free energy or thermodynamic potential of the reaction may be calculated. A knowledge of the free energy change permits chemists to determine all reactions which are thermodynamically possible and the extent to which they are possible. When it has been found that a certain reaction should go, but experiment fails, then a catalyst can be sought or the conditions can be altered so as to secure a practicable rate of reaction. If the free energy shows that the reaction is thermodynamically impossible, a search for a catalyst is futile.”
 
@@ -248,7 +248,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 	MLA style: Lars Onsager – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/facts/
 
-	Nobel Lecture: *The Motion of Ions: Principles and Concepts*.
+	NOBEL LECTURE: *The Motion of Ions: Principles and Concepts*.
 
 	“Today I shall try to help you grasp the significance of a fairly general principle which applies to diverse types of irreversible processes. After last night it will be just as well if we do not go into all fine points of definitions or survey all possible applications. Rather, I want to talk about progress over a period of time in one field of research where much has happened (some of this relevant to the principle I mentioned) and intriguing problems still remain. Before we survey the progress in our understanding of electrolytes since the days of Arrhenius, let us take a quick look at what went before.”
 
@@ -280,7 +280,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
  
 	MLA style: Ilya Prigogine – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/facts/
 
-	Nobel Lecture: *Time, Structure and Fluctuations*.
+	NOBEL LECTURE: *Time, Structure and Fluctuations*.
 
 	1	Introduction.
 
