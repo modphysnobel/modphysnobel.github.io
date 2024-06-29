@@ -86,13 +86,15 @@ According to experimental results, the maximum intensity of the radiation emitte
 
 **Figure 5.5.** Wien's displacement law that shows how the color of the radiation changes with the temperature of the emitting source for different wavelengths (λ).
 
-Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law. Wien´s Physics Nobel Lecture *On the Laws of Thermal Radiation* is considered in section 5.3 and in Appendix 5.1. A concise description of Wien contributions is given by official Nobel document called FACTS.
+Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law and is considered in Wien´s Physics Nobel Lecture (section 5.3 and Appendix 5.1). 
 
 !!! tip "1911 Physics Nobel Prize awarded to Wien." 
 
 	WORK: “When a completely dark body is heated, it emits visible light and other electromagnetic radiation. The spectrum of the radiation is entirely dependent on the temperature of the body and not its composition. In 1893 Wilhelm Wien (1864-1928) formulated his displacement law, which indicates at which wavelength the radiation is most intense at a certain temperature. He subsequently also formulated a law indicating how the radiation spectrum varies as temperature changes. However, this does not apply to long wavelengths, and in 1900 Max Planck formulated a law that conforms better.”
 
 	MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
+
+	NOBEL LECTURE: *On the Laws of Thermal Radiation*.
 
 	MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/	
 
@@ -220,7 +222,17 @@ Regarding taxonomic categories, the atomic theory was little accepted at that ti
 	
 (3)	*Changes in metaphors, analogies or explanatory models*.
 
-Planck solved the blackbody radiation problem by treating it in a similar way to the probabilistic problem Boltzmann addressed. However, Planck started from different premises; his hypothesis of the quantum of energy has no analogue in classical physics.
+Planck solved the blackbody radiation problem by treating it in a similar way to the probabilistic problem Boltzmann addressed. However, Planck started from different premises; his hypothesis of the quantum of energy has no analogue in classical physics. (See section 5.3 and Appendix 5.2).
+
+!!! tip "1918 Physics Nobel Prize awarded to Planck."
+
+	WORK: “When a black body is heated, electromagnetic radiation is emitted with a spectrum corresponding to the temperature of the body, and not to its composition. Calculating the form of the spectrum using then-known physical laws gave an unreasonable result; the radiation in the high-frequency area of the spectrum became infinite. Max Planck solved this problem in 1900 by introducing the theory of “quanta”, that is, that radiation consists of quanta with specific energies determined by a new fundamental constant, thereafter called Planck’s constant.”
+
+	MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
+
+	NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory.*
+
+	MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
 
 ***
 
