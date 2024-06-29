@@ -145,7 +145,7 @@ Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted kno
 
 	MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/facts/>
  
-	Nobel Lecture: *Exclusion Principle and Quantum Mechanic.*
+	NOBEL LECTURE: *Exclusion Principle and Quantum Mechanic.*
  
 	MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. <https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/>
 
@@ -174,7 +174,7 @@ Furthermore, each Nobel Lecture is described in two boxes: one for *Accepted kno
 	MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023.                                                  
 	<https://www.nobelprize.org/prizes/physics/1954/born/facts/>
 
-	Nobel Lecture: *The Statistical Interpretations of Quantum Mechanics.*
+	NOBEL LECTURE: *The Statistical Interpretations of Quantum Mechanics.*
 
 	MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. 
 	<https://www.nobelprize.org/prizes/physics/1954/born/lecture/>
