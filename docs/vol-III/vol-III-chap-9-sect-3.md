@@ -64,7 +64,7 @@ Information contained in scientific texts to be shared is usually expressed in t
 
 (2) the strategy for the application of procedures to be communicated in terms of **dialogues** for promoting exchanges of opinions or confrontations of points of view and **discourses** for making public critical essays dealing with systems of concepts, models, or theories.
 
-Next, we analyze how the four previous communication formats can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as with the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given at the end of this chapter.
+Next, we analyze how the four previous communication formats can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given in MLA format.
 
 ### (1). Flux DIAGRAM for obtaining de Broglie equation $𝑝= ℎ/𝜆$ (as described in Section 9.1 and explained in his Nobel Lecture).
 
@@ -86,7 +86,7 @@ In Davisson-Germer experiment a gun produced an electron beam that was directed 
 </p>
 	
 
-Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. . MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
+Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
 **Figure 9.3.** Davisson- Germer experiment: (a) experimental arrangement, (b) scattered intensity as a function of the angle $θ$ for two different values of the voltage V.
 
@@ -97,6 +97,23 @@ Thomson experiments were different in two aspects:
 •	The diffracting material was not a single crystal, but a microcrystalline aggregate composed by randomly oriented individual crystals. This fact resulted in diffraction patterns of concentric circles that were received in a photographic plate.
 
 It is interesting to note that in 1897 Joseph John Thomson (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
+
+!!! tip "1906 Physics Nobel Prize awarded to Thomson."
+
+	WORK: “The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms.”
+
+	MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
+
+	NOBEL LECTURE: Carriers of Negative Electricity by J. J. Thomson.
+
+	Introductory<br>
+	Electric deflection of the rays<br>
+	Determination of e/m<br>
+	Corpuscles very widely distributed<br>
+	Magnitude of the electric charge carried by the corpuscle<br>
+	
+	MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/>
+
 
 ### (3). DIALOGUES between Bohr and Heisenberg about correspondence and uncertainty principles.
 
