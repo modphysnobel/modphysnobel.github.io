@@ -83,13 +83,13 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Ragnar Frisch, along with Jan Tinbergen, pioneered development of mathematical formulations of economics. He coined the term econometrics for studies in which he used statistical methods to describe economic systems. He is best known for his contributions to dynamic economic modeling, and in 1933 he presented the first mathematical economic model that could describe fluctuations in the business cycle. His later work concerned models for economic planning.”
 
-	Nobel Lecture: *From Utopian Theory to Practical Applications: The Case of Econometrics*.
+	NOBEL LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Ragnar Frisch before him, Jan Tinbergen was a pioneer in changing economics from a science formulated in words to one based on mathematics. During the 1930s he developed the first macroeconomic model that described in detail variables from the entire economy and placed them in a mathematical relationship with one another. Previously this could only be done in general terms, but now it could be done with concrete numbers. Tinbergen used his knowledge of statistics to test models in order to choose those that were most suitable.”
 
-	Nobel Lecture: *The Use of Models: Experience and Prospects*.
+	NOBEL LECTURE: *The Use of Models: Experience and Prospects*.
 
 ***
 
@@ -99,7 +99,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Where Ragnar Frisch and Jan Tinbergen had earlier focused on statistics and empirical data, Paul Samuelson devoted his time to theoretical methods and analysis of economics. He formalized economics research using mathematics and his work influences practically all branches of modern economics. He saw himself as the last generalist among increasingly specialized economists and was one of the foremost innovators in the New Keynesian school, which incorporated Keynes' ideas with market theories.”
 
-	Nobel Lecture: *Maximum Principles in Analytical Economics*.
+	NOBEL LECTURE: *Maximum Principles in Analytical Economics*.
 
 ***
 
@@ -109,7 +109,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Wassily Leontief created the input-output analysis, which describes the interdependence in the production system as a network of deliveries between the various sectors of production. The method provided tools for a systematic analysis of the complicated interindustrial transactions in an economy. Leontieff is also distinguished for having developed linear programming, a mathematical technique for solving complex problems of economic operations.”
 
-	Nobel Lecture: *Structure of the World Economy*.
+	NOBEL LECTURE: *Structure of the World Economy*.
 
 ***
 
@@ -119,7 +119,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Herbert Simon combined different scientific disciplines and considered new factors in economic theories. Established economic theories held that enterprises and entrepreneurs all acted in completely rational ways, with the maximization of their own profit as their only goal. In contrast, Simon held that when making choices all people deviate from the strictly rational, and described companies as adaptable systems, with physical, personal, and social components. Through these perspectives, he was able to write about decision-making processes in modern society in an entirely new way.”
 
-	Nobel Lecture: *Rational Decision-Making in Business Organizations*.
+	NOBEL LECTURE: *Rational Decision-Making in Business Organizations*.
 
 ***
 
@@ -129,13 +129,13 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “The main characteristic of Theodore Schultz’s studies is that he treated agricultural economy as an integral part of the entire economy. His analytical interest was focused on the imbalance between relative poverty and underdevelopment in agriculture compared with the higher productivity and higher income levels in industry and other urban economic activities.”
 
-	Nobel Lecture: *The Economics of Being Poor*.
+	NOBEL LECTURE: *The Economics of Being Poor*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Arthur Lewis was a leading figure and pioneer in the field of economic development. Lewis created two theoretical explanatory models designed to describe and explain the intrinsic problems of underdevelopment. The first model is based on the dual nature of a developing economy. Lewis’s other basic models relates to the determination of the terms of trade between developing and developed countries.”
 
-	Nobel Lecture: *The Slowing Down of the Engine of Growth*.
+	NOBEL LECTURE: *The Slowing Down of the Engine of Growth*.
 
 ***
 
@@ -145,7 +145,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “James Tobin’s achievements cover a broad spectrum of economic research. He made substantial contributions in such widely differing areas as econometric methods and strictly formalized game theory, the theory of household and firm behavior, general macro theory and applied analysis of economic policy. His most outstanding and significant research contribution belongs to the theory of financial markets and their relation to consumption and investment decisions, production, employment and prices.”
 
-	Nobel Lecture: *Money and Finance in the Macro-Economic Process*.
+	NOBEL LECTURE: *Money and Finance in the Macro-Economic Process*.
 
 ***
 
@@ -155,7 +155,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Debreu’s classic monograph, The Theory of Value: An Axiomatic Analysis of Economic Equilibrium, was published in 1959. In it, Debreu provided the mathematical underpinnings for the phenomenon of equilibrium in supply and demand. Debreu also made significant contributions to the theory of consumer behavior.”
 
-	Nobel Lecture: *Economic Theory in the Mathematical Mode*.
+	NOBEL LECTURE: *Economic Theory in the Mathematical Mode*.
 
 ***
 
@@ -165,7 +165,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Trygve Haavelmo was a pioneer in what became the field of economic forecasting. His statistical techniques made possible the development of econometric models that predict how a change in one aspect of the economy will affect others; that is, he demonstrated that statistical probability theory could be integrated into economic formulations. Haavelmo’s method contributed to the techniques of national economic forecasting.”
 
-	Nobel Lecture: *Econometrics and the Welfare State*.
+	NOBEL LECTURE: *Econometrics and the Welfare State*.
 
 ***
 
@@ -175,19 +175,19 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “John C. Harsanyi was awarded the Economic Sciences Prize in for his work in game theory and its application to economics. He showed how games of incomplete information can be analyzed thereby providing a theoretical foundation for a lively field of research – the economics of information. He is also known for researching utilitarian ethics and is considered one of the most important exponents of the “rule utilitarianism”.
 
-	Nobel Lecture: *Games with Incomplete Information*.
+	NOBEL LECTURE: *Games with Incomplete Information*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “John F. Nash is the only person who has been awarded both the Economic Sciences Prize and the Abel Prize. He received the Economic Sciences Prize for his work in game theory, more specifically the Nash equilibrium theory. He introduced the distinction between cooperative games and non-cooperative games. He also did ground breaking work in other mathematics and developed the Nash embedding theorem.”
 
-	Nobel Lecture: *The Work of John Nash in Game Theory*.
+	NOBEL LECTURE: *The Work of John Nash in Game Theory*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Reinhard Selten received the Economic Sciences Prize for his work in game theory, along with his co recipients John F. Nash Jr and John C. Harsanyi. He refined the Nash equilibrium concept for analyzing dynamic strategic interaction by getting rid of unlikely equilibria. He also applied the refined concept to analyses of oligopolistic competition. He is also well known for his work in bounded rationality. He also built the BonnEconLab at the University of Bonn.”
 
-	Nobel Lecture: *Multistage Game Models and Delay Supergames*.
+	NOBEL LECTURE: *Multistage Game Models and Delay Supergames*.
 
 ***
 
@@ -197,7 +197,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Which are the most important and fundamental resources in a community and how should we divide them? One focus of Amartya Sen's research is how individuals' values can be considered in collective decision-making and how welfare and poverty can be measured. His efforts stem from his interest in questions of distribution and, in particular, the lot of society's poorest members. Sen's studies have included famines, to create a deeper understanding of the economic reasons behind famine and poverty.”
 
-	Nobel Lecture: *The Possibility of Social Choice*.
+	NOBEL LECTURE: *The Possibility of Social Choice*.
 
 ***
 
@@ -207,13 +207,13 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Daniel Kahneman began his prize-awarded research in the late 1960s. In order to increase understanding of how people make economic decisions, he drew on cognitive psychology in relation to the mental process used in forming judgements and making choices. His research on decision-making under uncertainty resulted in the formulation of a new branch of economics, prospect theory.”
 
-	Nobel Lecture: *Maps of Bounded Rationality*.
+	NOBEL LECTURE: *Maps of Bounded Rationality*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Vernon Smith has laid the foundation for the field of experimental economics. He has developed an array of experimental methods, setting standards for what constitutes a reliable laboratory experiment in economics. In his own experimental work, he has demonstrated the importance of alternative market institutions, e.g., how the revenue expected by a seller depends on the choice of auction method.”
 
-	Nobel Lecture: *Constructivist and Ecological Rationality in Economics*.
+	NOBEL LECTURE: *Constructivist and Ecological Rationality in Economics*.
 
 ***
 
@@ -223,13 +223,13 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Aumann was awarded the Prize in Economic Sciences for his theory of repeated games, which enhances our understanding of the prerequisites for cooperation. Insights into these issues help explain economic conflicts, such as price wars and trade wars. He was educated at MIT in Boston, where he received his Ph. D. in 1955. After moving to Israel in 1956, he was a member of the mathematics faculty at the Hebrew University of Jerusalem.”
 
-	Nobel Lecture: *War and Peace*.
+	NOBEL LECTURE: *War and Peace*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Thomas Schelling specialized in the application of game theory to cases in which adversaries must repeatedly interact, especially in international trade, treaties and conflicts. His work prompted new developments in game theory and accelerated its use and application throughout the social sciences. Schelling’s analysis of strategic commitments has explained a wide range of phenomena, from the competitive strategies of firms to the delegation of political decision power.”
 
-	Nobel Lecture: *An Astonishing Sixty Years: The Legacy of Hiroshima*.
+	NOBEL LECTURE: *An Astonishing Sixty Years: The Legacy of Hiroshima*.
 
 ***
 
@@ -239,7 +239,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “How do human traits govern individual economic decisions and what effect do they have on markets as a whole? Since the 1980s, Richard Thaler has analyzed economic decision-making with the aid of insights from psychology. He has paid special attention to three psychological factors: the tendency to not behave completely rationally, notions of fairness and reasonableness, and lack of self-control. His findings have had a profound influence on many areas of economic research and policy.”
 
-	Nobel Lecture: *From Cashews to Nudges: The Evolution of Behavioral Economics*.
+	NOBEL LECTURE: *From Cashews to Nudges: The Evolution of Behavioral Economics*.
 
 ***
 
@@ -249,11 +249,11 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “One of humanity’s most urgent issues is the reduction of global poverty, in all its forms. Abhijit Banerjee, Esther Duflo, and Michael Kremer have introduced a new approach to obtaining reliable answers about the best ways to fight global poverty. It involves dividing this issue into smaller, more manageable, questions. Since the mid-1990s, they have been able to test a range of interventions in different areas using field experiments, for example for improving educational outcomes or child health.”
 
-	Nobel Lecture: *Field Experiments and the Practice of Economics* by Banerjee.
+	NOBEL LECTURE: *Field Experiments and the Practice of Economics* by Banerjee.
 
-	Nobel Lecture: *Field Experiments and the Practice of Policy* by Duflo.
+	NOBEL LECTURE: *Field Experiments and the Practice of Policy* by Duflo.
 
-	Nobel Lecture: *Experimentation, Innovation, and Economics* by Kremer.
+	NOBEL LECTURE: *Experimentation, Innovation, and Economics* by Kremer.
 
 ***
 
@@ -263,15 +263,15 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. Using natural experiments, David Card has analysed the labour market effects of minimum wages, immigration and education. The results showed, among other things, that increasing the minimum wage does not necessarily lead to fewer jobs, as was previously thought.”
 
-	Nobel Lecture: *Design‐based research in empirical microeconomics*.
+	NOBEL LECTURE: *Design‐based research in empirical microeconomics*.
 
 !!! tip "Physics Nobel Prize awarded to."
 
 	WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. In 1994, Joshua Angrist and Guido Imbens showed what conclusions about causation can be drawn from natural experiments in which people cannot be either forced or forbidden to participate in the programme being studied.”
 
-	Nobel Lecture: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
+	NOBEL LECTURE: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
 
-	Nobel Lecture: *Causality in econometrics: methods in conversation with practice* by Imbens.
+	NOBEL LECTURE: *Causality in econometrics: methods in conversation with practice* by Imbens.
 
 ***
 
