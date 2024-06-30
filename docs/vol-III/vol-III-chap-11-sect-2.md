@@ -28,15 +28,17 @@ The crystallographic structure of graphene resembles that of graphite, determine
 - The material remains stable at room temperature and does not oxidize in contact with air.
 - The electric charge carriers in graphene monolayers behave as massless fermions, while in graphene double layers such charge carriers do manifest mass.”
 
-!!! tip "1986 Physics Nobel Prize awarded to Binnig."
+!!! tip "2010 Physics Nobel Prize awarded to Geim and Novoselov."
 
     WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
 
     We deal with Geim´s Nobel Lecture *Random Walk to Graphen* in next section 11.3.
 
-    MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/binnig/facts/
+    MLA style
 
-    Nobel Lecture: *Graphene: Materials in the Flatlan*.
+    We deal with Geim´s Nobel Lecture Random Walk to Graphen in next section 11.3.
+
+    NOBEL LECTURE: *Graphene: Materials in the Flatlan* by Novoselov.
 
     *GRAPHENE AND ITS UNUSUAL PROPERTIES*
 
@@ -143,9 +145,7 @@ Next, for each laureate we quote the section WORK and the title and subtitles of
 
     MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
 
-    Nobel Lecture: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary.*
-
-    MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
+    NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary* by Haroche.
 
     CONTROL OF SINGLE PARTICLES IN A QUANTUM WORLD<br>
     A PERSONAL ACCOUNT OF THE EARLY DAYS OF CAVITY QUANTUM ELECTRODYNAMICS<br>
@@ -158,14 +158,15 @@ Next, for each laureate we quote the section WORK and the title and subtitles of
     RELATION TO OTHER DOMAINS IN QUANTUM INFORMATION SCIENCE<br>
     ACKNOWLEDGMENTS
 
+    MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
 
 !!! tip "2012 Physics Nobel Prize awarded to Wineland."
 
-    WORK (Wineland): “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
+    WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
 
     MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/wineland/facts/
 
-    Nobel Lecture: *Superposition, Entanglement, and Raising Schrödinger’s Cat*.
+    NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by Wineland.
 
     I. INTRODUCTION<br>
     II. SOME EARLY STEPS TOWARDS QUANTUM CONTROL<br>
