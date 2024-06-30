@@ -1,4 +1,4 @@
-
+   
 [**Volume III: Waves**](./volume-III.md)
 
 [**Previous: 9.3.  Communication formats for describing scientific texts.**](./vol-III-chap-9-sect-3.md) 
@@ -82,21 +82,32 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 
 **Figure 10.1.** Michelson and Morley interferometer: components in the left image:  monochromatic light source (A); semi-reflective mirror (B); mirrors (C) and observation of optical path difference (D). A typical interference pattern is shown in the right image.
 
-It is worth comparing the drawing made by Michelson of his own interferometer and the corresponding explanation of its parts as included in his Physics Nobel Prize Lecture *Recent Advances in Spectroscopy*, presented on December 12, 1907.
+In what follows we refer to the document called WORK describing the 1907 Physics Nobel Prize awarded to Michelson. Afterwards, we reproduce an image of his microscope and quote the corresponding explanation given by him.
+
+!!! tip "1907 Physics Nobel Prize awarded to Michelson."
+ 
+	WORK: “Interference means that several light waves with the same wavelength can strengthen or cancel out one another, depending on whether they are in phase with one another. In the mid-1880s Albert Michelson developed an interferometer, which uses a semi-transparent mirror to divide up a beam of uniform light waves. After routing the different waves through different channels, the light waves are recombined, and the difference in the distances covered leads to phase displacement, which generates patterns. The instrument is used to measure lengths as well as velocities of light with great precision.”
+
+	MLA style: Albert A. Michelson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 7 Jun 2024. <https://www.nobelprize.org/prizes/physics/1907/michelson/facts/>
+
+	NOBEL LECTURE: *Recent Advances in Spectroscopy*.
+
+	MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/
+
 
 <p align="center" width="100%">
     <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-1-fig3.JPG?raw=true"> 
 </p>
 
-
-
 <center>
 (Source: Michelson Nobel Lecture.) 
 </center>
 
-!!! info ""
+Taken from Figure 5 (page 173) in Michelson´s Nobel Lecture and the corresponding explanation given by him on page 174. 
 
-	"Accordingly, the light from the vacuum tube at $a$ passes through an ordinary spectroscope $bc$, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit $d$ into the interferometer. As explained above, the light divides at the plate $e$, part going to the mirror $f$, which is movable, and part passing through, to the mirror $g$. The first ray returns on the path feh. The second returns to $e$, is reflected, and passes into the telescope $h$."
+“Fig. 5 illustrates the arrangement of the apparatus as it is actually used. An ordinary prism spectroscope gives a preliminary analysis of the light from the source. This is necessary because the spectra of most substances consist of numerous lines. For example, the spectrum of mercury contains two yellow lines, a very brilliant green line, and a less brilliant violet line, so that if we pass all the light together into the interferometer, we have a combination of all four. It is usually better to separate the various radiations before they enter the interferometer. Accordingly, the light from the vacuum tube at *a* passes through an ordinary spectroscope *b* *c*, and the light from only one of the lines in the spectrum thus formed is allowed to pass through the slit *d* into the interferometer.”
+
+"As explained above, the light divides at the plate *e* part going to the mirror *f*, which is movable, and part passing through, to the mirror *g*. The first ray returns on the path *feh*. The second returns to *e*, is reflected, and passes into the telescope *h*."
 
 The Michelson-Morley experiment was planned assuming that after the splitting of the original light ray in the mirror $g$ of the interferometer, one ray will move in one direction, for instance in the direction of the motion of the Earth, and at the same time the other ray will travel in the interferometer the same total distance but in a perpendicular direction to the previous ray. When both rays coincided in $D$ they arrived with different relative velocities, because to the speed of propagation of light with respect to the ether was needed to add or to subtract the speed of translation of the Earth around the Sun. 
 
