@@ -68,6 +68,13 @@ At the time of the publication of Bose and Einstein papers the possibility of ob
 	
 In 1908 Heike Kamerlingh Onnes (1853-1926) obtained liquid helium for the first time; afterwards it will be used as refrigerant. In 1911 he discovered superconductivity when he observed the sudden nullification of the electrical resistance of mercury at 4.2° K. (see Figure 12.1). 
 
+!!! tip "1913 Physics Nobel Prize awarded to Onnes."
+
+	WORK: “When different substances are cooled to very low temperatures, their properties change. In 1908 Heike Kamerlingh Onnes used an ingenious apparatus to cool helium to liquid form. Fluid helium was carefully studied and also became an important aid for the cooling of different substances and charting their properties at low temperatures. In 1911 Kamerlingh Onnes discovered that the electrical resistance of mercury completely disappeared at temperatures a few degrees above absolute zero. The phenomenon became known as superconductivity.”
+
+	MLA style: Heike Kamerlingh Onnes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/1913/onnes/facts/>
+
+
 To make clear the experimental conditions of the measurements of the electrical resistance, Kammerling Onnes mentioned in his 1913 Nobel Lecture: “The disappearance did not take place gradually but (compare Fig. 17) abruptly. From 1/500 the resistance at 4.2°K drops to a millionth part. At the lowest temperature, 1.5°K, it could be established that the resistance had become less than a thousand-millionth part of that at normal temperature.”
 
 <p align="center">
@@ -75,7 +82,7 @@ To make clear the experimental conditions of the measurements of the electrical 
 	</p>
 
 
-(Source: taken from Kammerling Onnes´s Nobel Lecture *Investigations into the properties of substances at low temperatures*, which have led, amongst other things, to the preparation of liquid helium.)
+(Source: taken from Kammerling Onnes´s Nobel Lecture *Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium*.)
 
 MLA style: Heike Kamerlingh Onnes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1913/onnes/lecture/
 
@@ -101,6 +108,28 @@ In 1950 Landau in collaboration with Vitaly Ginzburg (1916-2009) proposed the ph
 	
 Landau was recognized with the Physics Nobel Prize in 1962 and Ginzburg shared with Alexei A. Abrikosov (1928-2017) and Anthony L. Legett (1938) the 2003 Physics Nobel Prize “for pioneering contributions to the theory of superconductors and superfluids”.  For more details see their Nobel Lectures: *Type II superconductors and the vortex lattice* by Abrikisov, *On Superconductivity and Superfluidity* by Ginzburg and *Superfluid 3-He: the early days as seen by a theorist* by Leggett. 
 
+MLA
+
+!!! tip "1962 Physics Nobel Prize awarded to Landau."
+
+	WORK (Landau): “When certain substances are cooled to very low temperatures, their properties undergo radical changes. At temperatures a couple of degrees above absolute zero, helium becomes superfluid and the liquid flows without friction. One of Lev Landau’s many contributions within theoretical physics came in 1941, when he applied quantum theory to the movement of superfluid liquid helium. Among other things, he introduced the concept of quasiparticles as the equivalent of sound vibrations and vortexes. This allowed him to develop his theoretical explanation for superfluidity.”
+
+	MLA style: Lev Landau – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/1962/landau/facts/>
+
+!!! tip "2003 Physics Nobel Prize awarded to Ginzburg."
+
+	WORK (Ginzburg): “When certain substances are cooled to extremely low temperatures, they become superconductors, conducting electrical current entirely without resistance. With one type of superconductivity, the magnetic field is forced away from the conductor, but with another type of superconductivity, the magnetic field is admitted into the conductor. In 1950 Vitaly Ginzburg and Lev Landau formulated a theory that incorporated a mathematical function to clarify the interplay between superconductivity and magnetism. The theory was intended for the first type of superconductivity, but it enabled a theory for the second type of superconductivity.”
+
+	MLA style: Vitaly L. Ginzburg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/2003/ginzburg/facts/>
+
+
+!!! tip "2003 Physics Nobel Prize awarded to Leggett."
+
+	WORK (Leggett): “When certain substances are cooled to extremely low temperatures, they become superconductors, conducting electrical current entirely without resistance. This applies to helium-4, the most common form of helium, but for a long time the superfluidity of helium-3 was in dispute. The different types of helium are described by different quantum mechanical rules and equations under which helium-4 has a whole-number spin while helium-3 has a half-number spin. After it was discovered that at extremely low temperatures helium-3 also becomes superconducting, Anthony Leggett formulated a theory that explained this.”
+
+	MLA style: Anthony J. Leggett – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/2003/leggett/facts/>
+
+
 Ginzburg mentions in his Nobel Lecture *On Superconductivity and Superfluidity* that “Superconductivity is, if you please, the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid.”
 
 In 1952 Alexei Abrikosov formulated a theory for the second type of superconductor and introduced a mathematical function that described vortexes that forms in the conductor when an external magnetic field is applied.
@@ -119,7 +148,22 @@ Although in metals individual electrons behave as fermions, the strong coupling 
 
 For detailed explanations see also the other 1972 Nobel Lectures: *Electron-Phonon Interactions and Superconductivity* by Bardeen, and *Macroscopic Quantum Phenomena from Pairing in Superconductors* by Schrieffer.
 
-In 1962 Brian Josephson (1940) predicted that a supercurrent can flow through a tunnel barrier when between two pieces of a superconductor are separated by a thin layer of insulator. See his 1973 Nobel Lecture *The Discovery of Tunnelling Supercurrents.*
+
+!!! tip "1972 Physics Nobel Prize awarded to Bardeen, Cooper and Schrieffer."
+
+	WORK: “When certain metals are cooled to extremely low temperatures, they become superconductors, conducting electrical current entirely without resistance. Based on quantum mechanics, John Bardeen, Leon Cooper, and Robert Schrieffer formulated a theory for the phenomenon in 1957. At extremely low temperatures, the interaction between electrons and atoms in the metals’ crystalline structure causes the electrons to pair up with one another. As a result, their movement becomes orderly, unlike the random movement at normal temperatures, and electrical resistance disappears.”
+
+	MLA style: John Bardeen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. https://www.nobelprize.org/prizes/physics/1972/bardeen/facts/
+
+In 1962 Brian Josephson (1940) predicted that a supercurrent can flow through a tunnel barrier when between two pieces of a superconductor are separated by a thin layer of insulator. See his 1973 NOBEL LECTURE *The Discovery of Tunnelling Supercurrents*.  
+
+MLA
+
+!!! tip "1973 Physics Nobel Prize awarded to Josephson."
+
+	WORK: “In quantum physics matter is described as both waves and particles. One result of this is the tunneling phenomenon, which means that particles can pass through barriers that they should not be able to squeeze through according to classic physics. In 1962 Brian Josephson predicted unexpected results with superconductors, material that at low temperatures lacks electrical resistance. Without superimposed voltage, a current can result between two superconductors that are separated by a thin insulator. If a rectified voltage is added, on the other hand, an alternating current can result.”
+
+	MLA style: Brian D. Josephson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. https://www.nobelprize.org/prizes/physics/1973/josephson/facts/
 
 In 1966 Anthony Legett considered that a two-band superconductor should show a sort of “internal Josephson effect” corresponding to fluctuations of the relative number of electrons in the two bands and of the relative phase of the Cooper pairs in them,
 
@@ -136,7 +180,22 @@ When two atoms with odd numbers of nucleons pair up with each other, they collec
 
 **Figure 12.3.** Experimental behavior in superfluid He-3 near the critical temperature.
 
+!!! tip "1996 Physics Nobel Prize awarded to Lee, Osheroff and Richardson."
+
+	WORK: “When certain substances are cooled to extremely low temperatures, they become superfluid, flowing without any friction. This applies to helium-4, the most common form of helium, but for a long time the superfluidity of helium-3 was in dispute. The different types of helium are described by different quantum mechanical rules and equations under which helium-4 has a whole-number spin while helium-3 has a half-number spin. In 1972 David Lee, Douglas Osheroff, and Robert Richardson verified that helium-3 also becomes superfluid at extremely low temperatures.”
+
+	MLA style: David M. Lee – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/1996/lee/facts/>
+
 In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered superconductivity in ceramic materials at temperatures above 77°K (−196.2 °C; −321.1 °F). See their joint 1987 Nobel Lecture *Perovskite-Type Oxides – The New Approach to High*- $T_c$ *Superconductivity*. (See Figure 12.4).
+
+MLA
+
+!!! tip "1987 Physics Nobel Prize awarded to Bednorz and Müller."
+
+	WORK: “When certain metals are cooled to extremely low temperatures, they become superconductors, conducting electrical current entirely without resistance. However, very low temperatures, just a few degrees above absolute zero, are required for this phenomenon to occur. In 1986 Georg Bednorz and Alex Müller discovered that a material composed of copper oxide with lantanum and barium additives became superconducting at a significantly higher temperature than previously tested materials. This sparked extensive research into similar materials.”
+
+	MLA style: J. Georg Bednorz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. https://www.nobelprize.org/prizes/physics/1987/bednorz/facts/
+
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig5.JPG?raw=true" width=480 align=center>
@@ -148,15 +207,38 @@ In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered 
 
 In 1995 Eric Cornell and Carl Wieman Cornell produced a pure condensate of about 2,000 rubidium atoms at 20 nK ($2 \times 10^{-8}$ degrees above absolute zero). Independently, Ketterle performed experiments with sodium atoms.
 
+MLA
+
+!!! tip "2001 Physics Nobel Prize awarded to Cornell and Wieman."
+
+	WORK: “One of the fundamental numbers in the world of quantum mechanics is the spin quantum number. Particles and atoms that have whole-number spin are described by other rules and equations than those that have half-number spin. Satyendra Nath Bose and Albert Einstein predicted in 1924 that at very low temperatures atoms with whole-number spin would be able to concentrate themselves in the lowest energy state and form a Bose-Einstein condensate. In 1995 Eric Cornell and Carl Wieman succeeded in proving the phenomenon in a rarefied gas of rubidium atoms at an extremely low temperature.”
+
+	MLA style: Eric A. Cornell – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/2001/cornell/facts/>
+
+	NOBEL LECTURE: Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Cornell and Wieman.
+
+	MLA style: Eric A. Cornell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Thu. 13 Jun 2024. https://www.nobelprize.org/prizes/physics/2001/cornell/lecture/
+
+!!! tip ""2001 Physics Nobel Prize awarded to Ketterle."
+ 	
+	WORK: “One of the fundamental numbers in the world of quantum mechanics is the spin quantum number. Particles and atoms that have whole-number spin are described by other rules and equations than those that have half-number spin. Satyendra Nath Bose and Albert Einstein predicted in 1924 that at very low temperatures atoms with whole-number spin would be able to concentrate themselves in the lowest energy state and form a Bose-Einstein condensate. In 1995 Wolfgang Ketterle succeeded in proving the phenomenon in a rarefied gas of sodium atoms at an extremely low temperature.”
+
+	MLA style: Wolfgang Ketterle – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/2001/ketterle/facts/>
+
 Two methods have been used to force the atoms to attain their lowest energy levels: laser cooling and evaporative cooling. In the first method when a photon bounces off the atom, the electron in the atom that absorbs the photon jumps to a higher energy level and quickly jumps back to its original level, ejecting the photon again which produces a temperature decrease. In the second method the atoms are located inside a magnetic trap from where the most energetic atoms escape but the slowest atoms remain. 
 
-As an application of Heisenberg’s uncertainty principle to the condensation effect, we next quote the explanation given by Ketterle in his Nobel Lecture: *When atoms behave as waves: Bose-Einstein condensation and the atom laser.*
+As an application of Heisenberg’s uncertainty principle to the condensation effect, we next quote the explanation given by Ketterle in his NOBEL LECTURE: *When atoms behave as waves: Bose-Einstein condensation and the atom laser.*
+
+Formato MLA 
+
 
 "When a gas of bosonic atoms is cooled below a critical temperature $T_c$, a large fraction of the atoms condenses in the lowest quantum state. Atoms at temperature T and with mass m can be regarded as quantum-mechanical wavepackets that have a spatial extent on the order of a thermal de Broglie wavelength $λ_{dB}= (2πħ^2/mk_BT)^{1/2}$. The value of $λ_{dB}$ is the position uncertainty associated with the thermal momentum distribution and increases with decreasing temperature. When atoms are cooled to the point where $λ_{dB}$ is comparable to the interatomic separation, the atomic wavepackets “overlap” and the gas starts to become a “quantum soup” of indistinguishable particles. Bosonic atoms undergo a quantum-mechanical phase transition and form a Bose-Einstein condensate, a cloud of atoms all occupying the same quantum mechanical state at a precise temperature which, for an ideal gas, is related to the peak atomic density n by $n(λ_{dB})^3 = 2.612$. If the atoms are fermions, cooling gradually brings the gas closer to being a “Fermi sea” in which exactly one atom occupies each low-energy state".
 
 Note: *the reduced Planck constant or Dirac constant is* $ħ =h⁄(2π)$.
 	
-Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
+Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s NOBEL LECTURE : *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
+
+Formato MLA 
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig6.JPG?raw=true" width=480 align=center>
@@ -176,7 +258,9 @@ Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture *When
 
 **Figure 12.7.** Observation of Bose-Einstein condensate.
 
-For more details see the Nobel Lecture: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by E.A. Cornell and C.E Wieman. See also Advanced information: *Bose-Einstein Condensation in Alkali Gases*.
+For more details see the NOBEL LECTURE: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by E.A. Cornell and *C.E Wieman. Formato MLA* See also Advanced information:* Bose-Einstein Condensation in Alkali Gases*. 
+
+REFERENCIA 
 
 In 2018 Pablo Jarillo-Herrero (1976) and collaborators reported the discovery of superconductivity on twisted bilayer graphene. This is one example of Twistronics, the study of how the angle (the twist) between layers of two-dimensional materials can change their electrical properties from conductors to superconductors. 
 
