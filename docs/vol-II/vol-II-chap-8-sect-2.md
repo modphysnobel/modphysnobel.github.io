@@ -99,7 +99,18 @@ It is also important to point out different “philosophical” positions regard
 
 Einstein applied a whole new reasoning process and introduced the revolutionary hypothesis of the quantization of radiation energy (photons). He used the ideal gas model of particles to make an analogy with the quantized radiation model. He considered the entropy change of an ideal gas at constant temperature when the volume changes reversibily. From this he concluded, comparing equations, that the physical behavior of both systems must be equivalent: if the ideal gas refers to material "particles", the electromagnetic radiation must also refer to “particles”, in this case photons.
 
-An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. According to the Nobel Physics Committee: Siegbahn “developed highly accurate measurements of energy levels in atoms by irradiating them with photons and measuring the energy of the electrons emitted using the photoelectric effect.” For more information see his Nobel Lecture *Electron Spectroscopy for Atoms, Molecules and Condensed Matter*. The reference in MLA format is given at the end of the chapter. 
+An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. The document called WORK indicates the following:
+
+!!! tip "1981 Physics Nobel Prize awarded to Siegbahn."
+
+	WORK: “According to quantum physics principles, the electrons in atoms and molecules have defined energy levels. Albert Einstein’s theory of the “photoelectric effect” says that a light particle (photon) can liberate an electron from an atom if it has sufficient energy. In the 1950s Kai Siegbahn developed methods for achieving highly accurate measurements of energy levels in atoms by irradiating them with photons and measuring the energy of the electrons emitted using the photoelectric effect.”
+
+	MLA style: Kai M. Siegbahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/1981/siegbahn/facts/
+
+	NOBEL LECTURE: *Electron Spectroscopy for Atoms, Molecules and Condensed Matter*. 
+
+	MLA style: Kai M. Siegbahn – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/siegbahn/lecture/
+
 	
 ### Nobel Lectures related to the invention of LED.
 
@@ -109,13 +120,78 @@ The n-region of the semiconductor has free electrons (excess electrons) and the 
 
 A Light Emitting Diode (LED) is a semiconductor diode that generates light when it is traversed by an electric current. As a photocell generates a current when a radiation impacts on a metal, in a sort of inverse photoelectric effect a LED generates light when a current traverse a semiconductor. Depending on the material of the semiconductor the emitted light will be of different frequency corresponding to red, green, yellow, amber, or infrared colors.
 
-In what follows we include three documents related to the 2014 Physics Nobel Prize: (1)  excerpts from Popular information: *Blue LEDs – Filling the world with new light*, (2) the complete transcription of document called WORK describing the main contributions of the three laureates, and (3) the subtitles describing the content of each one of the three Nobel Lectures. All the references are in MLA format are given at the end of the chapter.
+In what follows we include some excerpts of the document *Popular information: Blue LEDs – Filling the world with new light*. Afterwards, we quote the document called WORK describing the main contributions of the three laureates. Finally, for each one of the laureates we include the title and the subtitles describing the content of their Nobel Lectures. All the references are in MLA format.
 
-(1)	2014 Physics Nobel Prize: Popular information: *Blue LEDs – Filling the world with new light*.
+*Popular information: Blue LEDs – Filling the world with new light*.
+
 
 ….”The white LED lamps are energy-efficient, long-lasting and emit a bright white light. Moreover, and unlike fluorescent lamps, they do not contain mercury.”
 
 “Red and green light-emitting diodes have been with us for almost half a century, but blue light was needed to really revolutionize lighting technology. Only the triad of red, green and blue can produce the white light that illuminates the world for us. Despite the high stakes and great efforts undertaken in the research community as well as in industry, blue light remained a challenge for three decades.” …. “Incandescent light bulbs had lit the 20th century; the 21st century will be lit by LED lamps.”
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/popular-information/
+
+For more information see Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
+
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/advanced-information/
+
+!!! tip "2014 Physics Nobel Prize awarded to Akasaki, Amano and Nakamura."
+
+	WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
+
+	MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
+
+	NOBEL LECTURES: *Journeys into Blue Light* by Akasaki.
+
+	ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
+
+	1.	*INTRODUCTION*
+	2.	*LED RESEARCH IN THE EARLY DAYS*
+	3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
+		3.1. *Early attempts at development of GaN blue LED* <br>
+		3.2. *Reconsideration of growth technology* <br>
+	4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
+		4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
+		4.2. *Model for the growth mode*<br>
+	5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
+	6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
+	7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
+	8. *DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES*
+	9. *SUMMARY AND FUTURE EXPECTATIONS*
+
+	MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
+
+	***
+	
+	NOBEL LECTURRE: *Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by LowEnergy Electron Beam Irradiation* by Amano.
+
+	1.	*MOTIVATION FOR STARTING BLUE LED RESEARCH*
+	2.	*DIFFICULTY OF REALIZING HIGH-PERFORMANCE BLUE LEDs BASED ON GaN*
+	3.	*FUNDING SITUATION OF OUR LABORATORY IN THE MID-1980S AND THE DIFFICULTY OF GROWING GaN ON A SAPPHIRE SUBSTRATE*
+	4.	*LOW-TEMPERATURE DEPOSITED BUFFER LAYER*
+	5.	*REALIZATION OF p-TYPE GaN*
+	6.	*ATTEMPTS TO GROW InGaN*
+	7.	*CONTRIBUTION OF InGaN-BASED BLUE LEDs TO ENERGY SAVING*
+
+	MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/amano/lecture/
+
+	***
+
+	NOBEL LECTURE: *Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes* by Nakamura.
+
+	1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
+	2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
+	3.	*DEVELOPMENT OF GaN*
+	4.	*DEVELOPMENT OF InGaN* <br>
+		4.1	*InGaN based devices*<br>
+		4.2	*Material Properties of InGaN*
+	5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
+		5.1	*Luminous Efficacy* <br>
+		5.2	*Significant Milestones on the Journey to the White LED* <br>
+		5.3	*Contributions to the Efficient Blue LED*
+	6.	*FORWARD LOOKING*
+
+	MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
 #### Saving energy and resources.
 	
@@ -166,60 +242,6 @@ In what follows we include three documents related to the 2014 Physics Nobel Pri
 “LED lamps are thus flexible light sources, already with several applications in the field of illumination – millions of different colours can be produced; the colours and intensity can be varied as needed. Colourful light panels, several hundred square metres in size, blink, change colours and patterns. And everything can be controlled by computers. The possibility to control the colour of light also implies that LED lamps can reproduce the alternations of natural light and follow our biological clock. Greenhouse-cultivation using artificial light is already a reality.”
 
 …..
-
-!!! tip "2014 Physics Nobel Prize awarded to Akasaki, Amano and Nakamura."
-
-	(2) WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s Isamu Akasaki, Hiroshi Amano, and Shuji Nakamura successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
-
-	MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
-
-	(3)	2014 PHYSICS NOBEL LECTURES
-
-	ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
-
-	1.	*INTRODUCTION*
-	2.	*LED RESEARCH IN THE EARLY DAYS*
-	3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
-		3.1. *Early attempts at development of GaN blue LED* <br>
-		3.2. *Reconsideration of growth technology* <br>
-	4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
-		4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
-		4.2. *Model for the growth mode*<br>
-	5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
-	6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
-	7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
-	8. *DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES*
-	9. *SUMMARY AND FUTURE EXPECTATIONS*
-
-	MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
-	
-	HIROSHI AMANO: *Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by LowEnergy Electron Beam Irradiation.*
-
-	1.	*MOTIVATION FOR STARTING BLUE LED RESEARCH*
-	2.	*DIFFICULTY OF REALIZING HIGH-PERFORMANCE BLUE LEDs BASED ON GaN*
-	3.	*FUNDING SITUATION OF OUR LABORATORY IN THE MID-1980S AND THE DIFFICULTY OF GROWING GaN ON A SAPPHIRE SUBSTRATE*
-	4.	*LOW-TEMPERATURE DEPOSITED BUFFER LAYER*
-	5.	*REALIZATION OF p-TYPE GaN*
-	6.	*ATTEMPTS TO GROW InGaN*
-	7.	*CONTRIBUTION OF InGaN-BASED BLUE LEDs TO ENERGY SAVING*
-
-	MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/amano/lecture/
-
-	SHUJI NAKAMURA: *Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes.*
-
-	1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
-	2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
-	3.	*DEVELOPMENT OF GaN*
-	4.	*DEVELOPMENT OF InGaN* <br>
-		4.1	*InGaN based devices*<br>
-		4.2	*Material Properties of InGaN*
-	5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
-		5.1	*Luminous Efficacy* <br>
-		5.2	*Significant Milestones on the Journey to the White LED* <br>
-		5.3	*Contributions to the Efficient Blue LED*
-	6.	*FORWARD LOOKING*
-
-	MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
 ***
 
