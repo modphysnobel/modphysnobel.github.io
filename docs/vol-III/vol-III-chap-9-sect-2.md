@@ -83,6 +83,27 @@ Besides, according to Bohr the energy of a stationary state is $E_n = -R/(n^2)$,
 
 The uncertainty principle is incompatible to classical physics because in that world there is no impediment to simultaneously describe the position and velocity of a particle. However, in the quantum world, the representation of waves that occupy large regions in space does not coincide with the representation that corresponds to well-located corpuscles in space. Suppose that $Δx$ and $Δp_x$ designate, respectively, the indeterminacies in the measurements of the position and of the component of the linear momentum ($p_x = mv_x$) of a particle in the direction of the X axis. Both measurements are made at the same time and for the same particle. Classically, the value of $Δx$ does not depend at all on that of $Δp_x$, but quantumly the so-called Heisenberg **indeterminacy or uncertainty principle** must be satisfied. This principle establishes that the product of such uncertainties is of the order of Planck's constant ($h ≈ 6.6 \times 10^{-34} Js$). This principle can be represented as follows: $Δx Δp_x  ≥ h/(2π)$.
 
+!!! tip "1922 Physics Nobel Prize awarded to Bohr."
+
+    WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
+
+    MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1922/bohr/facts/>
+
+    NOBEL LECTURE: *The Structure of the Atom* by Bohr.
+
+    MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
+
+!!! tip "1933 Physics Nobel Prize awarded to Heisenberg."
+
+    WORK: “In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between fixed orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. In 1925, Werner Heisenberg formulated a type of quantum mechanics based on matrices. In 1927 he proposed the “uncertainty relation”, setting limits for how precisely the position and velocity of a particle can be simultaneously determined.”
+
+    MLA style: Werner Heisenberg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/>
+
+    NOBEL LECTURE: *The Development of Quantum Mechanics* by Heisenberg.
+    
+    MLA style: Werner Heisenberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1932/heisenberg/lecture/
+
+
 ***
 
 [**Next: 9.3.  Communication formats for describing scientific texts.**](./vol-III-chap-9-sect-3.md)
