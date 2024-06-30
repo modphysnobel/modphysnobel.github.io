@@ -17,9 +17,9 @@ Physics looks for explanations of certain observed and measured phenomena that m
 (Image elaborated by the authors)
 </center>
 
-This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, and Schawlow. In each case we start indicating the year of the Prize and insert an official document called WORK explaining the main contributions of each laureate. Then, we include the title of each Nobel Lecture and its subtitles when they exist in the original. Finally, a table and a box respectively describe the concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section.
+In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. For each year we start indicating for what reason the Physics Nobel Prize was awarded and who shared the prize. Then we insert the document called WORK describing the main contributions made by each laureate and include the title of each NOBEL LECTURE as well as the name of the laureate. We also include the subtitles of the Lecture when they exist in the original. Finally, two boxes describe the main concepts and models considered in the Lecture. All the corresponding references in MLA format are given.
 
-**In 1922** “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
+To Bohr “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
 !!! tip "1922 Physics Nobel Prize awarded to Bohr."
 
@@ -27,7 +27,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 	MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
 
-	Nobel Lecture: *The structure of the atom*. 
+	NOBEL LECTURE: *The structure of the atom*. 
 
 	- The general picture of the atom 
 	- Atomic stability and electrodynamic theory 
@@ -121,7 +121,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	- Explanations of band spectra in solids. 
 	- Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
  
-**In 1955**  “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
+To Lamb “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
 !!! tip "1955 Physics Nobel Prize awarded to Lamb."
 
@@ -129,7 +129,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 	MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1955/lamb/facts/
 
-	Nobel Lecture: *Fine Structure of the Hydrogen Atom*.
+	NOBEL LECTURE: *Fine Structure of the Hydrogen Atom*.
 
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
@@ -194,7 +194,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. 
 	- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
 
-**In 1964** “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
+To Townes “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
 !!! tip "1964 Physics Nobel Prize awarded to Townes."
 
@@ -202,7 +202,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 	MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
 
-	Nobel Lecture: *Production of Coherent Radiation by Atoms and Molecules*.
+	NOBEL LECTURE: *Production of Coherent Radiation by Atoms and Molecules*.
 
 	- Basic Maser principles
 	- Maser Clocks and Amplifiers
@@ -292,7 +292,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. 
 	- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
 
-**In 1981** "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
+To Schawlow "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
 !!! tip "1981 Physics Nobel Prize awarded to Schawlow."
 
@@ -300,7 +300,7 @@ This section refers to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, a
 
 	MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes///schawlow/facts/
 
-	Nobel Lecture: *Spectroscopy in a New Light*. 
+	NOBEL LECTURE: *Spectroscopy in a New Light*. 
 
 	- Introduction
 	- Laser spectroscopy
