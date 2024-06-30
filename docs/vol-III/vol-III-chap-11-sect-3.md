@@ -7,11 +7,13 @@
 
 ## 11.3. Phases in a learning and research process.
 
-In this section we describe Geim´s Lecture *Random Walk to Graphene* as a learning and research process that involves two structural phases:  
+In this section we describe Geim´s NOBEL LECTURE *Random Walk to Graphene*: MLA FORMAT
 
-•	The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
+We analyze this Lecture as a learning and research process that involves two structural phases:
 
-•	The research phase is for evaluating and communicating and consists in the description of testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
+• The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
+
+• The research phase is for evaluating and communicating and consists in the description of testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
 
 In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table refers to the corresponding subtitle included in the original document.  The first column in the Table describes reported activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been predominantly involved in each activity. For simplicity, we omit many names and simplify the descriptions of such  activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
 
