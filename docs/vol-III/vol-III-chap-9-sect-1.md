@@ -39,6 +39,7 @@
 
 The quantization relationship $E = nhν$ connects the concept of energy ($E$), characteristic of particles, with frequency ($ν$) which is a typically wave property. The constant of proportionality is Planck's constant $h$, of the order of $10^{-27}$ erg.sec. The equation proposed by de Broglie $p = h/λ$ also connects a corpuscular property, the linear momentum (p), with a wave property, the wavelength (λ); again, the constant of proportionality is $h$. The equation $E = nhν$ refers to the quantization of energy and the equation $p = h/ λ$ concerns matter waves.
 
+
 ### The de Broglie hypothesis.
 
 In 1924, Louis de Broglie presented his doctoral thesis *Investigations on the theory of quantum* where he proposed that material particles had wave properties; there he combined classical concepts of mechanics and optics with modern ideas of relativity and quantum treatments.
@@ -172,6 +173,16 @@ To have an idea of the order of magnitude of the wavelength assigned by de Brogl
 (Source: taken from Table 2.1 (p. 65) in French and Taylor (1978).)
 </center>
 
+!!! tip "1929 Physics Nobel Prize awarded to de Broglie."
+
+    WORK: “In the beginning of the 20th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. In 1924 Louis de Broglie introduced the idea that particles, such as electrons, could be described not only as particles but also as waves. This was substantiated by the way streams of electrons were reflected against crystals and spread through thin metal foils. The idea had great significance for the continued evolution of quantum mechanics.”
+
+    MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1929/broglie/facts/>
+
+    NOBEL LECTURE: *The Wave Nature of the Electron*. 
+
+    MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/
+
 
 ### Electron diffraction.
 
@@ -210,6 +221,21 @@ Source: adapted from  https://es.wikipedia.org/wiki/Archivo:Difraccion.png
 Bragg formula indicates that the diffraction of the incident radiation of wavelength (λ) is produced when the fronts of the incident waves are reflected by the crystal atoms. Previous figure shows that the distance $S = FG + GH$ corresponds to the difference in the paths traveled by the wave reflected in the upper plane with respect to the wave reflected in the lower plane. Figure 9.2 shows that $FG = GH = dsinθ$ because these distances are the hypotenuses of right triangles $FGO$ and $HGO$ (corresponding vertices are shown in blue). Bragg's formula implies that the total distance $S$ is equal to an integer multiple of $λ$, that is $S = 2dsinθ = nλ$.
 
 If in the Bragg formula the distance between the crystal planes $d$ is replaced by the distance $D$ between nearby atoms in a shell of the crystal $d = Dsin(α)$, with $α$ the angle between the crystal planes and the direction of incidence of radiation. From Figure 9.2 $θ = (π/2 – α)$ and therefore $nλ =2dsinθ = 2[Dsin(α)][sin(π/2 - α)]$. Using the trigonometric relations $sin(π/2 - α) = cos(α)$ and $2cos(α)sin(α) = sin(2α)$, we  obtain  $nλ = Dsin(2α)$. For $D = 2.15 Å$ and an angle $α = 50º$, for $n = 1$ Thomson obtained $λ =1.65 Å$, comparable with the value reported by Davisson and Germer:  $λ =1.66 Å$.
+
+!!! tip "1937 Physics Nobel Prize awarded to Davisson and Thomson."
+
+    WORK: “In the beginning of the 19th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. Later it was proposed that matter, such as electrons, also can be described as both waves and particles. In 1927 Clinton Davisson and G.P. Thomson demonstrated, independently of one another, that electrons could be described as waves. When an electron beam passed through a nickel crystal, diffraction patterns appeared.”
+
+    MLA style: Clinton Davisson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1937/davisson/facts/>
+
+    NOBEL LECTURE: The Discovery of Electron Waves by Davisson.
+
+    MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
+
+    NOBEL LECTURE: Electronic Waves by Thomson.
+
+    MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/thomson/lecture/
+
 
 ***
 
