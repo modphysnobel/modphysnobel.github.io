@@ -173,8 +173,7 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 (Source: information obtained from Pais´ book.)
 </center>
 
-
-The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we include the document published in the web page of the Nobel Foundation under the title of WORK describing the work made by Perrin. Then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. The references of these documents are given at the end of the chapter in MLA format.
+The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document WORK describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
 	
 !!! tip "1926 Physics Nobel Prize awarded to Perrin."
 
@@ -182,7 +181,7 @@ The Physics Nobel Prize was awarded in 1926 to Jean Baptiste Perrin (1870-1942) 
 
 	MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
 
-	Nobel Lecture: *Discontinuous Structure of Matter.* 
+	NOBEL LECTURE: *Discontinuous Structure of Matter.* 
 
 	- Introduction
 	- **The Brownian movement**
