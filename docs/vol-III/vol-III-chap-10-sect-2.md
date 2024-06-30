@@ -68,7 +68,8 @@ When the interferometer’s arms did not change length, both signals traveled eq
 </p>
 
 <center>
-Source: Figure 3 taken from the document *Popular information*: The Nobel Prize in Physics 2017.
+Source: Figure 3 taken from the document *Popular information: The Nobel Prize in Physics 2017*.
+MLA
 </center>
 
 
@@ -96,7 +97,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	MLA style: Rainer Weiss – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/weiss/facts/
 
-	Nobel Lecture: *LIGO and Gravitational Waves I.*
+	NOBEL LECTURE: *LIGO and Gravitational Waves I.*
 	
 	…..
 
@@ -134,7 +135,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	MLA style: Barry C. Barish – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/barish/facts/
 
-	Nobel Lecture: *LIGO and Gravitational Waves II.*
+	NOBEL LECTURE: *LIGO and Gravitational Waves II.*
 
 	INTRODUCTION  <br>
 	THE LIGO LABORATORY <br>
@@ -181,7 +182,7 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	MLA style: Kip S. Thorne – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Feb 2024. https://www.nobelprize.org/prizes/physics/2017/thorne/facts/
 
-	Nobel Lecture: *LIGO and Gravitational Waves III.*
+	NOBEL LECTURE: *LIGO and Gravitational Waves III.*
 
 	We just present some excerpts corresponding to the last subtitle. 
 
