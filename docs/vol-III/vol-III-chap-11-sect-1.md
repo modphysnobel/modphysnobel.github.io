@@ -63,7 +63,7 @@ Bragg´s law relates the observed X-ray diffraction pattern to the arrangement o
 
 	MLA style: William Bragg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/wh-bragg/facts/
 
-	Nobel Lecture: *Diffraction of X-Rays by Crystals*.
+	NOBEL LECTURE: *The Diffraction of X-Rays by Crystals* by Lawrence Bragg.
 
 	….. "Prof. von Laue had made some of his earliest experiments with a crystal of zinc sulphide, and had obtained results which proved that the diffracted pencils showed the symmetry of the underlying crystal structure, which in this case was cubic". …. "I"n studying his work, it occurred to me that perhaps we ought to look for the origin of this selection of certain directions of diffraction in the peculiarities of the crystal structure, and not in the constitution of the X-ray beam…"
 
@@ -119,7 +119,7 @@ The contributions made by Ernst Ruska are now considered in two parts: (1) by in
 
 	MLA style: Ernst Ruska – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/ruska/facts/
 
-	Nobel Lecture: *The Development of the Electron Microscope and of Electron Microscopy*.
+	NOBEL LECTURE: *The Development of the Electron Microscope and of Electron Microscopy* by Ruska.
 
 	*A.	Parents’ house, family*
 
@@ -173,7 +173,7 @@ Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, fo
 
 	MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/binnig/facts/
 
-	Nobel Lecture: *Scanning Tunneling Microscopy – From Birth to Adolescence*.
+	NOBEL LECTURE: *Scanning Tunneling Microscopy – From Birth to Adolescence* by Binning and Rohrer.
 
 	The Lecture is just a detailed narrative of the historical developments of their research. As the laureates mention it “simply reflects what we thought, how we acted and what we felt.” 
 
@@ -187,6 +187,9 @@ Initially neutrons were used to split atomic nuclei and produce atomic bombs. La
 
 The following  information has been obtained from the document Press release *The structure and dynamics of matter revealed.*
 
+MLA
+
+
 Neutrons have interesting scattering properties because their energy is of the same order of magnitude as that of the phonons in solid and fluid matter. Neutron diffraction has served to study the relative orientations of small atomic materials. …. “neutrons have been used to an increasing extent for studying the structure (arrangement) and dynamics (movement) of solid and fluid matter.”
 
 Shull developed neutron scattering techniques based on the diffraction of elastically scattered neutrons (there is no energy change) and the wavelength of neutrons leaving out from a reactor are roughly equal to the distance between the atoms in a solid body or a liquid. By following the directions of the scattered neutrons, the structure in which the atoms are arranged can be determined. Furthermore, as protons are very efficient neutron scattering centers their positions can be determined with neutron diffraction. 
@@ -197,7 +200,7 @@ Shull developed neutron scattering techniques based on the diffraction of elasti
 
 	MLA style: Clifford G. Shull – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/shull/facts/
 
-	Nobel Lecture: *Early Development of Neutron Scattering*.
+	NOBEL LECTURE: *Early Development of Neutron Scattering* by Shull.
 
 	Shull´s lecture is a narrative of the historical projects for building nuclear reactors and neutron spectrometers. It includes improvements in the instrumentation and in the registration, interpretation, and classification of data on diffraction patterns, as well as studies on hydrogen-containing crystals and the determination of coherent scattering amplitudes for hydrogen and deuterium.  
 
@@ -211,7 +214,7 @@ Shull developed neutron scattering techniques based on the diffraction of elasti
 
 	MLA style: Bertram N. Brockhouse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/brockhouse/facts/
 
-	Nobel Lecture: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical World*.
+	NOBEL LECTURE: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical World* by Brockhouse.
 
 	A.	The NEUTRON and its APPLICATIONS<br>
 	The GRAND ATLAS<br>
