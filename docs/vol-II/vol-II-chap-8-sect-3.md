@@ -253,19 +253,7 @@ HELLEMANS, A, and BUNCH, B. The Timetables of Science. A Chronology of the Most 
 
 Physics Nobel Prizes
 
-MLA style: Kai M. Siegbahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/1981/siegbahn/facts/>
-
-MLA style: Kai M. Siegbahn – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/siegbahn/lecture/
-
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/press-release/
-
-Popular Science Background: Blue LEDs – Filling the world with new light.
-
-MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/popular-information/
-	
-Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
-
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. <https://www.nobelprize.org/prizes/physics/2014/advanced-information/>
 
 Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
 
