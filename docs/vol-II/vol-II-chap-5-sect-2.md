@@ -94,7 +94,7 @@ Wien also proposed a function to describe the spectral energy density (u), or en
 
 	MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
 
-	NOBEL LECTURE: *On the Laws of Thermal Radiation*.
+	NOBEL LECTURE: *On the Laws of Thermal Radiation* by Wien.
 
 	MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/	
 
@@ -230,7 +230,7 @@ Planck solved the blackbody radiation problem by treating it in a similar way to
 
 	MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
 
-	NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory.*
+	NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory* by Planck.
 
 	MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
 
