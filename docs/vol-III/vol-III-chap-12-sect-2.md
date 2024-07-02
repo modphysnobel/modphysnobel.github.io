@@ -8,11 +8,13 @@
 
 The Hall effect was discovered in 1879 by Edwin H. Hall (1855-1938). When an electric current flows through a conductor like a thin gold plate which is located in a magnetic field, this field exerts a transverse force on the carrier of moving charges, which tends to push them to one side of the conductor. The accumulation of charges on the sides of the conductor will balance the magnetic force, producing a measurable voltage between the two sides of the conductor. Such potential drop is at right angles both to the current and the magnetic field. Hall performed his experiments at room temperature and with moderate magnetic fields of less than one tesla (T). One century after, Hall effect has been observed at extremely low temperatures (only a few degrees from absolute zero, i.e. around -272°C) and very powerful magnetic fields (max approx. 30 T).
 
-In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Klitzing “for the discovery of the quantized Hall effect” and to the 1998 Prize awarded to Robert B. Laughlin, Horst L. Störmer and Daniel C. Tsui “for their discovery of a new form of quantum fluid with fractionally charged excitations”. Next, we present the documents called WORK describing the main contributions made by the laureates and the title and subtitles of their Nobel Lectures. Afterwards, we present some information taken from the document *Press release. Electrons in New Guises* and insert some figures taken from the Nobel Lectures by von Klitzing and by Störmer. The appropriate references in MLA format are given at the end of the chapter.
+In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Klitzing “for the discovery of the quantized Hall effect” and to the 1998 Prize awarded to Robert B. Laughlin, Horst L. Störmer and Daniel C. Tsui “for their discovery of a new form of quantum fluid with fractionally charged excitations”. Next, we present the documents called Work describing the main contributions made by the laureates and the title and subtitles of their Nobel Lectures. Afterwards, we present some information taken from the document *Press release. Electrons in New Guises* and insert some figures taken from the Nobel Lectures by von Klitzing and by Störmer. The appropriate references in MLA format are given at the end of the chapter.
 
 !!! tip "1985 Physics Nobel Prize awarded to von Klitzing."
 
 	WORK: “If an electrical current flows lengthwise through a metal band and a magnetic field is placed against the surface of the band at a right angle, a charge arises diagonally in the band. Known as the Hall effect, it comes about because the movement of the electrons is deflected by the magnetic field. In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. In this effect, changes in the magnetic field result in changes in what is known as Hall conductance that vary in steps of whole-number multiples of a constant.”
+
+	**Falta referencia**
 
 	NOBEL LECTURE: *The Quantized Hall Effect* by von Klitzing. 
 
@@ -33,7 +35,6 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 	MLA style: Robert B. Laughlin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 27 Apr 2024. https://www.nobelprize.org/prizes/physics/1998/laughlin/facts/
 
 	NOBEL LECTURE: *Fractional Quantization* by Laughlin
-
 
 	SOLITONS<br>
 	LOCALIZATION<br>
