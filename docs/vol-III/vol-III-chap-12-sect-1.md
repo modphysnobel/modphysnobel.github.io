@@ -40,7 +40,7 @@
 
 	**Section 12.2. Quantum Hall effects.**
 
-	We deal with the behavior of electrons in quantum Hall effects when this quantization is described in terms of entire or fractional numbers. We refer to the Physics Nobel Prizes awarded in 1985 to Klaus von Klitzing “for the discovery of the quantized Hall effect” and in 1998 to Laughlin, Störmer and Tsui ““for their discovery of a new form of quantum fluid with fractionally charged excitations”.
+	We deal with the behavior of electrons in quantum Hall effects when this quantization is described in terms of entire or fractional numbers. We refer to the Physics Nobel Prizes awarded in 1985 to Klaus von Klitzing “for the discovery of the quantized Hall effect” and in 1998 to Laughlin, Störmer and Tsui “for their discovery of a new form of quantum fluid with fractionally charged excitations”.
 
 	**Section 12.3. Schools for education and learning trajectories.**
 
@@ -74,6 +74,10 @@ In 1908 Heike Kamerlingh Onnes (1853-1926) obtained liquid helium for the first 
 
 	MLA style: Heike Kamerlingh Onnes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/1913/onnes/facts/>
 
+	NOBEL LECTURE: *Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium* by Onnes.
+
+	MLA style: Heike Kamerlingh Onnes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1913/onnes/lecture/
+
 
 To make clear the experimental conditions of the measurements of the electrical resistance, Kammerling Onnes mentioned in his 1913 Nobel Lecture: “The disappearance did not take place gradually but (compare Fig. 17) abruptly. From 1/500 the resistance at 4.2°K drops to a millionth part. At the lowest temperature, 1.5°K, it could be established that the resistance had become less than a thousand-millionth part of that at normal temperature.”
 
@@ -84,7 +88,6 @@ To make clear the experimental conditions of the measurements of the electrical 
 
 (Source: taken from Kammerling Onnes´s Nobel Lecture *Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium*.)
 
-MLA style: Heike Kamerlingh Onnes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1913/onnes/lecture/
 
 **Figure 12.1.** Experimental demonstration of superconductivity in mercury.
 
@@ -108,7 +111,12 @@ In 1950 Landau in collaboration with Vitaly Ginzburg (1916-2009) proposed the ph
 	
 Landau was recognized with the Physics Nobel Prize in 1962 and Ginzburg shared with Alexei A. Abrikosov (1928-2017) and Anthony L. Legett (1938) the 2003 Physics Nobel Prize “for pioneering contributions to the theory of superconductors and superfluids”.  For more details see their Nobel Lectures: *Type II superconductors and the vortex lattice* by Abrikisov, *On Superconductivity and Superfluidity* by Ginzburg and *Superfluid 3-He: the early days as seen by a theorist* by Leggett. 
 
-MLA
+MLA style: Alexei Abrikosov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/2003/abrikosov/lecture/
+
+MLA style: Vitaly L. Ginzburg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Oct 2023. https://www.nobelprize.org/prizes/physics/2003/ginzburg/lecture/
+
+MLA style: Anthony J. Leggett – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/2003/leggett/lecture/
+
 
 !!! tip "1962 Physics Nobel Prize awarded to Landau."
 
@@ -138,6 +146,8 @@ In 1957 a microscopic theory of superconductivity was proposed by Bardeen, Coope
 
 Although in metals individual electrons behave as fermions, the strong coupling between the Cooper-pairs produces a collective pattern characterized by the absence of electric resistance (see Figure 12.2). 
 
+MLA style: Leon N. Cooper – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1972/cooper/lecture/
+
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig3.JPG?raw=true" width=480 align=center>
 	</p>
@@ -148,6 +158,10 @@ Although in metals individual electrons behave as fermions, the strong coupling 
 
 For detailed explanations see also the other 1972 Nobel Lectures: *Electron-Phonon Interactions and Superconductivity* by Bardeen, and *Macroscopic Quantum Phenomena from Pairing in Superconductors* by Schrieffer.
 
+MLA style: John Bardeen – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1972/bardeen/lecture/
+
+MLA style: Robert Schrieffer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1972/schrieffer/lecture/
+
 
 !!! tip "1972 Physics Nobel Prize awarded to Bardeen, Cooper and Schrieffer."
 
@@ -155,9 +169,9 @@ For detailed explanations see also the other 1972 Nobel Lectures: *Electron-Phon
 
 	MLA style: John Bardeen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. https://www.nobelprize.org/prizes/physics/1972/bardeen/facts/
 
-In 1962 Brian Josephson (1940) predicted that a supercurrent can flow through a tunnel barrier when between two pieces of a superconductor are separated by a thin layer of insulator. See his 1973 NOBEL LECTURE *The Discovery of Tunnelling Supercurrents*.  
+In 1962 Brian Josephson (1940) predicted that a supercurrent can flow through a tunnel barrier when between two pieces of a superconductor are separated by a thin layer of insulator. See his 1973 Nobel Lecture *The Discovery of Tunnelling Supercurrents*.  
 
-MLA
+MLA style: Brian D. Josephson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1973/josephson/lecture/
 
 !!! tip "1973 Physics Nobel Prize awarded to Josephson."
 
@@ -165,11 +179,15 @@ MLA
 
 	MLA style: Brian D. Josephson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. https://www.nobelprize.org/prizes/physics/1973/josephson/facts/
 
-In 1966 Anthony Legett considered that a two-band superconductor should show a sort of “internal Josephson effect” corresponding to fluctuations of the relative number of electrons in the two bands and of the relative phase of the Cooper pairs in them,
+In 1966 Anthony Legett considered that a two-band superconductor should show a sort of “internal Josephson effect” corresponding to fluctuations of the relative number of electrons in the two bands and of the relative phase of the Cooper pairs in them.
 
 In 1970 Lee, Osheroff and Richardson discovered superfluidity in He-3. In the superfluid phase of He-3 the atoms themselves present a coupling pairing interaction which is mediated by quantum spin fluctuations rather than by the exchange of the vibratory energy corresponding to phonons as in superconductors. 
 
 When two atoms with odd numbers of nucleons pair up with each other, they collectively possess an even number of nucleons and behave like bosons, condensing together into a superfluid state. Fermions such as atomic He-3 do not condensate, therefore it is not possible that they present superfluidity like the boson atomic He-4. However, fermions in liquid He-3 form boson pairs and behave as a superfluid. Other experiments reported in Lee´s Lecture show that the specific heat measurements in superfluid He-3 present a discontinuity at the transition temperature like the one that characterizes phase transitions in superconductors (see Figure 12.3).
+
+MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1996/lee/lecture/>
+
+
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig4.JPG?raw=true" width=480 align=center>
@@ -188,7 +206,7 @@ When two atoms with odd numbers of nucleons pair up with each other, they collec
 
 In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered superconductivity in ceramic materials at temperatures above 77°K (−196.2 °C; −321.1 °F). See their joint 1987 Nobel Lecture *Perovskite-Type Oxides – The New Approach to High*- $T_c$ *Superconductivity*. (See Figure 12.4).
 
-MLA
+MLA style: J. Georg Bednorz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1987/bednorz/lecture/
 
 !!! tip "1987 Physics Nobel Prize awarded to Bednorz and Müller."
 
@@ -207,7 +225,6 @@ MLA
 
 In 1995 Eric Cornell and Carl Wieman Cornell produced a pure condensate of about 2,000 rubidium atoms at 20 nK ($2 \times 10^{-8}$ degrees above absolute zero). Independently, Ketterle performed experiments with sodium atoms.
 
-MLA
 
 !!! tip "2001 Physics Nobel Prize awarded to Cornell and Wieman."
 
@@ -215,7 +232,7 @@ MLA
 
 	MLA style: Eric A. Cornell – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/2001/cornell/facts/>
 
-	NOBEL LECTURE: Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments by Cornell and Wieman.
+	NOBEL LECTURE: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by Cornell and Wieman.
 
 	MLA style: Eric A. Cornell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Thu. 13 Jun 2024. https://www.nobelprize.org/prizes/physics/2001/cornell/lecture/
 
@@ -227,16 +244,16 @@ MLA
 
 Two methods have been used to force the atoms to attain their lowest energy levels: laser cooling and evaporative cooling. In the first method when a photon bounces off the atom, the electron in the atom that absorbs the photon jumps to a higher energy level and quickly jumps back to its original level, ejecting the photon again which produces a temperature decrease. In the second method the atoms are located inside a magnetic trap from where the most energetic atoms escape but the slowest atoms remain. 
 
-As an application of Heisenberg’s uncertainty principle to the condensation effect, we next quote the explanation given by Ketterle in his NOBEL LECTURE: *When atoms behave as waves: Bose-Einstein condensation and the atom laser.*
+As an application of Heisenberg’s uncertainty principle to the condensation effect, we next quote the explanation given by Ketterle in his Nobel Lecture: *When atoms behave as waves: Bose-Einstein condensation and the atom laser.*
 
-Formato MLA 
+MLA style: Wolfgang Ketterle – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/ketterle/lecture/
 
 
 "When a gas of bosonic atoms is cooled below a critical temperature $T_c$, a large fraction of the atoms condenses in the lowest quantum state. Atoms at temperature T and with mass m can be regarded as quantum-mechanical wavepackets that have a spatial extent on the order of a thermal de Broglie wavelength $λ_{dB}= (2πħ^2/mk_BT)^{1/2}$. The value of $λ_{dB}$ is the position uncertainty associated with the thermal momentum distribution and increases with decreasing temperature. When atoms are cooled to the point where $λ_{dB}$ is comparable to the interatomic separation, the atomic wavepackets “overlap” and the gas starts to become a “quantum soup” of indistinguishable particles. Bosonic atoms undergo a quantum-mechanical phase transition and form a Bose-Einstein condensate, a cloud of atoms all occupying the same quantum mechanical state at a precise temperature which, for an ideal gas, is related to the peak atomic density n by $n(λ_{dB})^3 = 2.612$. If the atoms are fermions, cooling gradually brings the gas closer to being a “Fermi sea” in which exactly one atom occupies each low-energy state".
 
 Note: *the reduced Planck constant or Dirac constant is* $ħ =h⁄(2π)$.
 	
-Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s NOBEL LECTURE : *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
+Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture: *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
 
 Formato MLA 
 
@@ -258,9 +275,13 @@ Formato MLA
 
 **Figure 12.7.** Observation of Bose-Einstein condensate.
 
-For more details see the NOBEL LECTURE: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by E.A. Cornell and *C.E Wieman. Formato MLA* See also Advanced information:* Bose-Einstein Condensation in Alkali Gases*. 
+For more details see the Nobel Lecture: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by E.A. Cornell and C.E Wieman. 
 
-REFERENCIA 
+MLA style: Eric A. Cornell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Thu. 13 Jun 2024. https://www.nobelprize.org/prizes/physics/2001/cornell/lecture/
+
+See also Advanced information:* Bose-Einstein Condensation in Alkali Gases*. 
+
+MLA style: *Advanced information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/advanced-information/
 
 In 2018 Pablo Jarillo-Herrero (1976) and collaborators reported the discovery of superconductivity on twisted bilayer graphene. This is one example of Twistronics, the study of how the angle (the twist) between layers of two-dimensional materials can change their electrical properties from conductors to superconductors. 
 
