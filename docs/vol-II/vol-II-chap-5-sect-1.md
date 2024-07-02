@@ -120,6 +120,8 @@ In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 
 **In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in thermochemistry”.
 
 <u>*Presentation Speech*</u> by Professor Gerard de Geer, President of the Royal Swedish Academy of Sciences, on December 10, 1921.
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/ceremony-speech/
 	
 ……
 	
@@ -163,6 +165,8 @@ Later, since the inception of chemistry, the connection between chemical reactio
 **In 1949:** to William Francis Giauque (1895-1982) “for his contributions in the field of chemical thermodynamics, particularly concerning the behavior of substances at extremely low temperatures”.
 
 <u>*Presentation Speech*</u> by Professor A. Tiselius, member of the Nobel Committee for Chemistry of the Royal Swedish Academy of Sciences.
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/chemistry/1949/ceremony-speech/
 	
 …..
 
@@ -217,6 +221,9 @@ Later, since the inception of chemistry, the connection between chemical reactio
 **In 1968:**  to Lars Onsager (1903-1976) “for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes”.
 
 <u>*Presentation Speech*</u> by Professor S. Claesson of the Royal Swedish Academy of Sciences.
+
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/ceremony-speech/
 	
 …..
 
@@ -259,6 +266,8 @@ Later, since the inception of chemistry, the connection between chemical reactio
 **In 1977:** to Ilya Romanovich Prigogine (1917-2003) “for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures”.
 
 <u>*Presentation Speech*</u> by Professor Stig Claesson of the Royal Swedish Academy of Sciences.
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/
 	
 …..
 
