@@ -40,9 +40,9 @@
 
 ## 13.1. Steps in the development of Nuclear Physics.
 
-Two steps describe the main developments of nuclear physics made in the period 1895 – 1953: Atomic structure and electronic properties, and Production of new particles and detection of new interaction forces. Two more steps correspond to developments of particle physics made in the period 1953 – 2012: Classification of elementary particles, and Beyond the Standard model. These four steps show the transitions from the study of the atoms towards nuclei and from them towards elementary particles. Such transitions imply significant changes in scales of energy, time, and size.  
+Two steps describe the main developments of nuclear physics made in the period 1895 – 1953: *Atomic structure and electronic properties*, and *Production of new particles and detection of new interaction forces*. Two more steps correspond to developments of particle physics made in the period 1953 – 2012: *Classification of elementary particles*, and *Beyond the Standard model*. These four steps show the transitions from the study of the atoms towards nuclei and from them towards elementary particles. Such transitions imply significant changes in scales of energy, time, and size.  
 
-Next, we comment on some physics knowledge based on information contained in documents published in the Nobel Prize web page such as: *Award ceremony speech, Facts, Speed read, Press release. Popular information, and Advanced information, Work and Nobel lecture*. The corresponding MLA references are indicated in Appendix 13.1. Descriptions of all the contributions made by Nobel laureates corresponding to previously mentioned four steps are given in next section 13.2. Timeline of the main developments in high energy physics.
+Next, we comment on some physics knowledge based on information contained in documents published in the Nobel Prize web page such as: *Award ceremony speech, Facts, Speed read, Press release. Popular information, and Advanced information, Work and Nobel lecture*. The corresponding MLA references are indicated in Appendix 13.1. Descriptions of all the contributions made by Nobel laureates corresponding to previously mentioned four steps are given in next section 13.2. *Timeline of the main developments in high energy physics*.
 
 ### Atomic structure and electronic properties (1895-1927).
 
