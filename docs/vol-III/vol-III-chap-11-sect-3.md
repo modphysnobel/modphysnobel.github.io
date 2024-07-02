@@ -7,7 +7,7 @@
 
 ## 11.3. Phases in a learning and research process.
 
-In this section we describe Geim´s NOBEL LECTURE *Random Walk to Graphene*: MLA FORMAT
+In this section we describe Geim´s Nobel Lecture *Random Walk to Graphene*: MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
 
 We analyze this Lecture as a learning and research process that involves two structural phases:
 
@@ -1830,21 +1830,9 @@ MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outrea
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/press-release/>
 
-
-
-MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024.  <https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/>
-
-MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/>
-
-
-
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/2010/popular-information/>
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/chemistry/1996/press-release/>
-
-MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
-
-
 
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/popular-information/
 
