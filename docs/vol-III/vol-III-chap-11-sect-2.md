@@ -38,28 +38,26 @@ The crystallographic structure of graphene resembles that of graphite, determine
 
     NOBEL LECTURE: *Graphene: Materials in the Flatlan* by Novoselov.
 
-    *GRAPHENE AND ITS UNUSUAL PROPERTIES*
+    - Graphene and its unusual properties
+    - Two-dimensional crystals <br>
+        Stability of 2D crystals <br>
+        Graphene creation <br>
+        Other 2D crystals <br>
+        Out to Spaceland: 2D-based heterostructures
+    - Chiral quasiparticles and the electronic properties of graphene <br>
+        Linear dispersion relation and chirality <br>
+        The Klein paradox <br>
+        Half-integer quantum Hall effect <br>
+        Effect of mechanical deformation <br>
+        Graphene optics <br>
+        Bilayer graphene
+    - Graphene applications <br>
+        Graphene support <br>
+        Transparent conductive coating <br>
+        Graphene transistors <br>
+        Graphene composites <br>
+        Other applications
 
-    I. TWO-DIMENSIONAL CRYSTALS <br>
-    Stability of 2D crystals <br>
-    Graphene creation <br>
-    Other 2D crystals <br>
-    Out to Spaceland: 2D-based heterostructures
-
-    II. CHIRAL QUASIPARTICLES AND THE ELECTRONIC PROPERTIES OF GRAPHENE <br>
-    Linear dispersion relation and chirality <br>
-    The Klein paradox <br>
-    Half-integer quantum Hall effect <br>
-    Effect of mechanical deformation <br>
-    Graphene optics <br>
-    Bilayer graphene
-
-    III. GRAPHENE APPLICATIONS <br>
-    Graphene support <br>
-    Transparent conductive coating <br>
-    Graphene transistors <br>
-    Graphene composites <br>
-    Other applications
 
     MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
 
@@ -145,16 +143,16 @@ Next, for each laureate we quote the section Work and the title and subtitles of
 
     NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary* by Haroche.
 
-    CONTROL OF SINGLE PARTICLES IN A QUANTUM WORLD<br>
-    A PERSONAL ACCOUNT OF THE EARLY DAYS OF CAVITY QUANTUM ELECTRODYNAMICS<br>
-    COUNTING PHOTONS WITHOUT DESTROYING THEM: A NEW PHOTON BOX AND CIRCULAR RYDBERG ATOMS<br>
-    QUANTUM FEEDBACK<br>
-    FIELD STATE RECONSTRUCTION<br>
-    SCHRÖDINGER CAT STATES OF LIGHT AND DECOHERENCE STUDIES<br>
-    QUANTUM INFORMATION IN CAVITY QED<br>
-    PERSPECTIVES FOR THE WORK OF ENS<br>
-    RELATION TO OTHER DOMAINS IN QUANTUM INFORMATION SCIENCE<br>
-    ACKNOWLEDGMENTS
+    - Control of single particles in a quantum world
+    - A personal account of the early days of cavity quantum electrodynamics
+    - Counting photons without destroying them: a new photon box and circular rydberg atoms
+    - Quantum feedback
+    - Field state reconstruction
+    - Schrödinger cat states of light and decoherence studies
+    - Quantum information in cavity qed
+    - Perspectives for the work of ens
+    - Relation to other domains in quantum information science
+    - Acknowledgments
 
     MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
 
@@ -166,16 +164,17 @@ Next, for each laureate we quote the section Work and the title and subtitles of
 
     NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by Wineland.
 
-    I. INTRODUCTION<br>
-    II. SOME EARLY STEPS TOWARDS QUANTUM CONTROL<br>
-    III. CONTROLLING THE QUANTUM LEVELS OF INDIVIDUAL TRAPPED IONS<br>
-    IV. MANIPULATING ION MOTION AT THE QUANTUM LEVEL<br>
-    V. SCHRÖDINGER’S CAT<br>
-    VI. ENTER QUANTUM INFORMATION<br>
-    A. Quantum simulation<br>
-    B. Spectroscopy and quantum metrology<br>
-    VII. SUMMARY<br>
-    VIII. ACKNOWLEDGEMENTS
+    - Introduction
+    - Some early steps towards quantum control
+    - Controlling the quantum levels of individual trapped ions
+    - Manipulating ion motion at the quantum level
+    - Schrödinger’s cat
+    - Enter quantum information<br>
+        Quantum simulation<br>
+        Spectroscopy and quantum metrology
+    - Summary
+    - Acknowledgements
+
 
     MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/
 
