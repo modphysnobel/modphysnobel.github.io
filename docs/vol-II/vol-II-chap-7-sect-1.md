@@ -173,7 +173,7 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 (Source: information obtained from Pais´ book.)
 </center>
 
-The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document WORK describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
+The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document Work describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
 	
 !!! tip "1926 Physics Nobel Prize awarded to Perrin."
 
@@ -181,7 +181,7 @@ The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "fo
 
 	MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
 
-	NOBEL LECTURE: *Discontinuous Structure of Matter.* 
+	NOBEL LECTURE: *Discontinuous Structure of Matter* by Perrin. 
 
 	- Introduction
 	- **The Brownian movement**
@@ -247,7 +247,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	</div> 
 
 
-!!! quote "Box 7.1. Issues requiring explaining models in Perrin´s Lecture (1)."
+!!! quote "Box 7.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
 
 	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
 	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
@@ -268,7 +268,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
 	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
 
-!!! quote "Box 7.2. Issues requiring explaining models in Perrin´s Lecture (2)."
+!!! quote "Box 7.2. *Issues requiring explaining models in Perrin´s Lecture (2)*."
 
 	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
 	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
