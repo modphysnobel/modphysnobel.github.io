@@ -32,9 +32,7 @@ The crystallographic structure of graphene resembles that of graphite, determine
 
     WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
 
-    We deal with Geim´s Nobel Lecture *Random Walk to Graphen* in next section 11.3.
-
-    MLA style
+    MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
 
     We deal with Geim´s Nobel Lecture Random Walk to Graphen in next section 11.3.
 
@@ -137,7 +135,7 @@ In previous experiments quantum states were observed through quantum non-demolit
 
 For more advanced explanations consult Scientific background: *Measuring and manipulating individual quantum systems.*
 
-Next, for each laureate we quote the section WORK and the title and subtitles of their lectures.
+Next, for each laureate we quote the section Work and the title and subtitles of their lectures.
 
 !!! tip "2012 Physics Nobel Prize awarded to Haroche."
 
