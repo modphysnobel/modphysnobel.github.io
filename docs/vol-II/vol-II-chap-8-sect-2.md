@@ -148,11 +148,11 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 	- Introduction
 	- LED research in the early days
 	- Brief history of research on GaN-based materials and devices <br>
-		*Early attempts at development of GaN Blue LED* <br>
-		*Reconsideration of growth technology* <br>
+		Early attempts at development of GaN Blue LED <br>
+		Reconsideration of growth technology <br>
 	- Creation of GaN single crystal with excellent quality <br> 
-		*Development of low-temperature buffer layer technology in movpe<br> 
-		*Model for the growth mode<br>
+		Development of low-temperature buffer layer technology in movpe<br> 
+		Model for the growth mode<br>
 	- Discovery of p-type GaN and demonstration of p-n function Blue/UV LED
 	- Conductivity control of n-type GaN and nitride alloys
 	- Brief history of nitride-based Blue LEDs
@@ -184,12 +184,12 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 	- Material of choice: ZnSe VS. GaN
 	- Development of GaN
 	- Development of InGaN <br>
-		*InGaN based devices*<br>
-		*Material Properties of InGaN*
+		InGaN based devices<br>
+		Material Properties of InGaN
 	- Historical development of InGaN Based LEDs <br>
-		*Luminous Efficacy* <br>
-		*Significant Milestones on the Journey to the White LED* <br>
-		*Contributions to the Efficient Blue LED*
+		Luminous Efficacy <br>
+		Significant Milestones on the Journey to the White LED <br>
+		Contributions to the Efficient Blue LED
 	- Forward looking
 
 
