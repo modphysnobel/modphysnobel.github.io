@@ -63,7 +63,7 @@ Bragg´s law relates the observed X-ray diffraction pattern to the arrangement o
 
 	MLA style: William Bragg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/wh-bragg/facts/
 
-	NOBEL LECTURE: *The Diffraction of X-Rays by Crystals* by Lawrence Bragg.
+	NOBEL LECTURE: *The Diffraction of X-Rays by Crystals* by Bragg.
 
 	….. "Prof. von Laue had made some of his earliest experiments with a crystal of zinc sulphide, and had obtained results which proved that the diffracted pencils showed the symmetry of the underlying crystal structure, which in this case was cubic". …. "I"n studying his work, it occurred to me that perhaps we ought to look for the origin of this selection of certain directions of diffraction in the peculiarities of the crystal structure, and not in the constitution of the X-ray beam…"
 
@@ -167,7 +167,7 @@ In 1981 Gerd Binnig and Heinrich Rohrer built a scanning tunneling microscope to
 
 Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, for instance: the production of extremely fine stylus so that the tip contained only a few atoms, and the elimination of environment vibrations by placing the microscope upon a heavy permanent magnet floating freely in a dish of superconducting lead.
 
-!!! tip "1986 Physics Nobel Prize awarded to Binnig."
+!!! tip "1986 Physics Nobel Prize awarded to Binning and Rohrer."
 
 	WORK: “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
 
@@ -179,6 +179,8 @@ Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, fo
 
 	For a review of the physical and technical aspects of the Prize, the authors recommend their publication:  Binnig, G., and Rohrer, H. (1986), *Scanning tunneling microscopy*, IBM J. Res. Develop. 30, 355.
 
+	MLA style: Heinrich Rohrer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 26 May 2023. https://www.nobelprize.org/prizes/physics/1986/rohrer/lecture/
+
 ### Neutron spectroscopy.
 
 Neutrons are elementary particles that behave both as particles and as waves, have no electric charge and its mass is about the same as a proton. Neutrons are basic building blocks of the atomic nucleus and as free particles participate in many nuclear reactions. They were discovered in 1932 by James Chadwick (1891-1974) when he observed a penetrating form of radiation emanating from beryllium metal activated by alpha-particles coming from a radium source. For more details, see Chadwick´s 1935 Nobel Lecture: *The Neutron and Its Properties* and the 1938 Nobel Lecture by Enrico Fermi (1901-1954): *Artificial Radioactivity Produced by Neutron Bombardment*.
@@ -187,7 +189,7 @@ Initially neutrons were used to split atomic nuclei and produce atomic bombs. La
 
 The following  information has been obtained from the document Press release *The structure and dynamics of matter revealed.*
 
-MLA
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/press-release/
 
 
 Neutrons have interesting scattering properties because their energy is of the same order of magnitude as that of the phonons in solid and fluid matter. Neutron diffraction has served to study the relative orientations of small atomic materials. …. “neutrons have been used to an increasing extent for studying the structure (arrangement) and dynamics (movement) of solid and fluid matter.”
