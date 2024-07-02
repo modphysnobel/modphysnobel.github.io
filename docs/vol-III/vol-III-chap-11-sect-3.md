@@ -1834,9 +1834,7 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. We
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/chemistry/1996/press-release/>
 
-MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/popular-information/
-
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/advanced-information/
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/advanced-information/
 
 ***
 
