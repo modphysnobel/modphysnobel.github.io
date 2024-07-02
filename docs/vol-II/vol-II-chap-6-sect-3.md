@@ -17,7 +17,7 @@ Physics looks for explanations of certain observed and measured phenomena that m
 (Image elaborated by the authors)
 </center>
 
-In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. For each year we start indicating for what reason the Physics Nobel Prize was awarded and who shared the prize. Then we insert the document called WORK describing the main contributions made by each laureate and include the title of each NOBEL LECTURE as well as the name of the laureate. We also include the subtitles of the Lecture when they exist in the original. Finally, two boxes describe the main concepts and models considered in the Lecture. All the corresponding references in MLA format are given.
+In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. For each year we start indicating for what reason the Physics Nobel Prize was awarded and who shared the prize. Then we insert the document called Work describing the main contributions made by each laureate and include the title of each Nobel Lecture as well as the name of the laureate. We also include the subtitles of the Lecture when they exist in the original. Finally, two boxes describe the main concepts and models considered in the Lecture. All the corresponding references in MLA format are given.
 
 To Bohr “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
@@ -27,7 +27,7 @@ To Bohr “for his services in the investigation of the structure of atoms and o
 
 	MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
 
-	NOBEL LECTURE: *The structure of the atom*. 
+	NOBEL LECTURE: *The structure of the atom* by Bohr. 
 
 	- The general picture of the atom 
 	- Atomic stability and electrodynamic theory 
@@ -104,7 +104,7 @@ To Bohr “for his services in the investigation of the structure of atoms and o
 	</div> 
 
 
-!!! quote "Box 6.1. . Issues requiring explaining models in Bohr´s Lecture."
+!!! quote "Box 6.1. . *Issues requiring explaining models in Bohr´s Lecture*."
 
 	- Atomic structures by Thomson and by Rutherford. 
 	- Classification of elements and existence of isotopes according to electronic level structures. 
@@ -129,7 +129,7 @@ To Lamb “for his discoveries concerning the fine structure of the hydrogen spe
 
 	MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1955/lamb/facts/
 
-	NOBEL LECTURE: *Fine Structure of the Hydrogen Atom*.
+	NOBEL LECTURE: *Fine Structure of the Hydrogen Atom* by Lamb.
 
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
@@ -182,7 +182,7 @@ To Lamb “for his discoveries concerning the fine structure of the hydrogen spe
 	</table> 
 	</div> 
 
-!!! quote "Box 6.2. Issues requiring explaining models in Lamb´s Lecture."
+!!! quote "Box 6.2. *Issues requiring explaining models in Lamb´s Lecture*."
 
 	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
 	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
@@ -202,7 +202,7 @@ To Townes “for fundamental work in the field of quantum electronics, which has
 
 	MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
 
-	NOBEL LECTURE: *Production of Coherent Radiation by Atoms and Molecules*.
+	NOBEL LECTURE: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
 
 	- Basic Maser principles
 	- Maser Clocks and Amplifiers
@@ -271,7 +271,7 @@ To Townes “for fundamental work in the field of quantum electronics, which has
 	</table>
 	</div> 
 
-!!! quote "Box 6.3. Issues requiring explaining models in Townes´ Lecture."
+!!! quote "Box 6.3. *Issues requiring explaining models in Townes´ Lecture*."
 
 	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
 	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
@@ -300,7 +300,7 @@ To Schawlow "for their contribution to the development of laser spectroscopy". (
 
 	MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes///schawlow/facts/
 
-	NOBEL LECTURE: *Spectroscopy in a New Light*. 
+	NOBEL LECTURE: *Spectroscopy in a New Light* by Schawlow. 
 
 	- Introduction
 	- Laser spectroscopy
@@ -353,7 +353,7 @@ To Schawlow "for their contribution to the development of laser spectroscopy". (
 	</table> 
 	</div> 
 
-!!! quote "Box 6.4. Issues requiring explaining models in Schawlow´s Lecture."
+!!! quote "Box 6.4. *Issues requiring explaining models in Schawlow´s Lecture*."
 
 	- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
 	- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
