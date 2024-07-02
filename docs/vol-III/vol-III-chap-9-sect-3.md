@@ -104,7 +104,7 @@ It is interesting to note that in 1897 Joseph John Thomson (1856-1940), the fath
 
 	MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
 
-	NOBEL LECTURE: Carriers of Negative Electricity by J. J. Thomson.
+	NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
 
 	Introductory<br>
 	Electric deflection of the rays<br>
