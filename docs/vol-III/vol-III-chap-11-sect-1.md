@@ -121,19 +121,16 @@ The contributions made by Ernst Ruska are now considered in two parts: (1) by in
 
 	NOBEL LECTURE: *The Development of the Electron Microscope and of Electron Microscopy* by Ruska.
 
-	*A.	Parents’ house, family*
-
-	*B.	School, vocational choice*
-
-	*C.	The cathode-ray oscillograph and the short coil*
+	- Parents’ house, family
+	- School, vocational choice
+	- The cathode-ray oscillograph and the short coil
 	
 	…..
     
 	“Therefore, Hans Busch at Jena calculated the electron trajectories in such an electron ray bundle and found that the magnetic field of the short coil has the same effect on the electron bundle as has the convex glass lens with a defined focal length on a light bundle.” ……
 
-	*D.   Why I pursued the magnetic electron lens for the electron microscope*
-
-	*E.	The invention of the electron microscope*
+	- Why I pursued the magnetic electron lens for the electron microscope
+	- The invention of the electron microscope
 
 	“The first proof had thus been given that-apart from light and glass lenses images of irradiated specimens could be obtained also by electron beams and magnetic fields, and this in even more than one imaging stage.” …. “I was immediately heartened, though, when with the aid of the de Broglie equation I became satisfied that these waves must be around five orders of magnitude shorter in length than light waves. Thus, there was no reason to abandon the aim of electron microscopy surpassing the resolution of light microscopy.”
 
@@ -141,7 +138,7 @@ The contributions made by Ernst Ruska are now considered in two parts: (1) by in
 
 	… “Even very thin specimens yielded sufficient contrast, yet no longer by absorption but solely by diffraction of the electrons, whereby - as is known - the specimens are heated up considerably less.”
 
-	*F.	How the industrial production of electron microscopes came to be*
+	- How the industrial production of electron microscopes came to be
 	
 	……
 
@@ -149,7 +146,7 @@ The contributions made by Ernst Ruska are now considered in two parts: (1) by in
 
 	….
 
-	*G.	Development of electron microscopy after 1945*
+	- Development of electron microscopy after 1945
 	
 	……
 
@@ -185,6 +182,12 @@ Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, fo
 
 Neutrons are elementary particles that behave both as particles and as waves, have no electric charge and its mass is about the same as a proton. Neutrons are basic building blocks of the atomic nucleus and as free particles participate in many nuclear reactions. They were discovered in 1932 by James Chadwick (1891-1974) when he observed a penetrating form of radiation emanating from beryllium metal activated by alpha-particles coming from a radium source. For more details, see Chadwick´s 1935 Nobel Lecture: *The Neutron and Its Properties* and the 1938 Nobel Lecture by Enrico Fermi (1901-1954): *Artificial Radioactivity Produced by Neutron Bombardment*.
 
+
+MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024.  <https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/>
+
+MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/>
+
+
 Initially neutrons were used to split atomic nuclei and produce atomic bombs. Later, fluxes of neutrons coming out from nuclear reactors served to study the effects of collisions atom-neutron on the structural and dynamical properties of condensed matter. The structural properties defined by the positions of atoms were determined by registering changes in the directions of scattered neutrons. The neutron velocities were related to the dynamical properties of the individual or collective oscillations of the atoms.  
 
 The following  information has been obtained from the document Press release *The structure and dynamics of matter revealed.*
@@ -218,14 +221,14 @@ Shull developed neutron scattering techniques based on the diffraction of elasti
 
 	NOBEL LECTURE: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical World* by Brockhouse.
 
-	A.	The NEUTRON and its APPLICATIONS<br>
-	The GRAND ATLAS<br>
-	SLOW NEUTRON SPECTROMETRY<br>
-	Absorption Methods<br>
-	The Triple-Axis Spectrometer<br>
-	Developments in Apparatus and Methods<br>
-	Phonons, Dispersion Curves and Interatomic Forces<br>
-	Nature, Neutron Spectroscopy and the Grand Atlas
+	- The NEUTRON and its APPLICATIONS<br>
+	- The GRAND ATLAS<br>
+	- SLOW NEUTRON SPECTROMETRY<br>
+	- Absorption Methods<br>
+	- The Triple-Axis Spectrometer<br>
+	- Developments in Apparatus and Methods<br>
+	- Phonons, Dispersion Curves and Interatomic Forces<br>
+	- Nature, Neutron Spectroscopy and the Grand Atlas
 
 	MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/
 
