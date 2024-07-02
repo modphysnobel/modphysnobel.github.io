@@ -1830,13 +1830,13 @@ MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outrea
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. <https://www.nobelprize.org/prizes/physics/1986/press-release/>
 
-MLA style: Heinrich Rohrer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 26 May 2023. https://www.nobelprize.org/prizes/physics/1986/rohrer/lecture/
+
 
 MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024.  <https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/>
 
 MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/>
 
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/press-release/
+
 
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. <https://www.nobelprize.org/prizes/physics/2010/popular-information/>
 
@@ -1844,7 +1844,7 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 F
 
 MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
 
-MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
+
 
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. <https://www.nobelprize.org/prizes/physics/2012/popular-information/
 
