@@ -46,7 +46,7 @@ From the definition $U= N_A〈E〉$ and the previous result $〈E〉 =k_B T$, it
 
 A similar result to the above ($C_V = 3R$) was obtained experimentally by Pierre-Louis Dulong (1785-1838) and Alexis-Thérèse Petit (1791-1820). These authors established that "the atoms of simple substances have exactly the same specific heat", as shown by the data they reported in their article *Recherches sur quelques points importants de la Théorie de la Chaleur*, published in 1819 in *Annales de Chimie et de Physique.*
 
-The following Table 7.2 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
+The following Table 7.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
 <div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
