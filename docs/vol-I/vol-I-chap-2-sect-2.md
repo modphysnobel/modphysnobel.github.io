@@ -126,11 +126,9 @@ In what follows, we consider two kinds of publications that are available in the
 
 	NOBEL LECTURE: *X-rays as a Branch of Optics* by Compton.
 
-	• The refraction and reflection of X-rays
-
-	• The diffraction of X-rays
-
-	• The scattering of X-rays and light
+	- The refraction and reflection of X-rays
+	- The diffraction of X-rays 
+	- The scattering of X-rays and light
 
 	MLA style: Arthur H. Compton – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1927/compton/lecture/>
 
