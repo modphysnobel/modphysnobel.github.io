@@ -148,14 +148,14 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 	- Introduction
 	- LED research in the early days
 	- Brief history of research on GaN-based materials and devices <br>
-		*Early attempts at development of GaN blue LED* <br>
+		*Early attempts at development of GaN Blue LED* <br>
 		*Reconsideration of growth technology* <br>
 	- Creation of GaN single crystal with excellent quality <br> 
 		*Development of low-temperature buffer layer technology in movpe<br> 
 		*Model for the growth mode<br>
-	- Discovery of p-type GaN and demonstration of p-n function BLUE/ UV LED
+	- Discovery of p-type GaN and demonstration of p-n function Blue/UV LED
 	- Conductivity control of n-type GaN and nitride alloys
-	- Brief history of nitride-based BLUE LEDs
+	- Brief history of nitride-based Blue LEDs
 	- Development of nitride-based LEDs and other devices
 	- Summary and future expectations
 
@@ -165,13 +165,14 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 	
 	NOBEL LECTURRE: *Growth of GaN on Sapphire via Low-Temperature Deposited Buffer Layer and Realization of p-Type GaN by Mg Doping Followed by LowEnergy Electron Beam Irradiation* by Amano.
 
-	1.	*MOTIVATION FOR STARTING BLUE LED RESEARCH*
-	2.	*DIFFICULTY OF REALIZING HIGH-PERFORMANCE BLUE LEDs BASED ON GaN*
-	3.	*FUNDING SITUATION OF OUR LABORATORY IN THE MID-1980S AND THE DIFFICULTY OF GROWING GaN ON A SAPPHIRE SUBSTRATE*
-	4.	*LOW-TEMPERATURE DEPOSITED BUFFER LAYER*
-	5.	*REALIZATION OF p-TYPE GaN*
-	6.	*ATTEMPTS TO GROW InGaN*
-	7.	*CONTRIBUTION OF InGaN-BASED BLUE LEDs TO ENERGY SAVING*
+	- Motivation for starting Blue LED research
+	- Difficulty of realizing high-performance Blue LEDs based on GaN
+	- Funding situation of our laboratory in the mid-1980s and the difficulty of growing GaN on a sapphire substrate
+	- Low-temperature deposited buffer layer
+	- Realization of p-type GaN
+	- Attempts to grow InGaN
+	- Contribution of InGaN-based Blue LEDs to energy saving
+
 
 	MLA style: Hiroshi Amano – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/amano/lecture/
 
@@ -179,17 +180,18 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 
 	NOBEL LECTURE: *Background Story of the Invention of Efficient Blue InGaN Light Emitting Diodes* by Nakamura.
 
-	1.	*INTRODUCTION AND IMPACT OF WHITE LIGHT EMITTING DIODES*
-	2.	*MATERIAL OF CHOICE: ZnSe VS. GaN*
-	3.	*DEVELOPMENT OF GaN*
-	4.	*DEVELOPMENT OF InGaN* <br>
-		4.1	*InGaN based devices*<br>
-		4.2	*Material Properties of InGaN*
-	5.	*HISTORICAL DEVELOPMENT OF InGaN BASED LEDS* <br>
-		5.1	*Luminous Efficacy* <br>
-		5.2	*Significant Milestones on the Journey to the White LED* <br>
-		5.3	*Contributions to the Efficient Blue LED*
-	6.	*FORWARD LOOKING*
+	- Introduction and impact of white light emitting diodes
+	- Material of choice: ZnSe VS. GaN
+	- Development of GaN
+	- Development of InGaN <br>
+		*InGaN based devices*<br>
+		*Material Properties of InGaN*
+	- Historical development of InGaN Based LEDs <br>
+		*Luminous Efficacy* <br>
+		*Significant Milestones on the Journey to the White LED* <br>
+		*Contributions to the Efficient Blue LED*
+	- Forward looking
+
 
 	MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/nakamura/lecture/
 
