@@ -68,8 +68,7 @@ When the interferometer’s arms did not change length, both signals traveled eq
 </p>
 
 <center>
-Source: Figure 3 taken from the document *Popular information: The Nobel Prize in Physics 2017*.
-MLA
+Source: Figure 3 taken from the document *Popular information: The Nobel Prize in Physics 2017*. MLA style: *Popular information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 17 May 2023. <https://www.nobelprize.org/prizes/physics/2017/popular-information/>
 </center>
 
 
