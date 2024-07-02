@@ -282,7 +282,7 @@ Later, since the inception of chemistry, the connection between chemical reactio
 
 	NOBEL LECTURE: *Time, Structure and Fluctuations* by Prigogine.
 
-	1	Introduction.
+	- Introduction
 
 	“The problem of time in physics and chemistry is closely related to the formulation of the second law of thermodynamics. Therefore another possible title of this lecture could have been: “the macroscopic and microscopic aspects of the second law of thermodynamics”. 
   
@@ -296,19 +296,13 @@ Later, since the inception of chemistry, the connection between chemical reactio
 	
 	…..
 
-	2	Entropy production.
-	
-	3	Thermodynamic stability theory.
-	
-	4	Application to chemical reactions.
-	
-	5	The law of large numbers and the statistical description of chemical reactions.
-	
-	6	The dynamic interpretation of the Lyapunov function.
-	
-	7	Non-unitary transformation theory.
-	
-	8	Concluding remarks.
+	- Entropy production
+	- Thermodynamic stability theory
+	- Application to chemical reactions
+	- The law of large numbers and the statistical description of chemical reactions
+	- The dynamic interpretation of the Lyapunov function
+	- Non-unitary transformation theory
+	- Concluding remarks
 
 	MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
 
