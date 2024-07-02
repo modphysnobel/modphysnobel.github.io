@@ -146,10 +146,6 @@ RELATED TO CONTINUOUS LEARNING.
 
 Linn, M.C. and His, S. (2000). *Computers, Teachers, Peers: Science learning partners*. Mahwah, New Jersey, Lawrence Erlbaum Associates.
 	
-PHYSICS NOBEL PRIZES
-
-MLA style: *Popular information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 17 May 2023. <https://www.nobelprize.org/prizes/physics/2017/popular-information/>
-
 
 ***
 
