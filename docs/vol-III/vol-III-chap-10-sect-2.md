@@ -137,20 +137,21 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	NOBEL LECTURE: *LIGO and Gravitational Waves II* by Barish.
 
-	INTRODUCTION  <br>
-	THE LIGO LABORATORY <br>
-	THE LIGO SCIENTIFIC COLLABORATION (LSC) <br>
-	INITIAL LIGO PERFORMANCE AND SCIENCE <br>
-	ADVANCED LIGO <br>
-	THE BLACK HOLE MERGER EVENT (GW150914) <br>
-	MORE BLACK HOLE MERGERS <br>
-	SCIENCE IMPLICATIONS OF THE OBSERVED BLACK HOLE MERGERS <br>
-	VIRGO DETECTS GRAVITATIONAL WAVES <br>
-	NEUTRON STAR BINARY MERGER <br>
-	FUTURE DIRECTIONS FOR LIGO AND GRAVITATIONAL WAVES <br>
-	THE FUTURE <br>
-	FINAL REMARKS AND REFLECTIONS <br>
-	LIGO – SOME KEY MEMBERS
+	- Introduction  
+	- The LIGO laboratory 
+	- LIGO scientific collaboration (LSC) 
+	- Initial LIGO performance and science 
+	- Advanced LIGO
+	- The black hole merger event (GW150914) 
+	- More black hole mergers 
+	- Science implications of the observed black hole mergers 
+	- Virgo detects gravitational waves 
+	- Neutron star binary merger 
+	- Future directions for LIGO and gravitational waves 
+	- The future 
+	- Final remarks and reflections 
+	- LIGO – some key members
+
 
 	“The observation of gravitational waves in the Laser Interferometer Gravitational-Wave Observatory (LIGO) was announced on February 11, 2016, one hundred years after Einstein proposed the existence of gravitational waves. This observation came after more than fifty years of experimental efforts to develop sensitive enough detectors to observe the tiny distortions in spacetime from gravitational waves.” ….
 
@@ -186,28 +187,29 @@ In what follows we present some excerpts of the three 2017 Nobel Lectures. When 
 
 	We just present some excerpts corresponding to the last subtitle. 
 
-	INTRODUCTION AND OVERVIEW<br>
-	SOME EARLY PERSONAL HISTORY: 1962–1976<br>
-	SOURCES OF GRAVITATIONAL WAVES<br>
-	INFORMATION CARRIED BY GRAVITATIONAL WAVES, AND COMPUTATION OF GRAVITATIONAL WAVEFORMS <br>
+	- Introduction and overview
+	- Some early personal history: 1962–1976 
+	- Sources of gravitational waves
+	- Information carried by gravitational waves, and computation of gravitational waveforms <br>
 		Observables from a Compact Binary’s Inspiral Waves<br>
 		Post-Newtonian Approximation for Computing Inspiral Waveforms<br>
 		Numerical Relativity for Computing Merger Waveforms<br>
 		Geometrodynamics in BBH Mergers <br>
-	THEORISTS’ CONTRIBUTIONS TO UNDERSTANDING AND CONTROLLING NOISE IN THE LIGO INTERFEROMETERS<br>
+	- Theorists’ contributions to understanding and controlling noise in the ligo interferometers<br>
 		Scattered-Light Noise<br>
 		Gravitational noise<br>
 		Thermal Noise<br>
 		Quantum Noise and the Standard Quantum Limit for a Gravitational Interferometer<br>
 		Quantum Fluctuations, Quantum Nondemolition, and Squeezed Vacuum<br>
-	THE FUTURE: FOUR GRAVITATIONAL FREQUENCY BANDS<br>
+	- The future: four gravitational frequency bands<br>
 		LISA: The Laser Interferometer Space Antenna <br>
 		PTAs: Pulsar Timing Arrays<br>
 		CMB Polarization<br>
-	THE FUTURE: PROBING THE UNIVERSE WITH GRAVITATIONAL WAVES<br>
+	- The future: probing the universe with gravitational waves<br>
 		Multi-Messenger Astronomy<br>
 		Exploring Black Holes and Geometrodynamics with Gravitational Waves<br>
 		Exploring the First One Second of our Universe’s Life
+
 
 	MLA style: Kip S. Thorne – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 4 Jun 2023. https://www.nobelprize.org/prizes/physics/2017/thorne/lecture/
 
