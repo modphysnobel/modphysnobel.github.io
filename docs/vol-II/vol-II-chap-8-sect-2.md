@@ -99,7 +99,7 @@ It is also important to point out different “philosophical” positions regard
 
 Einstein applied a whole new reasoning process and introduced the revolutionary hypothesis of the quantization of radiation energy (photons). He used the ideal gas model of particles to make an analogy with the quantized radiation model. He considered the entropy change of an ideal gas at constant temperature when the volume changes reversibily. From this he concluded, comparing equations, that the physical behavior of both systems must be equivalent: if the ideal gas refers to material "particles", the electromagnetic radiation must also refer to “particles”, in this case photons.
 
-An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. The document called WORK indicates the following:
+An important application of the photoelectric effect was made by K.M. Siegbahn (1918-2007) who received the 1981 Physics Nobel Prize “for his contribution to the development of high-resolution electron spectroscopy”. The document called Work indicates the following:
 
 !!! tip "1981 Physics Nobel Prize awarded to Siegbahn."
 
@@ -107,7 +107,7 @@ An important application of the photoelectric effect was made by K.M. Siegbahn (
 
 	MLA style: Kai M. Siegbahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/1981/siegbahn/facts/
 
-	NOBEL LECTURE: *Electron Spectroscopy for Atoms, Molecules and Condensed Matter*. 
+	NOBEL LECTURE: *Electron Spectroscopy for Atoms, Molecules and Condensed Matter* by Siegbahn. 
 
 	MLA style: Kai M. Siegbahn – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/1981/siegbahn/lecture/
 
