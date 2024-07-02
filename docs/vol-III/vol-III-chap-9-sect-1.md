@@ -179,7 +179,7 @@ To have an idea of the order of magnitude of the wavelength assigned by de Brogl
 
     MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1929/broglie/facts/>
 
-    NOBEL LECTURE: *The Wave Nature of the Electron*. 
+    NOBEL LECTURE: *The Wave Nature of the Electron* by Broglie. 
 
     MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/
 
@@ -228,11 +228,11 @@ If in the Bragg formula the distance between the crystal planes $d$ is replaced 
 
     MLA style: Clinton Davisson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1937/davisson/facts/>
 
-    NOBEL LECTURE: The Discovery of Electron Waves by Davisson.
+    NOBEL LECTURE: *The Discovery of Electron Waves* by Davisson.
 
     MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
-    NOBEL LECTURE: Electronic Waves by Thomson.
+    NOBEL LECTURE: *Electronic Waves* by Thomson.
 
     MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/thomson/lecture/
 
