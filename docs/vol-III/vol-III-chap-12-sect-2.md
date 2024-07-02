@@ -18,13 +18,12 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 
 	NOBEL LECTURE: *The Quantized Hall Effect* by von Klitzing. 
 
-	1.	Introduction
-	2.	Two- Dimensional Electron Gas
-	3.	Quantum Transport of a 2DEG in Strong Magnetic Fields
-	4.	Experimental Data
-	5.	Application of the Quantum Hall Effect in Metrology
-	
-	Acknowledgements
+	- Introductiom
+	- Two- Dimensional Electron Gas
+	- Quantum Transport of a 2DEG in Strong Magnetic Fields
+	- Experimental Data
+	- Application of the Quantum Hall Effect in Metrology
+	- Acknowledgements
 
 	MLA style: Klaus von Klitzing – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1985/klitzing/lecture/
 
@@ -36,11 +35,12 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 
 	NOBEL LECTURE: *Fractional Quantization* by Laughlin
 
-	SOLITONS<br>
-	LOCALIZATION<br>
-	FRACTIONAL QUANTUM HALL STATE<br>
-	FRACTIONAL STATISTICS<br>
-	REMARKS
+	- Solitons
+	- Localization
+	- Fractional quantum hall state
+	- Fractional statistics
+	- Remarks
+
 
 	MLA style: Robert B. Laughlin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/laughlin/lecture/
 
@@ -52,36 +52,37 @@ In what follows we refer to the 1985 Physics Nobel Prize awarded to Klaus von Kl
 
 	NOBEL LECTURE: *The Fractional Quantum Hall Effect* by Störmer.
 
-	INTRODUCTION<br>
-	TWO-DIMENSIONAL ELECTRON SYSTEMS<br>
-	MODULATION-DOPING<br>
-	THE HALL EFFECT<br>
-	THE INTEGRAL QUANTUM HALL EFFECT<br>
-	THE FRACTIONAL QUANTUM HALL EFFECT<br>
-	Discovery<br>
-	Origin<br>
-	Of Electrons and Flux Quanta<br>
-	Composite Particles<br>
-	Fermions and Bosons<br>
-	Composite Particle Statistics<br>
-	1/3 Fractional Quantum Hall State<br>
-	The State at $v = ½$<br>
-	All Those Other FQHE States<br>
-	The Peculiar State at $v = 5/2$<br>
-	CONCLUSIONS<br>
-	EPILOGUE<br>
-	BIBLIOGRAPHY
+	- Introduction<br>
+	- Two-dimensional electron systems<br>
+	- Modulation-doping<br>
+	- The Hall effect<br>
+	- The integral quantum Hall effect<br>
+	- The fractional quantum Hall effect<br>
+		Discovery<br>
+		Origin<br>
+		Of Electrons and Flux Quanta<br>
+		Composite Particles<br>
+		Fermions and Bosons<br>
+		Composite Particle Statistics<br>
+		1/3 Fractional Quantum Hall State<br>
+		The State at $v = ½$<br>
+		All Those Other FQHE States<br>
+		The Peculiar State at $v = 5/2$<br>
+	- Conclusions
+	- Epilogue
+	- Bibliography
+
 
 	MLA style: Horst L. Störmer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/1998/stormer/lecture/
 
 	NOBEL LECTURE: *Interplay of Disorder and Interaction in Two-Dimensional Electron Gas in Intense Magnetic Fields* by Tsui.
 	
-	PROLOGUE<br>
-	TWO-DIMENSIONAL MAGNETO-TRANSPORT<br>
-	QUANTUM PHASE TRANSITIONS IN IQHE<br>
-	THE FQHE<br>
-	THE MAGNETIC FIELD INDUCED CRYSTAL REGIME<br>
-	ACKNOWLEDGEMENTS 
+	- Prologue<br>
+	- Two-dimensional magneto-transport<br>
+	- Quantum phase transitions in IQHE<br>
+	- The FQHE<br>
+	- The magnetic field induced crystal regime<br>
+	- Acknowledgements
 
 	MLA style: Daniel C. Tsui – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1998/tsui/lecture/
 
