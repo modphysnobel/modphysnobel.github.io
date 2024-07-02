@@ -44,12 +44,13 @@ In what follows, we quote the document Work describing the main contributions of
 
 	NOBEL LECTURE: *Grid Cells, Place Cells and Memory* by May-Britt Moser.
 
-	- THE RELATIONSHIP BETWEEN GRID CELLS AND PLACE CELLS.
-	- ENTORHINAL SPEED CELLS.
-	- THE HIPPOCAMPUS—MEMORY OR SPACE?
-	- MECHANISMS FOR ASSOCIATING EVENTS WITH PLACE—ODOURS AS A GATEWAY.
-	- REMAPPING KEEPS MEMORIES APART.
-	- FROM SPATIAL MAPPING TO NAVIGATION
+	- The relationship between grid cells and place cells.
+	- Entorhinal speed cells.
+	- The hippocampus—memory or space?
+	- Mechanisms for associating events with place—odours as a gateway.
+	- Remapping keeps memories apart.
+	- From spatial mapping to navigation
+
 
 	MLA style: May-Britt Moser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/may-britt-moser/lecture/>
 
@@ -60,14 +61,15 @@ In what follows, we quote the document Work describing the main contributions of
 
 	NOBEL LECTURE: *Grid Cells and the Enthorinal Map of Space* by Edvard I. Moser.
 
-	1.	From psychology to neurophysiology—and back.
-	2.	Moving into unknown territory—the entorhinal cortex.
-	3.	Grid cells and their functional organization.
-	4.	A universal map.
-	5.	Grid cells and the geometry of the environment.
-	6.	Fine-scale topography of the grid-cell network.
-	7.	How is the grid pattern generated?
-	8.	General principles of network function.
+	- From psychology to neurophysiology—and back
+	- Moving into unknown territory—the entorhinal cortex
+	- Grid cells and their functional organization
+	- A universal map
+	- Grid cells and the geometry of the environment
+	- Fine-scale topography of the grid-cell network
+	- How is the grid pattern generated?
+	- General principles of network function
+
 
 	MLA style: Edvard I. Moser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 16 Mar 2023. <https://www.nobelprize.org/prizes/medicine/2014/edvard-moser/lecture/>
 
