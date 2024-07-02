@@ -82,7 +82,7 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 
 **Figure 10.1.** Michelson and Morley interferometer: components in the left image:  monochromatic light source (A); semi-reflective mirror (B); mirrors (C) and observation of optical path difference (D). A typical interference pattern is shown in the right image.
 
-In what follows we refer to the document called WORK describing the 1907 Physics Nobel Prize awarded to Michelson. Afterwards, we reproduce an image of his microscope and quote the corresponding explanation given by him, both taken from his NOBEL LECTURE: *Recent Advances in Spectroscopy*.
+In what follows we refer to the document called Work describing the 1907 Physics Nobel Prize awarded to Michelson. Afterwards, we reproduce an image of his microscope and quote the corresponding explanation given by him, both taken from his Nobel Lecture: *Recent Advances in Spectroscopy*.
 
 MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/
 
@@ -92,7 +92,7 @@ MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Ou
 
 	MLA style: Albert A. Michelson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 7 Jun 2024. <https://www.nobelprize.org/prizes/physics/1907/michelson/facts/>
 
-	NOBEL LECTURE: *Recent Advances in Spectroscopy*.
+	NOBEL LECTURE: *Recent Advances in Spectroscopy* by Michelson.
 
 	MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/
 
