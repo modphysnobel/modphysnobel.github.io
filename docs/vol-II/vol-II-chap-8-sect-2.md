@@ -145,19 +145,19 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 
 	ISAMU AKASAKI: *Fascinated Journeys into Blue Light.*
 
-	1.	*INTRODUCTION*
-	2.	*LED RESEARCH IN THE EARLY DAYS*
-	3.   *BRIEF HISTORY OF RESEARCH ON GaN-BASED MATERIALS AND DEVICES* <br>
-		3.1. *Early attempts at development of GaN blue LED* <br>
-		3.2. *Reconsideration of growth technology* <br>
-	4. *CREATION OF GaN SINGLE CRYSTAL WITH EXCELLENT QUALITY* <br> 
-		4.1. *Development of low-temperature buffer layer technology in MOVPE*<br> 
-		4.2. *Model for the growth mode*<br>
-	5. *DISCOVERY OF p-TYPE GaN AND DEMONSTRATION OF p-n JUNCTION BLUE/ UV LED*
-	6. *CONDUCTIVITY CONTROL OF n-TYPE GaN AND NITRIDE ALLOYS*
-	7. *BRIEF HISTORY OF NITRIDE-BASED BLUE LEDs*
-	8. *DEVELOPMENT OF NITRIDE-BASED LDs AND OTHER DEVICES*
-	9. *SUMMARY AND FUTURE EXPECTATIONS*
+	- Introduction
+	- LED research in the early days
+	- Brief history of research on GaN-based materials and devices <br>
+		*Early attempts at development of GaN blue LED* <br>
+		*Reconsideration of growth technology* <br>
+	- Creation of GaN single crystal with excellent quality <br> 
+		*Development of low-temperature buffer layer technology in movpe<br> 
+		*Model for the growth mode<br>
+	- Discovery of p-type GaN and demonstration of p-n function BLUE/ UV LED
+	- Conductivity control of n-type GaN and nitride alloys
+	- Brief history of nitride-based BLUE LEDs
+	- Development of nitride-based LEDs and other devices
+	- Summary and future expectations
 
 	MLA style: Isamu Akasaki – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/akasaki/lecture/
 
