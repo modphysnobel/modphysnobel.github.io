@@ -84,8 +84,6 @@ The experiments with the Michelson-Morley interferometer (Figure 10.1) consisted
 
 In what follows we refer to the document called Work describing the 1907 Physics Nobel Prize awarded to Michelson. Afterwards, we reproduce an image of his microscope and quote the corresponding explanation given by him, both taken from his Nobel Lecture: *Recent Advances in Spectroscopy*.
 
-MLA style: Albert A. Michelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 14 May 2023. https://www.nobelprize.org/prizes/physics/1907/michelson/lecture/
-
 !!! tip "1907 Physics Nobel Prize awarded to Michelson."
  
 	WORK: “Interference means that several light waves with the same wavelength can strengthen or cancel out one another, depending on whether they are in phase with one another. In the mid-1880s Albert Michelson developed an interferometer, which uses a semi-transparent mirror to divide up a beam of uniform light waves. After routing the different waves through different channels, the light waves are recombined, and the difference in the distances covered leads to phase displacement, which generates patterns. The instrument is used to measure lengths as well as velocities of light with great precision.”
