@@ -109,21 +109,6 @@ In the following, for explanatory purposes, we arbitrarily divide the content of
 
 ### REFERENCES
 
-**5.1. Kinetic theory of gases and Thermodynamics.**
- 
-Chemistry Nobel Prizes.
-
-MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/ceremony-speech/
-
-MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/chemistry/1949/ceremony-speech/
-
-MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/ceremony-speech/
-
-MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/
-
-
-**5.2. The photon is a quantum of energy.**
-
 KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (1962).
 
 ***
