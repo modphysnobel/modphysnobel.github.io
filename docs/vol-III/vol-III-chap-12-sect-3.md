@@ -282,38 +282,11 @@ By all means, a lot of learning can be obtained from Einstein´s learning trajec
 
 **Physics Nobel Prizes.**
 
-MLA style: Heike Kamerlingh Onnes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1913/onnes/lecture/
-
-MLA style: Vitaly L. Ginzburg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Oct 2023. https://www.nobelprize.org/prizes/physics/2003/ginzburg/lecture/
-
-MLA style: Alexei Abrikosov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/2003/abrikosov/lecture/
-
-MLA style: Leon N. Cooper – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1972/cooper/lecture/
-
-MLA style: John Bardeen – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1972/bardeen/lecture/
-
-MLA style: Robert Schrieffer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1972/schrieffer/lecture/
-
-MLA style: Brian D. Josephson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1973/josephson/lecture/
-
-MLA style: Anthony J. Leggett – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/2003/leggett/lecture/
-
-MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1996/lee/lecture/>
-
-MLA style: J. Georg Bednorz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1987/bednorz/lecture/
-
-MLA style: Wolfgang Ketterle – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/ketterle/lecture/
-
-MLA style: Eric A. Cornell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. <https://www.nobelprize.org/prizes/physics/2001/cornell/lecture/
-
-MLA style: *Advanced information*. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. https://www.nobelprize.org/prizes/physics/2001/advanced-information/
-
 Cao, Yuan; Fatemi, Valla; Demir, Ahmet; Fang, Shiang; Tomarken, Spencer L.; Luo, Jason Y.; Sanchez-Yamagishi, Javier D.; Watanabe, Kenji; Taniguchi, Takashi; Kaxiras, Efthimios; Ashoori, Ray C.; Jarillo-Herrero, Pablo (5 de marzo de 2018). *Correlated insulator behaviour at half-filling in magic-angle graphene superlattices*. En Springer Science and Business Media LLC, ed. Nature 556 (7699): 80-84.
 
 **Electrons in New Guises**. 
 
 MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 30 Apr 2024. <https://www.nobelprize.org/prizes/physics/1998/press-release/>
-
 
 **References about Einstein.**
 
