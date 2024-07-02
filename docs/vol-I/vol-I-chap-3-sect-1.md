@@ -46,7 +46,7 @@ Eyes are the first element in the chain eye-optic nerve-brain: the receiver, the
 	
 The study of Optics, as a branch of Physics, deals with three aspects of light: geometrical optics concerns propagation in straight lines, reflection, and refraction; physical optics refers to interference, diffraction and polarization, and quantum optics considers the behavior of photons and their interactions with different materials. 
 	
-In what follows we analyze three Nobel Prizes in Physiology or Medicine recognizing important contributions to the study of vision: the Prizes awarded in 1911 to Allvar Gullstrand, in 1967 to Ragnar Granit, Haldan Keffer Hartline and George Wald, and in 1981 to David H. Hubel and Torsten N. Wiesel.  For each one of these six laureates we analyze two kinds of publications available in the web page of the Nobel Foundation: a full quotation of the document called WORK that explains the main contributions of each laureate and the description of their Nobel Lectures that we concentrate in two boxes: the first one dedicated to *Accepted knowledge or questions under discussion in laureate´s time* and the second one regarding *Laureate´s contributions or explanations*.  
+In what follows we analyze three Nobel Prizes in Physiology or Medicine recognizing important contributions to the study of vision: the Prizes awarded in 1911 to Allvar Gullstrand, in 1967 to Ragnar Granit, Haldan Keffer Hartline and George Wald, and in 1981 to David H. Hubel and Torsten N. Wiesel.  For each one of these six laureates we analyze two kinds of publications available in the web page of the Nobel Foundation: a full quotation of the document called Work that explains the main contributions of each laureate and the description of their Nobel Lectures that we concentrate in two boxes: the first one dedicated to *Accepted knowledge or questions under discussion in laureate´s time* and the second one regarding *Laureate´s contributions or explanations*.  
 	
 
 !!! tip "1911 Medicine Nobel Prize awarded to Gullstrand."
@@ -55,19 +55,19 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Allvar Gullstrand – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1911/gullstrand/facts/>
  
-	Nobel Lecture: *How I Found the Mechanism of Intracapsular Accomodation.*
+	Nobel Lecture: *How I Found the Mechanism of Intracapsular Accomodation* by Gullstrand.
  
 	MLA style: Allvar Gullstrand – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/>
 
 
-!!! bug "BOX 3.1: Accepted knowledge or questions under discussion in Gullstrand´s times."
+!!! bug "BOX 3.1: *Accepted knowledge or questions under discussion in Gullstrand´s times*."
 	- To see at different distances the eye’s optical system changes the shape of the lens to modify its refractive index. This is a mechanism of accommodation that involves both the lens and the capsule that enclosed it. 
 
 	- The intracapsular mechanism of accommodation depends on the structure of the lens: an arrange of layers of coiled microscopic fibers. During accommodation these fibers must remain of constant volume because they are not very elastic; any change of shape of the lens would produce internal displacements of these individual fibers.
 
 	- The laws governing optical image-formation in a heterogeneous medium with a continually varying refractive index as in the eye were completely unknown. The conventional mechanism in which focusing light rays issuing from one point in the object will produce a corresponding point in the image is not applicable here.
 
-!!! quote "BOX 3.2: Gullstrand´s contributions or explanations."
+!!! quote "BOX 3.2: *Gullstrand´s contributions or explanations*."
 	- Study the laws governing the focusing of light rays when the equations of surfaces of the eye´s lens cannot be expressed explicitly and do not strictly satisfy the rules of the Euclidean geometry but the ones of a differential one. Examples of these conditions are the following aberrations: when rays propagating in perpendicular planes have different focci (astigmatism), when rays spread out over some region of space rather than focused to a point (spherical aberration) or when objects appear to have a tail (coma error).
 
 	- Understanding the problem of image-formation in heterogeneous media of continually variable refractive index and particularly the structure of the eye lens and the intracapsular accommodation mechanism. Two aspects required proper understanding: how the ray bundle is refracted in the eye and how the radiant emission is seen around light-points like fixed stars. 
@@ -79,11 +79,11 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Ragnar Granit – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/facts/>
  
-	Nobel Lecture: *The Development of Retinal Neurophysiology.*
+	Nobel Lecture: *The Development of Retinal Neurophysiology* by Granit.
  
 	MLA style: Ragnar Granit – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/>
 
-!!! bug "BOX 3.3: Accepted knowledge or questions under discussion in Granit´s times."
+!!! bug "BOX 3.3: *Accepted knowledge or questions under discussion in Granit´s times*."
 
 	- Retinal electrophysiology was initially studied by psychophysical methods that led to well established correlations between perceptions of color, luminosity, shape and form, and physically defined measurable entities accessible by powerful technological equipment. 
 
@@ -91,7 +91,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- In 1894 Santiago Ramón y Cajal (1852-1934) described the retina as a "true nervous centre". Shared with Camillo Golgi, Ramón y Cajal received in 1906 the Medicine Nobel Prize "in recognition of their work on the structure of the nervous system".
 
-!!! quote "BOX 3.4: Granit´s contributions or explanations."
+!!! quote "BOX 3.4: *Granit´s contributions or explanations*."
 	- It was impossible to understand on a purely photochemical basis the processes involved in light and dark adaptation registered by ERG. “I came to the conclusion that the light adapted eye makes more use of inhibition: impulses in the optic nerve might be stopped by light. The details of the visual image were elaborated by the interplay of excitation and inhibition in the nervous centre of the retina itself.” (Note: ERG means electroretinogram.)
 
 	- Our microelectrode studies of the retina permitted isolation of single fibers in the optic nerve showing that there are two fundamental processes of opposite character in the retina. 
@@ -107,18 +107,18 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Keffer Hartline – – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/facts/>
  
-	Nobel Lecture: *Visual Receptors and Retinal Interaction.*
+	Nobel Lecture: *Visual Receptors and Retinal Interaction* by Hartline.
  
 	MLA style: Keffer Hartline – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/>
 
-!!! bug "BOX 3.5: Accepted knowledge or questions under discussion in Hartline´s times."
+!!! bug "BOX 3.5: *Accepted knowledge or questions under discussion in Hartline´s times*."
 	- “The neuron is the functional as well as the structural unit of the nervous system. Neurophysiology studies developed and exploited methods for recording the activity of single neurons and sensory receptors. These studies laid the foundations for the unitary analysis of nervous function…
 
 	- The experiments realized around 1930 on "horseshoe crabs" (*Limulus polyphemus*) were the first applications to an optic nerve of the technique consisting in isolating a single fiber. 
 
 	- As a result of the application of unitary analysis to the receptors and neurons of the visual system different oscillograms of the action potentials in a single nerve fiber represented the responses of retinal receptors stimulated by light. 
 
-!!! quote "BOX 3.6: Hartline´s contributions or explanations."
+!!! quote "BOX 3.6: *Hartline´s contributions or explanations*."
 	- “When I first worked with Limulus, I thought that the receptor units acted independently of one another. But I soon noticed that extraneous lights in the laboratory, rather than increasing the rate of discharge of impulses from a receptor, often caused a decrease in its activity.”
 
 	- “One role of inhibitory interaction is enhancement of contrast. …  Since inhibition is stronger between close neighbors than between widely separated ones, steep intensity gradients in the retinal image-edges and contours-will be accentuated by contrast.”
@@ -132,11 +132,11 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: George Wald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/facts/>
  
-	Nobel Lecture: *The Molecular Basis of Visual Excitation.*
+	Nobel Lecture: *The Molecular Basis of Visual Excitation* by Wald.
  
 	MLA style: George Wald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/>
 
-!!! bug "BOX 3.7: Accepted knowledge or questions under discussion in Wald´s times."
+!!! bug "BOX 3.7: *Accepted knowledge or questions under discussion in Wald´s times*."
 	- The book *Quantitative Laws in Biological Chemistry*, written by Svante Arrhenius in 1915, “offered the hope of translating accurate measurements on whole organisms into the simple kinetics and thermodynamics of chemical reactions in solution.”
 
 	- “Selig Hecht applied his measurements and those of earlier workers to constructing a general conceptual model for the photoreceptor process.”
@@ -145,7 +145,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	- Light bleaches visual pigments by making less dark certain regions on a surface. Light of certain frequencies produces isomerization, a chemical process that transforms the atomic arrangements of molecular structures.
 
-!!! quote "BOX 3.8: Wald´s contributions or explanations."
+!!! quote "BOX 3.8: *Wald´s contributions or explanations*."
 	- “In the retina a substance called opsin regulates, among other things, how much visual pigment is synthesized. …With the different opsins go differences in absorption spectrum, stability, the kinetics of bleaching and regeneration, and other properties.”
 
 	- The human cones are the receptors of color vision. Normal human color vision is trivariant; it involves three types of cones, each with its own visual pigment…
@@ -161,7 +161,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: David H. Hubel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/facts/>
  
-	Nobel Lecture: *Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account.*
+	Nobel Lecture: *Evolution of ideas on the primary visual cortex, 1955-1978: a biased historical account* by Hubel.
 
 	- INTRODUCTION
 	- HIERARCHY OF VISUAL CELLS
@@ -174,10 +174,10 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
  
 	MLA style: David H. Hubel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/>
 
-!!! bug "BOX 3.9: Accepted knowledge or questions under discussion in Hubel´s times."
+!!! bug "BOX 3.9: *Accepted knowledge or questions under discussion in Hubel´s times*."
 	- “Kuffler had described two types of retinal ganglion cells, which he called “on-center” and “off-center”. The receptive field of each type was made up of two mutually antagonistic regions, a center and a surround, one excitatory and the other inhibitory…Kuffler’s center-surround receptive fields thus began to explain why the appearance of objects depends so little on the intensity of the light source.”
 
-!!! quote "BOX 3.10: Hubel´s contributions or explanations."
+!!! quote "BOX 3.10: *Hubel´s contributions or explanations*."
 	- “By the early 1960s our research had extended into different but overlapping areas: working out of response properties (i.e. receptive fields) of single cells; grouping of cells according to function into layers and columns, studied by track reconstructions; experiments in which single-cell recording was combined with experimental anatomy; working out detailed pathways by making microelectrode lesions that were far smaller than conventional lesions to make lesions in single layers of the lateral geniculate body; studies of newborn animals’ postnatal development, and the effects of distorting normal sensory experience in young animals.” 
 
 	- “More interesting to us than the mere binocularity was the similarity of a given cell’s receptive fields in the two eyes, in size, complexity, orientation and position. Presumably this forms the basis of the fusion of the images in the two eyes.” 
@@ -204,7 +204,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Torsten N. Wiesel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/facts/>
  
-	Nobel Lecture: *The postnatal development of the visual cortex and the influence of environment.*
+	Nobel Lecture: *The postnatal development of the visual cortex and the influence of environment* by Wiesel.
  
 	- INTRODUCTION
 	- MONOCULAR DEPRIVATION
@@ -215,7 +215,7 @@ In what follows we analyze three Nobel Prizes in Physiology or Medicine recogniz
 
 	MLA style: Torsten N. Wiesel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/>
 
-!!! bug "BOX 3.12: Wiesel´s contributions or explanations."
+!!! bug "BOX 3.12: *Wiesel´s contributions or explanations*."
 	•	“In the early sixties, having begun to describe the physiology of cells in the adult cat visual cortex, David Hubel and I decided to investigate how the highly specific response properties of cortical cells emerged during postnatal development. We were also interested in examining the role of visual experience in normal development. “
 
 	…
