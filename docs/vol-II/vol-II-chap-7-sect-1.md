@@ -108,66 +108,10 @@ To carry out his experiments, Perrin first very carefully prepared particles of 
 	
 It was estimated that the Brownian particle received the order of $10^{14}$ collisions per second from the water molecules in the surrounding media. By substituting his measurements in Einstein's equation, Perrin obtained the value of Avogadro's number ($N_A$). The following Table 7.1 contains the values obtained by Einstein and by Perrin; numerical values in the third column are multiplied by the factor $10^{23}$. 
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-	<th colspan="3" style="text-align: center">
-		Table 7.1. Values of Avogadro's number $N_A$ calculated by Einstein and measured by Perrin.
-	</th>
-	</tr>
-	<tr>
-		<td style="text-align: center">
-	AUTHOR
-	</td>
-		<td style="text-align: center">
-	PUBLICATION
-	</td>
-		<td style="text-align: center">
-	$N_A$
-		</td>
-	</tr>
-	<tr>
-		<td  rowspan=3>
-	Einstein
-	</td>
-		<td>
-	Doctoral thesis completed on April 30 and accepted on June 24, 1905.
-	</td>
-		<td>
-	2.1
-		</td>
-	</tr>
-	<tr>
-		<td>
-	Appendix in the article published in January 1906.
-	</td>
-		<td>
-	4.15
-		</td>
-	</tr>
-	<tr>
-		<td>
-	Correction of an error in the previous calculation and a new result published in 1907.
-	</td>
-		<td>
-	6.6
-		</td>
-	</tr>
-	<tr>
-		<td rowspan=1> 
-	Perrin
-	</td>
-		<td>
-	Book "Les Atomes" published in 1913.
-	</td>
-		<td>
-	6.85
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.1.jpg?raw=true"> 
+</p>
+
 
 <center>
 (Source: information obtained from Pais´ book.)
@@ -196,55 +140,9 @@ The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "fo
 
 In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-	<th colspan="3" style="text-align: center">
-		Table 7.2. Concepts in Perrin´s Lecture.
-	</th>
-	</tr>
-	<tr>
-		<td>
-	•	fluid <br>
-	•	divisibility infinite of matter <br>
-	•	supersaturated solution <br>
-	•	crystal <br>
-	•	resolving power of our senses <br>
-	•	atom <br>
-	•	molecule <br>
-	•	chemical species <br>
-	•	continuous movement <br>
-	•	rule of multiple proportions 
-	</td>
-		<td>
-	•	atomic weight <br>
-	•	Avogadro’s hypothesis <br>
-	•	Avogadro’s number <br>
-	•	valence <br>
-	•	structural formulae <br>
-	•	mean velocity of the gas molecules <br>
-	•	viscosity <br>
-	•	mean free path <br> 
-	•	liquid in equilibrium
-	</td>
-		<td>
-	•	osmotic pressure <br>
-	•	rarefaction in a gas <br>
-	•	fractional distillation <br>
-	•	non-diluted emulsions <br>
-	•	coefficient of diffusion <br>
-	•	Stokes’ law <br>
-	•	rotational Brownian motion <br>
-	•	cathode rays <br>
-	•	electron <br>
-	•	nuclear structure <br>
-	•	transmutations of elements
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.2.jpg?raw=true"> 
+</p>
 
 
 !!! quote "Box 7.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
