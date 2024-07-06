@@ -9,51 +9,10 @@
 
 Information contained in scientific texts to be shared is usually expressed in terms of different communication formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies, as described in next Table 9.2.
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-	<th colspan="2" style="text-align: center">
-		Table 9.2. Descriptions of scientific texts.
-	</th>
-	</tr>
-	<tr>
-		<td>
-	Communication strategies
-	</td>
-		<td>
-	Communication formats
-	</td>
-	</tr>
-	<tr>
-		<td  rowspan=2>
-	Organization of contents
-	</td>
-		<td>
-	Diagrams
-	</td>
-	</tr>
-	<tr>
-		<td>
-	Designs
-	</td>
-	</tr>
-	<tr>
-		<td  rowspan=2>
-	Application of procedures
-	</td>
-		<td>
-	Dialogues
-	</td>
-	</tr>
-	<tr>
-		<td>
-	Discourses
-	</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+ <p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/9.2.jpg?raw=true"> 
+</p>
+
 
 <center>
 (Table elaborated by the authors.)
