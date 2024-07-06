@@ -44,7 +44,7 @@ To Bohr “for his services in the investigation of the structure of atoms and o
 	MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
 	
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.1.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.1.jpg?raw=true"> 
 </p>
 
 
@@ -78,7 +78,7 @@ To Lamb “for his discoveries concerning the fine structure of the hydrogen spe
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.2.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.2.jpg?raw=true"> 
 </p>
 
 
@@ -115,7 +115,7 @@ To Townes “for fundamental work in the field of quantum electronics, which has
 	MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.3.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.3.jpg?raw=true"> 
 </p>
 
 !!! quote "Box 6.3. *Issues requiring explaining models in Townes´ Lecture*."
@@ -159,7 +159,7 @@ To Schawlow "for their contribution to the development of laser spectroscopy". (
 	MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.4.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.4.jpg?raw=true"> 
 </p>
 
 !!! quote "Box 6.4. *Issues requiring explaining models in Schawlow´s Lecture*."
