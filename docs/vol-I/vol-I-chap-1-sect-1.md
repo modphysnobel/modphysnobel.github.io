@@ -102,79 +102,9 @@ According to Bernal (1954): *“modern science comes directly from Greeks scienc
 
 Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
-<!-- HTML Table 1.1.1-->
-<table width="100%">
-    <tr>
-        <th colspan="2" style="text-align: center"> 
-    Table 1.1. Timeline of ancient Greece. 
-        </th>
-    </tr>
-  <tr>
-    <th width="50%" style="text-align: center">
-  SOCIAL AND CULTURAL EVENTS
-    </th>
-    <th width="50%" style="text-align: center">
-MATHEMATICS, ASTRONOMY 
-AND PHYSICS
-    </th>
-  </tr>
-  <tr>
-        <th colspan="2" style="text-align: center">
-		1.	The rise of Greece (1000 – 480).
-		</th>
-    </tr>
-  <tr>
-    <td >
-    Foundation of Athens (1582) and Thebes (1313).<br>
-    Siege of Troy (1192-1183).<br>
-    Homer´s Iliad and Odyssey (around 840).<br>
-    Hesiod´s Theogony (between 700 and 800).<br>
-    Solon of Athens: political and social reforms (638-558).<br>
-    Violent attack to Pythagoreans in Crotona (around 508).
-    </td>
-    <td>
-    Thales of Miletus (624-546) predicted a solar eclipse (585).<br>
-    Anaximander of Miletus (610-546) used a solar clock (570).<br>
-    Pythagoras of Samos (529-475) taught that Earth is at the center of the universe. 
-    Parmenides of Elea (514-470) published a philosphical poem On Nature.
-    </td>
-    </tr>
-    <tr>
-        <th colspan="2" style="text-align: center">2.	The Golden age (480 – 400).</th>
-    </tr>
-  <tr>
-    <td>
-    Pericles of Athens (495-429): politician and general that promoted social and cultural reforms. <br>
-    Socrates of Athens (470-399): moral philosopher. His lectures have been published as Plato´s Dialogues. <br>
-    Xenophon of Athens (431-354) wrote the Anabasis or Ten Thousand Expedition (between 385 and 368). <br>
-    Empedocles of Akragas, Sicily (484-424): author of the theory of the four elements;his cosmic cycle referred to the conflict between love and strife. <br>
-    </td>
-    <td>
-    Anaxagoras of Clazomenea, Ionia (500-428) taught that the Sun was not a god but an incandescent fire ball; he considered an ordering force called Nous (cosmic mind). <br>
-    Philolaus of Croton (470-380) assumed that a central fire surrounded by the Sun, the Moon and the planets. <br>
-    Leucippus of Miletus (siglo V a.C.) and his pupil Democritus of Abdera, Thrace (460-357) taught that atoms are indivisible, always in motion and different in size and shape. <br>
-    </td>
-  </tr>
-    <tr>
-        <th colspan="2" style="text-align: center">3.	 The decline and fall of Greek freedom and the helenistic dispersion (400 – 146).</th>
-    </tr>
-  <tr>
-    <td>
-    Plato of Athens (427-347): in 386-7 he created the Academy; he wrote innovative dialogues and dialectic forms in philosophy. <br>
-    Aristotle of Stagira (384-322): around 334 he created the Lyceum, a peripatetic school of philosophy and a library; he tutored Alexander the Great around 343.<br>
-    Heracleides of Pontus (387-312) wrote about grammar, music, poetry, rhetoric, history, geometry, logic and ethics; he suggested that Mercury and Venus were orbiting the Sun and that the earth itself rotates daily upon its axis.<br>
-    Epicurus of Samos (341-270): around 306 he created the school of philosophy The Garden (Ho Kepos): a community that admitted women as a rule not as an exception.<br>
-    </td>
-    <td>
-    Dicaearchus of Messana (370/323-320): a cartographer who around 355 built a map where the earth has a spherical form.<br>
-    Euclide of Alexandria (325 -265??): author of the Elementos, thirteen books on geometry, arithmetic, and solid geometry. <br>
-    Aristarchus of Samos (280-264) wrote On the Sizes and Distances of the Sun and the Moon.<br>
-    Eratosthenes of Cyrene (276- 194) calculated the circumference of the Earth. <br>
-    Apollonius of Perga (240-190): author of Conics and a theory of epicycles for describing planetary motions. <br>
-    Archimedes of Syracuse (287-212): great mathematician, physicist, engineer, astronomer and inventor; he anticipated modern methods of calculus and analysis.<br>
-    </td>
-  </tr>
-</table>
+<p align="center" width="100%">
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/1.1.jpg?raw=true"> 
+</p>
 
 ### Archimedes.
 
