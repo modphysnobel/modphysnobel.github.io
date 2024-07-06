@@ -23,13 +23,13 @@ The knowledge obtained from analyzing the information described previously in Se
 ### Experiments for the calculation of electronic properties.
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.1.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.1.jpg?raw=true"> 
 </p>
 
 ### Experiments for the description of interactions of radiation with electrons.
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.2.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.2.jpg?raw=true"> 
 </p>
 
 
