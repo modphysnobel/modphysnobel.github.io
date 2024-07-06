@@ -48,93 +48,9 @@ A similar result to the above ($C_V = 3R$) was obtained experimentally by Pierre
 
 The following Table 7.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-	<th colspan="4" style="text-align: center">
-	Table 7.2. Experimental values measured by Dulong and Petit in 1819.
-	</th>
-	</tr>
-	<tr>
-	<td style="text-align: center">
-	Material
-	</td>
-	<td style="text-align: center">
-	$C_V$
-	</td>
-	<td style="text-align: center">
-	$P_R$
-	</td>
-	<td style="text-align: center">
-	Constant
-	</td>
-	</tr>
-	<tr>
-	<td>
-	Bismuth <br> 
-	Lead <br>
-	Gold <br>
-	Platinum <br>
-	Tin<br>
-	Silver<br>
-	Zinc <br>
-	Tellurium<br>
-	Copper<br>
-	Nickel <br>
-	Iron<br>
-	Cobalt<br>
-	Sulfur
-	</td>
-	<td>
-	0.0288 <br>
-	0.0293 <br>
-	0.0298 <br>
-	0.0314 <br>
-	0.0514 <br>
-	0.0557 <br>
-	0.0927 <br>
-	0.0912 <br>
-	0.0949 <br>
-	0.1035 <br>
-	0.1100 <br>
-	0.1498 <br>
-	0.1880  
-	</td>
-	<td>
-	13.30 <br>
-	12.95 <br>
-	12.43 <br>
-	11.16 <br>
-	7.35 <br>
-	6.75 <br>
-	4.03 <br>
-	4.03 <br>
-	3.957 <br>
-	3.69 <br>
-	3.392 <br>
-	2.46 <br>
-	2.011 
-	</td>
-	<td>
-	0.3830<br>
-	0.3794<br>
-	0.3704<br>
-	0.3740<br>
-	0.3779<br>
-	0.3759<br>
-	0.3736<br>
-	0.3675<br>
-	0.3755<br>
-	0.3819<br>
-	0.3731<br>
-	0.3685<br>
-	0.3780
-	</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.3.jpg?raw=true"> 
+</p>
 
 <center>
 	(Source: article published by Dulong and Petit (1819).)
