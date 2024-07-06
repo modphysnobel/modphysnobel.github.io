@@ -45,22 +45,22 @@ Next, Tables 8.1 to 8.4 describe the main characteristics of each anthropologica
 For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
 <p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.1.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.1.jpg?raw=true"> 
 </p>
 
 
 <p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.2.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.2.jpg?raw=true"> 
 </p>
 
 
 <p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.3.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.3.jpg?raw=true"> 
 </p>
 
 
 <p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.4.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.4.jpg?raw=true"> 
 </p>
 
 
