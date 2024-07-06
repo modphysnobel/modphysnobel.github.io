@@ -10,45 +10,10 @@ Until very recently the gravitational force had resisted any experimental demons
 
 The quanta associated with gravitational, electromagnetic, and strong interactions have zero mass and infinite range, while the weak force messenger, the gluon, has finite mass and short range. Another fact characterizes the type of propagation of two of these interactions: while photons propagate through electromagnetic waves, gravitons do so through gravitational waves. According to Thorne, next Table 10.1 describes the main differences between these waves:
 
-<table width="100%">
-<tr>
-	<th colspan="2" style="text-align: center">
-		Table 10.1. Differences between electromagnetic waves and gravitational waves.
-	</th>
-</tr>
-    <tr>
-    <th style="text-align: center">
-    Electomagnetic waves
-        </th>
-     <th style="text-align: center">
-Gravitational waves
-        </th>
-        </tr>
-     <tr>
-    <td>
-    "The oscillations propagate through three-dimensional space." 
-    </td>
-    <td>
-    "The oscillations propagate through the very space-time “fabric” or shape of which the universe is made."
-    </td>
-    </tr>
-    <tr>
-    <td>
-    "The waves are incoherent superposition of emissions produced by individual charged particles, atoms or molecules." 
-    </td>
-    <td>
-    "The waves are emitted coherently by the bulk motion of matter or energy."
-    </td>
-    </tr>
-    <tr>
-    <td>
-    "They are too easily absorbed and scattered by matter between their source and Earth." 
-    </td>
-    <td>
-    "They are never significantly absorbed or scattered by matter, even when emitted in the earliest moments of the Universe´s life."
-    </td>
-    </tr>
-</table>
+ <p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/10.1.jpg?raw=true"> 
+</p>
+
 
 
 <center>
