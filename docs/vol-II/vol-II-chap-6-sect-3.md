@@ -43,65 +43,9 @@ To Bohr “for his services in the investigation of the structure of atoms and o
 
 	MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
 	
-	
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	 <tr>
-        <th colspan="3" style="text-align: center"> 
-    Table 6.1. Concepts in Bohr´s Lecture. 
-        </th>
-    </tr>
-	<tr>
-		<td>
-	•	atom<br>
-	•	nucleus<br>
-	•	electron <br>
-	•	radioactivity <br>
-	•	charge <br>
-	•	mass <br>
-	•	isotope <br>
-	•	proton <br>
-	•	chemical element <br>
-	•	atomic number <br>
-	•	atomic weight <br>
-	•	periodic table <br>
-	•	spectral line 
-	</td>
-		<td>
-	•	x-ray spectra <br>
-	•	electrodynamic laws <br> 
-	•	harmonic vibration <br>
-	•	wavelength <br>
-	•	frequency <br>
-	•	heat radiation <br>
-	•	quantum of energy <br>
-	•	photon <br>
-	•	specific heat <br> 
-	•	photoelectron <br>
-	•	interference <br>
-	•	electromagnetic spectra <br> 
-	•	quantization
-	</td>
-		<td>
-	•	electronic level <br>
-	•	stationary state <br>
-	•	energy level transition <br>
-	•	absorption <br>
-	•	emission <br>
-	•	combination principle <br>
-	•	quantum number <br>
-	•	orbital radius <br>
-	•	angular momentum <br>
-	•	spin <br>
-	•	electromagnetic fields <br>
-	•	multiply-periodic system <br>
-	•	correspondence principle
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.1.jpg?raw=true"> 
+</p>
 
 
 !!! quote "Box 6.1. . *Issues requiring explaining models in Bohr´s Lecture*."
@@ -133,54 +77,10 @@ To Lamb “for his discoveries concerning the fine structure of the hydrogen spe
 
 	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.2.jpg?raw=true"> 
+</p>
 
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	 <tr>
-        <th colspan="3" style="text-align: center"> 
-    Table 6.2. Concepts in Lamb´s Lecture. 
-        </th>
-    </tr>
-	<tr>
-	<tr>
-		<td>
-	•	elementary particle <br>
-	•	hydrogen atom <br>
-	•	electron <br>
-	•	proton <br>
-	•	Balmer series <br>
-	•	quantization rules <br>
-	•	energy levels <br>
-	•	relativistic corrections <br>
-	•	electronic wave properties
-	</td>
-		<td>
-	•	Dirac´s equation <br>
-	•	molecular beam <br>
-	•	metastable atoms <br>
-	•	microwave radar <br>
-	•	absorption coefficient <br>
-	•	radiative transition <br>
-	•	molecular dissociation <br>
-	•	tungsten oven <br>
-	•	electronic bombardment
-	</td>
-		<td>
-	•	deuterium <br>
-	•	tritium positronium <br>
-	•	electromagnetic mass <br>
-	•	perturbation potential <br>
-	•	vacuum fluctuations <br>
-	•	bound electron <br>
-	•	dressed electron <br>
-	•	selfenergy <br>
-	•	mass renormalizatrion
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
 
 !!! quote "Box 6.2. *Issues requiring explaining models in Lamb´s Lecture*."
 
@@ -214,62 +114,9 @@ To Townes “for fundamental work in the field of quantum electronics, which has
 
 	MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
 
-
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-        <th colspan="3" style="text-align: center"> 
-    Table 6.3. Concepts in Townes´ Lecture.
-        </th>
-    </tr>
-	<tr>
-		<td>
-	•	light <br>
-	•	spontaneous emission <br>
-	•	electromagnetic radiation <br>
-	•	black-body radiation <br>
-	•	radio wave <br>
-	•	spectroscopy <br>
-	•	structure <br>
-	•	wavelenght <br>
-	•	oscillators <br>
-	•	amplifiers <br>
-	•	thermodinamic equilibrium <br>
-	•	quantum-mechanical system
-	</td>
-		<td>
-	•	absorption <br>
-	•	stimulated emission <br>
-	•	population inversion <br>
-	•	random phase <br>
-	•	wave function <br>
-	•	phase coherence <br>
-	•	resonance <br>
-	•	maser <br>
-	•	microwave cavity <br>
-	•	energy level transition <br>
-	•	ammonia molecules <br>
-	•	laser
-	</td>
-		<td>
-	•	noise-free amplifier <br>
-	•	fluctuating field <br>
-	•	uncertainty principle <br>
-	•	quality factor <br>
-	•	atomic clock <br>
-	•	time standard <br>
-	•	spectral width <br>
-	•	reflecting mirror <br>
-	•	Raman scattering <br>
-	•	nonlinear optics <br>
-	•	phonon Maser <br>
-	•	quantum electronics
-		</td>
-	</tr>
-	</tbody>
-	</table>
-	</div> 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.3.jpg?raw=true"> 
+</p>
 
 !!! quote "Box 6.3. *Issues requiring explaining models in Townes´ Lecture*."
 
@@ -311,47 +158,9 @@ To Schawlow "for their contribution to the development of laser spectroscopy". (
 
 	MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/
 
-
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-        <th colspan="3" style="text-align: center"> 
-    Table 6.4. Concepts in Schawlow´s Lecture.
-        </th>
-    </tr>
-	<tr>
-	<tr>
-		<td>
-	•	spectrum lines <br>
-	•	wavelengths <br>
-	•	Rydberg constant <br>
-	•	atomic spectra of alkali metals <br>
-	•	hyperfine structures <br>
-	•	broadening of spectral lines <br>
-	•	Doppler effect
-	</td>
-		<td>
-	•	microwave spectroscopy <br>
-	•	tuning of the laser resonator <br>
-	•	Laser spectroscopy <br>
-	•	saturated absorption <br>
-	•	quadrupole moments <br>
-	•	pressure broadening <br>
-	•	laser frequency jitter 
-	</td>
-		<td>
-	•	intermodulated fluorescence <br>
-	•	available optical amplification <br>
-	•	dye laser <br>
-	•	polarization spectroscopy <br>
-	•	vibrational and rotational levels <br>
-	•	two-photon spectral lines
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.4.jpg?raw=true"> 
+</p>
 
 !!! quote "Box 6.4. *Issues requiring explaining models in Schawlow´s Lecture*."
 
