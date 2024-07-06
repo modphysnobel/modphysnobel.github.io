@@ -103,7 +103,7 @@ According to Bernal (1954): *“modern science comes directly from Greeks scienc
 Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/1.1.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/1.1.jpg?raw=true"> 
 </p>
 
 ### Archimedes.
