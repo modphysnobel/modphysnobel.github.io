@@ -44,198 +44,25 @@ Next, Tables 8.1 to 8.4 describe the main characteristics of each anthropologica
 
 For the space of the Merchandises the conceptual developments are related to relevant publications describing concepts, models and theories connected with energy; the technological applications start with the industrial revolution and deal with devices and instruments useful for transportation and information transfer as well as for understanding and using energy. The space of Knowledge presents some conceptual developments and technological applications that have generated significative advances during the last century.
 
-<div style="text-align:center;">
-	<table width="100%">
-    <tr>
-        <th colspan="2" style="text-align: center">
-    Table 8.1. The space of Earth.
-        </th>
-    </tr>
-	<tr>
-     <td colspan="2">
-	• Characterized by language, technique and complex forms of social organization. <br>
-	• Oral traditions contribute to the creation of myths and rites. <br>
-	• Identity is inscribed both in the link with the cosmos and in the relationship of filiation or alliance with other men.
-        </td>
-        </tr>
-        <tr>
-    <th width="50%" style="text-align: center">
-	Conceptual developments
-    </th>
-     <th width="50%" style="text-align: center">
-	Technological applications
-    </th>
-        </tr>
-     <tr>
-    <td>
-    Music produced by humans and creation of maps. <br>
-	Astronomical inscriptions record lunar motions. <br>
-	Cuneiform writing and wall paintings in caves. <br>
-	Calendars are employedfor registering time. <br>
-	Numerical calculations include position notations. <br>
-	Hammurabi code as the first known sets of laws. <br>
-	Horoscopes set out the positions of planets. 
-	</td>
-    <td>
-    Sewing needle and woven clothes.<br>
-    Bow and arrow for hunting. <br>
-	Soldering to join sheets of gold. <br>
-	Standard weights employed in trade. <br>
-	Building of a tunnel below a river. <br>
-	Water supply for interior bathrooms. <br>
-	Chariot wheels including spokes.
-    </td>
-    </tr>
-	</table>
-	</div> 
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.1.jpg?raw=true"> 
+</p>
 
-<div style="text-align:center;">
-	<table width="100%">
-    <tr>
-        <th colspan="2" style="text-align: center">
-    Table 8.2. The space of the Territory.
-        </th>
-    </tr>
-	<tr>
-     <td colspan="2">
-	• Created from the Neolithic with agriculture, city, state and hieroglyphs writing in tablets. <br>
-	• Wealth comes no longer from gathering and hunting, but from the possession and exploitation of fields. <br>
-	• The axis of existence is no longer participation in the cosmos, but the link with a territorial entity defined by its borders. <br>
-	• Based on writing: history begins and the development of systematic, theoretical or hermeneutical knowledge.
-        </td>
-        </tr>
-        <tr>
-    <th width="50%" style="text-align: center">
-	Conceptual developments
-    </th>
-	<th width="50%" style="text-align: center">
-	Technological applications
-    </th>
-        </tr>
-     <tr>
-    <td>
-    Alphabet created by Phoenicians. <br>
-	Writing of books on papyrus and on paper. <br>
-	Torches are used in a sort of optical telegraph. <br>
-	Development of the atomic theory of the elements. <br>
-	Creation in Greece of the Academy and Lyceum. <br>
-	Abbeys control and disseminate certain culture.
-    </td>
-    <td>
-    A primitive plow is employed in agriculture. <br>
-	Ox-powered water wheel irrigation uses gears. <br>
-	Development of glass work and pottery. <br>
-	Matches invented for cooking and heating. <br>
-	Extraction of natural gas from wells. <br>
-	Catapults operate on the principle of torsion.
-    </td>
-    </tr>
-	</table>
-	</div> 
 
-<div style="text-align:center;">
-	<table width="100%">
-    <tr>
-        <th colspan="2" style="text-align: center">
-    Table 8.3. The space of the Merchandises.
-        </th>
-    </tr>
-	<tr>
-     <td colspan="2">
-	• Developed after the sixteenth century when a world market is established on the occasion of the conquest of America by Europeans. <br>
-	• Wealth no longer comes from the dominance of borders, but from the control of flows. <br>
-	• As the new engine of evolution, the organizing principle is the flow of energy, raw materials, merchandises, capital, labor and information. <br>
-	• Printing and machines become important in the development of industrial revolution.
-        </td>
-        </tr>
-        <tr>
-    <th width="50%" style="text-align: center">
-	Conceptual developments
-    </th>
-     <th width="50%" style="text-align: center">
-	Technological applications
-    </th>
-        </tr>
-     <tr>
-    <td>
-	Copernicus, Galileo and Newton explain motion. <br>
-	Paracelsus: *Archidoxis magica on divination*. <br>
-	J.  Leupold: *Theatrum machinarum generale*. <br>
-	B. Thompson, Count Rumford: *An Inquiry Concerning the Source of Heat Which is Excited By Friction*. <br>
-	J.R. Mayer: *The Mechanical equivalent of Heat*. <br>
-	J.P. Joule: *On the Production of Heat by Voltaic Electricity*. <br>
-	N.S. Carnot: *On the Motive Power of Heat*. <br>
-	R. Clausius: *On the type of motion termed heat*. <br>
-	W. Thompson (Kelvin): *Heat and Thermodynamics*. <br>
-	H.L.Helmholtz: *On the conservation of energy*. <br>
-	J. Tyndall: *Heat as a mode of motion*. <br>
-	M. Planck: *The Second law of thermodynamics*.
-    </td>
-    <td>
-    Movable type printing. <br>
-	Ships on wheels transport across a river road. <br>
-	Windmills carry water from inland to the sea. <br>
-	Production improved in mining and smelting i. <br>
-	Flying machine designed by Leonardo. <br>
-	Navigable submarine powered by rowers. <br>
-	Steam engines pump water out of mines. <br>
-	A motor driven by the explosion of gunpowder is build. <br>
-	Transportation in steam locomotives. <br>
-	Building of a steam powered dirigible. <br>
-	Invention of a storage rechargeable battery. <br>
-	Automobiles work by combustion engines. <br>
-	Steam turbines generate electric power.
-    </td>
-    </tr>
-	</table>
-	</div> 
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.2.jpg?raw=true"> 
+</p>
 
-<div style="text-align:center;">
-	<table width="100%">
-    <tr>
-        <th colspan="2" style="text-align: center">
-    Table 8.4. The space of the Knowledge.
-        </th>
-		</tr>
-	<tr>
-     <td colspan="2">
-	• Referred to equipping oneself with the institutional, technical and conceptual instruments to make information navigable. <br>
-	• Everyone can locate themselves and recognize others according to interests, competences, projects, means and mutual identities in the new space. <br>
-	• Numerical networks, virtual universes and artificial life and intelligence.
-        </td>
-        </tr>
-        <tr>
-    <th width="50%" style="text-align: center">
-	Conceptual developments
-    </th>
-     <th width="50%" style="text-align: center">
-	Technological applications
-    </th>
-        </tr>
-     <tr>
-    <td>
-	Classification of particles as fermions or bosons. <br>
-	Self-field and entanglement quantum processes. <br>
-	Origin and evolution of the universe. <br>
-	Conservation laws associated with symmetry properties. <br>
-	Brain functioning and artificial intelligence. <br>
-	Chaos, nonlinear dynamics and dissipation phenomena. <br>
-	Complexity and emergency in designing materials. <br>
-	Science as collective research and applied activities.
-    </td>
-    <td>
-    Lasers knives, clamps and scissors. <br>
-	X-Rays, NMR resonances and holography. <br>
-	Radio, television, cinema and cellular phones. <br>
-	Faxes, photocopiers, and scanner machines. <br>
-	Transportation by airplanes and spaceships. <br>
-	Experiments with nuclear fission and fusion. <br>
-	Satellite global systems and radio telescopes. <br>
-	Computer applications in cybernetic networks.
-    </td>
-    </tr>
-	</table>
-	</div>
+
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.3.jpg?raw=true"> 
+</p>
+
+
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/8.4.jpg?raw=true"> 
+</p>
+
 
 The content of the conceptual developments and technological applications included in previous Tables is not in chronological order; it indicates a selection of significative steps in their corresponding evolution process. Much of this information has been taken from *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science* (1988).
 
