@@ -102,81 +102,9 @@ Meanwhile, the British physicist John William Strutt, third Baron Rayleigh (1842
 
 Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and Prigshein proposed in the early 1900s a general equation in terms of constants and the parameters $μ$ and $η$; Wien's law was obtained for $μ = 5$ and $η = 1$, while Rayleigh-Jeans law resulted when $μ = 4$, $η = 1$ and $b = 0$. Table I summarizes the expressions of the three laws described above, as well as the expression proposed by Thiesen, Lummer, Jahnke and Prigshein as a function of the parameters $μ$, $η$ and $b$. This Table also includes Planck's law which solve the problem (Figure 5.6).
 
-**Table 5.1.** Equations of different laws concerning the black body radiation.
-
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-		<th style="text-align: center">
-			LAW
-		</th>
-		<th style="text-align: center">
-			AUTHORS
-		</th>
-		<th style="text-align: center">
-			EQUATIONS
-		</th>
-	</tr>
-	<tr>
-		<td>
-			$L_1$
-		</td>
-		<td>
-			Wien
-		</td>
-		<td>
-			$I_W =  [C_1exp(-C_2/(λT))]/(λ^5); (λ_MT = a)$
-		</td>
-	</tr>
-	<tr>
-		<td>
-			$L_2$
-		</td>
-		<td>
-			Stefan – Boltzmann
-		</td>
-		<td>
-			$I_{SB} = σT^4$
-		</td>
-	</tr>
-	<tr>
-		<td>
-			$L_3$
-		</td>
-		<td>
-			Rayleigh – Jeans
-		</td>
-		<td>
-			$I_{RJ} = [C_3T]/λ^4$
-		</td>
-	</tr>
-	<tr>
-		<td>
-			$L_4$
-		</td>
-		<td>
-			Thiesen, Lummer, Jahnke and Prigshein
-		</td>
-		<td>
-			$I_G =  [C_4T^{(5-μ)}].[exp(-b (λ T)^{-η})]/(λ^η)$
-		</td>
-	</tr>
-	<tr>
-		<td>
-			$L_5$
-		</td>
-		<td>
-			Planck
-		</td>
-		<td>
-			$I_P = (C_5/λ^5)/[exp(hc/(kTλ)) - 1]$
-		</td>
-	</tr>
-	<tr>
-	</tbody>
-	</table>
-	</div> 
+<p align="center" width="100%">
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/5.1.jpg?raw=true"> 
+</p>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/RWP-comparison.svg" width=480 align=center>
