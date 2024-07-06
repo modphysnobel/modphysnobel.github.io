@@ -103,7 +103,7 @@ Meanwhile, the British physicist John William Strutt, third Baron Rayleigh (1842
 Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and Prigshein proposed in the early 1900s a general equation in terms of constants and the parameters $μ$ and $η$; Wien's law was obtained for $μ = 5$ and $η = 1$, while Rayleigh-Jeans law resulted when $μ = 4$, $η = 1$ and $b = 0$. Table I summarizes the expressions of the three laws described above, as well as the expression proposed by Thiesen, Lummer, Jahnke and Prigshein as a function of the parameters $μ$, $η$ and $b$. This Table also includes Planck's law which solve the problem (Figure 5.6).
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/5.1.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/5.1.jpg?raw=true"> 
 </p>
 
 <p align="center">
