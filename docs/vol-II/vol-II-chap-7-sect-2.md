@@ -49,7 +49,7 @@ A similar result to the above ($C_V = 3R$) was obtained experimentally by Pierre
 The following Table 7.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
 <p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.3.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.3.jpg?raw=true"> 
 </p>
 
 <center>
