@@ -17,7 +17,7 @@ Physics looks for explanations of certain observed and measured phenomena that m
 (Image elaborated by the authors)
 </center>
 
-In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. For each year we start indicating for what reason the Physics Nobel Prize was awarded and who shared the prize. Then we insert the document called Work describing the main contributions made by each laureate and include the title of each Nobel Lecture as well as the name of the laureate. We also include the subtitles of the Lecture when they exist in the original. Finally, two boxes describe the main concepts and models considered in the Lecture. All the corresponding references in MLA format are given.
+In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. In each case we start indicating the name of the Laureate and then the year and the reasons for the award. Next, we insert an official document called WORK describing the main contributions of each laureate. Finally, we include the title of each Lecture, its subtitles when they exist in the original and two boxes related to concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section.
 
 To Bohr “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
