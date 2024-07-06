@@ -19,56 +19,9 @@ TADIR is a problem solving procedure composed of five components: Translation (T
 (Image credit: drawings made by the authors.)
 </center>
 
-<div style="text-align:center;">
-        <table cellspacing="0" cellpadding="0">
-        <tbody>
-        <tr>
-        <th colspan="2" style="text-align: center"> 
-    Table 7.3 TADIR steps of Langevin´s procedure.
-        </th>
-    </tr>
-        <tr>
-            <td style="text-align: center">
-        TRANSLATION
-        </td>
-            <td>
-        1. To describe the initial conditions that define the problem.
-        </td>
-        </tr>
-        <tr>
-            <td  style="text-align: center" rowspan=2>
-        ANALYSISE
-        </td>
-            <td>
-        2. To obtain average values.
-        </td>
-        </tr>
-        <tr>
-            <td>
-        3. To calculate the average kinetic energies of the Brownian particles.
-            </td>
-        </tr>
-        <tr>
-            <td  style="text-align: center" rowspan=2>
-        IMPLEMENTATION
-        </td>
-            <td>
-        4. To calculate the root mean squares of the displacements in random walks.
-            </td>
-        </tr>
-        <tr>
-            <td>
-        5. To calculate the integrals incorporating random walk results.
-        </td>
-        </tr>
-        <tr>
-            <td style="text-align: center">
-        REVIEW
-        </td>
-        </tr>
-        </tbody>
-        </table> 
-        </div> 
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.4.jpg?raw=true"> 
+</p>
 
 Next we describe Langevin´s procedure to obtain Einstein´s equation by following the five steps of the TADIR procedure.
 
