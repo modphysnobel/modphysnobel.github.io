@@ -10,87 +10,9 @@ Albert Einstein predicted the phenomena of condensation in the following publica
 
 Unlike what is simple to learn and has been previously prescribed, learning the new is difficult, especially in recently explored topics, when important problems are poorly explained or badly solved; also when writing lacks precision, coherence and clarity. Prescriptive learning and emergent learning consider in different ways how the following elements are described in next Table.
 
-<table width="100%">
-    <tr>
-        <th colspan="3" style="text-align: center">
-    Table 12.1. Differences among prescriptive learning and emergent learning.
-        </th>
-    </tr>
-  <tr>
-    <th width="15%" style="text-align: center">
-  ELEMENTS
-    </th>
-    <th width="42.5%" style="text-align: center">
-PRESCRIPTIVE
-    </th>
- <th width="42.5%" style="text-align: center">
-EMERGENT
-    </th>
-    </tr>
-  <tr>
-    <td>
- ACTIVITIES
-    </td>
-    <td>
-- Well established and with anticipation. <br>
-- Descriptions pretend to be  clear, concise, and complete. <br>
-- Meanings, requirements, and goals are well explained. <br>
-- Complexity is minimized and emergency is suppressed. <br>
-- Teaching is made by describing rules and doctrines.
-    </td>
-    <td>
-- Occur unexpectedly and are demanding. <br>
-- Descriptions recognize and take advantage of diversities. <br> 
-- Being open to change what is new is approached as a challenge. <br>
-- Complexity is confronted and emergency is promoted. <br>
-- Teaching is made by building models and theories.
-    </td>
-    </tr>
-  <tr>
-    <td>
-    CONTENT
-    </td>
-    <td>
-   Dogmatic with a completely predetermined structure ready for assimilation.
-    </td>
-    <td>
-    Free outcomes to be determined, ready for application and evolution.
-    </td>
-  </tr>
-  <tr>
-    <td>
-    ACTORS
-    </td>
-    <td>
-   Dependent, obedient, and receptive.
-    </td>
-    <td>
-    Autonomous, critical, and participative.
-    </td>
-  </tr>
-  <tr>
-    <td>
-    SYSTEMS
-    </td>
-    <td>
-   Rigid and programmed in advance.
-    </td>
-    <td>
-    Flexible and self-organized.
-    </td>
-  </tr>
-  <tr>
-    <td>
-    INSTITUTIONS
-    </td>
-    <td>
-   Centralized in vertical hierarchies.
-    </td>
-    <td>
-    Branched in horizontal hierarchies.
-    </td>
-  </tr>
-</table>
+ <p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.1.jpg?raw=true"> 
+</p>
 
 
 <center>
@@ -109,96 +31,9 @@ Einstein’s life began in Ulm, Germany on March 14, 1879, and ended in Princeto
 
 (1)	*Revolutionary explosion*. In a period of 195 days five publications were submitted and accepted and at the end of the same year a sixth paper was submitted; he was 26 years old. Although those publications were written in German, in the second column of next Table 12.2 all the titles are in English. It is remarkable how self-explanatory are those titles.
 
-<table width="100%">
-<tr>
-    <th colspan="3" style="text-align: center">
-Table 12.2. Publications during the “Annus mirabillis” of 1905.
-    </th>
-</tr>
-<tr>
-<th width="20%" style="text-align: center">
-DATE
-</th>
-<th width="40%" style="text-align: center">
-TITLE
-</th>
-<th width="40%" style="text-align: center">
-CONTRIBUTIONS
-</th>
-</tr>
-<tr>
-<td>
-March 17
-</td>
-<td>
-On a Heuristic Point of View Concerning the Production and Transformation of Light. 
-[Annalen der Physik (1905) 17, 132–148.]
-</td>
-<td>
-Description of the corpuscular nature of light and explanation of the photoelectric effect. 
-</td>
-</tr>
-<tr>
-<td>
-April 30
-</td>
-<td>
-On a new determination of molecular dimensions. 
-</td>
-<td>
-PhD thesis at the Federal Institute of Technology in Zurich, Switzerland.
-</td>
-</tr>
-<tr>
-<td>
-May 11
-</td>
-<td>
-On the Movement of Small Particles Suspended in Stationary Liquids Required by the Molecular-Kinetic Theory of Heat.
-[Annalen der Physik (1905) 17, 549-560.]
-</td>
-<td>
-Explanation of Brownian motion and Avogadro´s number calculation.
-</td>
-</tr>
-<tr>
-<td>
-June 30
-</td>
-<td>
-On the Electrodynamics of Moving Bodies.
-[Annalen der Physik (1905) 17, 891–921.]
-</td>
-<td>
-Description of the special theory of relativity.
-</td>
-</tr>
-<tr>
-<td>
-September 27
-</td>
-<td>
-Does the Inertia of a Body Depend upon its Energy Content?
-[Annalen der Physik (1905) 18, 639–641.]
-</td>
-<td>
-Obtention of equation $E = mc^2$.
-</td>
-</tr>
-<tr>
-    <td>
-December 19
-</td>
-<td>
-On the Theory of Brownian Motion.
-[Annalen der Physik (1906) 19, 371–381.]
-</td>
-<td>
-A second paper on Brownian motion is received by the editors. It will be published next year.
-</td>
-</tr>
-</table>
-
+ <p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.2.jpg?raw=true"> 
+</p>
 
 <center>
 (Source: Pais, *Subtle is the Lord... The Science and the Life of Albert Einstein.*)
@@ -207,63 +42,9 @@ A second paper on Brownian motion is received by the editors. It will be publish
 
 (2) *Leadership in theoretical physics*. . His realistic position regarding the existence of atoms and molecules remained against the opinion of many physicists in the early twentieth century. He convinced through the explanatory and predictive value of his theories. As an example of this capacity Table 12.3 indicates the number of years elapsed between five Einstein theoretical prediction and the experimental observation or production of the phenomenon in consideration.
 
-<div style="text-align:center;">
-<table>
-<tr>
-    <th colspan="2" style="text-align: center">
-Table 12.3. Years between prediction and observation.
-    </th>
-</tr>
-<tr>
-<th width="70%" style="text-align: center">
-PREDICTED PHENOMENON 
-</th>
-<th width="30%" style="text-align: center">
-YEARS
-</th>
-</tr>
-<tr>
-<td>
-Nuclear energy
-</td>
-<td>
-34
-</td>
-</tr>
-<tr>
-<td>
-Gravitational shift towards the red 
-</td>
-<td>
-44
-</td>
-</tr>
-<tr>
-<td>
-Stimulated energy radiation in laser
-</td>
-<td>
-37
-</td>
-</tr>
-<tr>
-<td>
-Bose-Einstein condensate
-</td>
-<td>
-70
-</td>
-</tr>
-<tr>
-<td>
-Entanglement of quantum states
-</td>
-<td>
-30
-</td>
-</tr>
-</table>
-</div> 
+ <p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.3.jpg?raw=true"> 
+</p>
 
 
 
