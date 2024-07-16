@@ -29,15 +29,16 @@ Elementary particles are fermions (they have half-integer spin) and constitute t
 Bosons (have zero or integer spin) and correspond to four types of forces: the gravitational that is attractive and the electromagnetic that can be attractive or repulsive, the strong nuclear force that keeps protons and neutrons together inside the nucleus, and the weak nuclear force responsible for radioactivity and that affects particles such as neutrinos. The transformation of hydrogen into heavy hydrogen (deuterium) is caused by the weak force. The weak force makes a distinction between left and right; it has not the property of being reflection symmetric. The quanta that correspond to these four forces are all bosons: gravitons for the gravitational force, photons for the electromagnetic force, gluons for the strong nuclear force and particles $𝑊−$, $𝑊+$ and $𝑍^0$ for the weak nuclear force.
 
 !!! bug ""
-    **1953:** classification of elementary particles in the Eightfold Way.
-    **1955:** confirmation of the existence of antiprotons.
-    **1956:** study of symmetry violations in weak interactions. 
-    **1958:** resonance absorptions of gamma radiation in embedded atoms. 
-    **1960:** electroweak force unifies weak and electromagnetic interactions
-    **1960:** production of neutrinos from nuclear reactions in the sun. 
-    **1960:** observation of emission of X-rays from stars and galaxies.
-    **1960:** theory of spontaneous symmetry violations in subatomic physics.
-    **1962:** experimental evidence of the existence of the muon neutrino.
+
+    **1953:** classification of elementary particles in the Eightfold Way.<br>
+    **1955:** confirmation of the existence of antiprotons.<br>
+    **1956:** study of symmetry violations in weak interactions. <br>
+    **1958:** resonance absorptions of gamma radiation in embedded atoms. <br>
+    **1960:** electroweak force unifies weak and electromagnetic interactions<br>
+    **1960:** production of neutrinos from nuclear reactions in the sun. <br>
+    **1960:** observation of emission of X-rays from stars and galaxies.<br>
+    **1960:** theory of spontaneous symmetry violations in subatomic physics.<br>
+    **1962:** experimental evidence of the existence of the muon neutrino.<br>
     **1964:** discovery of observed matter–antimatter asymmetry in the universe.
 
 •	In **1953** Murray Gell-Mann (1929-2019) published the first of a series of papers indicating how to classify the elementary particles and their interactions (the Eightfold Way).
@@ -85,20 +86,21 @@ Relativistic considerations of the existence of black holes and theoretical expl
 Certain solutions of the equations of general relativity technically correspond to a singularity wrapped in a closed surface, which curves the space-time of four dimensions and thus delimits the so-called event horizon of the black hole. Such a singularity means that all the mass of the star is concentrated in a mathematical point, which by definition is dimensionless. The greater the mass of the black hole, the larger the size of its event horizon and therefore, the more intense the gravitational field that exists inside it. The black hole is not seen, we only perceive the imprint left by its presence.
 
 !!! bug ""
-    **1964:** proposition of a theory of how particles acquire mass: the Higgs boson.
-    **1964:** description of the formation of black holes.
-    **1968:**  multiwire proportional chamber for detecting particle interactions.
-    **1970:** quarks as building blocks and gluon as their binding force. 
-    **1970:** theory explaining the quantum structure of electroweak interaction.
-    **1972:** explanation of the asymmetrical decay of particles called kaons.
-    **1973:**  interactions between quarks mediated by gluons (Quantum ChromoDynamics).
-    **1974:** discovery of particle (J/psi) and existence of the fourth quark, the “charm”.
-    **1974-1977:** discovery of a new particle—the tau lepton. 
-    **1980:** effects produced by neutrinos passings through a tank of water inside a mine. 
-    **1983:** production of W and Z particles by colliding protons and antiprotons.
-    **1990:** mapping the orbits of the brightest stars closest to the center of our galaxy.
-    **1998:** neutrinos switch their identities before arriving to the Earth’s atmospheres.
-    **2000:** study of neutrinos created in nuclear reactions in the Sun. 
+
+    **1964:** proposition of a theory of how particles acquire mass: the Higgs boson.<br>
+    **1964:** description of the formation of black holes.<br>
+    **1968:**  multiwire proportional chamber for detecting particle interactions.<br>
+    **1970:** quarks as building blocks and gluon as their binding force. <br>
+    **1970:** theory explaining the quantum structure of electroweak interaction.<br>
+    **1972:** explanation of the asymmetrical decay of particles called kaons.<br>
+    **1973:**  interactions between quarks mediated by gluons (Quantum ChromoDynamics).<br>
+    **1974:** discovery of particle (J/psi) and existence of the fourth quark, the “charm”.<br>
+    **1974-1977:** discovery of a new particle—the tau lepton. <br>
+    **1980:** effects produced by neutrinos passings through a tank of water inside a mine. <br>
+    **1983:** production of W and Z particles by colliding protons and antiprotons.<br>
+    **1990:** mapping the orbits of the brightest stars closest to the center of our galaxy.<br>
+    **1998:** neutrinos switch their identities before arriving to the Earth’s atmospheres.<br>
+    **2000:** study of neutrinos created in nuclear reactions in the Sun. <br>
     **2012:** experiments conducted at CERN confirmed the existence of the Higgs particle. 
 
 •	In **1964** François Englert (1932) and Robert Brout (1928-2011) proposed independently of Peter W. Higgs (1929) a theory of how particles acquire mass.
