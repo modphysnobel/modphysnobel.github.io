@@ -114,31 +114,31 @@ Tracks created by the passage of particles indicated the presence of subatomic p
 
 !!! bug ""
 
-	**1922:** electromagnetic radiation described in terms of photons.
-	**1924:** existence of matter waves. 
-	**1925:** formulation of the exclusion principle.
-	**1927:** observation of electron diffraction patterns.
-	**1929:** construction of a cyclotron.
-	**1932:** existence of neutrons.
-	**1932:** discovery of the positron.
-	**1932:** formations of pairs of electrons and positrons out of photons.
-	**1932:** artificial production of nuclear transmutations.
-	**1933:** description of the force binding nucleons together.
-	**1934:** artificial creation of radioactive elements.
-	**1934:** radioactivity induced by neutrons and nuclear synthesis.
-	**1934:** prediction of mesons responsible of the strong nuclear force.
-	**1938:** description of the Sun as a giant nuclear reactor.
-	**1939:** discovery of the fission of heavy nuclei.
-	**1946:** determination of structures using neutrons created in a reactor. 
-	**1947:** production of short-lived particles: the pi-mesons.
-	**1948:** magic numbers describe closed shells in nuclei.
-	**1948:** formulation of quantum electrodynamics.
-	**1949:** model describing nucleons distributed in shells.
-	**1950:**  development of neutron diffraction techniques.
-	**1950:**  electron scattering in atomic nucleus.
-	**1950:**  discovery of neutrinos.
-	**1950:** study of shape distortions in atomic nucleus.
-	**1952:** tracks produced by charged particles in bubble chambers.
+	**1922:** electromagnetic radiation described in terms of photons.<br>
+	**1924:** existence of matter waves. <br>
+	**1925:** formulation of the exclusion principle.<br>
+	**1927:** observation of electron diffraction patterns.<br>
+	**1929:** construction of a cyclotron.<br>
+	**1932:** existence of neutrons.<br>
+	**1932:** discovery of the positron.<br>
+	**1932:** formations of pairs of electrons and positrons out of photons.<br>
+	**1932:** artificial production of nuclear transmutations.<br>
+	**1933:** description of the force binding nucleons together.<br>
+	**1934:** artificial creation of radioactive elements.<br>
+	**1934:** radioactivity induced by neutrons and nuclear synthesis.<br>
+	**1934:** prediction of mesons responsible of the strong nuclear force.<br>
+	**1938:** description of the Sun as a giant nuclear reactor.<br>
+	**1939:** discovery of the fission of heavy nuclei.<br>
+	**1946:** determination of structures using neutrons created in a reactor. <br>
+	**1947:** production of short-lived particles: the pi-mesons.<br>
+	**1948:** magic numbers describe closed shells in nuclei.<br>
+	**1948:** formulation of quantum electrodynamics.<br>
+	**1949:** model describing nucleons distributed in shells.<br>
+	**1950:**  development of neutron diffraction techniques.<br>
+	**1950:**  electron scattering in atomic nucleus.<br>
+	**1950:**  discovery of neutrinos.<br>
+	**1950:** study of shape distortions in atomic nucleus.<br>
+	**1952:** tracks produced by charged particles in bubble chambers.<br>
 	**1952-1953:**  explanation of the nuclear rotational spectrum.
 
 •	In **1922** Arthur Holly Compton (1892-1962) directed X-ray photons onto a metal surface and observed that the X-rays’ wavelength increased because some of the incident photon energy was transferred to the electrons, confirming that electromagnetic radiation could be described as photons.
