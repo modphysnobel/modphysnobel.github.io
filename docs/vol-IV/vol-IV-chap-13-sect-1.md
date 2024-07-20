@@ -11,15 +11,16 @@
 
 	*What are the structures of the atomic nuclei and the elementary particles?*
 
-	This is the first chapter dedicated to the Universe. We describe the levels of operation of the mechanisms of knowledge concerning high energy physics: nuclear physics and particle physics. Cosmology is considered in next Chapter 14.
+	This is the first chapter dedicated to the Universe. It is a review of a selection of Nobel Prizes that have contributed to understanding and applying high energy physics: nuclear physics and particle physics. We also describe the levels of operation of the mechanisms of knowledge concerning high energy physics. Cosmology is considered in next Chapter 14.
 
 	**Learning objectives of Chapter 13.**
 	
 	After this Chapter you should be able to: 
 
-	- Describe the main steps and contributions to the development of high energy physics concerning the study of nuclear and elementary particles systems. 
+	- Describe the main steps and contributions made by experimental and theoretical developments in high energy physics. 
 	- Analize a timeline of the main developments in high energy physics that have been awarded with Nobel Prizes, mostly in Physics and few in Chemistry.
 	- Relate the levels of operation of the mechanisms of knowledge to the descriptions of the laboratory work, the experimental purposes, and the theorical implications concerning high energy physics.
+
 
 
 
@@ -31,7 +32,7 @@
 
 	**Section 13.2.  Timeline of the main developments in high energy physics.**
 
-	This Section contains a description of contributions made by Nobel Prize laureates in Physics and Chemistry connected with high energy physics. We indicate the year when the activities of the laureates were initiated not when the Nobel Prizes were awarded.
+	This Section deals with two steps related to experimental and theoretical developments in particle physics made by Nobel Prize laureates; it contains a commented timeline of such developments.
 
 	**Section 13.3.  Levels of operation of the mechanism of knowing.**
 
