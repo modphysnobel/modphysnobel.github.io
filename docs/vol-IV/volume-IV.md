@@ -17,7 +17,7 @@ The study of the universe is like archaeology in the sense that it concerns the 
 
 Physics, as a natural science, deals with objects and forces acting in regions that existed since the beginning of time, as well as in regions observed nowadays in modern accelerators of particles. In a quite different domain of knowledge, social sciences describe and interpret how human beings organize their way of living, producing, consuming and creating. The ways of building and applying concepts, models and research methodologies are quite different in universes integrated by particles, waves and energy, as compared with those universes where the participants are individuals and their evolving societies. In both universes Mathematics are bridges for solving problems and ladders for attaining better and better explanations.
 
-In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Physics Nobel Prizes (Chapters 13: Development of knowledge in high energy physics and 14: Evolution of cosmology) and Prizes in Economic Sciences in Memory of Alfred Nobel (Chapter 15: Universes composed by humans and societies). 
+In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Nobel Prizes, mostly in Physics and few in Chemistry (Chapters 13: Development of knowledge in high energy physics and 14: Evolution of cosmology) and Prizes in Economic Sciences in Memory of Alfred Nobel (Chapter 15: Universes composed by humans and societies).
 
 The chapters 13 and 14 are dedicated to Physics and deal with high energy physics which comprehend nuclear physics, particle physics and cosmology.  These regions of the universe differ in the size of its components and the intensity of the energies involved. The last chapter 15 is dedicated to Economics Sciences, as a social science where the use of mathematics is more appealing. One reason is because several mathematical ideas and procedures as well as some physical concepts and models have been used and adapted to study social processes, not with a reductionistic approach. Furthermore, many economists have been former mathematicians and some of them studied Physics.
 
@@ -25,7 +25,7 @@ The Chapters of this fourth Volume are the following:
 
 ## 13.    Development of knowledge in high energy physics.     
 ### 13.1  [Steps in the development of Nuclear Physics.](./vol-IV-chap-13-sect-1.md)
-### 13.2  [Timeline of the main developments in high energy physics.](./vol-IV-chap-13-sect-2.md)
+### 13.2  [Steps in the development of Particle Physics.](./vol-IV-chap-13-sect-2.md)
 ### 13.3  [Levels of operation of the mechanism of knowing.](./vol-IV-chap-13-sect-3.md)
 
 Since the atoms were not considered as indivisible, the study of its nuclei became interesting and possible due to more advanced theoretical interpretations of matter and energy, as well as to the fact that the realization of experiments had the support of complex technological infrastructures and extensive systems of collaboration.  First, physicists and chemist studied radioactivity and discovered that atoms contained protons, neutrons and electrons. Then they start understanding and even provoking nuclear reactions resulting in new elements, isotopes, particles, strange entities called quarks, and great amounts of energy.
