@@ -61,7 +61,7 @@
 - In his Nobel Lecture Bethe considered first the reaction $H+H=D+ε^+ +ν$, where $H$ and $D$ corresponded, respectively, to hydrogen and deuterium, $ε^+$ to a positron and $ν$ to a neutrino. The second process required the presence of carbon and was represented by the following cycle of reactions:
 
 <p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/chap%2014-1.png?raw=true" width=180 align=center>
+<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/chap%2014-1.png?raw=true" width=360 align=center>
   	</p>
 
 
