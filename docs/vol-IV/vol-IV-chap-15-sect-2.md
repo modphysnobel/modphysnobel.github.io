@@ -11,6 +11,9 @@ In this Section we refer to the 1969 Prize in Economic Science as a recognition 
 
 **Award ceremony speech.**
 
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1969/ceremony-speech/>
+
+
 …..
 	
 “In the past forty years, economic science has developed increasingly in the direction of a mathematical specification and statistical quantification of economic contexts. Scientific analysis along these lines is used to explain such complicated economic processes as economic growth, cyclical fluctuations, and reallocations of economic resources for different purposes.”
