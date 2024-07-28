@@ -75,7 +75,7 @@ To have an idea of how broad the discipline of Economic Sciences is we consider 
 - Miscellaneous Categories
 - Industrial Organization
 
-Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been awarded in the period 1969-2023. In this Chapter 15 we select 15 of those Prizes mostly associated to econometry and economic theories connected with one of the following five aspects: decisions, games, welfare, development, and natural experiments. Each item in the list contains the year of the award, the names and dates of the laureates, and the reasons for such recognitions. Afterwards we insert the documents called WORK which are a brief explanation of the contributions made by each laureate and the titles of the corresponding Prize Lectures. All the references are given at the end of the chapter in MLA format. 
+Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been awarded in the period 1969-2023. In this Chapter 15 we select 15 of those Prizes mostly associated to econometry and economic theories connected with one of the following five aspects: decisions, games, welfare, development, and natural experiments. Each item in the list contains the year of the award, the names and dates of the laureates, and the reasons for such recognitions. Afterwards we insert the documents called WORK which are a brief explanation of the contributions made by each laureate and the titles of the corresponding Prize Lectures. All the references are given in MLA format. 
 
 **In 1969:** to  Ragnar Frisch (1895-1969) and Jan Tinbergen (1903-1994) “for having developed and applied dynamic models for the analysis of economic processes”.
 
@@ -85,7 +85,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 	
 	MLA style: Ragnar Frisch – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/facts/
 
-	NOBEL LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Frisch.
+	PRIZE LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Frisch.
 
 	MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/lecture/
 
@@ -95,7 +95,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 	
 	MLA style: Jan Tinbergen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/facts/
 
-	NOBEL LECTURE: *The Use of Models: Experience and Prospects* by Tinbergen.
+	PRIZE LECTURE: *The Use of Models: Experience and Prospects* by Tinbergen.
 
 	MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/>
 
@@ -109,7 +109,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Paul A. Samuelson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/facts/
 
-	NOBEL LECTURE: *Maximum Principles in Analytical Economics* by Samuelson.
+	PRIZE LECTURE: *Maximum Principles in Analytical Economics* by Samuelson.
+
+	MLA style: Paul A. Samuelson – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/lecture/>
 
 ***
 
@@ -121,7 +123,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Wassily Leontief – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/facts/
 
-	NOBEL LECTURE: *Structure of the World Economy* by Leontief.
+	PRIZE LECTURE: *Structure of the World Economy* by Leontief.
+	
+	MLA style: Wassily Leontief – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/lecture/>
 
 ***
 
@@ -133,7 +137,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Herbert A. Simon – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/>
 
-	NOBEL LECTURE: *Rational Decision-Making in Business Organizations* by Simon.
+	PRIZE LECTURE: *Rational Decision-Making in Business Organizations* by Simon.
+
+	MLA style: Herbert A. Simon – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/lecture/>
 
 ***
 
@@ -145,7 +151,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Theodore W. Schultz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/facts/
 
-	NOBEL LECTURE: *The Economics of Being Poor* by Schultz.
+	PRIZE LECTURE: *The Economics of Being Poor* by Schultz.
+
+	MLA style: Theodore W. Schultz – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/
 
 !!! tip "1979 Economic-sciences Nobel Prize awarded to Lewis."
 
@@ -153,7 +161,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Sir Arthur Lewis – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/facts/
 
-	NOBEL LECTURE: *The Slowing Down of the Engine of Growth* by Lewis.
+	PRIZE LECTURE: *The Slowing Down of the Engine of Growth* by Lewis.
+
+	MLA style: Sir Arthur Lewis – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/lecture/>
 
 ***
 
@@ -165,7 +175,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: James Tobin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/facts/
 	
-	NOBEL LECTURE: *Money and Finance in the Macro-Economic Process* by Tobin.
+	PRIZE LECTURE: *Money and Finance in the Macro-Economic Process* by Tobin.
+
+	MLA style: James Tobin – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/lecture/>
 
 ***
 
@@ -177,7 +189,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 	
 	MLA style: Gerard Debreu – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/facts/
 
-	NOBEL LECTURE: *Economic Theory in the Mathematical Mode* by Debreu.
+	PRIZE LECTURE: *Economic Theory in the Mathematical Mode* by Debreu.
+
+	MLA style: Gerard Debreu – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/lecture/>
 
 ***
 
@@ -189,7 +203,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Trygve Haavelmo – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/facts/
 
-	NOBEL LECTURE: *Econometrics and the Welfare State* by Haavelmo.
+	PRIZE LECTURE: *Econometrics and the Welfare State* by Haavelmo.
+
+	MLA style: Trygve Haavelmo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/>
 
 ***
 
@@ -201,7 +217,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: John C. Harsanyi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/facts/
 
-	NOBEL LECTURE: *Games with Incomplete Information* by Harsanyi.
+	PRIZE LECTURE: *Games with Incomplete Information* by Harsanyi.
+
+	MLA style: John C. Harsanyi – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/lecture/
 
 !!! tip "1994 Economic-sciences Nobel Prize awarded to Nash."
 
@@ -209,7 +227,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: John F. Nash Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/nash/facts/
 
-	NOBEL LECTURE: *The Work of John Nash in Game Theory* by Nash.
+	PRIZE LECTURE: *The Work of John Nash in Game Theory* by Nash.
+
+	MLA style: John F. Nash, Jr. – Prize Seminar. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1994/nash/lecture/
 
 !!! tip "1994 Economic-sciences Nobel Prize awarded to Selten."
 
@@ -217,7 +237,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Reinhard Selten – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/selten/facts/
 
-	NOBEL LECTURE: *Multistage Game Models and Delay Supergames* by Selten.
+	PRIZE LECTURE: *Multistage Game Models and Delay Supergames* by Selten.
+
+	MLA style: Reinhard Selten – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1994/selten/lecture/>
 
 ***
 
@@ -229,7 +251,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Amartya Sen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1998/sen/facts/
 
-	NOBEL LECTURE: *The Possibility of Social Choice* by Sen.
+	PRIZE LECTURE: *The Possibility of Social Choice* by Sen.
+
+	MLA style: Amartya Sen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1998/sen/lecture/>
 
 ***
 
@@ -241,7 +265,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Daniel Kahneman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/
 
-	NOBEL LECTURE: *Maps of Bounded Rationality* by Kahneman.
+	PRIZE LECTURE: *Maps of Bounded Rationality* by Kahneman.
+
+	MLA style: Daniel Kahneman – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/
 
 !!! tip "2002 Economic-sciences Nobel Prize awarded to Smith."
 
@@ -249,7 +275,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 	
 	MLA style: Vernon L. Smith – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2002/smith/facts/
 
-	NOBEL LECTURE: *Constructivist and Ecological Rationality in Economics* by Smith.
+	PRIZE LECTURE: *Constructivist and Ecological Rationality in Economics* by Smith.
+
+	MLA style: Vernon L. Smith – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2002/smith/lecture/>
 
 ***
 
@@ -261,7 +289,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Robert J. Aumann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/facts/
 
-	NOBEL LECTURE: *War and Peace* by Aumann.
+	PRIZE LECTURE: *War and Peace* by Aumann.
+
+	MLA style: Robert J. Aumann – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/lecture/
 
 !!! tip "2005 Economic-sciences Nobel Prize awarded to Schelling."
 
@@ -269,7 +299,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Thomas C. Schelling – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/facts/
 
-	NOBEL LECTURE: *An Astonishing Sixty Years: The Legacy of Hiroshima* by Schelling.
+	PRIZE LECTURE: *An Astonishing Sixty Years: The Legacy of Hiroshima* by Schelling.
+
+	MLA style: Thomas C. Schelling – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/lecture/>
 
 ***
 
@@ -281,7 +313,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Richard H. Thaler – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/
 	
-	NOBEL LECTURE: *From Cashews to Nudges: The Evolution of Behavioral Economics* by Thaler.
+	PRIZE LECTURE: *From Cashews to Nudges: The Evolution of Behavioral Economics* by Thaler.
+
+	MLA style: Richard H. Thaler – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/lecture/>
 
 ***
 
@@ -293,11 +327,17 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Abhijit Banerjee – Facts – 2019. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/facts/
 
-	NOBEL LECTURE: *Field Experiments and the Practice of Economics* by Banerjee.
+	PRIZE LECTURE: *Field Experiments and the Practice of Economics* by Banerjee.
 
-	NOBEL LECTURE: *Field Experiments and the Practice of Policy* by Duflo.
+	MLA style: Abhijit Banerjee – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/lecture/
 
-	NOBEL LECTURE: *Experimentation, Innovation, and Economics* by Kremer.
+	PRIZE LECTURE: *Field Experiments and the Practice of Policy* by Duflo.
+
+	MLA style: Esther Duflo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/lecture/
+
+	PRIZE LECTURE: *Experimentation, Innovation, and Economics* by Kremer.
+
+	MLA style: Michael Kremer – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2019/kremer/lecture/>
 
 ***
 
@@ -309,7 +349,9 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/
 
-	NOBEL LECTURE: *Design‐based research in empirical microeconomics* by Card.
+	PRIZE LECTURE: *Design‐based research in empirical microeconomics* by Card.
+
+	MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/
 
 !!! tip "2021 Economic-sciences Nobel Prize awarded to Angrist and Imbens."
 
@@ -317,9 +359,13 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	MLA style: Guido W. Imbens – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/facts/
 
-	NOBEL LECTURE: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
+	PRIZE LECTURE: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
 
-	NOBEL LECTURE: *Causality in econometrics: methods in conversation with practice* by Imbens.
+	MLA style: Joshua D. Angrist – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2021/angrist/lecture/
+
+	PRIZE LECTURE: *Causality in econometrics: methods in conversation with practice* by Imbens.
+
+	MLA style: Guido W. Imbens – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/lecture/>
 
 ***
 
