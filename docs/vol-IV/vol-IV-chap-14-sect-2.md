@@ -7,11 +7,35 @@
 
 ## 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.
 
+In this Section we describe the selected Physics Nobel Prizes in the same way as in section 14.1. 
+
 **In 1995:** awarded "for pioneering experimental contributions to lepton physics" jointly with one half to Martin L. Perl "for the discovery of the tau lepton" and with one half to Frederick Reines "for the detection of the neutrino". We focus only on Reines.
 
 !!! tip "1995 Physics Nobel Prize awarded to Reines."
 
 	WORK: “During the beta decay of a nucleus, a neutron is converted to a proton and an electron is produced. In studying the electron’s velocity, it was clear that this decay violated energy-conversation and other laws. It was thus proposed that an additional particle—a neutrino—was formed during beta decay. In the early 1950s, Frederick Reines passed radiation from a nuclear reactor through a water tank and discovered reactions that proved the neutrino’s existence.”
+
+	MLA style: Frederick Reines – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/reines/facts/
+
+	NOBEL LECTURE: *The Neutrino: From Poltergeist to Particle* by Reines.
+	
+	- Need for Direct Detection.
+	- Detection Technique.
+	- The Hanford Experiment.
+	- The Savannah River Experiment.
+	- Observation of the Neutrino.
+	- Signal Rate.
+	- First and Second Pulses.
+	- Signal as a Function of Target Protons.
+	- Absorption Test.
+	- What Next?
+	- Neutrino-electron elastic scattering.
+	- Neutrino interactions with deuterons.
+	- Neutrino stability and oscillations.
+	- Other Neutrino Physics Experiments.
+
+	MLA style: Frederick Reines – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/reines/lecture/
+
 
 **PHYSICS CONTENT (based on *Press release, Award ceremony speech* and *Advanced information*).**
 
@@ -29,9 +53,26 @@
 
 	WORK: “In certain nuclear reactions (such as when protons combine to form helium nuclei) elusive particles called neutrinos are created. Raymond Davies wanted to detect neutrinos in radiation from space to confirm the theory that this kind of nuclear reaction is the source of the sun’s energy. Beginning in the 1960s, he placed a large tank containing a chlorine-rich liquid inside a mine. In rare cases, a neutrino interacted with a chlorine atom to form an argon atom. By counting these argon atoms, neutrinos from space could be detected.”
 
+	MLA style: Raymond Davis Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/davis/facts/
+
+	NOBEL LECTURE: *A Half-Century with Solar Neutrinos* by Davies.
+
+	No subtitles in the original.
+
+	MLA style: Raymond Davis Jr. – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/davis/lecture/
+
 
 !!! tip "2002 Physics Nobel Prize awarded to Koshiba."
 	WORK: “Certain nuclear reactions, including those where hydrogen atoms combine with helium, form elusive particles called neutrinos. By proving the existence of neutrinos in cosmic radiation, Raymond Davis showed that the sun's energy originates from such nuclear reactions. From 1980, Masatoshi Koshiba provided further proof of this through measurements taken inside an enormous water tank within a mine. In rare cases, neutrinos react with atomic nuclei in water, creating an electron and thus a flash of light that can be detected.”
+
+	MLA style: Masatoshi Koshiba – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/koshiba/facts/
+
+	NOBEL LECTURE: *Birth of Neutrino Astrophysics* by Koshiba.
+
+	No subtitles in the original.
+
+	MLA style: Masatoshi Koshiba – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/koshiba/lecture/
+
 
 **PHYSICS CONTENT (based on *Press release* and *Popular information*).**
 
@@ -47,6 +88,22 @@
 
 	WORK: “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes”.
 
+	MLA style: Riccardo Giacconi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/giacconi/facts/
+
+	NOBEL LECTURE: *The Dawn of X-Ray Astronomy* by Giacconi.
+
+	1.0 INTRODUCTION<br>
+	2.0 THE BEGINNING OF X-RAY ASTRONOMY<br>
+	3.0 DISCOVERIES WITH UHURU<br>
+	3.1 The Binary X-Ray Sources<br>
+	3.2 Discovery of High Temperature Intergalactic Gas<br>
+	4.0 X–RAY TELESCOPES<br>
+	5.0 CURRENT RESEARCH WITH CHANDRA<br>
+	6.0 THE FUTURE OF X-RAY ASTRONOMY
+
+	MLA style: Riccardo Giacconi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/giacconi/lecture/
+
+
 **PHYSICS CONTENT (based on *Press release* and *Popular information*).**
 
 - As X-ray radiation is almost entirely absorbed by the air in the Earth’s thick atmosphere it was not until the 1940s that rockets had been developed to transport detection and measurement instruments. In 1959 Riccardo Giacconi formed a group for carrying out rocket experiments to try to prove the presence of X-ray radiation from the universe. 
@@ -59,9 +116,41 @@
 
 	WORK: “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In the Super-Kamiokande detector, an experimental facility in a mine in Japan in 1998, Takaaki Kajita detected neutrinos created in reactions between cosmic rays and the Earth’s atmosphere. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
 
+	MLA style: Takaaki Kajita – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/kajita/facts/
+
+	NOBEL LECTURE: *Discovery of Atmospheric Neutrino Oscillations* by Kajita.
+
+	1 INTRODUCTION<br>
+	2 ATMOSPHERIC NEUTRINO ANOMALY<br>
+	3 DISCOVERY OF NEUTRINO OSCILLATIONS<br>
+	4 RECENT RESULTS AND THE FUTURE<br>
+	4.1 Observing “oscillation”<br>
+	4.2 Detecting tau neutrinos<br>
+	4.3 Data updates, neutrino masses and mixing angles<br>
+	4.4 Neutrino oscillation experiments: past, present and future<br>
+	SUMMARY
+
+	MLA style: Takaaki Kajita – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/kajita/lecture/
 
 !!! tip "2015 Physics Nobel Prize awarded to McDonald."
 	WORK: “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In an experimental facility in a mine in Canada in 2000, Arthur McDonald studied neutrinos created in nuclear reactions in the sun. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
+
+	MLA style: Arthur B. McDonald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/mcdonald/facts/
+
+	NOBEL LECTURE: *The Sudbury Neutrino Observatory: Observation of Flavor Change for Solar Neutrinos* by McDonald.
+
+	1.	SOLAR NEUTRINOS
+	2.	THE SUDBURY NEUTRINO OBSERVATORY ORIGINS
+	3.	NEUTRINO DETECTION IN SNO
+	4.	SNO DETECTOR
+	5.	SNO EXPERIMENTAL MEASUREMENTS
+	6.	COMPARING SNO RESULTS WITH OTHER SOLAR NEUTRINO MEASUREMENTS
+	7.	NEUTRINO OSCILLATIONS AND FLAVOR CHANGE
+	8.	FUTURE MEASUREMENTS
+
+	MLA style: Arthur B. McDonald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/mcdonald/lecture/
+
+
 
 **PHYSICS CONTENT (based on *Press release, Popular information* and *Advanced information*).**
 
@@ -85,6 +174,42 @@
 
 	WORK: “Radiation falls toward the earth from outer space. This cosmic radiation initially appeared to become weaker as wavelengths of the radiation became shorter. However, when Arno Penzias and Robert Wilson studied cosmic radiation in 1964, they discovered that microwaves with a wavelength of about 7 centimeters were stronger than expected. At first they thought that the results were caused by distortions or faults in the measurements, but that was not the case. This cosmic background radiation probably is a remnant of the Big Bang when the universe was created.
 
+	MLA style: Arno Penzias – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1978/penzias/facts/
+
+	NOBEL LECTURE: *The Origin of Elements* by Penzias.
+	
+	No subtitles in the original.
+
+	MLA style: Arno Penzias – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1978/penzias/lecture/
+
+	NOBEL LECTURE: *The Cosmic Microwave Background Radiation* by Wilson.
+
+	I. INTRODUCTION<br>
+	II. RADIO ASTRONOMICAL METHODS<br>
+	a. Antennas<br>
+	b. Radiometers<br>
+	c. Observations<br>
+	III. PLANS FOR RADIO ASTRONOMY WITH THE 20-FOOT HORN-REFLECTOR<br>
+	IV. RADIOMETER SYSTEM<br>
+	a. Switch<br>
+	b. Reference Noise Source<br>
+	c. Scale Calibration<br>
+	d. Radiometer Backend<br>
+	e. Equipment Performance<br>
+	V. PRIOR OBSERVATIONS<br>
+	VI. OUR OBSERVATIONS<br>
+	VII. IDENTIFICATION<br>
+	VIII. RESULTS<br>
+	IX. CONFIRMATION<br>
+	X. EARLIER THEORY<br>
+	XI. ISOTROPY<br>
+	XII. SPECTRUM<br>
+	XIII. CONCLUSION<br>
+	XIV. ACKNOWLEDGMENTS
+
+	MLA style: Robert Woodrow Wilson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1978/wilson/lecture/
+
+
 **PHYSICS CONTENT (based on *Speed read* and *Press release*)."**
 
 - In the 1940s there have been attempts for explaining how and when the synthesis of chemical elements was accomplished. Ralph Alpher, Hans Bethe and George Gamow published a paper untitled *The Origin of Chemical Elements*. Also, Robert Dicke did search for evidence to support the theory that the universe was created from a single, highly explosive moment: the Big Bang.  He predicted that such event should leave a faint, cold afterglow that could be detected, as a reminder of the moment, 15 billion years ago, when the hot and rapidly expanding universe began to cool down. 
@@ -97,9 +222,74 @@
 
 	WORK: “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. John Mather, a driving force in the project, had particular responsibility for a part that in 1989 indicated that cosmic background radiation’s spectrum corresponds to black-body radiation—radiation emitted by a dark, glowing body. The result provided evidence that the background radiation is a remnant from the creation of the universe in the Big Bang.”
 
+	MLA style: John C. Mather – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2006/mather/facts/
+
+	NOBEL LECTURE: *From the Big Bang to the Nobel Prize and Beyond* by Mather.
+
+	ABSTRACT<br>
+	I. SCIENTIFIC INTRODUCTION<br>
+	A. CMBR Spectrum and the Big Bang<br>
+	B. Isotropy<br>
+	C. Anisotropy
+	D. Small angular scale anisotropy and primordial sound waves<br>
+	E. Modern cosmology<br>
+	II. MY INTRODUCTION TO COSMOLOGY<br>
+	A. Childhood<br>
+	B. College<br>
+	C. Graduate school<br>
+	III. ORIGINS AND DESIGN OF THE COBE<br>
+	A. Initial Goddard concept<br>
+	B. Building the COBE Team<br>
+	C. Mission Concept and Design<br>
+	D. FIRAS<br>
+	E. DMR<br>
+	F. DIRBE<br>
+	IV. REBUILDING AND LAUNCHING THE COBE<br>
+	V. DATA ANALYSIS AND INTERPRETATION<br>
+	A. FIRAS<br>
+	B. DMR<br>
+	C. DIRBE<br>
+	VI. SUMMARY: COBE’S PLACE IN HISTORY AND WHERE ARE WE NOW?<br>
+	ACKNOWLEDGEMENTS
+
+	MLA style: John C. Mather – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2006/mather/lecture/
+
+
+
 !!! tip "2006 Physics Nobel Prize awarded to Smoot."
 
 	WORK: “Various types of particles and radiation travel through outer space, including cosmic background radiation, which has been carefully studied through measurements from the COBE satellite. George Smoot led a project that in 1992 was able to point out small variations in radiation in different directions. This provides a clue to how stars and other heavenly bodies have come into existence. The variations can be explained by a kind of quantum mechanical fluctuations that have caused matter in certain places to form clumps that then have grown because of gravitation."
+
+	MLA style: George F. Smoot – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2006/smoot/facts/
+
+	NOBEL LECTURE: *Cosmic Microwave Background Radiation Anisotropies: Their Discovery and Utilization* by Smoot.
+
+	1 THE COSMIC BACKGROUND RADIATION<br>
+	1.1 Introduction<br>
+	1.2 Cosmic Background Radiation Rules<br>
+	1.3 Transition to Cosmology<br>
+	1.4 Why not seek the Seeds of Galaxy Formation First?<br>
+	1.5 Beginning the New Aether Drift Experiment<br>
+	1.6 Context<br>
+	1.7 Why did we need such a strong team effort?<br>
+	1.8 The DMR and U-2 Observations<br>
+	1.9 Polarization of the CMB<br>
+	1.10 Balloon-borne Anisotropy at 3-mm Wavelength<br>
+	1.11 Spectrum of the CMB<br>
+	1.12 The Cosmic Background Explorer (COBE) Mission<br>
+	1.13 Core Results<br>
+	2 FORGING THE STANDARD MODEL OF COSMOLOGY: ΛCDM<br>
+	2.1 The Suborbital CMB experiments<br>
+	2.2 Physics from CMB Anisotropy Power Spectrum<br>
+	2.2.1 The Geometry of Space Time<br>
+	2.2.2 Acoustic Oscillations<br>
+	2.2.3 The Dark Matter and the Baryon Content of the Universe<br>
+	2.2.4 Other Cosmological Parameters including Dark Energy, Equation of State<br>
+	3 CONCLUDING REMARKS<br>
+	ACKNOWLEDGEMENTS
+
+	MLA style: George F. Smoot – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2006/smoot/lecture/
+
 
 **PHYSICS CONTENT (based on *Press release, Speed read* and *Popular Information*).**
 
@@ -116,6 +306,52 @@
 !!! tip "2011 Physics Nobel Prize awarded to Perlmutter, Schmidt, and Riess."
 
 	WORK: “The universe’s stars and galaxies are moving away from one another; the universe is expanding. Up until recently, the majority of astrophysicists believed that this expansion would eventually wane, due to the effect of opposing gravitational forces. Saul Perlmutter, Brian Schmidt, and Adam Riess studied exploding stars, called supernovae. Because the light emitted by stars appears weaker from a larger distance and takes on a reddish hue as it moves further from the observer, the researchers were able to determine how the supernovae moved. In 1998 they reached a surprising result: the universe is expanding at an ever-increasing rate.”
+
+	MLA style: Saul Perlmutter – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2011/perlmutter/facts/
+
+	NOBEL LECTURE: *Measuring the Acceleration of the Cosmic Expansion Using Supernovae* by Perlmutter.
+
+	- INTRODUCTION
+	- AN ANCIENT QUESTION
+	- SUPERNOVAE AS PROBES OF THE HISTORY OF THE UNIVERSE
+	- HOW OUR WORK BEGAN
+	- HOW CAN WE FIND SUPERNOVAE ON DEMAND?
+	- MORE DIFFICULTIES TO OVERCOME
+	- CALAN/TOLOLO: A NEW AND IMPROVED LOW-REDSHIFT DATASET
+	- A NEW CONCERN
+	- AN UNEXPECTED OUTCOME
+	- SCENES FROM A DECADE: AN IMPRESSIONISTIC SKETCH
+	- A WORD OF GRATITUDE
+  
+  	MLA style: Saul Perlmutter – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2011/perlmutter/lecture/
+
+	NOBEL LECTURE: *The Path to Measuring an Accelerating Universe* by Schmidt.
+	
+	- INTRODUCTION
+	- 20TH CENTURY COSMOLOGICAL MODELS
+	- SUPERNOVAE AND MY EARLY CAREER<br>
+	Supernovae<br>
+	Massive Star Supernovae<br>
+	Thermonuclear Detonations<br>
+	- GRADUATE SCHOOL AT HARVARD
+	- THE FOUNDATIONS OF THE HIGH-Z TEAM
+	- THE HIGH-Z TEAM: MEASURING THE DECELERATION RATE OF THE UNIVERSE
+	- SYSTEMATIC EFFECTS
+	- THE DISCOVERY OF ACCELERATION
+	- CONCLUDING REMARKS
+
+	MLA style: Brian P. Schmidt – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2011/schmidt/lecture/
+
+	NOBEL LECTURE: *My Path to the Accelerating Universe* by Riess.
+
+	- INTRODUCTION
+	- THE EDUCATION OF A COSMOLOGIST
+	- THE BIRTH OF THE HIGH-Z TEAM
+	- THE ACCELERATING UNIVERSE
+	- EXTRAORDINARY CLAIMS REQUIRE EXTRAORDINARY EVIDENCE
+
+	MLA style: Adam G. Riess – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/2011/riess/lecture/
+
 
 **PHYSICS CONTENT (based on *Presse release* and *Popular information*).**
 
@@ -143,6 +379,15 @@ For almost a century, the Universe has been known to be expanding because of the
 
 	WORK: “Fundamental questions about the universe’s structure and history have always fascinated human beings. James Peebles’ theoretical framework, developed since the mid-1960s, is the basis of our contemporary ideas about the universe. The cosmic background radiation is a remaining trace of the formation of the universe. Using his theoretical tools and calculations, James Peebles was able to interpret these traces from the infancy of the universe and discover new physical processes. The results showed us a universe in which just five per cent of its content is known matter. The rest, 95 per cent, is unknown dark matter and dark energy.”
 
+	MLA style: James Peebles – Facts – 2019. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/peebles/facts/
+
+	NOBEL LECTURE: *How Physical Cosmology Grew* by Peebles.
+	
+	There are no subtitles in the original Lecture. Section 14.3 presents an analysis of its content.
+
+	MLA style: James Peebles – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/peebles/lecture/
+
+
 **PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information*, and *Advanced Information*).**
 
 - Since the mid-1960s James Peebles has contributed to the development of cosmology. He considered that the traces left by the Big Bang explosion at the beginning of the universe, the cosmic microwave background radiation, were essential in the formation of stars, galaxies, and galaxy clusters. He explained that the radiation’s temperature could provide information about the quantity of matter created at the Big Bang explosion. 
@@ -152,6 +397,39 @@ For almost a century, the Universe has been known to be expanding because of the
 !!! tip "2019 Physics Nobel Prize awarded to Mayor and Queloz."
 
 	WORK: “Fundamental questions about the universe’s structure and history have always fascinated human beings. In 1995, Michel Mayor and Didier Queloz announced the first discovery of a planet outside our solar system, an exoplanet, orbiting a solar-type star in our home galaxy, the Milky Way. Using custom-made instruments, they were able to see planet 51 Pegasi b, in the Pegasus constellation. Since then over 4,000 exoplanets have been found in the Milky Way. Eventually, we may find an answer to the eternal question of whether other life is out there.”
+
+	MLA style: Michel Mayor – Facts – 2019. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/mayor/facts/
+
+	NOBEL LECTURE: *Plurality of Worlds in the Cosmos: A Dream of Antiquity, A Modern Reality of Astrophysics* by Mayor.
+
+	-	PARADIGM SHIFT DURING THE SECOND HALF OF THE 20TH CENTURY
+	-	DOPPLER SPECTROSCOPY AS A PATH TO THE DETECTION OF EARTH-LIKE PLANETS
+	-	THE PERMANENT QUEST FOR HIGHER AND HIGHER PRECISION: THE FIRST STEP WITH CORAVEL
+	-	A SMALL TECHNICAL NOTE
+	-	THE QUEST FOR HIGHER PRECISION: THE SECOND STEP WITH ELODIE
+	-	SEARCHING FOR EXOPLANETS
+	-	CHEMICAL CLUES FOR STARS WITH PLANETS
+	-	HARPS, THE THIRD STEP TOWARDS HIGHER PRECISION AND THE PATH TO THE DETECTION OF ROCKY PLANETS
+
+	MLA style: Michel Mayor – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/mayor/lecture/
+
+	NOBEL LECTURE: *51 Pegasis b, and the Exoplanet Revolution* by Queloz.
+
+	I. FOREWORD<br>
+	II. PRECISE DOPPLER SPECTROSCOPY ELODIE<br>
+	III. A PLANET THAT SHOULD NOT EXIST<br>
+	51Pegasi<br>
+	Alternative to planet hypothesis<br>
+	Challenging planetary formation<br>
+	IV. A FEAST OF EXOPLANETS<br>
+	Here comes the transit<br>
+	Change of perspectives<br>
+	Exoplanetary science begins<br>
+	V. PROSPECTS<br>
+	Acknowledgements
+
+	MLA style: Didier Queloz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/queloz/lecture/
+
 
 **PHYSICS CONTENT (based on *Press release, Award ceremony Speech, Popular information* and *Advanced Information*).**
 
