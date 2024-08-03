@@ -36,6 +36,8 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 NOBEL LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Ragnar Frisch.
 
+MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/lecture/>
+
 **INTRODUCTION.** 
 
 “In this essay on econometrics in its conception and its use in economic planning for the betterment of man’s fate, I will try to cover a very broad field.” ….
@@ -169,6 +171,8 @@ For simplicity let me first describe how to attack the problem for a given polit
 7.7. The complementarity restrictions that may be associated with an equivalence ring.
 
 NOBEL LECTURE: *The Use of Models: Experience and Prospects* by Jan Tinbergen.
+
+MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/>
 	
 **1. Essence of models.**
 
