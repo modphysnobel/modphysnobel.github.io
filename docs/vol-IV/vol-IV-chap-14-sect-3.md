@@ -102,7 +102,7 @@ Description of a photography of a radiometer used to obtain a map of the variati
 … “So, I proposed a way out: postulate a sea of neutrinos with degeneracy energy large enough to have prevented electrons from combining with protons. In the Soviet Union Yakov Zel’dovich saw the same problem with a cold big bang and he offered the same solution, lepton degeneracy. … The interesting thing is that we saw the problem at essentially the same time, independently.
 
 - Recognition that the early universe had a rapid expansion and cooling [Prg09].
-- 
+ 
 “I saw that a universe hot enough to have left a detectable sea of thermal radiation would have tended to leave the abundances of the elements in a mix characteristic of the rapid expansion and cooling of the early universe. In an unpublished preprint in late 1964, I estimated that a reasonable upper bound on the primeval helium abundance requires a lower bound on the CMB temperature, $T_0 ≥ 10 K$, in the absence of degeneracy.”
 
 - Calculation of a lower bound on the CMB temperature $T_0$ [Prg10].
