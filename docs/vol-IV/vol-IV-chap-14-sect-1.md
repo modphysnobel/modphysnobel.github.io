@@ -80,6 +80,7 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/chap%2014-1.png?raw=true" width=360 align=center>
   	</p>
 
+***
 
 **In 1983:** divided equally between Subramanyan Chandrasekhar "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars" and William Alfred Fowler "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe".
 
@@ -141,6 +142,8 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 
 - In 1950, Fowler and his colleagues studied how the chemical elements are generated within the stars through nuclear reactions. They made theoretical calculations of the steps involved in such nuclear reactions and interpreted experimental results from particle accelerators for describing the behavior of elements. 
 
+***
+
 **In 1974:** to Sir Martin Ryle and Antony Hewish "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars".
 
 !!! tip "1974 Physics Nobel Prize awarded to Ryle."
@@ -174,6 +177,8 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 - The aperture synthesis technique developed by Martin Ryle consisted in connecting a series of small mutually adjustable and steerable radio antennae attached to large receiver dishes. All these antennae were pointing out in the same direction of observation. The positions of the radio telescopes were adjustable within nearly 5 kilometers and considered that the earth turns once a day in relation to the celestial sphere.
 
 - Hewish and Bell discovered a dense, burnt-out remains of a massive neutron star that had been formed as a consequence of a supernova explosion. When viewed from Earth, this object was observed spinning around rapidly and emitting shorts radio wave pulses, extremely regularly and almost every second. This revealed the presence of a neutron star: the nucleus of the pulsar. That star was surrounded with a plasma, a gas conducting electricity; the whole system was immersed in a turning strong magnetic field.
+
+***
 
 **In 1993:** awarded jointly to Russell A. Hulse and Joseph H. Taylor Jr. "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation".
 
@@ -224,6 +229,8 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 - Hulse discovered a pair of pulsars close enough together, spiraling very fast in orbit around each other. Taylor confirmed Einstein’s prediction by showing that the two pulsars were behaving almost exactly as predicted by the theory. The change in the orbit period was assumed to occur because the system was emitting energy in the form of gravitational waves. 
 
 - Beginning in the 1970s the LIGO detector was developed using laser technology to measure small changes in length caused by gravitational waves. Later, in 2015 gravitational waves were detected for the first time and in 2017 the Physics Nobel Prize was awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne "for decisive contributions to the LIGO detector and the observation of gravitational waves". LIGO stands for Laser Interferometer Gravitational-Wave Observatory. (See for more information the Section 10.2. Gravitational astronomy, Chapter 10. Interferences of electromagnetic and gravitational waves, Volume III. Waves.)
+
+***
 
 **In 2020:** divided, one half awarded to Roger Penrose "for the discovery that black hole formation is a robust prediction of the general theory of relativity", the other half jointly to Reinhard Genzel and Andrea Ghez "for the discovery of a supermassive compact object at the centre of our galaxy".
 
