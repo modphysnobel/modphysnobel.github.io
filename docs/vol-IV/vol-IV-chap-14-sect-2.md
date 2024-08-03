@@ -47,6 +47,8 @@ In this Section we describe the selected Physics Nobel Prizes in the same way as
 
 - In 1956 Reines and Cowan sent a telegram to Pauli announcing that they have discovered reactions that proved the existence of neutrino, the subatomic particle that he invented thirty years ago.
 
+***
+
 **In 2002:** divided, one half jointly to Raymond Davis Jr. and Masatoshi Koshiba "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos" and the other half to Riccardo Giacconi "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources".
 
 !!! tip "2002 Physics Nobel Prize awarded to Davis."
@@ -110,6 +112,8 @@ In this Section we describe the selected Physics Nobel Prizes in the same way as
 
 - In 1962 he was the first to record a source of X-rays outside the solar system. In 1970 a satellite was launched to survey the sky for X-ray radiation and in 1978 a high-definition X-ray telescope had been sent into space (this is nowadays known as Einstein X-ray Observatory). An improved and larger X-ray observatory called Chandra was launched in 1999.
 
+***
+
 **In 2015:** to Takaaki Kajita and Arthur B. McDonald "for the discovery of neutrino oscillations, which shows that neutrinos have mass".
 
 !!! tip "2015 Physics Nobel Prize awarded to Kajita."
@@ -168,6 +172,8 @@ In this Section we describe the selected Physics Nobel Prizes in the same way as
 
 - The two experiments confirmed the suspicion that neutrinos can change from one identity to another. We have here a problem of interpretation that might be explained in quantum terms: the electron-neutrino, muon-neutrino and tau-neutrinos are represented by superposed waves that correspond to neutrino states with different masses. The superposition in any given location yields the probability for what type of neutrino is most likely to be found there. The probabilities vary from one location to another, they oscillate, and the neutrinos appear in their various identities having different masses. When the waves are in phase it is not possible to distinguish the different neutrino states from each other; when neutrinos travel through space the waves go out of phase and along the way the waves are superposed in varying ways. This is a quantum metamorphosis process.
 
+***
+
 **In 1978:** divided, one half awarded to Pyotr Leonidovich Kapitsa "for his basic inventions and discoveries in the area of low-temperature physics", the other half jointly to Arno Allan Penzias and Robert Woodrow Wilson "for their discovery of cosmic microwave background radiation". We focus only on Penzias and Wilson.
 
 !!! tip "1978 Physics Nobel Prize awarded to Penzias and Wilson."
@@ -215,6 +221,8 @@ In this Section we describe the selected Physics Nobel Prizes in the same way as
 - In the 1940s there have been attempts for explaining how and when the synthesis of chemical elements was accomplished. Ralph Alpher, Hans Bethe and George Gamow published a paper untitled *The Origin of Chemical Elements*. Also, Robert Dicke did search for evidence to support the theory that the universe was created from a single, highly explosive moment: the Big Bang.  He predicted that such event should leave a faint, cold afterglow that could be detected, as a reminder of the moment, 15 billion years ago, when the hot and rapidly expanding universe began to cool down. 
 
 - In the early 1960s, Arno Penzias and Robert Wilson were working at Bell Telephone Laboratories with very sensitive radio wave receivers for use in satellite communications. Surprisingly, they found waves of great intensity at microwave frequencies in the range between 1GHz and 300 GHz, which corresponds to wavelengths between 30 centimeters and 1 millimeter. At the beginning they suspected that this radiation must originate either in the instrument or in the atmosphere; however, they showed that it came from outer space and that its intensity was the same in all directions. Furthermore, the detected cosmic microwave background radiation was emitted at a temperature of 3 degrees above absolute zero.
+
+***
 
 **In 2006:** awarded jointly to John C. Mather and George F. Smoot "for their discovery of the blackbody form and anisotropy of the cosmic microwave background radiation".
 
@@ -301,6 +309,8 @@ In this Section we describe the selected Physics Nobel Prizes in the same way as
 
 - The registered wavelengths of the microwave background were in the millimeter range and corresponded to a temperature of 2.725 K above absolute zero. Such measurements determined temperature fluctuations up to a precision of $10^{-5}$. These tiny variations in temperature could show where matter had started aggregating according to an anisotropic distribution of matter in the universe that might be attributed to quantum fluctuations and involving dark matter.
 
+***
+
 **In 2011:** divided, one half awarded to Saul Perlmutter, the other half jointly to Brian P. Schmidt and Adam G. Riess "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae".
 
 !!! tip "2011 Physics Nobel Prize awarded to Perlmutter, Schmidt, and Riess."
@@ -372,6 +382,8 @@ For almost a century, the Universe has been known to be expanding because of the
 - The two research teams of astronomers found over 50 distant supernovae whose light was weaker than expected. The dimmer its light, the farther away the star. They just wanted to locate distant stars and to measure how they move. They expected to find signs that the expansion of the Universe was slowing down. What they found was the opposite: the galaxies were rushing away from us and each other, and the farther away they were, the faster they moved. This was a sign that the expansion of the Universe was accelerating. 
 
 - Today, the cosmological constant instead appears to make the expansion of the Universe to accelerate. This increase in the expansion speed could be caused by the push produced by the dark energy that covers the entire universe by an estimated 70%.
+
+***
 
 **In 2019:** awarded "for contributions to our understanding of the evolution of the universe and Earth’s place in the cosmos" with one half to James Peebles "for theoretical discoveries in physical cosmology", the other half jointly to Michel Mayor and Didier Queloz "for the discovery of an exoplanet orbiting a solar-type star".
 
