@@ -286,6 +286,6 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. T
 
 ***
 
-[**Appendices.**](./vol-IV-chap-14-apendix.md) 
+[**Next: 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](./vol-IV-chap-15-sect-1.md)
 
 	
