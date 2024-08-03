@@ -351,7 +351,7 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 	PRIZE LECTURE: *Design‐based research in empirical microeconomics* by Card.
 
-	MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/
+	MLA style: David Card – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/card/lecture/>
 
 !!! tip "2021 Economic-sciences Nobel Prize awarded to Angrist and Imbens."
 
