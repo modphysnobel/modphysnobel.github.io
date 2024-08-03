@@ -264,24 +264,24 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 	NOBEL LECTURE: *A Forty Year Journey* by Genzel.
 
 	The following subtitles have been obtained from the Lecture:
-	
-  - Introduction
-  - A Forty Year Journey
-  - Prologue (1963-1971): Quasars & the Massive Black Hole Paradigm
-  - First Phase (1971-1991): SgrA* & Gas Motions
-  - After Phase 1 (1991)
-  - Second Phase (1992-1998): Motion of stars on 0.1pc scales with speckle & 3D-IFU techniques
-  - After Phase 2 (1998)
-  - Third Phase (2002-2017): Stellar orbits
-  - After Phase 3 (2017)
-  - After Phase 4 (2020)
+		
+	- Introduction
+	- A Forty Year Journey
+	- Prologue (1963-1971): Quasars & the Massive Black Hole Paradigm
+	- First Phase (1971-1991): SgrA* & Gas Motions
+	- After Phase 1 (1991)
+	- Second Phase (1992-1998): Motion of stars on 0.1pc scales with speckle & 3D-IFU techniques
+	- After Phase 2 (1998)
+	- Third Phase (2002-2017): Stellar orbits
+	- After Phase 3 (2017)
+	- After Phase 4 (2020)
 
 	MLA style: Reinhard Genzel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/lecture/
 
 	NOBEL LECTURE: *From the Possibility to the Certainty of a Supermassive Black Hole* by Ghez.
-	
+		
 	The following subtitles have been obtained from the Lecture:
-	
+		
 	- Introduction
 	- Dedicated speech
 	- How do we observe something
@@ -293,7 +293,7 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 	- Large telescopes
 	- Adaptive optics
 	- Spectroscopy
-
+  	
 	MLA style: Andrea Ghez – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/ghez/lecture/
 
 **PHYSICS CONTENT (based on *Press release* and *Popular information*).**
