@@ -127,11 +127,12 @@ Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the uni
     As a part of a demystification and rationalization process of the social life, the agora19 was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions. 
 
     Just for comparison, it is interesting to observe the presence of meeting regions in the following archeological sites: 
-      
+    
+    <center>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=300 align=center> 
-
+    
     Plan of Milet in the Classical period20, nearby 490 BC.
-                
+      
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=200 align=center> 
 
     Sun pyramid in Teotihuacan21, Mexico, nearby 450 AC.
@@ -149,7 +150,8 @@ Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the uni
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=420 align=center> 
 
-    Massada23 in Israel, nearby 20 BC                              
+    Massada23 in Israel, nearby 20 BC    
+    </center>                          
 
 For a broader treatment concerning conceptualization of spaces, see the following references: 
 
