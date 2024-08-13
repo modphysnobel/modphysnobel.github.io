@@ -165,7 +165,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
       <tr>
       <th width="50%" style="text-align: center">
       <figure markdown>
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8.PNG?raw=true"> 
+      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig8.PNG?raw=true"> 
       </figure>
       </th>
       <th width="50%" style="text-align: center">
