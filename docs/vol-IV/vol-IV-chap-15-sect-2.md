@@ -34,7 +34,7 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 	
 “During the past ten years, both Professor Frisch and Professor Tinbergen have devoted themselves primarily to long-term economic policy and planning, with a view particularly to the problems of the developing countries. Both have served as advisers in different contexts. In the rapid development of methods for long-term planning, our two laureates have made major contributions. Professor Tinbergen, for instance, with regard to systems of priorities in investments, and the use of “shadow prices”. Professor Frisch has developed decision models for economic planning, devising mathematical programming methods with a view to exploiting modern computer techniques.”
 
-NOBEL LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Ragnar Frisch.
+PRIZE LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Ragnar Frisch.
 
 MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/lecture/>
 
@@ -170,7 +170,7 @@ For simplicity let me first describe how to attack the problem for a given polit
 	
 7.7. The complementarity restrictions that may be associated with an equivalence ring.
 
-NOBEL LECTURE: *The Use of Models: Experience and Prospects* by Jan Tinbergen.
+PRIZE LECTURE: *The Use of Models: Experience and Prospects* by Jan Tinbergen.
 
 MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/>
 	
