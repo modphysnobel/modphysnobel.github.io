@@ -89,9 +89,6 @@ MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tu
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 14 Nov 2023. <https://www.nobelprize.org/prizes/economic-sciences/2021/advanced-information/>
 
-
-MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 14 Nov 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/
-
 MLA style: David Card – Prize presentation. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 14 Nov 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/card/prize-presentation/
 
 MLA style: Joshua D. Angrist – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 14 Nov 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/angrist/facts/
