@@ -143,9 +143,7 @@ Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the uni
 
     <!-- HTML Table 1.1.1-->
     <table width="100%">
-    <tr> 
     1.Snake Path gate/2. Rebel dwellings/3. Byzantine monastic cave/4. Eastern water cistern/    5. rebel dwellings/6. mikvah/ 7. Southern gate/8. Rebel dwellings/ 9. Southern water cistern/ 10. Southern fort/11. Swimming pool/12. Small palace/ 13. Round columbarium tower/14. Mosaic workshop/15. Small palace/16. Small palace/17. Stepped pool/ 18. Western Palace: service área/19. Western Palace: residential área/20. Western Palace: storerooms/21. Western Palace: administrative área/22. Tanners' tower/23. Western Byzantine gate/24. Columbarium towers/25. Synagogue/26. Byzantine church/27. Barracks/28. Northern complex: grand residence/29. Northern complex: quarry/30. Northern complex: commandant's headquarters/31. Northern complex: tower/32. Northern complex: administration building/33. Northern complex: gate/34. Northern complex: storerooms/35. Northern complex: bathhouse/36. Northern complex: water gate/37. Northern Palace: upper terrace/38. Northern Palace: middle terrace/39. Northern Palace: lower terrace.
-    </tr>
     </table>
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=420 align=center> 
