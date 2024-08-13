@@ -159,6 +159,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
 	- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
 	- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
   
+      <center>
       <!-- HTML Table 1.1.1-->
       <table width="100%">
       <tr>
@@ -168,7 +169,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
       </figure>
       </th>
       <th width="50%" style="text-align: center">
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9.PNG?raw=true"> 
+      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG?raw=true"> 
       </th>
       </tr>
       <tr>
@@ -180,6 +181,7 @@ As an example of diametral approaches for interpreting mathematical concepts and
       </td>
       </tr>
       </table>
+     	</center>
 
 	<center>
 	(Image credit: drawings made by the authors.)
