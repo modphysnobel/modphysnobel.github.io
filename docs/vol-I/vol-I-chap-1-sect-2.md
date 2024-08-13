@@ -44,7 +44,7 @@ Herodotus of Halicarnassus13 (484 BC- 425 BC) mentioned that when the dictator P
       </td>
       </tr>
       </table>
-	</center>
+	
 
 
 <center>
