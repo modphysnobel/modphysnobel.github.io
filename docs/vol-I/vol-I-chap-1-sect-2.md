@@ -22,7 +22,7 @@ Vernant considered how the evolution of ancient Greek society generated two kind
 When Greek cities were built (*the polis*) writing was used as a transforming instrument that made public private issues. Probably it was Pherecydes of Syros12 (580 BC – 520 BC) the first writer to publish a philosophical work in prose. He wrote books for transforming private knowledges into public possibilities for discussion.
 Herodotus of Halicarnassus13 (484 BC- 425 BC) mentioned that when the dictator Polycrates of Samos died, his successor asked all the citizens to meet in an assembly and informed them that he will behave in a democratic way in total disagreement with his predecessor
 
-
+<center>
  <!-- HTML Table 1.1.1-->
   <table width="100%">
     <tr>
@@ -44,6 +44,8 @@ Herodotus of Halicarnassus13 (484 BC- 425 BC) mentioned that when the dictator P
       </td>
       </tr>
       </table>
+	</center>
+
 
 <center>
 	(Image credit: CC Wikimedia Commons.)
@@ -54,7 +56,7 @@ Homer14 (VIII century) wrote in Odyssey (chant II) that Telemachus, son of Ulyss
 
 One of the first urban architects Hippodamus of Miletus15 (498 BC- 408 BC) rebuild Miletus around 479 BC. The city was sacked and destroyed by Persians in 490 BC. The map made by Hippodamus shows an ordered reticular structure having an agora as its center with broader and straight streets.
 
-
+<center>
  <!-- HTML Table 1.1.1-->
   <table width="100%">
     <tr>
@@ -76,6 +78,8 @@ One of the first urban architects Hippodamus of Miletus15 (498 BC- 408 BC) rebui
       </td>
       </tr>
       </table>
+	</center>
+
 
 <center>
 	(Image credit: CC Wikimedia Commons.)
@@ -89,6 +93,7 @@ Hesiod of Askra17, Thebes (nearby 800 BC) wrote a Theogony, a mythological treat
 
 Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the universe whose center contained the Earth as a cylindrical column at equilibrium, stagnant and without falling. This was a democratic conceptualization of space were all positions and distances were mathematically defined.
  
+<center>
  <!-- HTML Table 1.1.1-->
   <table width="100%">
     <tr>
@@ -110,13 +115,14 @@ Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the uni
       </td>
       </tr>
       </table>
+	</center>
+
 
 <center>
 	(Image credit: CC Wikimedia Commons. The image of Anaximander corresponds to a detail of Raphael’s painting in The school of Athens.) 
 	</center>
 
 !!! question "The agora."
-
   As a part of a demystification and rationalization process of the social life, the agora19 was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions. 
 
   Just for comparison, it is interesting to observe the presence of meeting regions in the following archeological sites: 
