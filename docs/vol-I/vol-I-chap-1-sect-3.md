@@ -20,8 +20,6 @@ Context learning is important in organizing knowledge for what is thought and le
 
 3. Propose **learning and evaluating activities** for answering these questions.
 
-**Context of Archimedes´solution to the golden crown problem.**
-
 ### Context of Archimedes´solution to the golden crown problem.
 
 - Next, we present an application of the context learning procedure to the buoyancy problem of the golden crown proposed to Archimedes by King Hiero of Syracuse24. A possible path of the solution, not necessarily the one implemented by Archimedes, will be considered both as a dictatorial or as a democratic conceptualization. In this case, the components of the corresponding learning context are the following:
