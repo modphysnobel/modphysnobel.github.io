@@ -78,7 +78,7 @@ One of the first urban architects Hippodamus of Miletus15 (498 BC- 408 BC) rebui
       </td>
       </tr>
       </table>
-	</center>
+	
 
 
 <center>
@@ -115,7 +115,7 @@ Anaximander of Miletus18, Ionia, (619 – 546) had a spherical notion of the uni
       </td>
       </tr>
       </table>
-	</center>
+	
 
 
 <center>
