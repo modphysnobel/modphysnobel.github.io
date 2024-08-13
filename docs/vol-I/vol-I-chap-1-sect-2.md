@@ -177,10 +177,7 @@ MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2.png?raw=true" width=300 align=center> 
 	</p>
-	
-<center>
-(Images credit: CC Wikimedia Commons)
-</center>
+
 
 
 
@@ -199,9 +196,6 @@ MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Table%201.3.jpg?raw=true" width=300 align=center> 
 	</p>
 	
-<center>
-(Images credit: CC Wikimedia Commons)
-</center>
 
 ***
 
