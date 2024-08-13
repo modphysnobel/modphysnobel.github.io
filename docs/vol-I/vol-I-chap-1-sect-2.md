@@ -168,9 +168,34 @@ NOBEL LECTURE: Exclusion Principle and Quantum Mechanic by Pauli.
 
 MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/
 
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2.png?raw=true" width=300 align=center> 
+	</p>
+	
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
 
 
 
+#### 1954 Physics Nobel Prize awarded to Born.
+
+WORK: "In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. Following Werner Heisenberg’s initial work around 1925, Max Born contributed to the further development of quantum mechanics. He also proved that Schrödinger’s wave equation could be interpreted as giving statistical (rather than exact) predictions of variables."
+
+MLA style: Max Born – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023.
+https://www.nobelprize.org/prizes/physics/1954/born/facts/
+
+NOBEL LECTURE: The Statistical Interpretations of Quantum Mechanics by Born.
+
+MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. https://www.nobelprize.org/prizes/physics/1954/born/lecture/
+
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Table%201.3.jpg?raw=true" width=300 align=center> 
+	</p>
+	
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
 
 ***
 
