@@ -106,7 +106,7 @@ $Anaximander$ $of$ $Miletus^{18}$, Ionia, (619 – 546) had a spherical notion o
     
     $Plan$ $of$ $Milet$ $in$ $the$ $Classical$ $period^{20}$, nearby 490 BC.
       
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=420 align=center> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=380 align=center> 
 
     $Sun$ $pyramid$ $in$ $Teotihuacan^{21}$, Mexico, nearby 450 AC.
               
