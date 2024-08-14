@@ -5,11 +5,11 @@
 
 ***
 
-## 1.3.  **Contexts learning for conceptualizing cognitive spaces**.
+## **1.3. Contexts learning for conceptualizing cognitive spaces**.
 
 In this section we deal with the procedure named *Context learning for conceptualizing cognitive spaces*. The word context,(*contexto* in Spanish), comes from Latin *contextus*, derived from the verb *téxere*, to knitt (*tejer* in Spanish). Playing with the words *con-texto* is what comes with the text. In connection to writings, and not to textiles, it means the conducting threads that communicate sense and meaning in written texts. It refers to material, human, and social conditions framing the generation of products or services.
 
-NOTE. Context learning can be related but do not correspond exactly to contextual learning or to Context-based learning.
+NOTE. Context learning can be related but do not correspond neither to contextual learning nor to Context-based learning.
 
 Context learning is important in organizing knowledge for what is thought and learnt. It implies both the conceptual structure of the subject matter and the operational criteria for managing contents, procedures, and resources. Context learning is a practical procedure for describing cognitive spaces by exploring problematic situations, analyzing leading questions and performing learning and evaluation activities. Then, the following are the steps required in context learning:
 
@@ -20,9 +20,9 @@ Context learning is important in organizing knowledge for what is thought and le
 
 3. Propose **learning and evaluating activities** for answering these questions.
 
-### Context of Archimedes´solution to the golden crown problem.
+### **Context of Archimedes´solution to the golden crown problem.**
 
-- Next, we present an application of the context learning procedure to the buoyancy problem of the golden crown proposed to Archimedes by King Hiero of Syracuse24. A possible path of the solution, not necessarily the one implemented by Archimedes, will be considered both as a dictatorial or as a democratic conceptualization. In this case, the components of the corresponding learning context are the following:
+- Next, we present an application of the context learning procedure to the buoyancy problem of the golden crown proposed to Archimedes by $King$ $Hiero$ $of$ $Syracuse^{24}$. A possible path of the solution, not necessarily the one implemented by Archimedes, will be considered both as a dictatorial or as a democratic conceptualization. In this case, the components of the corresponding learning context are the following:
 
 - The following **leading questions** might had asked by Archimedes himself to answer the king´s suspicion: If the finished crown and the original block of gold weight the same but the crown is made of silver and not of gold, how much different the volume of a golden crown will be from the volume of a silver crown? How can I determine the volume of the probable falsified crown? 
 
@@ -44,7 +44,7 @@ Archimedes experimental procedures could be considered as being democratic if he
 
 The approach to the experiment could be dictatorial in the sense that he referred to the particular result of applying Archimedes’ principle where the buoyant force will depend on the submerged volume of the crown under the assumption that this condition must be different for different materials if they did not have the same density.
 
-### What can we assume Archimedes was able to do?
+### **What can we assume Archimedes was able to do?**
 
 It is possible that Archimedes was involved in the following activities: he weighted the finished crown and took a block of gold of the same weight; therefore, they had the same mass. He knew that the density of a golden crown will be higher than the density of a silver crown. Then, a crown made of gold will occupy a lesser volume than a crown made of silver.
 
@@ -63,7 +63,7 @@ For a more detailed description, see Archimedes and the Golden Crown, by Rohini 
 
 ***
 
-### REFERENCES
+### **REFERENCES**
  
 BERNAL, J. D., Science in History. Cambridge, Massachusetts, MIT Press, (1954).<br>
 DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simon and Schuster, (1966).<br>
