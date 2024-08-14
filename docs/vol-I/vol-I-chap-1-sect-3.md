@@ -5,7 +5,7 @@
 
 ***
 
-## 1.3.  Contexts learning for conceptualizing cognitive spaces.
+## 1.3.  **Contexts learning for conceptualizing cognitive spaces**.
 
 In this section we deal with the procedure named *Context learning for conceptualizing cognitive spaces*. The word context,(*contexto* in Spanish), comes from Latin *contextus*, derived from the verb *téxere*, to knitt (*tejer* in Spanish). Playing with the words *con-texto* is what comes with the text. In connection to writings, and not to textiles, it means the conducting threads that communicate sense and meaning in written texts. It refers to material, human, and social conditions framing the generation of products or services.
 
