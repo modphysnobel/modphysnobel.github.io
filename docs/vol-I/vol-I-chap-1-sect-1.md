@@ -20,22 +20,22 @@ After this Chapter you should be able to:
 
 Section 1.1. Mathematics and science in ancient Greece.
 
-We consider early Greek contributions to mathematics and science, in particular some works made by $Archimedes of Syracuse^1$. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying the theorem by Pythagoras of Samos2.
+We consider early Greek contributions to mathematics and science, in particular some works made by $Archimedes$ $of$ $Syracuse^1$. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying the theorem by $Pythagoras$ $of$ $Samos^2$.
 
 Section 1.2. Conceptualizations of spaces and quantum statistics.
 
 We explain two ancient Greek conceptualizations concerning dictatorial or democratic approaches for building circular spaces in family life and community and for using the concept of circularity in the definition of astronomical spaces.
 
-The same two conceptualizations of space are applied in a different context: the notion of quantum statistics in Physics. Elementary particles are classified as belonging to different families: fermions like electrons obey the exclusion principle according to a sort of dictatorial conceptualization and bosons like photons show condensation according to a sort of democratic conceptualization. We consider Nobel Lectures by Wolfgang Pauli3 (1945 Prize) and Max Born4 (1954 Prize), awarded for their contributions to the development of quantum statistics.
+The same two conceptualizations of space are applied in a different context: the notion of quantum statistics in Physics. Elementary particles are classified as belonging to different families: fermions like electrons obey the exclusion principle according to a sort of dictatorial conceptualization and bosons like photons show condensation according to a sort of democratic conceptualization. We consider Nobel Lectures by $Wolfgang$ $Pauli^3$ (1945 Prize) and $Max$ $Born^4$ (1954 Prize), awarded for their contributions to the development of quantum statistics.
 
 Section 1.3. Context learning for conceptualizing cognitive spaces.
 
-We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by King Hiero of Syracuse5. Context learning requires three steps: exploring problematic situations, analyzing leading questions, and performing learning and evaluation activities.
+We apply the procedure *Context learning for conceptualizing cognitive spaces* to the description of the solution proposed by Archimedes to the problem of the golden crown asked by $King$ $Hiero$ $of$ $Syracuse^5$. Context learning requires three steps: exploring problematic situations, analyzing leading questions, and performing learning and evaluation activities.
 
 
 ## **1.1.	Mathematics and science in ancient Greece.**
 
-According to John D. Bernal6 (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
+According to $John$ $D.$ $Bernal^6$ (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
 <table width="100%">
 <tbody>
@@ -103,7 +103,7 @@ Principal social and cultural events as well as relevant contributions to mathem
 
 ### **Archimedes.**
 
-The most outstanding scientist in ancient Greece is without any doubt Archimedes7. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city. His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid.
+The most outstanding scientist in ancient Greece is without any doubt $Archimedes^7$. Archimedes name means in Greek “superior mind”. He was born in Syracuse in 287 B.C and died in 212 B.C. when a roman soldier killed him during the assault to the city. His father was the astronomer Pheidias. Archimedes studied in Alexandria under the successors of Euclid.
 
 According to Durant (1966), the ten Archimedes´ books that survived had the following purposes:
 	
@@ -127,7 +127,7 @@ According to Durant (1966), the ten Archimedes´ books that survived had the fol
 	
 10. *On Floating Bodies*: to find the position of equilibrium of a floating body. 
 
-To calculate Archimedes made a kind of mental experiments (thought_experiments8) by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”*.
+To calculate Archimedes made a kind of mental experiments ($thought$_$experiments^8$) by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”*.
 
 Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2).
 
@@ -145,7 +145,7 @@ Archimedes had great mechanical skills for designing and building machines while
 
 ### **Dictatorial and democratic approaches in mathematical reasoning.**
 
-Mathematics9 is a language for explaining nature, a way of thinking for doing science and a practical instrument for solving problems. We might teach by imposing rules of thinking and presenting solutions to problems according to prescribed procedures or we start by understanding what the students know and then build concepts and answer questions.
+$Mathematics^9$ is a language for explaining nature, a way of thinking for doing science and a practical instrument for solving problems. We might teach by imposing rules of thinking and presenting solutions to problems according to prescribed procedures or we start by understanding what the students know and then build concepts and answer questions.
 
 As an example of diametral approaches for interpreting mathematical concepts and procedures let us consider two possibilities for explaining the meaning of the equation of a circumference: (1) in a *dictatorial* approach all the distances between the center and any point in the curve must be a constant, and (2) in a *democratic* approach all the points in a circumference are at equal distances to the center. Dictatorial approaches are repulsive, restrictive, centrifugal and go from the center to the periphery. Democratic approaches are attractive, liberating, centripetal and go from the periphery to the center.  
 
@@ -171,14 +171,6 @@ As an example of diametral approaches for interpreting mathematical concepts and
       <th width="50%" style="text-align: center">
       <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG?raw=true"> 
       </th>
-      </tr>
-      <tr>
-      <td style="text-align: center">
-      (a)
-      </td>
-      <td style="text-align: center">
-      (b)
-      </td>
       </tr>
       </table>
      	</center>
