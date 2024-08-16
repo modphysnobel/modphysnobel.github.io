@@ -6,47 +6,42 @@
 ***
 
 
-## 2. Production and control of electronic motions. 
+## **2. Production and control of electronic motions.** 
 
-!!! abstract "Introduction."
-	*What are the main characteristics of the electron?*
+*What are the main characteristics of the electron?*
 
-	This Chapter deals with the principal characteristics of electronic motions under different experimental conditions; it concerns their production, detection, representation, and interpretations.
+This Chapter deals with the principal characteristics of electronic motions under different experimental conditions; it concerns their production, detection, representation, and interpretations.
 
-	**Learning objectives of Chapter 2.**
+### **Learning objectives of Chapter 2.**
 
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	* Explain what happens on different interaction regions in experiments realized for the  determination of electronic properties at the beginning of last century.
-	* Describe the Nobel Lectures presented by Thomson, Millikan, Franck, Hertz, and Compton in terms of the accepted knowledge or questions under discussion in laureates’ times and the personal contributions or explanations made by the laureates.
-	* Identify the knowledge domains (factual, analytic, conceptual, and operational) that have been applied for understanding experiments for the calculation of electronic properties and the description of interactions of radiation with electrons.
+- Explain what happens on different interaction regions in experiments realized at the beginning of last century for the determination of electronic properties.
+- Describe the Nobel Lectures presented by Thomson, Millikan, Franck, Hertz, and Compton in terms of the accepted knowledge or questions under discussion in laureates’ times and the personal contributions or explanations made by the laureates.
+- Identify the knowledge domains (factual, analytic, conceptual, and operational) that have been applied for understanding experiments realized for the calculation of electronic properties and the description of interactions of radiation with electrons.
 
-!!! abstract "Description of content of Chapter 2."
+### **Description of content of Chapter 2.**
 
-	**Section 2.1. Regions for doing experiments.**
+Section 2.1. Regions for doing experiments.
 
-	We quote Richard Feynman who explains what Physics is about and what are the rules for applying the scientific method. Then we describe the regions required in experimental activities: *preparation* when the physical system is organized according to some initial conditions; *transformation* when specific interactions are produced, observed and represented, and finally, *detection and measurement* when results of those interactions are quantified and interpreted.
+We analyze the three regions required in experimental activities (preparation, transformation and detection and measurement) and describe them in the experiments performed by Joseph John Thomson (quantization of the electron mass and in four experiments determination of its relation charge/mass), by Robert Andrews Millikan (quantization of the electron charge), by James Franck and Gustav Ludwig Hertz (quantization of the electron energy levels) and by Arthur Holly Compton (a relativistic collision of electrons with incoming photons).
 
-	We analyze what are those three regions in four experiments characterizing critical properties of the electron: the experiments performed by Joseph John Thomson (quantization of the electron mass and determination of its relation charge/mass), by Robert Andrews Millikan (quantization of the electron charge), by James Franck and Gustav Ludwig Hertz (quantization of the electron energy levels) and by Arthur Holly Compton (a relativistic collision of an electron with an incoming photon).
+Section 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.
 
-	**Section 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**
+We comment on the Nobel Prizes for the physicists who were awarded in the following years:
 
-	We comment on the Physics Nobel Prizes awarded to the physicists previously mentioned:
+- in 1906 to $J.J.$ $Thomson^1$ “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”,
+- in 1923 to $R.A.$ $Millikan^2$ “for his work on the elementary charge of electricity and on the photoelectric effect”,
+- in 1925 to $J.$ $Franck^3$ and $G.K.$ $Hertz^4$ “for their discovery of the laws governing the impact of an electron upon an atom”,
+- in 1927 to $A.H.$ $Compton^5$ “for his discovery of the effect named after him”.
 
-	- J.J. Thomson in 1906 “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”, 
-	- R.A. Millikan in 1923 “for his work on the elementary charge of electricity and on the photoelectric effect”, 
-	- J. Franck and G.K. Hertz in 1925 “for their discovery of the laws governing the impact of an electron upon an atom”, 
-	- A.H. Compton in 1927 “for his discovery of the effect named after him”.
+Section 2.3. Knowledge domains for understanding.
 
-	**Section 2.3. Knowledge domains for understanding.**
+The four knowledge domains (Factual, Analytic, Conceptual, and Operational) serve to identify and classify the knowledge contained in two types of Nobel Prize documents: WORKS that describes the main contributions of each laureate and their Nobel Lectures.  Such knowledge is summarized in two tables related to the calculation of electronic properties (experiments made by Thomson and Millikan) and to the description of electronic interactions (experiments made by Franck-Hertz, and Compton).
 
-	We present the procedure *Knowledge domains for understanding* and apply it to the analysis of two types of Nobel Prize documents: WORKS that describes the main contributions of each laureate and their Nobel Lectures. The four knowledge domains (Factual, Analytic, Conceptual, and Operational) serve to identify and classify the knowledge contained in the information obtained from the previously mentioned documents. Such knowledge is synthetically summarized in two tables related to the following aspects: Table 2.1 is for the calculation of electronic properties (experiments made by Thomson and Millikan) and Table 2.2 is for the description of electronic interactions (experiments made by Franck-Hertz, and Compton).
+## **2.1. Regions for doing experiments.**
 
-## 2.1. Regions for doing experiments.
-
-### Rules of the game to understand nature.
-
-According to Richard Feynman (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
+According to $Richard$ $Feynman^6$ (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
 1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.
 
@@ -54,25 +49,17 @@ According to Richard Feynman (1963), Physics deals with the nature of things as 
 
 3)	To make approximations to complex and diverse difficulties: to split, to classify and to simplify for understanding as much as possible with the minimum of requirements.
 
-### Interacting regions of the experimental setting.
+Experimenting requires concrete questions to be asked to nature and solved by human interactions with apparatuses and devices. The physicists ask questions and make plans to prepare scenarios for obtaining answers: the experimental settings. Those are the conditions where the interactions with nature begin to produce, control, and detect what will be observed, measured, registered, and interpreted. Data will be obtained, and conceptual relationships will be tested, changed, or formulated under specific conditions. This might imply new descriptions, predictions, calculations or explanations of concepts, models, laws, or theories. 
 
-Experimenting requires concrete questions to be asked to nature and solved by human interactions with apparatuses and devices. The physicists ask questions and make plans to prepare scenarios for obtaining answers: the experimental settings. Those are the conditions where the interactions with nature begin to produce, control, and detect what will be observed, measured, registered, and interpreted. Data will be obtained, and conceptual relationships will be tested, changed, or formulated under new conditions or for the first time. This might imply new descriptions, predictions, calculations or explanations of concepts, models, laws, or theories. This is the way for learning Physics.
+To perform an experiment implies to arrange the experimental setting into three regions where physical interactions are generated: the input region of Preparation where the physical system is organized according to some initial conditions, the production region of Transformation where the specific interactions are produced, and the outcome region of Detection and Measurement where results of those interactions are observed, quantified, represented and interpreted. Sometimes the borderlines between these regions are not sharp nor well defined; however, they must represent in appropriate and sufficient manners the assumptions and intentions of the experimenter.
 
-To perform an experiment implies to arrange the experimental setting into three regions where physical interactions are produced: the input region of Preparation, the production region of Transformation and the outcome region of Detection and Measurement. Sometimes the borderlines between these regions are not sharp nor well defined; however, the corresponding assumptions and intentions must be clear to the experimenter. 
+In the input region the system is prepared under controlled situations that correspond to given values of a set of parameters and variables describing the structure of the system and their external requirements; these are the initial conditions of the experiment. Then it comes the crucial part of the experiment, the production region where interactions with external fields or other kind of agents modify the initial conditions producing effects to be observed and measured. The final region is for Detection and Measurement where some form of mathematical representation, mostly algebraic or geometric, will serve to express or validate physical interpretations. Observations and measurements must lead to understanding. It has been said that “all experiments are charged of theory”: they are conceptualized according to what is known and unknown. 
 
-In the input region the system is prepared under controlled situations that correspond to given values of a set of parameters and variables describing the structure of the system and their external conditions; these are the initial conditions of the experiment.
+At the beginning of past century four revolutionary experiments generated new ideas and opened the access to unexpected windows for understanding what an electron is. Those were the experiments performed by Thomson, Millikan, Franck-Hertz and Compton.
 
-Then it comes the crucial part of the experiment, the production region where interactions with external fields or other kind of agents modify the initial conditions producing effects to be observed and measured. The experimentalist might be required to explain what seems to be new or in contradiction with what could be expected and needs to be corrected or disregarded. Observations and measurements must lead to understanding.
-	
-It is in such region of Transformation that the experimentalists play with the variables producing significative physical effects and the initial conditions are transformed with the purpose of exploring and evaluating.in order to answer the questions previously asked. It has been said that “all experiments are charged of theory”: they are conceptualized according to what is known and unknown.
+### **Experiments made by Thomson for discovering the electron.**
 
-The final region is where Detection and Measurement are accomplished having in mind some form of mathematical representation, mostly algebraic or geometric, leading to propose or validate physical interpretations. Certain experiments work in the domain of what is understood but require a clear comprehension of procedures under different conditions. Other experiments change everything.
-
-At the beginning of past century four revolutionary experiments generated new ideas and opened the access to unexpected windows for understanding what an electron is. Those were the experiments performed by Thomson, Millikan, Franck-Hertz and Compton. 
-
-### Experiments made by Thomson for discovering the electron.
-
-Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in the journal *Philosophical Magazine*, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original one taken from Thomson´s paper.
+Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled Cathode Rays, published in Philosophical Magazine, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original drawing made by $Thomson^7$.
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
@@ -82,8 +69,6 @@ Thomson performed a sequence of three types of experiments: the first type for a
 <center>
 (Image credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)	
 </center>
-
-
 
 **Figure 2.1.** Apparatus used by Thomson. (The vertical bars in blue indicate the borders separating the three regions for performing the experiment.)
 	
@@ -97,13 +82,13 @@ In Figure 2.1 the letters indicate the following variables:
 
 * _$\theta$_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
 
-The region of **Preparation** consisted in a vacuum tube containing a negative cathode (_C_), a positive anode (_A_) and a slit (_S_): when _C_ is heated, a radiation is emitted, attracted by _A_ and collimated trough _S_. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
+The region of **Preparation** (in blue) consisted in a vacuum tube containing a negative cathode ($C$), a positive anode ($A$) and a slit ($S$). When C is heated, a radiation is emitted, attracted by $A$ and collimated trough $S$. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
 
-The region of **Transformation** corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$. is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
+The region of **Transformation** (in green) corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$ is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
 
 Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
 
-The region for **Detection and Measurement** is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $\theta$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(\theta) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(\theta) = l/s$ it can be obtained $\tan(\theta) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$, the intensity of the electric field E and the initial velocity $v_0$.
+The region for **Detection and Measurement** (in red) is active when the electron leaves the condenser and arrives at the screen. To calculate the angle of deflection $\theta$ when the particle leaves the condenser at $x = d$ we must calculate the derivative of the parabola $(dy/dx)$ at that point  $\tan(\theta) = \frac{dy}{dx} =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(2x)=\frac{qEx}{m{v_0}^2}$. Then, using the result $\tan(\theta) = l/s$ it can be obtained $\tan(\theta) =(\frac{qEd}{mv_0 ^2})=\frac{l}{s}$. This equation indicates that the relation $q/m$ could be calculated if we knew the values of the distances $d$, $l$ and $s$ are known, as well as the intensity of the electric field $E$ and the initial velocity $v_0$.
 
 To calculate $v_0$ Thomson performed the third type of experiment: in the transformation region he applied a second external field, a magnetic field **B** in a direction perpendicular to **E**. He made equal the magnitudes of these forces: $F_{magnetic} = qv_0 B = F_{\mathrm{electric}} = qE$ from which $v_0 = E/B$. Replacing this value into the equation $(\frac{qEd}{mv_0 ^2}) = \frac{l}{s}$ we get 
 
@@ -111,46 +96,24 @@ $$
 	\frac{q}{m}=\frac{El}{B^2ds}
 $$
 
-It is interesting to observe that in this equation the ratio of two very small and unknown quantities (_q/m_) can be calculated by measuring three distances (_l_, _s_ and _d_) and the intensity of two fields (_E_ and _B_). These experiments made possible to change a very difficult question into a feasible and relevant procedure.   
+It is interesting to observe that in this equation the ratio of two very small and unknown quantities (_q/m_) can be calculated by measuring three distances (_l_, _s_ and _d_) and the intensity of two fields (_E_ and _B_). These experiments made possible to change a very difficult question concerning the existence of the electron into a feasible and relevant procedure to measure some of its properties.
 
-### Measurement of the elementary electric charge of the electron by Millikan.
+### **Measurement of the elementary electric charge of the electron by Millikan.**
 
-Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 – 1981) were looking for a procedure for determining the value of the charge of an electron. They were experimenting first with drops of water and after with drops of oil. Their experimental setting is described in what follows and illustrated in Figures 2.2a and 2.2b. 
+These experiments made possible to change a very difficult question concerning the existence of the electron into a feasible and relevant procedure to measure some of its properties.
 
-<!-- HTML Table 1.1.1-->
-<table width="100%">
-	<tr>
-	<th width="50%" style="text-align: center">
-	<figure markdown>
-	 <img width="999" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9b.PNG?raw=true"> 
-	</figure>
-	</th>
-	<th width="50%" style="text-align: center">
-	 <img width="150" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9c.PNG?raw=true"> 
-	</th>
-	</tr>
-	<tr>
-	<td style="text-align: center">
-  	(a)
-	</td>
-	<td style="text-align: center">
-	(b)
-	</td>
-	</tr>
-	</table>
+<center>
+<img width="999" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9b.PNG?raw=true"> 
+</center>	
 
 <center>
 	(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 	</center>
 	
 
-**Figure 2.2.** Setting for the oil-drop experiment (a) and amplified view of a drop inside the microscope (b). Here, in (Figure 2.2a)the Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
+**Figure 2.2.** Setting of $Millikan’s_oil-drop_experiment^8$. The Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
-In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber.
-
-In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up.
-
-In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
+In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber. In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up. In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
 
 Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{\mathrm{gravity}} = mg$), the viscous drag force ($F_{\mathrm{viscosity}}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm{electric field}} = qE$ exerted by the external field _E_. 
 
@@ -160,13 +123,19 @@ However, when the external field is not zero the net force $F_{\mathrm{viscosity
 
 The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope. Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
 
-### Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz.
+### **Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz.** 
 
 Spectral lines are observed in atoms because certain transitions between electronic discrete energy levels are produced. Is this a consequence of the emission or absorption of photons or is it a quantized property that electrons have by themselves?
 
-In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. They determined the separation between electronic energy levels in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. According to this model the quantized energy levels were mere hypothesis but not experimentally proved facts. 
+In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. Franck and Hertz determined the $separation$ $between$ $electronic$ $energy$ $levels^9$ in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. 
 
-The experimental setting used by Franck and Heertz is described in terms of the usual three regions: Preparation (in blue), Transformation (in green) and Detection and Measurement (in red). (Figure 2.3a). 
+The experimental setting used by Franck and Hertz is described in terms of the usual three regions (Figure 3.3a): 
+
+The region of **Preparation** contains a triode with a heated filament (_F_) for emitting electrons (<img width="999" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9b.PNG?raw=true">), a negative cathode (_C_), a collecting anode (_A_) and in between them a polarized grid (_G_).
+
+The region of **Transformation** is the space surrounding _F_ and _G_ filled with atoms of Mercury vapor. An external variable potential (_V_) accelerates the electrons from _F_ towards _G_ provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between _G_ and _A_.
+
+The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at _A_ after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
 
 <!-- HTML Table 1.1.1-->
 <table width="100%">
@@ -197,12 +166,6 @@ The experimental setting used by Franck and Heertz is described in terms of the 
 	</center>
 
 **Figure 2.3.** Apparatus used by Franck-Hertz (a) and a sample of their results (b).
-
-The region of **Preparation** contains a triode with a heated filament (_F_) for emitting electrons, a negative cathode (_C_), a collecting anode (_A_) and in between them a polarized grid (_G_).
-
-The region of **Transformation** is the space surrounding _F_ and _G_ filled with atoms of Mercury vapor. An external variable potential (_V_) accelerates the electrons from _F_ towards _G_ provoking multiple collisions with electrons belonging to Mercury atoms. Besides a small retarding potential $V_R$ was applied between _G_ and _A_.
-
-The region of **Detection and Measuremet** consisted in an external galvanometer (GALV) to register the variations of the intensity of the current I generated by those electrons that arrived at _A_ after colliding with the electrons inside the atoms. In order to be detected by the galvanometer, the excited electrons must have a kinetic energy higher than $V_R$.
 
 In normal conditions an atom has its electrons in their lowest energy state; they go to a higher energy level when they receive extra energy for their excitation. Franck and Hertz accomplished this effect by generating inelastic collisions between two types of electrons: the external electrons produced by the filament F that have been accelerated by the potential V and the internal electrons belonging to the atoms of Mercury contained inside the triode. Franck and Hertz changed the accelerating voltage (_V_) and then measured in the galvanometer the intensity of the current (_I_) produced by those electrons that arrived at the anode A (Figure 2.3b). 
 
