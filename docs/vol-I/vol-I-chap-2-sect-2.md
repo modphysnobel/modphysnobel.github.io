@@ -4,7 +4,7 @@
 
 ***
 
-## 2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.
+## **2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**
 
 In what follows, we consider two kinds of documents that are available in the web page of the Nobel Foundation: a document called WORK that explains in a very synthetic form the reasons for awarding the Physics Nobel Prize to Thomson, Millikan, Franck, Hertz and Condon, and their corresponding Nobel Lectures. All the documents include their references in MLA format.  When the Nobel Lecture contains subtitles, they are mentioned after the title of the Lecture. As the first document is fully quoted, quotation marks are used. The second document is described in a two columns table: the first column refers to *Accepted knowledge or questions under discussion in laureate´s time* and the second column concerns the *Laureate´s contributions or explanations*. 
 
