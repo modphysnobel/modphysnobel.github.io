@@ -12,7 +12,7 @@ Reading information and understanding the knowledge it conveys is a meaningful p
 
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.6.PNG?raw=true"> 
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-3-Fig1.PNG?raw=true"> 
 </p>
 
 In this Section 2.3, the three regions considered in the experiments previously discussed in the Chapter (Preparation, Transformation and Detection and Measurement) are related in the following way to the four described knowledge domains: the Preparation region involves the Factual and Analytic knowledge domains, the Transformation region refers to the Analytic and Conceptual knowledge domains, and the Detection and Measurement region concerns the Conceptual and Operational domains.
@@ -21,12 +21,11 @@ The knowledge obtained from analyzing the information described previously in Se
 
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.1.jpg?raw=true"> 
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.6.PNG?raw=true"> 
 </p>
 
-
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2.2.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.7.PNG?raw=true"> 
 </p>
 
 
