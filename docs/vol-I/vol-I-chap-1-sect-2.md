@@ -143,7 +143,7 @@ NOBEL LECTURE: Exclusion Principle and Quantum Mechanic by Pauli.
 MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2.png?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2bis.PNG?raw=true" width=480 align=center> 
 	</p>
 
 #### **1954 Physics Nobel Prize awarded to Born.**
