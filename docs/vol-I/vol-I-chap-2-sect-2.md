@@ -24,6 +24,9 @@ NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
 
 MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 13 Apr 2024. https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/
 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
 
 ### **1923 Physics Nobel Prize awarded to Millikan.**
 	
@@ -35,6 +38,9 @@ NOBEL LECTURE: *The Electron and the Light-Quant from the Experimental Point of 
 
 MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/>
  
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
 
 ### **1925 Physics Nobel Prize awarded to Franck.**
 	
@@ -46,6 +52,10 @@ NOBEL LECTURE: *Transformation of Kinetic Energy of Free Electrons into Excitati
 
 MLA style: James Franck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 3 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/lecture/>
 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
+
 ### **1925 Physics Nobel Prize awarded to Hertz.**
 
 WORK: "After the publication of Niels Bohr’s theory on the structure of the atom, Gustav Hertz (1987-1975) and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Bohr’s theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons’ mobility until, at a certain energy level, bound electrons jumped to a higher-energy orbit instead."	
@@ -56,6 +66,9 @@ NOBEL LECTURE: *The Results of the Electron-Impact Tests in the Light of Bohr’
 
 MLA style: Gustav Hertz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
 
 ### **1927 Physics Nobel Prize awarded to Compton.**
 
@@ -70,6 +83,10 @@ NOBEL LECTURE: *X-rays as a Branch of Optics* by Compton.
 - The scattering of X-rays and light
 
 MLA style: Arthur H. Compton – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1927/compton/lecture/>
+
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
+</p>
 
 *** 
 
