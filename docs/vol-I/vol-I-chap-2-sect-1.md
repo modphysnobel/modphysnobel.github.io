@@ -59,7 +59,7 @@ At the beginning of past century four revolutionary experiments generated new id
 
 ### **Experiments made by Thomson for discovering the electron.**
 
-Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled Cathode Rays, published in Philosophical Magazine, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original drawing made by $Thomson^7$.
+Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in Philosophical Magazine, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original drawing made by $Thomson^7$.
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
@@ -82,9 +82,9 @@ In Figure 2.1 the letters indicate the following variables:
 
 * _$\theta$_ is the angle indicating the deviation of the trajectories followed by the electron between the arrival position without external field and the arrival position with the electric field. This deflection angle $\theta$ is such that $\tan(\theta) = l/s$.
 
-The region of **Preparation** (in blue) consisted in a vacuum tube containing a negative cathode ($C$), a positive anode ($A$) and a slit ($S$). When C is heated, a radiation is emitted, attracted by $A$ and collimated trough $S$. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates _D_ and _E_.
+The region of **Preparation** (in blue) consisted in a vacuum tube containing a negative cathode ($C$), a positive anode ($A$) and a slit ($S$). When $C$ is heated, a radiation is emitted, attracted by $A$ and collimated trough $S$. The initial conditions are the following: a particle of mass $m$ and charge $q$ leaves the cathode and arrives at the condenser with a horizontal velocity $v_{horizontal} = v_0$ in a direction parallel to the plates $D$ and $E$.
 
-The region of **Transformation** (in green) corresponds to the inside of two charged metallic plates of a condenser (_D_ and _E_) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$ is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
+The region of **Transformation** (in green) corresponds to the inside of two charged metallic plates of a condenser ($D$ and $E$) where the external electric and magnetic fields will be applied. If the electrostatic force $F_{\mathrm{electric}} = qE$ is applied, a transversal acceleration is generated in a direction perpendicular to the incident beam $a_{\mathrm{transversal}} = a_t = qE/m$. Such force acts during the time $t = d/v_0$ required by the particle to travel the distance $d$ inside the condenser with a transversal velocity $v_{\mathrm{transversal}}= (a_t)(t)= (\frac{qE}{m})(\frac{d}{v_0})=  \frac{qEd}{mv_0}$. 
 
 Inside this region of Transformation, the displacement of the particle has two components: the horizontal component $x = v_0t$ due to the constant velocity $v_0$ and the variable vertical component $y = \frac{1}{2} (a_t)t^2$ produced by the transversal acceleration $a_t$. Taking into account these two components of the displacement, the resulting equation of the trajectory inside the condenser is a parabola $y =  \frac{1}{2} (a_t)t^2 =  \frac{1}{2} (\frac{qE}{m})[(\frac{x}{v_0})^2] =  \frac{1}{2} (\frac{qE}{m{v_0}^2})(x^2)$ which correspond to the form $y = Ax^2$.
 
@@ -100,7 +100,7 @@ It is interesting to observe that in this equation the ratio of two very small a
 
 ### **Measurement of the elementary electric charge of the electron by Millikan.**
 
-These experiments made possible to change a very difficult question concerning the existence of the electron into a feasible and relevant procedure to measure some of its properties.
+Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 – 1981) were working on an experimental procedure for determining the value of the charge of an electron. They were experimenting first with drops of water and after with drops of oil. Their experimental setting is described in Figure 2.2.
 
 <center>
 <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig9b.PNG?raw=true"> 
@@ -111,17 +111,17 @@ These experiments made possible to change a very difficult question concerning t
 	</center>
 	
 
-**Figure 2.2.** Setting of $Millikan’s_oil-drop_experiment^8$. The Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
+**Figure 2.2.** Setting of $Millikan’s$_$oil-drop_experiment^8$. The Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
 In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber. In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up. In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
 
-Inside the chamber the drop experiments three forces (Figure 2.2b): the weight due to its mass $m$ ($F_{\mathrm{gravity}} = mg$), the viscous drag force ($F_{\mathrm{viscosity}}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm{electric field}} = qE$ exerted by the external field _E_. 
+Inside the chamber the drop experiments three forces (Figure 2.2): the weight due to its mass $m$ ($F_{\mathrm{gravity}} = mg$), the viscous drag force ($F_{\mathrm{viscosity}}$) produced by friction with the air inside the chamber, and the electric force $F_{\mathrm{electric field}} = qE$ exerted by the external field _E_. 
 
 According to Stokes law, the force of fluid friction is $F_{\mathrm{viscosity}} = κηv_t$, where $v_t$ is the terminal velocity, $η$ is the viscosity of the air, $κ = 6πr$ is a drag coefficient and $r$ is the radio of a spherical drop; then $v_t = (F_{\mathrm{viscosity}})/κη$. If the external field _E_ is zero the force $F_{\mathrm{electric field}} = 0$. For a stationary drop the resultant force must add to zero and therefore $F_{\mathrm{viscosity}} = F_{\mathrm{gravity}} = mg$. Then, in the absence of an external field the terminal velocity is $v_t = v_a = mg/(κη)$. This is the velocity for free fall when the electric field is switched off.
 
 However, when the external field is not zero the net force $F_{\mathrm{viscosity}} = qE - mg$ and therefore, the terminal velocity in the presence of the field is $v_p = (qE – mg)/(κη)$. After addition of the previous two terminal velocities we obtain $q = [(v_a + v_p)κη]/E = [(v_a + v_p)(6πrη)]/E$. When variations in the terminal velocity $\Delta v_a$ are considered the changes in the charge are $\Delta q = [(6πrη)/E](\Delta v_a)$.
 
-The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope. Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[4/3πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
+The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the drop takes to travel a given distance marked in the scale of the microscope. Furthermore, to calculate the radio $r$ of a drop of mass $m$ it is assumed that the drop has a spherical form and that the density is uniform $ρ = m/[(4/3)πr^3]$. Therefore, the terminal velocity in absence of external field can be measured as $v_a = mg/(κη)$, with $κ = 6πr$; then $r^2 = (9/2)(ηv_a)/(ρg)$.                
 
 ### **Stationary electronic energy levels demonstrated by James Franck and Gustav Hertz.** 
 
@@ -164,7 +164,7 @@ The region of **Detection and Measuremet** consisted in an external galvanometer
 	</tr>
 	</table>
 	
-(Images credit: Fig 2.3b is taken from CC Wikimedia Commons.)
+(Images credit: Fig 2.3a is a drawing made by the authors and Fig 2.3b is taken from CC Wikimedia Commons.)
 </center>
 
 **Figure 2.3.** Schematic experimental setting (a) and a sample of results (b). The vertical bars indicate the approximated extent of the regions RP (Preparation), RT (Transformation) and RDM (Detection and Measurement).
@@ -221,11 +221,11 @@ What follows is a scheme describing the experimental setting where the three reg
 
 The photons are first produced in a X ray tube with a wavelength in between $0.1 Å$ and $100 Å$. After colliding with an atom in the Graphite target the photons are scattered at a definite angle and then they pass through the slit.  The energy of the scattered photon is measured using a crystal and a ionization chamber.
 
-Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)\vec{n_i}$ and has no rest mass ($m_0 = 0$). After the collision it has an energy Q and momentum $(Q/c)\vec{n_f}$.  (The unitary vectors $\vec{n_i}$ and $\vec{n_f}$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(\vec{n_i}) \cdot (\vec{n_f})=(\cos \theta)$.
+Initially the energy of the photon is $Q_0$, its linear momentum is $(Q_0/c)\vec{n_i}$ and has no rest mass ($m_0 = 0$). After the collision it has an energy $Q$ and momentum $(Q/c)\vec{n_f}$.  (The unitary vectors $\vec{n_i}$ and $\vec{n_f}$ indicates, respectively, the incoming and scattered directions of the photon.) These vectors are not orthogonal and therefore $(\vec{n_i}) \cdot (\vec{n_f})=(\cos \theta)$.
 
 Assume that initially the electron has an energy at rest $m_0c^2$ and does not move; it is free to do so because it is not bounded to any nucleus. After the collision the electron is scattered with an energy E and a linear momentum $\vec{p}$ in the direction of the angle $Φ$.
 
-According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $\vec{p}$ is the magnitude of its momentum $\vec{p}$ and $c$ the velocity of light.
+According to special relativity the total energy of a particle is $E = [m_0^2c^4 + p^2c^2]^{1/2}$ where $m_0$ is its mass at rest, $p$ is the magnitude of its momentum $\vec{p}$ and $c$ the velocity of light.
 
 The equations for the conservation of energy and momentum are  
 
