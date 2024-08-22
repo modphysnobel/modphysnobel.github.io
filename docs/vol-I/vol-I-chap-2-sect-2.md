@@ -25,7 +25,7 @@ NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
 MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 13 Apr 2024. https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2.png?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2.png?raw=true"> 
 </p>
 
 ### **1923 Physics Nobel Prize awarded to Millikan.**
@@ -39,7 +39,7 @@ NOBEL LECTURE: *The Electron and the Light-Quant from the Experimental Point of 
 MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/>
  
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/tabla%202.2.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/tabla%202.2.PNG?raw=true"> 
 </p>
 
 ### **1925 Physics Nobel Prize awarded to Franck.**
@@ -53,7 +53,7 @@ NOBEL LECTURE: *Transformation of Kinetic Energy of Free Electrons into Excitati
 MLA style: James Franck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 3 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/franck/lecture/>
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.3.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.3.PNG?raw=true"> 
 </p>
 
 ### **1925 Physics Nobel Prize awarded to Hertz.**
@@ -67,7 +67,7 @@ NOBEL LECTURE: *The Results of the Electron-Impact Tests in the Light of Bohr’
 MLA style: Gustav Hertz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1925/hertz/lecture/>
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.4.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.4.PNG?raw=true"> 
 </p>
 
 ### **1927 Physics Nobel Prize awarded to Compton.**
@@ -85,7 +85,7 @@ NOBEL LECTURE: *X-rays as a Branch of Optics* by Compton.
 MLA style: Arthur H. Compton – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1927/compton/lecture/>
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.5.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.5.PNG?raw=true"> 
 </p>
 
 *** 
