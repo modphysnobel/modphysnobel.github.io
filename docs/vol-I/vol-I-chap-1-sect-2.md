@@ -143,7 +143,7 @@ NOBEL LECTURE: Exclusion Principle and Quantum Mechanic by Pauli.
 MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2bis.PNG?raw=true" width=520 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%201.2bis.PNG?raw=true" width=600 align=center> 
 	</p>
 
 #### **1954 Physics Nobel Prize awarded to Born.**
@@ -158,7 +158,7 @@ NOBEL LECTURE: The Statistical Interpretations of Quantum Mechanics by Born.
 MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 25 Feb 2023. https://www.nobelprize.org/prizes/physics/1954/born/lecture/
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Table%201.3.jpg?raw=true" width=520 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.8.PNG?raw=true" width=600 align=center> 
 	</p>
 	
 
