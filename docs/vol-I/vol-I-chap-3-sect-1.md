@@ -104,28 +104,19 @@ MLA style: Allvar Gullstrand – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 WORK: "Our vision works by the light around us being captured by a large number of light-sensitive cells located in the retinas at the back of our eyes. After a series of nerve switches and conversions of chemical and electrical signals, this results in visual impressions. Using very sophisticated electrodes, Ragnar Granit (1900-1991) was able to study the electrical impulses from the retina’s cells. In studies conducted from the 1930s to the 1950s, he demonstrated that there are different types of cones (the cells that enable color vision) and that these are sensitive to light of three different wavelengths."
 
 <center>
- <!-- HTML Table 1.1.1-->
-  <table width="100%">
-    <tr>
-      <th width="50%" style="text-align: center">
-      <figure markdown>
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.4.PNG?raw=true"> 
-      </figure>
-      </th>
-      <th width="50%" style="text-align: center">
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.5.PNG?raw=true"> 
-      </th>
-      </table>
+<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.4.PNG?raw=true"> 
+
+https://upload.wikimedia.org/wikipedia/commons/e/ed/Human_eye_cross-sectional_view_grayscale.png
+      
+<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.5.PNG?raw=true"> 
+      
+https://upload.wikimedia.org/wikipedia/commons/f/f6/Gray773.png
+
 </center>	
 
 
 <center>
 	(Image credit: CC Wikimedia Commons.)
-	
-	https://upload.wikimedia.org/wikipedia/commons/e/ed/Human_eye_cross-sectional_view_grayscale.png
-
-https://upload.wikimedia.org/wikipedia/commons/f/f6/Gray773.png
-
 </center>
 
 MLA style: Ragnar Granit – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/facts/>
