@@ -21,11 +21,11 @@ The knowledge obtained from analyzing the information described previously in Se
 
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.6.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.6.PNG?raw=true"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.8.PNG?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.8.PNG?raw=true"> 
 </p>
 
 
