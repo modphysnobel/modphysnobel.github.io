@@ -78,9 +78,7 @@ WORK: "Our vision is based on the eye’s lens breaking up light from the outsid
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.3.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
+
 
 **Figure 3.2.** Overview of the retina photoreceptors. ipRGCs labelled at the top-right. [ipRGCs means Intrinsically photosensitive retinal ganglion cells.]
 
@@ -95,10 +93,6 @@ MLA style: Allvar Gullstrand – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.1.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
- 
 ### **1967 Medicine Nobel Prize awarded to Granit.**
 	
 WORK: "Our vision works by the light around us being captured by a large number of light-sensitive cells located in the retinas at the back of our eyes. After a series of nerve switches and conversions of chemical and electrical signals, this results in visual impressions. Using very sophisticated electrodes, Ragnar Granit (1900-1991) was able to study the electrical impulses from the retina’s cells. In studies conducted from the 1930s to the 1950s, he demonstrated that there are different types of cones (the cells that enable color vision) and that these are sensitive to light of three different wavelengths."
@@ -129,10 +123,6 @@ MLA style: Ragnar Granit – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.2.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
-
 
 ### **1967 Medicine Nobel Prize awarded to Hartline.**
 
@@ -148,9 +138,7 @@ MLA style: Keffer Hartline – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.3.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
+
 
 ### **1967 Medicine Nobel Prize awarded to Wald.**
 
@@ -166,9 +154,6 @@ MLA style: George Wald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach A
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.4.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
 
 
 ### **1981 Medicine Nobel Prize awarded to Hubel.**
@@ -193,9 +178,6 @@ MLA style: David H. Hubel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.5.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
 
 !!! tip "David H. Hubel. *Other resources*."
 
@@ -238,9 +220,7 @@ MLA style: Torsten N. Wiesel – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.6.PNG?raw=true" width=600 align=center> 
 	</p>
 
-<center>
-	(Image credit: CC Wikimedia Commons.)
-	</center>
+
 
 ***
 
