@@ -9,7 +9,7 @@
 In this Section 3.3. we deal with the process *Cognitive procedures for creating scientific knowledge*. The elements of this process have been organized in a similar way as a GPS in the brain where cognitive maps are created by integrating four neural cells whose functions are related to place, grid, direction and border. In what follows we consider how the functions of each one of those four neural cells studied by J. O´Keefe, M-B. Moser and E. Moser can be associated with the cognitive procedures required for creating scientific knowledge through Inquiring, Training, Comprehension, and Metacognition.
 
 <p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-3-sect-3-Fig1.PNG?raw=true"> 
+    <img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-3-sect-3-Fig1.PNG?raw=true"> 
 </p>
 	
 A practical example of the application of this *Cognitive procedure for creating scientific knowledge* is the description of the working conditions of a typical $GPS$ $(Global$ $Positioning$ $System)^{13}$, like those used for human communications in common cellular phones. These conditions refer to the following technological requirements:
@@ -55,7 +55,7 @@ Newton could explain what Kepler predicted but without describing how the gravit
 Careful measurements have shown that the position of $the$ $perihelion$ $of$ $Mercury^{18}$ appeared to be delayed after completing one full year of revolution around the Sun. During a century the principal axe of the elliptic orbit of Mercury had a very small deviation of 43 seconds of arc (Figure 3.3). According to the theory of general relativity this physical effect was produced by the geometrical circumstance that a curvature of space was produced by the enormous concentration of matter existing in the Sun. This explanation indicates that the gravitational force has a geometrodynamic nature.
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.6.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.6.PNG?raw=true" width=480 align=center> 
 	</p>
 
 <center>
