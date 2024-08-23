@@ -55,7 +55,7 @@ Newton could explain what Kepler predicted but without describing how the gravit
 Careful measurements have shown that the position of $the$ $perihelion$ $of$ $Mercury^{18}$ appeared to be delayed after completing one full year of revolution around the Sun. During a century the principal axe of the elliptic orbit of Mercury had a very small deviation of 43 seconds of arc (Figure 3.3). According to the theory of general relativity this physical effect was produced by the geometrical circumstance that a curvature of space was produced by the enormous concentration of matter existing in the Sun. This explanation indicates that the gravitational force has a geometrodynamic nature.
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.6.PNG?raw=true" width=480 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.6.PNG?raw=true" width=300 align=center> 
 	</p>
 
 <center>
