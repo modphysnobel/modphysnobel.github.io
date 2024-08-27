@@ -139,7 +139,7 @@ $ds^2=Σg_{μν}dx_μdx_ν$, ($g_{μν}=g_{νμ}$)
 
 - "Moreover it should not be forgotten that a theory relating to the elementary electrical structures is inseparable from the quantum theory problems."
 
-See as another reference the English version of Einstein´s book *Über die spezielle und die allgemeine Relativitätstheorie (Relativity: The Special and General Theory*, published in 1920).
+Another reference is the English version of Einstein´s book *Über die spezielle und die allgemeine Relativitätstheorie (Relativity: The Special and General Theory*, published in 1920).
 
 ***
 
