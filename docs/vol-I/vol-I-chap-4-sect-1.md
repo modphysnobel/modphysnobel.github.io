@@ -7,39 +7,39 @@
 
 ## 4. Geometrization of the description of motion.
 
-!!! abstract "Introduction."
 
-	*What kind of space represents the physical properties of the universe?*
+*What kind of space represents the physical properties of the universe?*
 
-	This is the last Chapter of the first Volume on Motion. It deals with the mathematical nature of space by considering different types of geometries and the physical geometrodynamical interpretation of the properties of the space-time scenario.
+This is the last Chapter of the first Volume on Motion. It deals with the mathematical nature of space by considering different types of geometries and the physical geometrodynamical interpretation of the properties of the space-time scenario.
 	
-	**Learning objectives of Chapter 4.**
+### Learning objectives of Chapter 4.
 	
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	- Describe the characteristics of Euclidean and no-Euclidean geometries and connect the lever principle with conservation laws.
-	- Explain the content of Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*.
-	- Analize how the descriptions of motion by Kepler, Galileo, Newton and Einstein can be interpreted in terms of the aspects and factors distinguishing scientific theories.            
+- Describe the characteristics of Euclidean and no-Euclidean geometries and connect the lever principle with conservation laws.
+- Explain the content of Einstein´s Nobel Lecture *Fundamental ideas and problems of the theory of relativity*.
+- Analize how the descriptions of motion made by Kepler, Galileo, Newton and Einstein can be interpreted in terms of the aspects and factors distinguishing scientific theories.            
 
+### Description of content of Chapter 4.
 
-!!! abstract "Description of content of Chapter 4."
-	**Section 4.1.  On Euclidean geometry and non-Euclidean geometries.**
+Section 4.1. On Euclidean geometry and non-Euclidean geometries.
 
-	We consider the geometrical understanding of space due to Euclid and by the creators of non-Euclidean geometries like Gauss, Lobachesvsky, Bolyai, and Riemann. Afterwards we describe an explanation attributed to Joseph Louis Lagrange who applied the mechanical principle of the lever to show that Euclid´s fifth postulate of the parallels is satisfied. Next, we deal with the lever principle in connection with three natural states of motion: uniform translation, uniform accelerated translation, and uniform rotation. Each one of these cases is related to a conservation law, respectively to: the linear momentum in collisions, the kinetic energy in falling bodies, and the angular momentum of levers in equilibrium with respect to rotations.
+We consider the geometrical understanding of space due to $Euclid^1$ and by the creators of non-Euclidean geometries such as $Johann$ $Carl$ $Friedrich$ $Gauss^2$, $Nikolái$ $Ivánovich$ $Lobachevski^3$, $János$ $Bolyai^4$, and $Georg$ $Friedrich$ $Bernhard$ $Riemann^5$. 
 
-	**Section 4.2.  Einstein´s theories of relativity.**
+Section 4.2. Einstein´s theories of relativity.
 
-	We refer to Einstein´s theories of relativity and comment on his Nobel Lecture presented in 1922: *Fundamental ideas and problems of the theory of relativity*. Nevertheless, he was awarded in 1921 with the Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect".
+We refer to the theories of relativity created by $Albert$ $Einstein^6$ and comment on his Nobel Lecture presented in 1922: *Fundamental ideas and problems of the theory of relativity*. He was awarded in 1921 with the Nobel Prize in Physics "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect".
 
-	**Section 4.3.  Aspects and Factors distinguishing scientific theories.**		
+Section 4.3. Aspects and Factors distinguishing scientific theories.
 
-	We consider how the *Aspects and Factors distinguishing scientific theories* describe the theories explaining motion as formulated by Kepler, Galileo, Newton, and Einstein.
+We deal with *Aspects and Factors distinguishing scientific theories* in connection with the theories explaining motion according to Kepler, Galileo, Newton, and Einstein.
+
+In Appendix 4A we describe an explanation attributed to $Joseph$ $Louis$ $Lagrange^7$ who applied the mechanical principle of the lever to justify that the postulate of the parallels is satisfied.  Also, in Appendix 4B we refer to the lever principle in connection with three natural states of motion: uniform translation, uniform accelerated translation, and uniform rotation. Each one of these cases is related to a conservation law, respectively to: the linear momentum in collisions, the kinetic energy in falling bodies, and the angular momentum of levers in equilibrium with respect to rotations.
+
 
 ## 4.1.  On Euclidean geometry and non-Euclidean geometries.
 
-### Euclidian geometry.
-
-Euclid (323-285 a.C.) organized the mathematical knowledge understood in his time and created a closed, complete, and consistent system for the axiomatic construction of theorems, which are logically derived from definitions and five assumptions, also called postulates or axioms. His work *Elements* characterized a method of proposition, diagrammatic illustration, prove, and conclusion. His systematic and well-organized demonstrations constitute a classical manual for learning geometry that has been used during many centuries. Euclid’s five postulates are next indicated:
+Euclid (323-285 a.C.) organized the mathematical knowledge understood in his time and created a closed, complete, and consistent system for the axiomatic construction of theorems, which are logically derived from definitions and five assumptions, also called postulates or axioms. His work $Elements^8$ characterized a method of proposition, diagrammatic illustration, prove, and conclusion. His systematic and well-organized demonstrations constitute a classical manual for learning geometry that has been used during many centuries. Euclid’s five postulates are the following:
 
 1. To draw a straight line from any point to any point.
 2. To produce a finite straight line continuously in a straight line.
@@ -61,7 +61,7 @@ Some efforts have been dedicated to change the fifth postulate into a more satis
 
 According to Reichenbach (1958), in Euclidean geometry the theorems were known first, and the axiomatic foundation was developed later. Nevertheless, by following a sort of contradictory procedure, in non-Euclidean geometries the axiomatic constructions were the instruments for the discovery of geometrical proofs. Such a contradiction was a consequence of the required self-consistent reformulations of the fifth postulate of the parallels. 
 
-Two non-Euclidean geometries can be considered depending on the curvature of the space and therefore, the corresponding number of parallel lines will be different than just one when the curvature is zero as in Euclidean geometry: it is infinite when the curvature is negative as in hyperbolic geometry where the lines never intersect (all the lines are parallel), or it is null when the curvature is positive as in elliptic geometry where all the lines converge (there are no parallel lines). In non-Euclidean geometries the internal angles of a triangle do not add exactly to 180° (Figure 4.1).
+Two non-Euclidean geometries can be considered depending on the curvature of the space; therefore, the corresponding number of parallel lines will be different than just one when the curvature is zero as in Euclidean geometry. This number is infinite when the curvature is negative as in hyperbolic geometry where the lines never intersect (all the lines are parallel), or it is null when the curvature is positive as in elliptic geometry where all the lines converge (there are no parallel lines). In non-Euclidean geometries the internal angles of a triangle do not add exactly to 180° (Figure 4.1).
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Comparison_of_geometries.svg" width=480 align=center>
@@ -71,7 +71,7 @@ Two non-Euclidean geometries can be considered depending on the curvature of the
 (Image credit: CC Wikimedia Commons)
 </center>
 
-**Figure 4.1.**  Geometric properties of surfaces of different curvature; C indicates the value of the circunference and   corresponds to the addition ($Σ$) of the three internal angles in a triangle.
+**Figure 4.1.**  Geometric properties of surfaces of different curvature; $C$ indicates the value of the circumference and corresponds to the addition ($Σ$) of the three internal angles in a triangle.
 
 It is not clear who was the first mathematician writing about non-Euclidean geometries. The merit is shared by next four mathematicians:
 
@@ -87,9 +87,8 @@ The hyperbolic geometry was developed by Gauss, Bolyai and Lobachebsky, and the 
 
 ### The lever principle and the fifth parallel postulate.
 
-Archimedes considered that mechanical experiments could be used to extend geometric knowledge and he dedicated many efforts to build mechanisms to capture the principles of their operation. He contributed both to the development of technological applications and to an incipient mathematization of physics. Unlike Aristotle, Archimedes used geometric arguments to make demonstrations about physical situations; he was the first to mathematically demonstrate the law of the lever by reasoning and not by experimenting. 
-
-Archimedes stated his law as follows: “commensurable magnitudes will balance at distances inversely proportional to their gravities”. The phrase *“Pa bo, kai tan gan kino”* is attributed to Archimedes, which in the Doric dialect spoken in Syracuse means *“Give me a foothold and I will move the world”*. The proof of this principle is presented below. 
+$Archimedes^9$ considered that mechanical experiments could be used to extend geometric knowledge, and he dedicated many efforts to build mechanisms to capture the principles of their operation. He contributed both to the development of technological applications and to an incipient mathematization of physics. Unlike Aristotle, Archimedes used geometric arguments to propose demonstrations about physical situations; he was the first to mathematically demonstrate the law of the lever by reasoning and not by experimenting.
+Archimedes stated the lever principle as follows: “commensurable magnitudes will balance at distances inversely proportional to their gravities”. The phrase *“Pa bo, kai tan gan kino”* is attributed to Archimedes, which in the Doric dialect spoken in Syracuse means *“Give me a foothold and I will move the world”*. The proof of this principle is presented below. 
 
 Consider a mechanical system made up of two bodies A and B of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point C (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $\vec{P_A}$ and $\vec{P_B}$ with magnitudes $[\vec{P_A}] = m_Ag$ and $[\vec{P_B}] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
@@ -111,7 +110,7 @@ $d_A\vec{P_A} = d_B\vec{P_B}$
 
 As in any mathematical approach involving geometric figures, it will be assumed that lines and points have no mass and their dimensions are one and zero, respectively. Furthermore, the lever principle applies only in a plane and not on surfaces with non-zero curvature.
 
-The explanation that the lever principle serves to justify that the parallel postulate is satisfied is contained in an annex of the book *Non-Euclidean Geometries: Historical-Critical Exposure of its Development*, published by Roberto Bonola (1874-1911) in 1912. According to Bonola, this explanation, which is not a demonstration, was made by Joseph Louis Lagrange (1736 - 1813) and was published in volume XI of his complete works. This work was commented in a publication by Pepe, L. and Borgato, M. T.: *Una memoria inedita di Lagrange sulla teoria delle parallele*. Boll. Storia Sci. Mat. 8(2),307–335 (1988). The explanation made by Lagrange is considered in Appendix 4.1.
+The explanation that the lever principle serves to justify that the parallel postulate is satisfied is contained in an annex of the book *Non-Euclidean Geometries: Historical-Critical Exposure of its Development*, published by Roberto Bonola (1874-1911) in 1912. According to Bonola, this explanation, which is not a demonstration, was made by Joseph Louis Lagrange (1736 - 1813) and was published in volume XI of his complete works. This work was commented in a publication by Pepe, L. and Borgato, M. T.: *Una memoria inedita di Lagrange sulla teoria delle parallele*. Boll. Storia Sci. Mat. 8(2),307–335 (1988). The explanation made by Lagrange is considered in Appendix 4A.
 
 ### Conservation laws about linear momentun, kinetic energy and angular momentum.
 
