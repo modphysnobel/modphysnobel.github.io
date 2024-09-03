@@ -24,7 +24,7 @@ After this Chapter you should be able to:
 
 Section 2.1. Regions for doing experiments.
 
-We analyze the three regions required in experimental activities (preparation, transformation and detection and measurement) and describe them in the experiments performed by Joseph John Thomson (quantization of the electron mass and in four experiments determination of its relation charge/mass), by Robert Andrews Millikan (quantization of the electron charge), by James Franck and Gustav Ludwig Hertz (quantization of the electron energy levels) and by Arthur Holly Compton (a relativistic collision of electrons with incoming photons).
+We analyze the three regions required in experimental activities (Preparation, Transformation and Detection and Measurement) and describe them in the experiments performed by Joseph John Thomson (quantization of the electron mass and in four experiments determination of its relation charge/mass), by Robert Andrews Millikan (quantization of the electron charge), by James Franck and Gustav Ludwig Hertz (quantization of the electron energy levels) and by Arthur Holly Compton (a relativistic collision of electrons with incoming photons).
 
 Section 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.
 
