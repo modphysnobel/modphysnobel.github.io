@@ -42,7 +42,7 @@ Although motion usually refers to changes in time of certain properties of physi
 
 ### 2.3  [Knowledge domains for understanding](./vol-I-chap-2-sect-3.md).
 
-At the beginning of past century few critical experiments were dedicated to the observation and interpretation of electronic motions. Their purpose was to determine some of the properties of this elementary particle and their forms of interaction. The realization of such experiments were recognized with Physics Nobel Prizes to J.J. Thomson, R. A. Millikan , J. Franck, G. L. Hertz, and A.H. Compton. These experiments are described and analyzed in terms of three regions: preparation, transformation and detection and measurement. These regions are the scenarios where knowledge domains (Factual, Analytic, Conceptual and Operational) are applied for understanding how and when electrons move.	
+At the beginning of past century few critical experiments were dedicated to the observation and interpretation of electronic motions. Their purpose was to determine some of the properties of this elementary particle and their forms of interaction. The realization of such experiments were recognized with Physics Nobel Prizes to J.J. Thomson, R. A. Millikan , J. Franck, G. L. Hertz, and A.H. Compton. These experiments are described and analyzed in terms of three regions: Preparation, Transformation and Detection and Measurement. These regions are the scenarios where knowledge domains (Factual, Analytic, Conceptual and Operational) are applied for understanding how and when electrons move.	
 
 ## 3. Detecting signals in the eye and creating maps in the brain.</strong>
 
