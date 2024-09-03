@@ -71,7 +71,7 @@ HELLEMANS, A. y BUNCH, B. The Timetables of SCIENCE. A Chronology of the Most Im
 KLEIN, M., Mathematical Thought from Ancient to Modern Times, Vol. 1 1st Edition, Oxford, UK. Oxford University Press, (1990).<br>
 VERNANT, Jean-Pierre. Géométrie et astronomie sphérique dans la première cosmologie grecque. La Pensée (1963),109, p.82.<br>
  
-WIKIPEDIA REFERENCES
+### **WIKIPEDIA REFERENCES**
 
 1. https://en.wikipedia.org/wiki/Archimedes
 2. https://en.wikipedia.org/wiki/Pythagoras
