@@ -20,7 +20,7 @@ After this Chapter you should be able to:
 
 Section 1.1. Mathematics and science in ancient Greece.
 
-We consider early Greek contributions to mathematics and science, in particular some works made by $Archimedes$ $of$ $Syracuse^1$. We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying the theorem by $Pythagoras$ $of$ $Samos^2$.
+We consider early Greek contributions to mathematics and science, in particular some works made by [Archimedes of Syracuse](https://en.wikipedia.org/wiki/Archimedes). We present two possibilities for interpreting and teaching mathematics by following dictatorial and democratic approaches. We describe an example of these approaches in connection with the obtention of the equation of the circumference by applying the theorem by $Pythagoras$ $of$ $Samos^2$.
 
 Section 1.2. Conceptualizations of spaces and quantum statistics.
 
