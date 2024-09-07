@@ -35,20 +35,6 @@ The knowledge obtained from analyzing the information described previously in Se
  
 FEYNMAN, R. P., LEIGHTON, R. B., and SANDS, M. The Feynman Lectures on Physics, Mainly Mechanics, Radiation and Heat. Volume I, Chapter 2. Reading, Massachusetts, Addisson Wesley. (1963).
 
-### **REFERENCIAS WIKIPEDIA**
-
-1. https://en.wikipedia.org/wiki/J._J._Thomson
-2. https://en.wikipedia.org/wiki/Robert_Andrews_Millikan
-3. https://en.wikipedia.org/wiki/James_Franck
-4. https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz
-5. https://en.wikipedia.org/wiki/Arthur_Compton
-6. https://en.wikipedia.org/wiki/Richard_Feynman
-7. https://upload.wikimedia.org/wikipedia/commons/4/4c/JJ_Thomson_Cathode_Ray_2.png
-8. https://en.wikipedia.org/wiki/Oil_drop_experiment
-9. https://en.wikipedia.org/wiki/Franck%E2%80%93Hertz_experiment
-10. https://en.wikipedia.org/wiki/Compton_scattering
-
-
 ***
 
 [**Next: 3.1.  Understanding the mechanisms of vision.**](./vol-I-chap-3-sect-1.md)
