@@ -30,10 +30,10 @@ Section 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Com
 
 We comment on the Nobel Prizes for the physicists who were awarded in the following years:
 
-- in 1906 to $J.J.$ $Thomson^1$ “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”,
-- in 1923 to $R.A.$ $Millikan^2$ “for his work on the elementary charge of electricity and on the photoelectric effect”,
-- in 1925 to $J.$ $Franck^3$ and $G.K.$ $Hertz^4$ “for their discovery of the laws governing the impact of an electron upon an atom”,
-- in 1927 to $A.H.$ $Compton^5$ “for his discovery of the effect named after him”.
+- in 1906 to [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”,
+- in 1923 to [R.A. Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) “for his work on the elementary charge of electricity and on the photoelectric effect”,
+- in 1925 to [J. Franck](https://en.wikipedia.org/wiki/James_Franck) and [G.K. Hertz](https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz) “for their discovery of the laws governing the impact of an electron upon an atom”,
+- in 1927 to [A.H. Compton](https://en.wikipedia.org/wiki/Arthur_Compton) “for his discovery of the effect named after him”.
 
 Section 2.3. Knowledge domains for understanding.
 
@@ -41,7 +41,7 @@ The four knowledge domains (Factual, Analytic, Conceptual, and Operational) serv
 
 ## **2.1. Regions for doing experiments.**
 
-According to $Richard$ $Feynman^6$ (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
+According to [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (1963), Physics deals with the nature of things as we see at this present moment. He compares the activity of doing Physics to the observation of a game that takes place in nature. Furthermore, Feynman affirms that to know the rules of the game is to understand nature and that there are three kinds of procedures to know if the proposed rules work effectively:
 
 1)	To predict what will happen if the physical situation is relatively simple: the system has few components and can be verified if the rules in consideration are satisfied.
 
@@ -59,7 +59,7 @@ At the beginning of past century four revolutionary experiments generated new id
 
 ### **Experiments made by Thomson for discovering the electron.**
 
-Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in Philosophical Magazine, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original drawing made by $Thomson^7$.
+Thomson performed a sequence of three types of experiments: the first type for analyzing that a charged particle was leaving the atom; the second one for determining that these particles had negative electric charge and the third one for calculating the value of their ratio charge/mass. His results were presented in a paper titled *Cathode Rays*, published in Philosophical Magazine, 44, 293 (1897). Next Figure 2.1 is an adaptation of the original drawing made by [Thomson](https://upload.wikimedia.org/wikipedia/commons/4/4c/JJ_Thomson_Cathode_Ray_2.png).
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig8b.PNG?raw=true"> 
@@ -111,7 +111,7 @@ Since 1907 Robert Millikan (1868 - 1953) and his student Harvey Fletcher (1884 �
 	</center>
 	
 
-**Figure 2.2.** Setting of $Millikan’s$_$oil-drop_experiment^8$. The Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
+**Figure 2.2.** Setting of [Millikan’s_oil-drop_experiment](https://en.wikipedia.org/wiki/Oil_drop_experiment). The Preparation region is in blue, the Transformation region is in green, and the Measurement region is in red.
 
 In the region of **Preparation** an atomizer produces drops that go through a hole on a metallic plate that covers a cylindric chamber. In the region of **Transformation** a condenser inside the chamber has two metallic plates separated by a distance $d$; the cylinder has four holes, three of them illuminate the interior of the plates and the four hole is for measuring the positions of the drop through a microscope. An external X ray source is applied for charging the oil droplets by ionizing them. Inside the chamber a potential $V$ generated by an external battery produces a uniform electric field of intensity $E = V/d$. Changes in the polarity of this battery made the charged drops to go down or to go up. In the region of **Detection and measurement**: an external microscope measures with a scale the positions of the drops when they travel in between the plates.
 
@@ -127,7 +127,7 @@ The terminal velocities $v_a$ and $v_p$ are determined by measuring the time the
 
 Spectral lines are observed in atoms because certain transitions between electronic discrete energy levels are produced. Is this a consequence of the emission or absorption of photons or is it a quantized property that electrons have by themselves?
 
-In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. Franck and Hertz determined the $separation$ $between$ $electronic$ $energy$ $levels^9$ in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. 
+In 1914 Franck and Hertz provided experimental evidence of the existence of stationary electronic energy levels without considering any incident radiation as the cause of such structural behavior. Franck and Hertz determined the [separation between electronic energy levels](https://en.wikipedia.org/wiki/Franck%E2%80%93Hertz_experiment) in complete agreement with spectroscopic measurements, confirming predictions made by the Bohr atomic model. 
 
 The experimental setting used by Franck and Hertz is described in terms of the usual three regions (Figure 3.3a): 
 
@@ -185,7 +185,7 @@ More details concerning Bohr´s atomic theory will be discussed in section 6.1. 
 
 ### **Dispersion of radiation in collisions electron-photon explained by Compton.**
 
-The so-called Compton effect was produced, observed and calculated in 1920 by Arthur Compton. This effect consists in the $scattering$ $of$ $X$ $rays^{10}$ produced by a collision with an electron. After this relativistic collision both colliding particles change their directions and magnitudes of their velocities: the incoming photon scatters in a different direction with a lower frequency (larger wavelength) and the initially stationary electron recoils and acquires some velocity up to about 80% of the velocity of light, This effect demonstrates the corpuscular properties of photons; they behave as particles of zero mass.
+The so-called Compton effect was produced, observed and calculated in 1920 by Arthur Compton. This effect consists in the [scattering of X rays](https://en.wikipedia.org/wiki/Compton_scattering) produced by a collision with an electron. After this relativistic collision both colliding particles change their directions and magnitudes of their velocities: the incoming photon scatters in a different direction with a lower frequency (larger wavelength) and the initially stationary electron recoils and acquires some velocity up to about 80% of the velocity of light, This effect demonstrates the corpuscular properties of photons; they behave as particles of zero mass.
 
 What follows is a scheme describing the experimental setting where the three regions of Production, Transformation and Detection and Measurement are shown (Figure 2.4a). A vectorial diagram indicates the collision condition (Figure 2.4b).
 
