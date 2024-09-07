@@ -22,7 +22,7 @@ Context learning is important in organizing knowledge for what is thought and le
 
 ### **Context of Archimedes´solution to the golden crown problem.**
 
-- Next, we present an application of the context learning procedure to the buoyancy problem of the golden crown proposed to Archimedes by $King$ $Hiero$ $of$ $Syracuse^{24}$. A possible path of the solution, not necessarily the one implemented by Archimedes, will be considered both as a dictatorial or as a democratic conceptualization. In this case, the components of the corresponding learning context are the following:
+- Next, we present an application of the context learning procedure to the buoyancy problem of the golden crown proposed to Archimedes by [King Hiero of Syracuse](https://en.wikipedia.org/wiki/Hiero_I_of_Syracuse). A possible path of the solution, not necessarily the one implemented by Archimedes, will be considered both as a dictatorial or as a democratic conceptualization. In this case, the components of the corresponding learning context are the following:
 
 - The following **leading questions** might had asked by Archimedes himself to answer the king´s suspicion: If the finished crown and the original block of gold weight the same but the crown is made of silver and not of gold, how much different the volume of a golden crown will be from the volume of a silver crown? How can I determine the volume of the probable falsified crown? 
 
@@ -70,35 +70,6 @@ DURANT, W., The story of civilization. Vol. 2 The Life of Greece, New York, Simo
 HELLEMANS, A. y BUNCH, B. The Timetables of SCIENCE. A Chronology of the Most Important People and Events in the History of Science. New York, Simon and Schuster, (1988).<br>
 KLEIN, M., Mathematical Thought from Ancient to Modern Times, Vol. 1 1st Edition, Oxford, UK. Oxford University Press, (1990).<br>
 VERNANT, Jean-Pierre. Géométrie et astronomie sphérique dans la première cosmologie grecque. La Pensée (1963),109, p.82.<br>
- 
-### **WIKIPEDIA REFERENCES**
-
-1. https://en.wikipedia.org/wiki/Archimedes
-2. https://en.wikipedia.org/wiki/Pythagoras
-3. https://en.wikipedia.org/wiki/Wolfgang_Pauli
-4. https://en.wikipedia.org/wiki/Max_Born
-5. https://en.wikipedia.org/wiki/Hiero_II_of_Syracuse
-6. https://en.wikipedia.org/wiki/J._D._Bernal
-7. https://en.wikipedia.org/wiki/Archimedes
-8. https://en.wikipedia.org/wiki/Thought_experiment
-9. https://en.wikipedia.org/wiki/Mathematics
-10. https://en.wikipedia.org/wiki/Jean-Pierre_Vernant
-11. https://en.wikipedia.org/wiki/Space
-12. https://en.wikipedia.org/wiki/Pherecydes_of_Syros
-13. https://en.wikipedia.org/wiki/Herodotus
-14. https://en.wikipedia.org/wiki/Homer
-15. https://en.wikipedia.org/wiki/Hippodamus_of_Miletus
-16. https://en.wikipedia.org/wiki/Earth
-17. https://en.wikipedia.org/wiki/Hesiod
-18. https://en.wikipedia.org/wiki/Anaximander
-19. https://en.wikipedia.org/wiki/Agora
-20. https://en.wikipedia.org/wiki/File:Miletos_stadsplan_400.jpg inside https://en.wikipedia.org/wiki/Miletus
-21. https://upload.wikimedia.org/wikipedia/commons/1/14/Teotihucan_layout.gif inside https://en.wikipedia.org/wiki/Teotihuacan
-22. https://en.wikipedia.org/wiki/File:Karta_MachuPicchu.PNG inside https://en.wikipedia.org/wiki/Machu_Picchu
-23. https://en.wikipedia.org/wiki/File:Map_of_Masada.svg inside https://en.wikipedia.org/wiki/Masada
-24. https://en.wikipedia.org/wiki/Hiero_I_of_Syracuse
-
-
 
 ***
 
