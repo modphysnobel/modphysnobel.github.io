@@ -10,7 +10,7 @@
 	
 According to Piaget and Garcia (1989) there are seven elements that characterize a scientific theory: the following four Aspects (A) and three Factors (F):
 	
-!!! Bug""
+!!! Bug ""
 
     A1: *Type of questions to be addressed by the theory.*
 
