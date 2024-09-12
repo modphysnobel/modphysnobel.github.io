@@ -20,6 +20,10 @@ Now we propose to connect each one of the functions of the four neural cells (pl
 
 Each one of these three GPS is a useful tool for map navigation in a different environment: the mental GPS corresponds to neural networks working in the brain, the communication GPS is for localization and orientation used by humans in technological contexts, and the cognitive GPS is for the development of conceptual models. Next Table summarizes all these connections; afterwards we will present an application of the four cognitive procedures for creating conceptual models to the description of those physical models proposed by Kepler, Newton and Einstein to explain the orbit of the planet Mercury. 
 
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.6bis.PNG?raw=true" width=300 align=center> 
+	</p>
+
 ### **Description of the perihelion precession of Mercury.**
 
 What follows is an example of application of the previously described *Cognitive procedures for creating conceptual models*. We consider the evolution in the geometrical and physical explanations concerning the [planetary orbits of Mercury](https://en.wikipedia.org/wiki/Mercury_(planet)). We focus on the learning outcomes derived from different levels of explanations of how, when and why the first planet in our planetary system moves. We briefly describe the main characteristics of the physical conceptual models presented by Kepler, Newton and Einstein. We propose to associate Kepler´s model to the Inquiring procedure, Newton´s model to the Training procedure, and Einstein´s model to the Comprehension procedure. The Metacognition procedure is referred to a future theory of quantum gravity.
