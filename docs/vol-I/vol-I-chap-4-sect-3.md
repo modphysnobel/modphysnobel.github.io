@@ -72,7 +72,7 @@ For each one of the previous seven elements characterizing a scientific theory w
 	
 **G:**  Quantitative formal relationships between physical variables lead to numerical results that can be compared with observational data and experimental measurements. 
 	
-**N:**  Classical mechanics consists in a series of approximations and mathematical solution methods with which experimental data can be predicted with great accuracy and precision.  
+**N:**  Classical mechanics consists in a series of approximations and mathematical solution methods with which experimental data can be predicted with great accuracy and precision. Euclidean geometry is the appropriate framework for the representation and interpretation of physical phenomena. 
 	
 **E:**  The physics of motion and the transformation between matter and energy are explained in terms of a geometrodynamical approach that is not Euclidean because the structure of the four-dimensional space-time is determined by high concentrations of masses.	
 
@@ -110,7 +110,7 @@ For each one of the previous seven elements characterizing a scientific theory w
 	
 **N:**  Once the theory of gravitation was formulated and tested there remained the need for connection and integration with other branches of Classical Physics, like Thermodynamics and Electromagnetism. 
 	
-**E:**  Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects. Mechanical phenomena already explained: the motion of the perihelion of Mercury, the deflection of light by a gravitational field, the displacement of spectral lines towards the red, and the production and detection of black holes.
+**E:** Theories of relativity present a fruitful synthesis of concepts and principles explaining mechanical and electromagnetic phenomena, but it still needs to include quantum effects.   Mechanical phenomena already explained: the motion of the perihelion of Mercury, the deflection of light by a gravitational field, the displacement of spectral lines towards the red, and the production and detection of black holes.
 
 ***
 
@@ -121,15 +121,6 @@ PAIS, A. *Subtle is the Lord…! The Science and the Life of Albert Einstein*, O
 REICHENBACH, H. *The Philosophy of Space and Time*. New York. Dover Publications. (1958).
 
 PIAGET J. and Garcia R. *Psychogenesis and the History of Science*. New York. Columbia University Press. (1989).
-
-### REFERENCES WIKIPEDIA
-
-1. https://en.wikipedia.org/wiki/Euclid
-2. https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss
-3. https://en.wikipedia.org/wiki/Nikolai_Lobachevsky
-4. https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai
-5. https://en.wikipedia.org/wiki/Bernhard_Riemann
-
 
 ***
 
