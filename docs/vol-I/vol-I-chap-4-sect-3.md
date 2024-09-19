@@ -11,7 +11,7 @@
 According to Piaget and Garcia (1989) there are seven elements that characterize a scientific theory: the following four Aspects (A) and three Factors (F):
 	
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Methodology%20or%20procedure%20employed%20in%20the%20analysis%20of%20facts%20and%20in%20the%20verification%20of%20hypothesis.png?raw=true" width=480 align=center>
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Methodology%20or%20procedure%20employed%20in%20the%20analysis%20of%20facts%20and%20in%20the%20verification%20of%20hypothesis.png?raw=true" width=520 align=center>
 	</p>
 
 ### Descriptions of motion according to Kepler, Galileo, Newton, and Einstein.
