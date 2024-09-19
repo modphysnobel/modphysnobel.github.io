@@ -111,7 +111,7 @@ $ds^2=c^2t^2-dx^2-dy^2-dz^2$
 $ds^2=Σg_{μν}dx_μdx_ν$, ($g_{μν}=g_{νμ}$)
 </center>
 
-- "The gravitational potentials $g_{μν}$ describe the gravitational field. They determine the space-time metric ds which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
+- "The gravitational potentials $g_{μν}$ describe the gravitational field. They determine the space-time metric $ds$ which is defined as an (absolute) parameter measurable by means of rigid scales and clocks."
 
 - "In mathematical terms the search for the field equations amounts to ascertaining the simplest generally covariant differential equations to which the gravitational potentials $g_{µv}$ can be subjected. To complete the basis of the general theory of relativity, the field equations must incorporate the electromagnetic field as well as the structure of matter."
   
@@ -125,7 +125,7 @@ $ds^2=Σg_{μν}dx_μdx_ν$, ($g_{μν}=g_{νμ}$)
 
 **(13)	Affine correlations in Riemannian geometry.**
 
-- "The characteristic assumption of Riemannian geometry is the attribution to two infinitely adjacent points of a "distance" ds."
+- "The characteristic assumption of Riemannian geometry is the attribution to two infinitely adjacent points of a "distance" $ds$."
 
 - "To every line element (or vector) at a point P is assigned a parallel and equal line element (or vector) through any given infinitesimally adjacent point P’; this defines an affine correlation. Riemannian metric determines an affine correlation."
 
