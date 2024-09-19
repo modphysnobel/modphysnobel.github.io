@@ -101,11 +101,11 @@ Consider a mechanical system made up of two bodies $A$ and $B$ of unequal masses
 
 The distances from each mass to the center of rotation $C$ are measured in the horizontal direction and correspond to the magnitudes $d_A$ and $d_B$, while the weights act in the vertical direction along lines that are parallel to each other. 
 
-The forces $\vec{P}$ acting on the ends of the lever produce torques $τ = r \times \vec{P}$. The magnitude of each vector is $[τ] = [r][\vec{P}](sinθ)$ where $θ$ is the angle between the vectors $r$ and $\vec{P}$, where $r$ is the vector that joins the center $C$ with the point where each weight $\vec{P}$ is applied. As can be seen in Figure 4.2, the angle $θ$ is 90° for each weight. To each torque $τ$ produced by the force $\vec{P}$ corresponds a sign depending on the direction of the rotation: the clockwise rotation of the mass $m_B$ is positive and the leftward rotation of the mass $m_A$ is negative. Therefore, the magnitude of each torque is $[τ_B] = (+)[d_B][P_B]$ and $[τ_A] = (-)[d_A][P_A]$. 
+The forces $\vec{P}$ acting on the ends of the lever produce torques $\vec{τ} = \vec{r} \times \vec{P}$. The magnitude of each vector is $[\vec{τ}] = [r][P](sinθ)$ where $θ$ is the angle between the vectors $\vec{r}$ and $\vec{P}$, where $\vec{r}$ is the vector that joins the center $C$ with the point where each weight $\vec{P}$ is applied. As can be seen in Figure 4.2, the angle $θ$ is 90° for each weight. To each torque $\vec{τ}$ produced by the force $\vec{P}$ corresponds a sign depending on the direction of the rotation: the clockwise rotation of the mass $m_B$ is positive and the leftward rotation of the mass $m_A$ is negative. Therefore, the magnitude of each torque is $[\vec{τ_B}]=(τ_B) = (+)[d_B][P_B]$ and $[\vec{τ_A}]=(τ_A) = (-)[d_A][P_A]$. 
 
-When the complete mechanical system is in equilibrium there is no translation and no rotation, and the resulting torque is null. Therefore, $τ_A+τ_B = 0$ which corresponds to $−d_AP_A +d_BP_B = 0$, From this, the principle of the lever can be obtained: the product of the distance of each mass to the center of balance $C$ multiplied by the magnitude of the corresponding weight is equal for both bodies:
+When the complete mechanical system is in equilibrium there is no translation and no rotation, and the resulting torque is null. Therefore, $\vec{τ_A}+\vec{τ_B} = 0$ which corresponds to $−d_AP_A +d_BP_B = 0$, From this, the principle of the lever can be obtained: the product of the distance of each mass to the center of balance $C$ multiplied by the magnitude of the corresponding weight is equal for both bodies:
 
-$d_A\vec{P_A} = d_B\vec{P_B}$
+$d_AP_A = d_BP_B$
 
 As in any mathematical approach involving geometric figures, it will be assumed that lines and points have no mass and their dimensions are one and zero, respectively. Furthermore, the lever principle applies only in a plane and not on surfaces with non-zero curvature.
 
