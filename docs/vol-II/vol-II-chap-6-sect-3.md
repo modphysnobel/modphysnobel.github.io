@@ -19,29 +19,27 @@ Physics looks for explanations of certain observed and measured phenomena that m
 
 In what follows we describe the main concepts and models contained in the Nobel Lectures presented by Bohr, Lamb, Townes, and Schawlow. In each case we start indicating the name of the Laureate and then the year and the reasons for the award. Next, we insert an official document called WORK describing the main contributions of each laureate. Finally, we include the title of each Lecture, its subtitles when they exist in the original and two boxes related to concepts and models contained in each Lecture. All the corresponding references in MLA format are given at the end of this section.
 
-To Bohr “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
+To [Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) “for his services in the investigation of the structure of atoms and of the radiation emanating from them”.
 
-!!! tip "1922 Physics Nobel Prize awarded to Bohr."
+WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr (1985-1962) proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
 
-	WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr (1985-1962) proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
+MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
 
-	MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1922/bohr/facts/
+NOBEL LECTURE: *The structure of the atom* by Bohr. 
 
-	NOBEL LECTURE: *The structure of the atom* by Bohr. 
+- The general picture of the atom 
+- Atomic stability and electrodynamic theory 
+- The origin of the quantum theory 
+- The quantum theory of atomic constitution 
+- The hydrogen spectrum 
+- Relationships between the elements 
+- Absorption and excitation of spectral lines 
+- The quantum theory of multiply-periodic systems 
+- The correspondence principle 
+- The natural system of the elements 
+- X-ray spectra and atomic constitution
 
-	- The general picture of the atom 
-	- Atomic stability and electrodynamic theory 
-	- The origin of the quantum theory 
-	- The quantum theory of atomic constitution 
-	- The hydrogen spectrum 
-	- Relationships between the elements 
-	- Absorption and excitation of spectral lines 
-	- The quantum theory of multiply-periodic systems 
-	- The correspondence principle 
-	- The natural system of the elements 
-	- X-ray spectra and atomic constitution
-
-	MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
+MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 15 Jan 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
 	
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.1.jpg?raw=true"> 
@@ -65,17 +63,15 @@ To Bohr “for his services in the investigation of the structure of atoms and o
 	- Explanations of band spectra in solids. 
 	- Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
  
-To Lamb “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
+To [Lamb](https://en.wikipedia.org/wiki/Willis_Lamb) “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
-!!! tip "1955 Physics Nobel Prize awarded to Lamb."
+WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb (1985-1962) used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
 
-	WORK: “According to Niels Bohr’s atomic model, a photon is emitted when an electron descends to a lower energy level. This results in a spectrum with lines corresponding to the different energy levels of different atoms. It appeared that the lines were divided into several lines close to one another, which Paul Dirac tried to explain in a theory. However, in 1947 Willis Lamb (1985-1962) used precise measurements to establish what became known as the Lamb shift: what ought to have been a single energy level in the hydrogen atom according to Dirac’s theory actually was two nearby levels with a small difference in energy.”
+MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1955/lamb/facts/
 
-	MLA style: Willis E. Lamb – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1955/lamb/facts/
+NOBEL LECTURE: *Fine Structure of the Hydrogen Atom* by Lamb.
 
-	NOBEL LECTURE: *Fine Structure of the Hydrogen Atom* by Lamb.
-
-	MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
+MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Jan 2023. https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.2.jpg?raw=true"> 
@@ -94,25 +90,24 @@ To Lamb “for his discoveries concerning the fine structure of the hydrogen spe
 	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. 
 	- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
 
-To Townes “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
+To [Townes](https://en.wikipedia.org/wiki/Charles_H._Townes) “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
-!!! tip "1964 Physics Nobel Prize awarded to Townes."
 
-	WORK: “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes (1915-2015), Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
+WORK: “Stimulated emission means that a light packet, a photon, coming in contact with an atom can cause an electron to descend to a lower energy level so that an additional photon with the same amount of energy is emitted. If electrons are elevated to higher energy levels with the help of heat or light, an avalanche-like effect occurs when they fall to lower levels. In the 1950s Charles Townes (1915-2015), Nicolay Basov, and Aleksandr Prokhorov contributed to putting this phenomenon into practical use in masers and lasers, which produce concentrated and coherent beams of microwaves and light, respectively.”
 
-	MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
+MLA style: Charles H. Townes – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1964/townes/facts/
 
-	NOBEL LECTURE: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
+NOBEL LECTURE: *Production of Coherent Radiation by Atoms and Molecules* by Townes.
 
-	- Basic Maser principles
-	- Maser Clocks and Amplifiers
-	- Optical and Infrared Masers, or Lasers
-	- Present Performance of Lasers
-	- Some Applications of Lasers
-	- The Phonon Maser
-	- Concluding Remarks
+- Basic Maser principles
+- Maser Clocks and Amplifiers
+- Optical and Infrared Masers, or Lasers
+- Present Performance of Lasers
+- Some Applications of Lasers
+- The Phonon Maser
+- Concluding Remarks
 
-	MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
+MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 16 Jan 2023. https://www.nobelprize.org/prizes/physics/1964/townes/lecture/
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.3.jpg?raw=true"> 
@@ -139,24 +134,23 @@ To Townes “for fundamental work in the field of quantum electronics, which has
 	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. 
 	- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
 
-To Schawlow "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
+To [Schawlow](https://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow) "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
-!!! tip "1981 Physics Nobel Prize awarded to Schawlow."
 
-	WORK: “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow (1921-1999) made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
+WORK: “Electrons in atoms and molecules have fixed energy levels, according to the principles of quantum physics. When there are transitions among different energy levels, light with certain frequencies is emitted or absorbed. This allows atoms and molecules to be analyzed with the help of the absorbed light’s spectrum. With the laser’s coherent and intense light, the measurement phenomenon can occur. In the 1960s, Arthur Schawlow (1921-1999) made use of this to eliminate the Doppler effect, allowing him to determine energy levels with great precision.”
 
-	MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes///schawlow/facts/
+MLA style: Arthur L. Schawlow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes///schawlow/facts/
 
-	NOBEL LECTURE: *Spectroscopy in a New Light* by Schawlow. 
+NOBEL LECTURE: *Spectroscopy in a New Light* by Schawlow. 
 
-	- Introduction
-	- Laser spectroscopy
-	- Saturation spectroscopy
-	- Broadly tunable lasers
-	- Simplifying spectra by laser labeling
-	- Other methods
+- Introduction
+- Laser spectroscopy
+- Saturation spectroscopy
+- Broadly tunable lasers
+- Simplifying spectra by laser labeling
+- Other methods
 
-	MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/
+MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Apr 2023. https://www.nobelprize.org/prizes/physics/1981/schawlow/lecture/
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.4.jpg?raw=true"> 
@@ -189,9 +183,6 @@ To Schawlow "for their contribution to the development of laser spectroscopy". (
 
 ***
 
-### REFERENCES
-
-***
 
 [**Next: 7.1. Experimental results concerning the Brownian motion.**](./vol-II-chap-7-sect-1.md)
 
