@@ -68,13 +68,13 @@ A hollow opaque object functions as a blackbody when its interior walls are pain
 
 **Figure 5.4.** Diagram of a black body (left) and intensity of the experimental spectrum as a function of the wavelength, at different temperatures (right).
 
-In 1879 Josef Stefan (1835-1893) inferred from his observations that the rate at which energy is radiated from a heating body should be proportional to the fourth power of its absolute temperature. Later, in 1884, an assistant of Stefan's at the University of Vienna, Ludwig Edward Boltzmann (1844-1906), calculated the speed of the particles of a gas to obtain the radiation pressure exerted by a piston on the molecules of the gas contained inside a cylinder. From these two contributions, an inference from experimental data and a theoretical derivation, the Stefan-Boltzmann law resulted: when the contributions of all wavelengths are added the total power radiated per unit area of the cavity opening is $I(T) = σT^4$, where σ is Stefan's constant.
+In 1879 [Josef Stefan](https://en.wikipedia.org/wiki/Josef_Stefan) (1835-1893) inferred from his observations that the rate at which energy is radiated from a heating body should be proportional to the fourth power of its absolute temperature. Later, in 1884, an assistant of Stefan's at the University of Vienna, Ludwig Edward Boltzmann (1844-1906), calculated the speed of the particles of a gas to obtain the radiation pressure exerted by a piston on the molecules of the gas contained inside a cylinder. From these two contributions, an inference from experimental data and a theoretical derivation, the Stefan-Boltzmann law resulted: when the contributions of all wavelengths are added the total power radiated per unit area of the cavity opening is $I(T) = σT^4$, where σ is Stefan's constant.
 
 ***
 
 STAGE 2: *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
 
-According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by Wilhelm Carl Werner Otto Fritz Franz Wien (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
+According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by [Wilhelm Carl Werner Otto Fritz Franz Wien](https://en.wikipedia.org/wiki/Wilhelm_Wien) (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
 	
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Blackbody_Spectrum.PNG" width=480 align=center>
@@ -88,15 +88,14 @@ According to experimental results, the maximum intensity of the radiation emitte
 
 Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law and is considered in Wien´s Physics Nobel Lecture (section 5.3 and Appendix 5.1). 
 
-!!! tip "1911 Physics Nobel Prize awarded to Wien." 
 
-	WORK: “When a completely dark body is heated, it emits visible light and other electromagnetic radiation. The spectrum of the radiation is entirely dependent on the temperature of the body and not its composition. In 1893 Wilhelm Wien (1864-1928) formulated his displacement law, which indicates at which wavelength the radiation is most intense at a certain temperature. He subsequently also formulated a law indicating how the radiation spectrum varies as temperature changes. However, this does not apply to long wavelengths, and in 1900 Max Planck formulated a law that conforms better.”
+WORK: “When a completely dark body is heated, it emits visible light and other electromagnetic radiation. The spectrum of the radiation is entirely dependent on the temperature of the body and not its composition. In 1893 Wilhelm Wien (1864-1928) formulated his displacement law, which indicates at which wavelength the radiation is most intense at a certain temperature. He subsequently also formulated a law indicating how the radiation spectrum varies as temperature changes. However, this does not apply to long wavelengths, and in 1900 Max Planck formulated a law that conforms better.”
 
-	MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
+MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
 
-	NOBEL LECTURE: *On the Laws of Thermal Radiation* by Wien.
+NOBEL LECTURE: *On the Laws of Thermal Radiation* by Wien.
 
-	MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/	
+MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/	
 
 Meanwhile, the British physicist John William Strutt, third Baron Rayleigh (1842 – 1919), obtained in June 1900 a formula to calculate the number of free electromagnetic vibration modes per unit volume in the cavity and per unit wavelength. Later, the British astronomer Sir James Hopwood Jeans (1877 – 1946) made some corrections, obtaining the expression $uλ = 8πkT/λ$ for the energy density per unit interval of wavelength, later called the Rayleigh – Jeans law. This law was consistent with experiments for low infrared frequencies, where Wien's law failed, but for short wavelengths or high frequencies it predicted infinite emission in the ultraviolet, termed the “ultraviolet catastrophe”. 
 
@@ -122,9 +121,9 @@ In the limit of $λ→0$ Planck's law leads to Wien's law when $exp(hc/(kTλ)) >
 
 STAGE 3: *Description in a formal language corresponding to the reasoning process that leads to the solution The use of diagrams, schemes and other iconic elements is proposed.* 
 
-The possible reasoning followed by Planck is described below:
+The possible reasoning followed by [Planck](https://en.wikipedia.org/wiki/Max_Planck) is described below:
 
-**1. Incompatibility between experiments and theories:** Consider how the experimental values obtained by spectroscopists are compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies (Rayleigh – Jeans law).
+**1. Incompatibility between experiments and theories:** Consider how the experimental values obtained by spectroscopists are compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies ([Rayleigh](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh) – [Jeans law](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Jeans_law)).
 
 **2. Model of the black body:** For each value of the wavelength the intensity of the radiation emitted by the black body only depends on the temperature and is independent of the material of the cavity. Remember that at the beginning of the last century the physical existence of the atom was not yet accepted, nor was there a model of its structure.
 
@@ -138,7 +137,7 @@ The possible reasoning followed by Planck is described below:
 
 ***
 
-STAGE 4: Consideration of the changes introduced by Planck's solution according to what characterizes scientific revolutions (Kuhn, 1962):
+STAGE 4: Consideration of the changes introduced by Planck's solution according to what characterizes [scientific revolutions](https://en.wikipedia.org/wiki/Scientific_Revolution) (Kuhn, 1962):
 	
 (1)	*Changes in meanings of basic terms and the way words and phrases relate to nature.*
 
@@ -152,15 +151,14 @@ Regarding taxonomic categories, the atomic theory was little accepted at that ti
 
 Planck solved the blackbody radiation problem by treating it in a similar way to the probabilistic problem Boltzmann addressed. However, Planck started from different premises; his hypothesis of the quantum of energy has no analogue in classical physics. (See section 5.3 and Appendix 5.2).
 
-!!! tip "1918 Physics Nobel Prize awarded to Planck."
 
-	WORK: “When a black body is heated, electromagnetic radiation is emitted with a spectrum corresponding to the temperature of the body, and not to its composition. Calculating the form of the spectrum using then-known physical laws gave an unreasonable result; the radiation in the high-frequency area of the spectrum became infinite. Max Planck solved this problem in 1900 by introducing the theory of “quanta”, that is, that radiation consists of quanta with specific energies determined by a new fundamental constant, thereafter called Planck’s constant.”
+WORK: “When a black body is heated, electromagnetic radiation is emitted with a spectrum corresponding to the temperature of the body, and not to its composition. Calculating the form of the spectrum using then-known physical laws gave an unreasonable result; the radiation in the high-frequency area of the spectrum became infinite. Max Planck solved this problem in 1900 by introducing the theory of “quanta”, that is, that radiation consists of quanta with specific energies determined by a new fundamental constant, thereafter called Planck’s constant.”
 
-	MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
+MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
 
-	NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory* by Planck.
+NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory* by Planck.
 
-	MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
+MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
 
 ***
 
