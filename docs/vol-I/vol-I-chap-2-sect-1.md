@@ -212,7 +212,7 @@ What follows is a scheme describing the experimental setting where the three reg
 	
 <center>
 	(Images credit: Figure 2.4a is taken from CC Wikimedia Commons; Figure 2.4b is a drawing made by the authors.)
-	</center>
+</center>
 	
 **Figure 2.4.**  Setting for the Compton experiment: (a) regions for preparation (in blue), for transformation (in green) and for detection and measurement (in red); (b) vectorial diagram of the collision.
 
