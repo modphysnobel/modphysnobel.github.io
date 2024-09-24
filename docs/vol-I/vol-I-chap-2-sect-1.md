@@ -161,8 +161,10 @@ The region of **Detection and Measuremet** consisted in an external galvanometer
 	</td>
 	</tr>
 	</table>
+
 	
 (Images taken from CC Wikimedia Commons.)
+</center>
 
 **Figure 2.3.** Photograph of a vacuum tube used for the experiment (a) and results obtained by Franck-Hertz showing the current I registered in the anode versus the grid voltage V (b). 
 
