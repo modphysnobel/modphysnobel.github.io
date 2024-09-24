@@ -5,56 +5,55 @@
 
 ***
 
-## 5.   Energy quantization in the black body radiation.
+# 5.   Energy quantization in the black body radiation.
 
-!!! abstract "Introduction."
 
-	*Why the color of an object changes when it is heated?*
+*Why the color of an object changes when it is heated?*
 
-	This is the first chapter of the second volume on Energy: it deals with Thermodynamics and the beginning of quantum physics. Thermodynamics is the study of the macroscopic transformations of energy and implies the use of concepts such as temperature, heat, and entropy. However, at the beginning of last century classical thermodynamics was not enough to solve the black body radiation problem, making imperative the quantization of energy. 
+This is the first chapter of the second volume on Energy: it deals with [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics) and the beginning of quantum physics. Thermodynamics is the study of the macroscopic transformations of energy and implies the use of concepts such as temperature, heat, and entropy. However, at the beginning of last century classical thermodynamics was not enough to solve the [black body](https://en.wikipedia.org/wiki/Black-body_radiation) radiation problem, making imperative the quantization of energy. 
 
-	**Learning objectives of Chapter 5.**
+### Learning objectives of Chapter 5.
 
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	- Examine the main developments of the Kinetic theory of gases, the statements of the laws of Thermodynamics and the contents of some Chemistry Nobel Prizes related to Thermodynamics.
-	- Explain the meaning of quantization in classical Physics and in the black body radiation.
-	- Describe the content of two Nobel Lectures: *On the Laws of Thermal Radiation* by Wien and *The Genesis and Present State of Development of the Quantum Theory* by Planck.
+- Examine the main developments of the [Kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases), the statements of the laws of Thermodynamics and the contents of some Chemistry Nobel Prizes related to Thermodynamics.
+- Explain the meaning of [quantization](https://en.wikipedia.org/wiki/Quantization_(physics)) in classical Physics and in the black body radiation.
+- Describe the content of two Nobel Lectures: *On the Laws of Thermal Radiation* by Wien and *The Genesis and Present State of Development of the Quantum Theory* by Planck.
 
-!!! abstract "Description of content of Chapter 5."
+### Description of content of Chapter 5.
 
-	**Section 5.1. Kinetic theory of gases and Thermodynamics.**
+Section 5.1. Kinetic theory of gases and Thermodynamics.
  
-	We consider the main developments in the kinetic theory of gases, and the initial contributions to the development of Thermodynamics made by James Prescott Joule, Julius Robert Mayer, Nicolas Léonard Sadi Carnot, William Thomson - First Baron Kelvin, Rudolf Julius Emanuel Clausius and Walther Hermann Nernst. We review the statements of the laws of Thermodynamics. We also refer to the following Chemistry Nobel Prizes related to Thermodynamics: in 1920 to Walther Hermann Nernst, in 1949 to William Francis Giauque, in 1968 to Lars Onsager and in 1977 to Ilya Prigogine.
+We consider the main developments in the kinetic theory of gases, and the initial contributions to the development of Thermodynamics made by James Prescott Joule, Julius Robert Mayer, Nicolas Léonard Sadi Carnot, William Thomson - First Baron Kelvin, Rudolf Julius Emanuel Clausius and Walther Hermann Nernst. We review the statements of the laws of Thermodynamics. We also refer to the following Chemistry Nobel Prizes related to Thermodynamics: in 1920 to Walther Hermann Nernst, in 1949 to William Francis Giauque, in 1968 to Lars Onsager and in 1977 to Ilya Prigogine.
 
-	**Section 5.2.  The photon as a quantum of energy.**
+Section 5.2.  The [photon](https://en.wikipedia.org/wiki/Photon) as a quantum of energy.
 
-	We describe a simple case of quantization in classical Physics and analyze the first physical phenomena whose explanation required the quantization of energy: the electromagnetic radiation of a black body. 
+We describe a simple case of quantization in classical Physics and analyze the first physical phenomena whose explanation required the quantization of energy: the electromagnetic radiation of a black body described in terms of photons.
  
-	**Section 5.3.  Components of the explanation of a scientific theory.**
+Section 5.3.  Components of the explanation of a scientific theory.
 
-	In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture *On the Laws of Thermal Radiation* and Planck´s Nobel Lecture *The Genesis and Present State of Development of the Quantum Theory*. 
+In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture *On the Laws of Thermal Radiation* and Planck´s Nobel Lecture *The Genesis and Present State of Development of the Quantum Theory*. 
 
 ## 5.1.  Kinetic theory of gases and Thermodynamics.
 
-Key information: In 1811 Amadeo Avogadro (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 \times 10^{23}$ (molecules/mol).
+Key information: In 1811 [Amadeo Avogadro](https://en.wikipedia.org/wiki/Amedeo_Avogadro) (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 \times 10^{23}$ (molecules/mol).
 
 ### Main developments on the Kinetic theory of gases.
 
-Around 1738 Daniel Bernoulli (1700-1782) explained that the pressure in gases was due to the collisions of its molecules with the walls of the box that contains them. Years later, in 1851, James Prescot Joule (1818-1889) calculated that the average speed at which gas molecules move at ordinary temperatures was 400 m/s.
+Around 1738 [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) (1700-1782) explained that the pressure in gases was due to the collisions of its molecules with the walls of the box that contains them. Years later, in 1851, James Prescot Joule (1818-1889) calculated that the average speed at which gas molecules move at ordinary temperatures was 400 m/s.
 
-In 1802 Joseph Louis Gay-Lussac (1778-1850) formulated an empirical rule that governed the behavior of gases: if the mass and pressure of a gas remain constant, its volume increases proportionally with temperature. Subsequently, James Clerk Maxwell (1831-1879) and Ludwig Edward Boltzmann (1844-1906) established the kinetic theory of gases, making use of probabilistic notions to treat the random movements of molecules. They explained, for example, that on average molecules move faster in hotter substances and that heat is a form of energy due to such random motion. In summary, the kinetic theory of gases indicates that:
+In 1802 [Joseph Louis Gay-Lussac](https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac) (1778-1850) formulated an empirical rule that governed the behavior of gases: if the mass and pressure of a gas remain constant, its volume increases proportionally with temperature. Subsequently, [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879) and [Ludwig Edward Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906) established the kinetic theory of gases, making use of probabilistic notions to treat the random movements of molecules. They explained, for example, that on average molecules move faster in hotter substances and that heat is a form of energy due to such random motion. In summary, the kinetic theory of gases indicates that:
 
 - Gases are made up of colliding particles that follow the reversible laws of classical mechanics.
 - Gases are not made up of a subtle and continuous, elastic, compressible and extensible matter, but of tiny solid particles; according to Avogadro's hypothesis they were identified with molecules.
 - The molecules of a gas are separated from each other by relatively large distances; therefore, the macroscopic volume occupied by a given amount of gas is mostly empty.
 - The molecules of a gas have great speed; furthermore, they move chaotically in all directions, continually colliding with each other and with the walls of the container.
 
-The kinetic theory of gases introduced concepts such as collision probability, mean free path, energy equipartition and velocity distribution. Nevertheless, these concepts are not enough to explain the irreversibility of macroscopic phenomena. According to Boltzmann, the irreversibility of the movement of the particles in a gas needs to be approached statistically; that is, by considering a very large number of particles and calculating average values.
+The kinetic theory of gases introduced concepts such as collision probability, mean free path, energy equipartition and velocity distribution. Nevertheless, these concepts are not enough to explain the irreversibility of macroscopic phenomena. According to Boltzmann, the [irreversibility](https://en.wikipedia.org/wiki/Irreversible_process) of the movement of the particles in a gas needs to be approached statistically; that is, by considering a very large number of particles and calculating average values.
 
-It was Boltzmann who established the connection between the macroscopic states that thermodynamics describes and the microscopic states that statistical mechanics deals with. For example, the entropy (S) of the system is a macroscopic variable that is a function of three variables: energy (E), volume (V), and number of particles (N). These variables are related to the number of microscopic configurations or possible states (Ω) such that the entropy is the function $S(E,N,V) = k_Blog(Ω)$, where $k_B$ is the Boltzmann constant.
+It was Boltzmann who established the connection between the macroscopic states that thermodynamics describes and the microscopic states that [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) deals with. For example, the [entropy](https://en.wikipedia.org/wiki/Entropy) (S) of the system is a macroscopic variable that is a function of three variables: [energy](https://en.wikipedia.org/wiki/Energy) (E), volume (V), and number of particles (N). These variables are related to the number of microscopic configurations or possible states (Ω) such that the entropy is the function $S(E,N,V) = k_Blog(Ω)$, where $k_B$ is the Boltzmann constant.
 
-### The laws of Thermodynamics.
+### The [laws of Thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics).
 
 The name Thermodynamics means: Thermo (heat) and dynamics: the dynamic of heat (the study of processes involving transferences of heat). Nowadays it has been extended to the study of processes involving transferences of energy. Thermodynamics is a science of a phenomenological type.  It refers to theories and models that were first derived from experience and then formulated in terms of abstract concepts that give meaning to certain physical phenomena. The statements of the four laws of Thermodynamics are the following:
 
@@ -103,21 +102,21 @@ The founding fathers of Thermodynamics are shown in next Figure 5.1.
 
 **Figure 5.1.** The founding fathers of Thermodynamics: Joule, Mayer and Carnot in the first row; Clausius, Thomson and Nernst in the second row.
 
-Independently and practically simultaneously James Prescott Joule (1818-1889) and Julius Robert Mayer (1814-1878) verified the transformation of mechanical work into heat and vice versa. Nearby 1840 they established a quantitative connection between heat and mechanical energy. In 1849, Joule published his experimental results showing that heat is a form of energy and measured the mechanical equivalent of heat. In 1846 Mayer published *Organic Motion*, a study of electrical and biological phenomena. In that publication Mayer presented what would later become known as the principle of conservation of energy. Years later, in 1851, Mayer published *Notes on the mechanical equivalent of heat*.
+Independently and practically simultaneously [James Prescott Joule](https://en.wikipedia.org/wiki/James_Prescott_Joule) (1818-1889) and [Julius Robert Mayer](https://en.wikipedia.org/wiki/Julius_von_Mayer) (1814-1878) verified the transformation of mechanical work into heat and vice versa. Nearby 1840 they established a quantitative connection between heat and mechanical energy. In 1849, Joule published his experimental results showing that heat is a form of energy and measured the mechanical equivalent of heat. In 1846 Mayer published *Organic Motion*, a study of electrical and biological phenomena. In that publication Mayer presented what would later become known as the principle of conservation of energy. Years later, in 1851, Mayer published *Notes on the mechanical equivalent of heat*.
 
-In 1824 Nicolas Léonard Sadi Carnot (1796-1832) studied the efficiency of an idealized steam engine. This work served for the formulation around 1850 of the First law concerning the conservation of energy. It was William Thomson, First Baron Kelvin (1824-1907) who formulated the first and second laws of thermodynamics. 
+In 1824 [Nicolas Léonard Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot) (1796-1832) studied the efficiency of an idealized steam engine. This work served for the formulation around 1850 of the First law concerning the conservation of energy. It was William Thomson, First Baron Kelvin (1824-1907) who formulated the first and second laws of thermodynamics. 
 
-Meanwhile, Rudolf Julius Emanuel Clausius (1822-1888) published in 1850 *On the motive force of heat and Laws of heat that can be deduced*, where he established the basic ideas of the second law of thermodynamics. Later, in 1865 he introduced the concept of entropy, which in Greek means evolution or transformation; this quantity measures the degree of organization in a system. That same year he published *The Mechanical Theory of Heat – with its Applications to the Steam Engine and to Physical Properties of Bodies.*
+Meanwhile, [Rudolf Julius Emanuel Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) (1822-1888) published in 1850 *On the motive force of heat and Laws of heat that can be deduced*, where he established the basic ideas of the second law of thermodynamics. Later, in 1865 he introduced the concept of entropy, which in Greek means evolution or transformation; this quantity measures the degree of organization in a system. That same year he published *The Mechanical Theory of Heat – with its Applications to the Steam Engine and to Physical Properties of Bodies.*
 
-Furthermore, Walther Hermann Nernst Görbitz (1864-1941) formulated in 1912 the so-called heat theorem, which states that entropy tends to vanish when the temperature approaches absolute zero. His book *The New Heat Theorem* was published in 1926 and also in 1969.
+Furthermore, [Walther Hermann Nernst Görbitz](https://en.wikipedia.org/wiki/Walther_Nernst) (1864-1941) formulated in 1912 the so-called heat theorem, which states that entropy tends to vanish when the temperature approaches absolute zero. His book *The New Heat Theorem* was published in 1926 and also in 1969.
 
-Nevertheless, there was a time in the history of physics when the unproven existence of atoms was doubted. Positivists who were members of the so-called energy school, such as Ernst Mach (1838-1916) and Wilhelm Ostwald (1853-1932), claimed that the objective of science should be reduced to describe the observable world through directly verifiable mathematical laws without the need for introducing hypotheses about the internal structure of matter or the purpose of explaining phenomena not directly verifiable through experiment.
+Nevertheless, there was a time in the history of physics when the unproven existence of atoms was doubted. Positivists who were members of the so-called energy school, such as [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916) and [Wilhelm Ostwald](https://en.wikipedia.org/wiki/Wilhelm_Ostwald) (1853-1932), claimed that the objective of science should be reduced to describe the observable world through directly verifiable mathematical laws without the need for introducing hypotheses about the internal structure of matter or the purpose of explaining phenomena not directly verifiable through experiment.
 
 ### Chemistry Nobel Lectures related to Thermodynamics.
 
 In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: some excerpts from the Presentation Speech corresponding to the Award ceremony speech, the complete document called Work which is a descriptive explanation of the contributions made by the laureate, and his Nobel Lecture, including the title and subtitles, when they are in the original. For all these documents their appropriate references are indicated in MLA format. 
 
-**In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in thermochemistry”.
+**In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in [thermochemistry](https://en.wikipedia.org/wiki/Thermochemistry)”.
 
 <u>*Presentation Speech*</u> by Professor Gerard de Geer, President of the Royal Swedish Academy of Sciences, on December 10, 1921.
 
@@ -145,24 +144,22 @@ Later, since the inception of chemistry, the connection between chemical reactio
 	
 “The most significant advance which chemistry owes to Nernst’s thermochemical work might in short be stated by saying that it is now possible to calculate beforehand the conditions under which a given chemical reaction will take place to the extent where a required product will be obtained in sufficient quantities to make the method of production a practical proposition. Technical difficulties can naturally appear during the course of the experiments, but it is a most significant step forward to know that the aim can be achieved and that there is every chance that the experiments will finally succeed.”
 
-!!! tip "1920 Chemistry Nobel Prize awarded to Nernst."
+WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst (1864-1941) was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
 
-	WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst (1864-1941) was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
+MLA style: Walther Nernst – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/facts/
 
-	MLA style: Walther Nernst – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/facts/
+NOBEL LECTURE: *Studies in Chemical Thermodynamics* by Nernst.
 
-	NOBEL LECTURE: *Studies in Chemical Thermodynamics* by Nernst.
+“I should best fulfil my obligation to give a lecture relating to my prizewinning publications, if I discussed my heat theorem, which supplements the older thermodynamics, with special reference to its chemical applications, and described the experimental tests which it has undergone in numerous investigations in my laboratory. 
 
-	“I should best fulfil my obligation to give a lecture relating to my prizewinning publications, if I discussed my heat theorem, which supplements the older thermodynamics, with special reference to its chemical applications, and described the experimental tests which it has undergone in numerous investigations in my laboratory. 
+But this has already been done, especially in recent years, by a number of different authors in textbooks and monographs. On this important occasion, a keen desire to avoid simply repeating what has been said earlier, prompts me to discuss the subject from the viewpoint of electrochemistry.”
 
-	But this has already been done, especially in recent years, by a number of different authors in textbooks and monographs. On this important occasion, a keen desire to avoid simply repeating what has been said earlier, prompts me to discuss the subject from the viewpoint of electrochemistry.”
-
-	MLA style: Walther Nernst – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/lecture/
+MLA style: Walther Nernst – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/lecture/
 
 
 ***
 
-**In 1949:** to William Francis Giauque (1895-1982) “for his contributions in the field of chemical thermodynamics, particularly concerning the behavior of substances at extremely low temperatures”.
+**In 1949:** to [William Francis Giauque](https://en.wikipedia.org/wiki/William_Giauque) (1895-1982) “for his contributions in the field of [chemical thermodynamics](https://en.wikipedia.org/wiki/Chemical_thermodynamics), particularly concerning the behavior of substances at extremely low temperatures”.
 
 <u>*Presentation Speech*</u> by Professor A. Tiselius, member of the Nobel Committee for Chemistry of the Royal Swedish Academy of Sciences.
 
@@ -200,25 +197,24 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 “Giauque’s achievements in the field of chemical thermodynamics and especially his work on the behaviour of matter at low temperatures and his closely allied studies of entropy comprise one of the most significant contributions to modern physical chemistry.” …
 
-!!! tip "1949 Chemistry Nobel Prize awarded to Giauque."
 
-	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque (1895-1982) used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
+WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque (1895-1982) used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
 
-	MLA style: William F. Giauque – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/facts/
+MLA style: William F. Giauque – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/facts/
 
-	NOBEL LECTURE: *Some Consequences of Low Temperature Research in Chemical Thermodynamics* by Giauque.
+NOBEL LECTURE: *Some Consequences of Low Temperature Research in Chemical Thermodynamics* by Giauque.
 
-	“The basic purpose which underlies most of the work in the Low Temperature Laboratory, of the University of California, is the study of entropy. It is easy for a chemist to write an equation for a desired reaction, but this does not mean that the reaction will actually take place. If one knows the heats of formation and entropies of the substances concerned in the equation, the so-called free energy or thermodynamic potential of the reaction may be calculated. A knowledge of the free energy change permits chemists to determine all reactions which are thermodynamically possible and the extent to which they are possible. When it has been found that a certain reaction should go, but experiment fails, then a catalyst can be sought or the conditions can be altered so as to secure a practicable rate of reaction. If the free energy shows that the reaction is thermodynamically impossible, a search for a catalyst is futile.”
+“The basic purpose which underlies most of the work in the Low Temperature Laboratory, of the University of California, is the study of entropy. It is easy for a chemist to write an equation for a desired reaction, but this does not mean that the reaction will actually take place. If one knows the heats of formation and entropies of the substances concerned in the equation, the so-called free energy or thermodynamic potential of the reaction may be calculated. A knowledge of the free energy change permits chemists to determine all reactions which are thermodynamically possible and the extent to which they are possible. When it has been found that a certain reaction should go, but experiment fails, then a catalyst can be sought or the conditions can be altered so as to secure a practicable rate of reaction. If the free energy shows that the reaction is thermodynamically impossible, a search for a catalyst is futile.”
 
-	“The third law of thermodynamics, which developed from the Nernst Heat Theorem, states that all perfect crystalline substances approach zero entropy as the absolute zero of temperature is approached. According to this statement a knowledge of the heat capacity, to sufficiently low temperatures, will permit the calculation of the absolute entropy of a substance. It was this possibility which interested me in low temperature research.”
+“The third law of thermodynamics, which developed from the Nernst Heat Theorem, states that all perfect crystalline substances approach zero entropy as the absolute zero of temperature is approached. According to this statement a knowledge of the heat capacity, to sufficiently low temperatures, will permit the calculation of the absolute entropy of a substance. It was this possibility which interested me in low temperature research.”
 	
-	MLA style: William F. Giauque – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/lecture/
+MLA style: William F. Giauque – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/lecture/
 
 …..
 
 ***
 
-**In 1968:**  to Lars Onsager (1903-1976) “for the discovery of the reciprocal relations bearing his name, which are fundamental for the thermodynamics of irreversible processes”.
+**In 1968:**  to [Lars Onsager](https://en.wikipedia.org/wiki/Lars_Onsager) (1903-1976) “for the discovery of the [reciprocal relations](https://en.wikipedia.org/wiki/Onsager_reciprocal_relations) bearing his name, which are fundamental for the thermodynamics of [irreversible processes](https://en.wikipedia.org/wiki/Irreversible_process)”.
 
 <u>*Presentation Speech*</u> by Professor S. Claesson of the Royal Swedish Academy of Sciences.
 
@@ -249,21 +245,20 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 “The proof of the reciprocal relations was brilliant. Onsager started from a statistical mechanical calculation of the fluctuations in a system, which could be directly based on the simple laws of motion which are symmetrical with regard to time. Furthermore, he made the independent assumption that the return of a fluctuation to equilibrium in the mean occurs according to the transport equations mentioned earlier. By means of this combination of macroscopic and microscopic concepts in conjunction with an extremely skilful mathematical analysis he obtained those relationships which are now called Onsager’s Reciprocal Relations.”
 
-!!! tip "1968 Chemistry Nobel Prize awarded to Onsager."
 
-	WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager (1903-1976) analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
+WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager (1903-1976) analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
 
-	MLA style: Lars Onsager – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/facts/
+MLA style: Lars Onsager – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/facts/
 
-	NOBEL LECTURE: *The Motion of Ions: Principles and Concepts* by Onsager.
+NOBEL LECTURE: *The Motion of Ions: Principles and Concepts* by Onsager.
 
-	“Today I shall try to help you grasp the significance of a fairly general principle which applies to diverse types of irreversible processes. After last night it will be just as well if we do not go into all fine points of definitions or survey all possible applications. Rather, I want to talk about progress over a period of time in one field of research where much has happened (some of this relevant to the principle I mentioned) and intriguing problems still remain. Before we survey the progress in our understanding of electrolytes since the days of Arrhenius, let us take a quick look at what went before.”
+“Today I shall try to help you grasp the significance of a fairly general principle which applies to diverse types of irreversible processes. After last night it will be just as well if we do not go into all fine points of definitions or survey all possible applications. Rather, I want to talk about progress over a period of time in one field of research where much has happened (some of this relevant to the principle I mentioned) and intriguing problems still remain. Before we survey the progress in our understanding of electrolytes since the days of Arrhenius, let us take a quick look at what went before.”
 
-	MLA style: Lars Onsager – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/lecture/
+MLA style: Lars Onsager – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/lecture/
 
 ***
 
-**In 1977:** to Ilya Romanovich Prigogine (1917-2003) “for his contributions to non-equilibrium thermodynamics, particularly the theory of dissipative structures”.
+**In 1977:** to [Ilya Romanovich Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine) (1917-2003) “for his contributions to non-equilibrium thermodynamics, particularly the theory of [dissipative structures](https://en.wikipedia.org/wiki/Dissipative_system)”.
 
 <u>*Presentation Speech*</u> by Professor Stig Claesson of the Royal Swedish Academy of Sciences.
 
@@ -283,37 +278,36 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 “Prigogine has been particularly captivated by the problem of explaining how ordered structures – biological systems, for example – can develop from disorder. Even if Onsager’s relations are utilized, the classical principles of equilibrium in thermodynamics still show that linear systems close to equilibrium always develop into states of disorder which are stable to perturbations and cannot explain the occurrence of ordered structures.” 
 
-!!! tip "1977 Chemistry Nobel Prize awarded to Prigogine."
 
-	WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine (1917-2003) developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
+WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine (1917-2003) developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
  
-	MLA style: Ilya Prigogine – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/facts/
+MLA style: Ilya Prigogine – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/facts/
 
-	NOBEL LECTURE: *Time, Structure and Fluctuations* by Prigogine.
+NOBEL LECTURE: *Time, Structure and Fluctuations* by Prigogine.
 
-	- Introduction
+- Introduction
 
-	“The problem of time in physics and chemistry is closely related to the formulation of the second law of thermodynamics. Therefore another possible title of this lecture could have been: “the macroscopic and microscopic aspects of the second law of thermodynamics”. 
+“The problem of time in physics and chemistry is closely related to the formulation of the second law of thermodynamics. Therefore another possible title of this lecture could have been: “the macroscopic and microscopic aspects of the second law of thermodynamics”. 
   
-	“It is a remarkable fact that the second law of thermodynamics has played in the history of science a fundamental role far beyond its original scope. Suffice it to mention Boltzmann’s work on kinetic theory, Planck’s discovery of quantum theory or Einstein’s theory of spontaneous emission, which were all based on the second law of thermodynamics.” 
+“It is a remarkable fact that the second law of thermodynamics has played in the history of science a fundamental role far beyond its original scope. Suffice it to mention Boltzmann’s work on kinetic theory, Planck’s discovery of quantum theory or Einstein’s theory of spontaneous emission, which were all based on the second law of thermodynamics.” 
     
-	“It is the main thesis of this lecture that we are only at the beginning of a new development of theoretical chemistry and physics in which thermodynamic concepts will play an even more basic role. Because of the complexity of the subject we shall limit ourselves here mainly to conceptual problems. The conceptual problems have both macroscopic and microscopic aspects. For example, from the macroscopic point of view classical thermodynamics has largely clarified the concept of equilibrium structures such as crystals.” …..
+“It is the main thesis of this lecture that we are only at the beginning of a new development of theoretical chemistry and physics in which thermodynamic concepts will play an even more basic role. Because of the complexity of the subject we shall limit ourselves here mainly to conceptual problems. The conceptual problems have both macroscopic and microscopic aspects. For example, from the macroscopic point of view classical thermodynamics has largely clarified the concept of equilibrium structures such as crystals.” …..
 	
-	…..
+…..
 
-	“The inclusion of thermodynamic elements leads to a reformulation of (classical or quantum) dynamics. This is a most surprising feature. Since the beginning of this century we were prepared to find new theoretical structures in the microworld of elementary particles or in the macroworld of cosmological dimensions. We see now that even for phenomena on our own level the incorporation of thermodynamic elements leads to new theoretical structures. This is the price we have to pay for a formulation of theoretical methods in which time appears with its full meaning associated with irreversibility or even with “history”, and not merely as a geometrical parameter associated with motion.”
+“The inclusion of thermodynamic elements leads to a reformulation of (classical or quantum) dynamics. This is a most surprising feature. Since the beginning of this century we were prepared to find new theoretical structures in the microworld of elementary particles or in the macroworld of cosmological dimensions. We see now that even for phenomena on our own level the incorporation of thermodynamic elements leads to new theoretical structures. This is the price we have to pay for a formulation of theoretical methods in which time appears with its full meaning associated with irreversibility or even with “history”, and not merely as a geometrical parameter associated with motion.”
 	
-	…..
+…..
 
-	- Entropy production
-	- Thermodynamic stability theory
-	- Application to chemical reactions
-	- The law of large numbers and the statistical description of chemical reactions
-	- The dynamic interpretation of the Lyapunov function
-	- Non-unitary transformation theory
-	- Concluding remarks
+- Entropy production
+- Thermodynamic stability theory
+- Application to chemical reactions
+- The law of large numbers and the statistical description of chemical reactions
+- The dynamic interpretation of the Lyapunov function
+- Non-unitary transformation theory
+- Concluding remarks
 
-	MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
+MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
 
 ***
 
