@@ -143,7 +143,7 @@ The region of **Detection and Measuremet** consisted in an external galvanometer
 	<tr>
 	<th width="50%">
 	<figure markdown>
-	<img width="200" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig10b.jpg?raw=true"> 
+	<img width="520" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-2-sect-1-Fig10b.jpg?raw=true"> 
 	</figure>
 	</th>
 	<th width="50%">
