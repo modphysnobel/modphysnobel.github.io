@@ -5,7 +5,7 @@
 
 ***
 
-## 7.  Brownian motion and specific heats.
+# 7.  Brownian motion and specific heats.
 
 
 *Under what conditions is statistical mechanics necessary?*
