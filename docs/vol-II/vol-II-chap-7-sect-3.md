@@ -194,7 +194,7 @@ DEBYE P. *Zur Theorie der spezifischen Wärmen*. Annalen der Physik, 39, 789-839
 
 PETIT, A.T.; DULONG, P.L. *Recherches sur quelques points importants de la Théorie de la Chaleur*. Annales de Chimie et de Physique,.10: 395–413, (1819).
 
-PAIS, A. “Subtle is the Lord…” *The Science and the Life of Albert Einstein*, Oxford University Press, Oxford, (1982).
+PAIS, A. *“Subtle is the Lord…” The Science and the Life of Albert Einstein*, Oxford University Press, Oxford, (1982).
 
 PERRIN, J. *Brownian Movement and Molecular Reality*. (F. Soddy, Traducción). Taylor and Francis, London, (1910).
 
