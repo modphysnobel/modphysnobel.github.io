@@ -47,7 +47,7 @@ The previous connection between three types of symmetry properties with their re
 "The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle). His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**." (Figure 8.1).
 
 <p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.1.jpg?raw=true" width=480 align=center>
+<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.1.jpg?raw=true" width=360 align=center>
 </p>
 
 <center>
