@@ -118,7 +118,7 @@ The n-region of the semiconductor has free electrons (excess electrons) and the 
 A [Light Emitting Diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED) is a semiconductor diode that generates light when it is traversed by an electric current. As a photocell generates a current when a radiation impacts on a metal, in a sort of inverse photoelectric effect a LED generates light when a current traverse a semiconductor. Depending on the material of the semiconductor the emitted light will be of different frequency corresponding to red, green, yellow, amber, or infrared colors. (Figure 8.3).
 
 <p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.2.jpg?raw=true" width=480 align=center>
+<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.2.jpg?raw=true" width=360 align=center>
 </p>
 
 <center>
