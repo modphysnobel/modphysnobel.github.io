@@ -7,9 +7,9 @@
 
 ## 7.3. Procedures to solve problems and explain solutions. 
 
-In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by Paul Langevin (1872 - 1946) to obtain Einstein´s equation for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
+In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by [Paul Langevin](https://en.wikipedia.org/wiki/Paul_Langevin) (1872 - 1946) to obtain Einstein´s equation for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
 
-TADIR is a problem solving procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Table 7.4 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
+TADIR is a [problem solving](https://en.wikipedia.org/wiki/Problem_solving) procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Table 7.4 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
 
 <p align="center" width="100%">
     <img width="720" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-3-fig1.PNG?raw=true"> 
@@ -186,21 +186,21 @@ The metacognitive component of the TADIR process would consist in comparing the 
 ### REFERENCES
 
 
-EINSTEIN, A. On the Motion Required by the Molecular Kineteic Theory of Heat of Particles Suspended in Fluids at Rest. Annalen der Physik, 17, 549-560, (1905). 
+EINSTEIN, A. *On the Motion Required by the Molecular Kineteic Theory of Heat of Particles Suspended in Fluids at Rest*. Annalen der Physik, 17, 549-560, (1905). 
 
-EINSTEIN, A. Die Plancksche Theorie der Strahlung und die Theorie der spezifischen Wärme.  Annalen der Physik, 22, 180-190, (1907).
+EINSTEIN, A. *Die Plancksche Theorie der Strahlung und die Theorie der spezifischen Wärme*.  Annalen der Physik, 22, 180-190, (1907).
 
-DEBYE P. Zur Theorie der spezifischen Wärmen. Annalen der Physik, 39, 789-839, (1912).
+DEBYE P. *Zur Theorie der spezifischen Wärmen*. Annalen der Physik, 39, 789-839, (1912).
 
-PETIT, A.T.; DULONG, P.L. Recherches sur quelques points importants de la Théorie de la Chaleur. Annales de Chimie et de Physique,.10: 395–413, (1819).
+PETIT, A.T.; DULONG, P.L. *Recherches sur quelques points importants de la Théorie de la Chaleur*. Annales de Chimie et de Physique,.10: 395–413, (1819).
 
-PAIS, A. “Subtle is the Lord…” The Science and the Life of Albert Einstein, Oxford University Press, Oxford, (1982).
+PAIS, A. “Subtle is the Lord…” *The Science and the Life of Albert Einstein*, Oxford University Press, Oxford, (1982).
 
-PERRIN, J. Brownian Movement and Molecular Reality. (F. Soddy, Traducción). Taylor and Francis, London, (1910).
+PERRIN, J. *Brownian Movement and Molecular Reality*. (F. Soddy, Traducción). Taylor and Francis, London, (1910).
 
-PERRIN, J. Les atomes, Cuarta edición, Librairie Alcan, París, (1914).
+PERRIN, J. *Les atomes*, Cuarta edición, Librairie Alcan, París, (1914).
 
-PERRIN, J. Atoms, (D.L. Hammick, Traductor), Van Nostrand, New York, (1916).
+PERRIN, J. *Atoms*, (D.L. Hammick, Traductor), Van Nostrand, New York, (1916).
 
 ***
 
