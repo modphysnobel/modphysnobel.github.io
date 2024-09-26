@@ -24,7 +24,7 @@ When the energy spectrum is continuous, the summation in the previous equation b
 
 Next, for each one of the previously mentioned models, we consider four stages for calculating the internal energy, to then obtain the specific heat $C_V$. In the first two stages (STAGE 1 and STAGE 2)  the interpretation model of the physical system and the corresponding distribution function are described. The next two stages (STAGE 3 and STAGE 4) refer to the calculations of the average energy, the internal energy and the specific heat $C_V$.
 
-### Dulong and Petit classic model.
+### [Dulong and Petit classic model.](https://en.wikipedia.org/wiki/Dulong%E2%80%93Petit_law)
 
 STAGE 1: description of the physical system.
 
@@ -69,7 +69,7 @@ However, more precise and recent measurements have shown that the results obtain
 
 **Figure 7.3.** Experimental values of specific heat at constant volume.
 
-### Einstein's quantum model.
+### [Einstein's quantum model.](https://en.wikipedia.org/wiki/Einstein_solid)
 
 STAGE 1: description of the physical system.
 
@@ -95,7 +95,7 @@ At low temperatures $βhν =  \frac{hν}{k_B T}≫ 1$ and the exponential $e^{ \
 
 $U=(3R)( \frac{hν}{k_B} )(e^{-βhν})$ and $C_V= \frac{dU}{dT} = (3R)( \frac{d}{dT})[\frac{hν}{k_B} (e^{-βhν})]=(3R)(\frac{hν}{k_B T})^2(e^{\frac{- hν}{k_B T}} )$.
 
-### Debye's quantum model.
+### [Debye's quantum model.](https://en.wikipedia.org/wiki/Debye_model)
 
 STAGE 1:  description of the physical system.
 
