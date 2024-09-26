@@ -5,11 +5,11 @@
 
 ***
 
-## 8.3. Anthropological spaces for the development of collective intelligence.
+## 8.3. Anthropological spaces for the development of [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence).
 
-This section contains information obtained from Paul Levy´s book *Collective intelligence. Mindkind´s emerging world in cyberspace* (2004) where he describes four anthropological spaces. All excerpts taken from this book are written in between quotation marks. 
+This section contains information obtained from Paul Levy´s book *Collective intelligence. Mindkind´s emerging world in [cyberspace](https://en.wikipedia.org/wiki/Cyberspace)* (2004) where he describes four anthropological spaces. All excerpts taken from this book are written in between quotation marks. 
 
-Levy defines anthropological spaces as “cultural manifestations of the dynamic evolution that tends to the construction of intelligent communities.”…”An anthropological space is a system of proximity (neighborhood) that defines a space and is anthropological because it is proper to humans. It depends on techniques, meanings, language, culture, conventions, representations and human emotions determined in the social spectrum.”
+Levy defines anthropological spaces as “cultural manifestations of the dynamic evolution that tends to the construction of intelligent communities.”…” An [anthropological](https://en.wikipedia.org/wiki/Anthropology) space is a system of proximity (neighborhood) that defines a space and is anthropological because it is proper to humans. It depends on techniques, meanings, language, culture, conventions, representations and human emotions determined in the social spectrum.”
 
 Each space is characterized by a specific transformation which is indicated in parentheses: the Earth (the matter), the Territory (the borders), the Merchandises (the flows) and the Knowledge (the knowledge). These spaces are associated with navigation instruments, objects of knowledge (the figures of the space) and certain technological supports.
 
@@ -70,19 +70,13 @@ The content of the conceptual developments and technological applications includ
 
 ### REFERENCES
 
-LÉVY, P.. Collective Intelligence. Cambridge, MA: Perseus Books. (1997).
+LÉVY, P.. *Collective Intelligence*. Cambridge, MA: Perseus Books. (1997).
 
-LÉVY, P. Inteligencia colectiva: por una antropología del ciberespacio. Biblioteca virtual en salud. Washington, D.C. Organización Panamericana de la Salud. (2004). Consulted in april 20, 2009 in <http://inteligenciacolectiva.bvsalud.org>.
+LÉVY, P. *Inteligencia colectiva: por una antropología del ciberespacio*. Biblioteca virtual en salud. Washington, D.C. Organización Panamericana de la Salud. (2004). Consulted in april 20, 2009 in <http://inteligenciacolectiva.bvsalud.org>.
 
-FEYNMAN, R. P., LEIGHTON R. B., and SANDS, M. The Feynman Lectures on Physics. Mainly Mechanics, Radiation of Heat, Volume I. Reading, MA: Addison-Wesly. (1963).
+FEYNMAN, R. P., LEIGHTON R. B., and SANDS, M. *The Feynman Lectures on Physics. Mainly Mechanics, Radiation of Heat*, Volume I. Reading, MA: Addison-Wesly. (1963).
 
-HELLEMANS, A, and BUNCH, B. The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science. New York. Simon and Schuster. (1988).
-
-Physics Nobel Prizes
-
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/press-release/
-
-Light-emitting diode. <https://en.wikipedia.org/wiki/Light-emitting_diode>
+HELLEMANS, A, and BUNCH, B. *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science*. New York. Simon and Schuster. (1988).
 
 ***
 
