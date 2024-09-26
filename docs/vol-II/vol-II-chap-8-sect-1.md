@@ -7,49 +7,58 @@
 
 # 8. Conservation and transformation of energy.
 
-!!! abstract "Introduction."
 
-	*Why a metal generates electrons when it is radiated with light and a LED emits light when electrons flow through it?*
+*Why a metal generates electrons when it is radiated with light and a LED emits light when electrons flow through it?*
   
-	This chapter deals with the production, conservation, dissipation and saving of energy. One of the most important practical problems to be faced in our time is conservation of energy in any process in which coming out energy must be equal to coming in energy minus what is spent to make the process possible and what is lost. Some missing energy is dissipated  meaning entropy increases. 
+This chapter deals with the production, conservation, dissipation and saving of energy. One of the most important practical problems to be faced in our time is [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy) in any process in which coming out energy must be equal to coming in energy minus what is spent to make the process possible and what is lost. Some missing energy is dissipated  meaning entropy increases. 
 
-	**Learning objectives of Chapter 8.**
+### Learning objectives of Chapter 8.
 
-	After this Chapter you should be able to:
+After this Chapter you should be able to:
 
-	- Describe Hamilton's principle of least action and Noether's theorem; then consider the existence of conservation laws in connection with symmetries in physical systems.  
-	- Analyze Einstein´s explanation of the photoelectric effect and describe the 2014 Physics Nobel Prize awarded for the invention of LEDs.
-	- Explain some conceptual developments and technological applications on energy connected with the four anthropological spaces related to the Earth, the Territory, the Merchandises and the Knowledge. 
+- Describe Hamilton's principle of least action and Noether's theorem; then consider the existence of conservation laws in connection with symmetries in physical systems.  
+- Analyze Einstein´s explanation of the photoelectric effect and describe the 2014 Physics Nobel Prize awarded for the invention of LEDs.
+- Explain some conceptual developments and technological applications on energy connected with the four anthropological spaces related to the Earth, the Territory, the Merchandises and the Knowledge. 
 
-!!! abstract "Description of content of Chapter 8."
+### Description of content of Chapter 8.
 
-	**Section 8.1. Conservation laws and the existence of symmetries.**
+Section 8.1. Conservation laws and the existence of symmetries.
 
-	We relate conservation laws to invariant properties of mathematical transformations associated to translation and rotations in space and translation in time. Furthermore, we describe Hamilton's principle of least action and relate Noether's theorem with conservation laws.
+We relate conservation laws to invariant properties of mathematical transformations associated to translation and rotations in space and translation in time. Furthermore, we describe Hamilton's principle of least action and relate Noether's theorem with conservation laws.
 
-	**Section 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).**
+Section 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
 
-	As a critical application of the conservation of energy we discuss theoretical and experimental aspects of the photoelectric effect. We also consider several documents related to the 2014 Physics Nobel Prize awarded to Isamu Akasaki (1929-2021), Hiroshi Amano (1960) and Shuji Nakamura (1954) “for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources".             
+As a critical application of the conservation of energy we discuss theoretical and experimental aspects of the photoelectric effect. We also consider several documents related to the 2014 Physics Nobel Prize awarded to Isamu Akasaki (1929-2021), Hiroshi Amano (1960) and Shuji Nakamura (1954) “for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources".             
 
-	**Section 8.3. Anthropological spaces for the development of collective intelligence.**
+Section 8.3. Anthropological spaces for the development of collective intelligence.**
 
-	We explain the meaning of Anthropological spaces for the development of collective intelligence and then consider the main conceptual developments and technological applications on energy connected with four anthropological spaces: the Earth, the Territory, the Merchandises and the Knowledge. 
+We explain the meaning of Anthropological spaces for the development of collective intelligence and then consider the main conceptual developments and technological applications on energy connected with four anthropological spaces: the Earth, the Territory, the Merchandises and the Knowledge. 
 
 ## 8.1. Conservation laws and the existence of symmetries.
 
-Since ancient times it has been assumed that the Newtonian space has the properties of being homogeneous, that is, it is the same in every region and there are no privileged reference points (the origin of the coordinate system can be anywhere). Furthermore, space is isotropic because there are no preferred orientations, all directions are equally appropriate. Time is also homogeneous, because there are no favorite moments for the description of the evolution of phenomena; every origin of time is equally valid.
+Since ancient times it has been assumed that the [Newtonian space](https://en.wikipedia.org/wiki/Absolute_space_and_time) has the properties of being homogeneous, that is, it is the same in every region and there are no privileged reference points (the origin of the coordinate system can be anywhere). Furthermore, space is isotropic because there are no preferred orientations, all directions are equally appropriate. Time is also homogeneous, because there are no favorite moments for the description of the evolution of phenomena; every origin of time is equally valid.
 
 Each one of the previous properties of space and time implies that a physical property remains constant in the system because an invariant mathematical condition applies. What remains invariant in each case is the consequence of a symmetry with respect to a specific transformation in space or time. 
 
-The previous connection between three types of symmetry properties with their respective conservation laws is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote Richard Feynman (first two paragraphs of section 26-3 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
+The previous connection between three types of symmetry properties with their respective [conservation laws](https://en.wikipedia.org/wiki/Conservation_law) is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (first two paragraphs of section 26-3 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
 
 "Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident."
 
-"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or Fermat's principle. His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**."
+"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle). His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**." (Figure 8.1).
 
-### Hamilton's principle of least action and Noether's theorem.
+<p align="center">
+<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.1.jpg?raw=true" width=480 align=center>
+</p>
 
-The relationship between the invariance with respect to certain mathematical transformations and mechanical conservation laws is derived from a combined application of the principle of least action formulated in 1834 by William Rowan Hamilton (1805-1865) and one of the theorems established in 1918 by Amalie Emmy Noether (1882 - 1935). Before considering a very simplified description of such contributions, let us describe the notion of temporal evolution of a physical system in the configuration space.
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
+
+**Figure 8.1.** Refraction of light at point $P$ from a ray coming from an object point $A$ in air to an observation point $B$ in water. The Fermat's principle indicates that light takes a minimum time to travel the path $APB$ (distance $l_1 + l_2$).  
+
+### [Hamilton's principle of least action and Noether's theorem.](https://en.wikipedia.org/wiki/Hamilton%27s_principle)
+
+The relationship between the invariance with respect to certain mathematical transformations and mechanical conservation laws is derived from a combined application of the principle of least action formulated in 1834 by [William Rowan Hamilton](https://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805-1865) and one of the theorems established in 1918 by [Amalie Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether) (1882 - 1935). Before considering a very simplified description of such contributions, let us describe the notion of temporal evolution of a physical system in the configuration space.
 
 - Hamilton's principle resembles Fermat's principle; instead of minimizing the travel time of light, it considers trajectories in mechanical systems and minimizes the physical quantity called action, which is the product of the energy involved in a process multiplied by the duration of the process.
 
@@ -69,11 +78,11 @@ The relationship between the invariance with respect to certain mathematical tra
 	
 Let's look at three application cases: 
 
-1. If the homogeneity of time is considered, the Lagrangian does not depend on this variable, so $\frac{δL}{δt}=0$ and the system is invariant against translations in time. Since the variable conjugate to time is energy, there is a law of conservation of energy.
+1. If the [homogeneity](https://en.wikipedia.org/wiki/Homogeneity_%28physics%29) of time is considered, the Lagrangian does not depend on this variable, so $\frac{δL}{δt}=0$ and the system is invariant against translations in time. Since the variable conjugate to time is energy, there is a law of conservation of energy.
 
 2. In the case of the homogeneity of space, the system is invariant against displacements in space because there are no privileged positions; this corresponds to the law of conservation of linear momentum.
 
-3. The isotropy of space indicates that there are no privileged orientations, so that the system is invariant against a rotation in space, which implies that there is a law of conservation of angular momentum.
+3. The [isotropy](https://en.wikipedia.org/wiki/Isotropy) of space indicates that there are no privileged orientations, so that the system is invariant against a rotation in space, which implies that there is a law of conservation of angular momentum.
 
 ***
 
