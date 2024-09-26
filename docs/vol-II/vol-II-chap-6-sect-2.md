@@ -33,7 +33,7 @@ Source: diagram elaborated by the authors.
 
 ### [Lamb shift](https://en.wikipedia.org/wiki/Lamb_shift) measurements.
 
-Beginning in 1947, Lamb and Retherford measured with an accuracy of one part in ten thousand the transitions between the $2S_{1/2}$ and $2P_{1/2}$ levels. According to Dirac's theory, these levels should have the same energy (degenerate states) and there could be no radiative transitions between them. These states have the same quantum numbers $n$ and $j$: the radial number $n = 2$ and the total angular momentum number $j = ½$. However, the orbital angular momentum quantum numbers are different: $l = 0$ for the $2S_{1/2}$ state and $l = 1$ for the $2P_{1/2}$ state.
+Beginning in 1947, [Lamb and Retherford](https://en.wikipedia.org/wiki/Lamb_shift) measured with an accuracy of one part in ten thousand the transitions between the $2S_{1/2}$ and $2P_{1/2}$ levels. According to Dirac's theory, these levels should have the same energy (degenerate states) and there could be no radiative transitions between them. These states have the same quantum numbers $n$ and $j$: the radial number $n = 2$ and the total angular momentum number $j = ½$. However, the orbital angular momentum quantum numbers are different: $l = 0$ for the $2S_{1/2}$ state and $l = 1$ for the $2P_{1/2}$ state.
 
 Lamb and Retherford confirmed that the $2S_{1/2}$ level was above the $2P_{1/2}$ level and that the separation was 0.033 $cm^{-1}$ (about the order of 1000 MHz). The first measured value was 1060 MHz and later on the value of 1,057.845 MHz was obtained. The theoretical calculation made by Bethe in 1947 was 1040 MHz; afterwards the value of 1,057.853 MHz was reported.
 
