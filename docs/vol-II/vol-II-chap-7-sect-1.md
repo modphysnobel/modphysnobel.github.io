@@ -7,33 +7,32 @@
 
 ## 7.  Brownian motion and specific heats.
 
-!!! abstract "Introduction."
 
-	*Under what conditions is statistical mechanics necessary?*
+*Under what conditions is statistical mechanics necessary?*
 
-	Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num).  When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic model of the system, a statistical procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
+Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num). When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic [model of the system](https://en.wikipedia.org/wiki/Systems_modeling), a [statistical](https://en.wikipedia.org/wiki/Statistics) procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
 
-	**Learning objectives of Chapter 7.**
+### Learning objectives of Chapter 7.
 
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	- Explain the phenomena of Brownian motion from both perspectives: the theoretical one based on Einstein´s interpretation and the experimental one derived from Perrin´s work.
-	- Describe the calculations of the specific heat in solids according to the models proposed by Dulong and Petit, by Einstein and by Debye.
-	- Describe the problem-solving steps proposed by Langevin to obtain Einstein´s Brownian motion equation.
+- Explain the phenomena of [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) from both perspectives: the theoretical one based on Einstein´s interpretation and the experimental one derived from Perrin´s work.
+- Describe the calculations of the [specific heat in solids](https://en.wikipedia.org/wiki/Specific_heat_capacity) according to the models proposed by Dulong and Petit, by Einstein and by Debye.
+- Describe the problem-solving steps proposed by Langevin to obtain Einstein´s Brownian motion equation.
 
-!!! abstract "Description of content of Chapter 7."
+### Description of content of Chapter 7.
 
-	**Section 7.1. Experimental results concerning the Brownian motion.**
+Section 7.1. Experimental results concerning the Brownian motion.**
 
-	We discuss two contributions to the study of Brownian motion: the theoretical calculation made by Einstein and the experimental procedures reported by Perrin. We also consider the 1926 Physics Nobel Lecture *Discontinuous Structure of Matter* by J.B. Perrin. 
+We discuss two contributions to the study of Brownian motion: the theoretical calculation made by Einstein and the experimental procedures reported by Perrin. We also consider the 1926 Physics Nobel Lecture *Discontinuous Structure of Matter* by J.B. Perrin. 
 
-	**Section 7.2. Statistical mechanical calculations of the specific heat in solids.**
+Section 7.2. Statistical mechanical calculations of the specific heat in solids.**
 
-	We consider the calculations of the specific heat at constant volume in solids, according to three models: the classic model by Dulong and Petit where the solid is formed by independent classical harmonic oscillators, the quantum models by Einstein where the solid is composed by quantized harmonic oscillators all of them with the same frequency, and the quantum model by Deby where the solid is a continuous elastic body whose internal energy is due to quantized vibrational states of stationary elastic waves, the phonons.
+We consider the calculations of the specific heat at constant volume in solids, according to three models: the classic model by Dulong and Petit where the solid is formed by independent classical harmonic oscillators, the quantum models by Einstein where the solid is composed by quantized harmonic oscillators all of them with the same frequency, and the quantum model by Deby where the solid is a continuous elastic body whose internal energy is due to quantized vibrational states of stationary elastic waves, the phonons.
 
-	**Section 7.3. Procedure to solve problems and explain solutions.**
+Section 7.3. Procedure to solve problems and explain solutions.
 
-	We apply the *Procedure to solve problems and explain solutions* in the description of the steps of Langevin´s procedure to obtain Einstein's equation of Brownian motion.
+We apply the *Procedure to solve problems and explain solutions* in the description of the steps of [Langevin´s procedure](https://en.wikipedia.org/wiki/Langevin_equation) to obtain Einstein's equation of Brownian motion.
 
 ## 7.1. Experimental results concerning the Brownian motion.
 
@@ -41,13 +40,13 @@ To calculate average values of quantities related to physical observables, inter
 
 ### Einstein´s procedures.
 
-Albert Einstein (1879-1955) carried out in 1905 one of the first statistical mechanics calculations to explain the Brownian movement, having the audacity to assume the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the diffusion of many particles.
+[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955) carried out in 1905 one of the first [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) calculations to explain the Brownian movement, having the audacity to assume the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the diffusion of many particles.
 
 In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: “In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”.
 
 Einstein considered the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein assumed that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle.
 
-The expression $D = (RT)/(6πηaN_A)$ is called the Stokes-Einstein equation, where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
+The expression $D = (RT)/(6πηaN_A)$ is called the [Stokes-Einstein equation](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)), where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
 
 The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the $X$-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $X$ occurs. That is to say $λ_x=\sqrt{〈x^2〉}=\sqrt{2Dt}$. 
 
@@ -76,9 +75,9 @@ Einstein's theoretical work contributed to the following: (1) to demonstrate the
 
 ### Observations and measurements of the Brownian motion.
 
-The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist Robert Brown (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies*.
+The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies*.
 
-Many years later in 1910, Jean Perrin (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
+Many years later in 1910, [Jean Perrin](https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin) (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
 
 Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
 	
@@ -119,24 +118,23 @@ It was estimated that the Brownian particle received the order of $10^{14}$ coll
 
 The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document Work describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
 	
-!!! tip "1926 Physics Nobel Prize awarded to Perrin."
 
-	WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin (1870-1942) maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
+WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin (1870-1942) maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
 
-	MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
+MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
 
-	NOBEL LECTURE: *Discontinuous Structure of Matter* by Perrin. 
+NOBEL LECTURE: *Discontinuous Structure of Matter* by Perrin. 
 
-	- Introduction
-	- **The Brownian movement**
-	- Law of the vertical distribution of an emulsion
-	- Non-diluted emulsions
-	- **Measurements of the Brownian movement**
-	- The molecular reality
-	- Monomolecular films
-	- The discontinuous structure of the atom
+- Introduction
+- **The Brownian movement**
+- Law of the vertical distribution of an emulsion
+- Non-diluted emulsions
+- **Measurements of the Brownian movement**
+- The molecular reality
+- Monomolecular films
+- The discontinuous structure of the atom
 
-	MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
+MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
 
 In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
 
