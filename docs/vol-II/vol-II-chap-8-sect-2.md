@@ -10,7 +10,7 @@ Despite the existence of the first [law of Thermodynamics](https://en.wikipedia.
 
 ### A photocell is an energy transforming device.
 
-[Photocells](https://en.wikipedia.org/wiki/Solar_cell) convert light energy into an electric current in a similar way as in the photoelectric effect. There are three main types of photocells having specific functions:
+[Photocells](https://en.wikipedia.org/wiki/Solar_cell) convert light energy into an electric current in a similar way as in the photoelectric effect. There are three main types of [photodetectors](https://en.wikipedia.org/wiki/Photodetector) having specific functions:
 
 Photoconductive cells mainly function as light detectors. These devices have a beam of infrared light shining permanently on a light-dependent resistor; it produces a steady electric current. When the beam is interrupted the current is reduced. This change is detected by an electronic circuit that triggers specific actions like opening a door, sounding an alarm, turning on a faucet, …
 
@@ -20,7 +20,7 @@ Photovoltaic cells mainly function as power producers like miniature power plant
 
 ### Experimental evidence and Einstein´s explanation of the [photoelectric effect.](https://en.wikipedia.org/wiki/Photoelectric_effect)
 
-In the photoelectric effect the energy of the photoelectrons that leave the metal is equal to the energy of the incoming photons minus the energy required by the electrons to be liberated from the surface of the metal (the work function). 
+In the [photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect) the energy of the photoelectrons that leave the metal is equal to the energy of the incoming photons minus the energy required by the electrons to be liberated from the surface of the metal (the work function). 
 
 It is for the application of the conservation of energy to the photoelectric effect that Einstein was recognized in 1921 with a Physics Nobel Prize. The Physics Nobel Committee explained that such Prize was awarded “for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect”. However, his Nobel Lecture was related to relativity theories; it was already considered in Section 4.2. 
 
@@ -29,6 +29,7 @@ In a famous paper *On a heuristic point of view concerning the generation and co
 The photoelectric effect consists of the emission of electrons in certain metals due to the incidence of light radiation of certain frequencies; an electric current is generated as a consequence of the release of electrons that were trapped inside the metal. In metals there are electrons that move more or less freely through the crystal lattice; however, they will remain inside the metal surface unless they receive enough energy from the outside to overcome the metal work function (φ).
 
 The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure 8.2. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal. This is Einstein´s equation explaining the photoelectric effect: $E_c = ½mv^2=eV_0=hf-φ$.  
+
 
 
 
@@ -138,11 +139,6 @@ In what follows we include some excerpts of the document *Popular information: B
 
 MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/popular-information/
 
-For more information see Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
-
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/advanced-information/
-
-
 WORK: “Lighting plays a major role in our quality of life. The development of light-emitting diodes (LEDs) has made more efficient light sources possible. Creating white light that can be used for lighting requires a combination of red, green, and blue light. Blue LEDs proved to be much more difficult to create than red and green diodes. During the 1980s and 1990s [Isamu Akasaki](https://en.wikipedia.org/wiki/Isamu_Akasaki), [Hiroshi Amano](https://en.wikipedia.org/wiki/Hiroshi_Amano), and [Shuji Nakamura](https://en.wikipedia.org/wiki/Shuji_Nakamura) successfully used the difficult-to-handle semiconductor gallium nitride to create efficient blue LEDs.”
 
 MLA style: Isamu Akasaki – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 26 Jan 2024. https://www.nobelprize.org/prizes/physics/2014/akasaki/facts/
@@ -250,6 +246,10 @@ MLA style: Shuji Nakamura – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 “LED lamps are thus flexible light sources, already with several applications in the field of illumination – millions of different colours can be produced; the colours and intensity can be varied as needed. Colourful light panels, several hundred square metres in size, blink, change colours and patterns. And everything can be controlled by computers. The possibility to control the colour of light also implies that LED lamps can reproduce the alternations of natural light and follow our biological clock. Greenhouse-cultivation using artificial light is already a reality.”
 
 …..
+
+For more information see Scientific Background: Efficient blue light-emitting diodes leading to bright and energy-saving white light sources.
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 3 May 2023. https://www.nobelprize.org/prizes/physics/2014/advanced-information/
+
 
 ***
 
