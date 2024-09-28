@@ -22,7 +22,7 @@ The Chapters of this third Volume are the following:
 ## 9.   Matter waves and quantum mechanics principles.
 ### 9.1 [From a theoretical proposition to an experimental demonstration](vol-III-chap-9-sect-1.md).
 ### 9.2  [Correspondence and uncertainty principles in Quantum Physics](vol-III-chap-9-sect-2.md).
-### 9.3  [Communication formats for describing scientific texts](vol-III-chap-9-sect-3.md).
+### 9.3  [Communication forms for describing scientific texts.](vol-III-chap-9-sect-3.md)
 
 The transmission of energy of the electromagnetic radiation is usually considered in terms of waves, however the interactions of photons on matter shows that the quanta of energy present a corpuscle like behavior as in the photoelectric effect. Then, in a sort of symmetrical relationship, the transport of electrons is usually considered in terms of corpuscles, however the interactions of electrons with matter shows a diffraction pattern that corresponds to a wave like behavior as in the diffraction of electrons. The formulation of this new quantum mechanics of material waves and quantized states required new principles: the correspondence principle proposed by N.H. Bohr and the uncertainty principle proposed by W.K. Heisenberg. Physics Nobel Prizes were awarded to L. Broglie in recognition for his work on the existence of matter waves and to C.J. Davisson, and G.P. Thomson for the experimental demonstration of the diffraction of electrons. W.K. Heisenberg received a Physics Nobel Prize for his contributions to the creation of quantum mechanics.
 
@@ -45,7 +45,7 @@ Single particles are not easily isolated in the quantum domain because they lose
 ## 12.  Bosons or fermions in condensed matter.
 ### 12.1 [Boson condensation](vol-III-chap-12-sect-1.md).
 ### 12.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
-### 12.3  [Analysis of learning trajectories](vol-III-chap-12-sect-3.md).
+### 12.3  [Types of schools and learning trajectories](vol-III-chap-12-sect-3.md).
 
 Phonons are quantized sound waves that correspond to collective excitations representing quantized modes of vibration in lattices formed by elastic arrangement of atoms or molecules in condensed matter. Several condensates can be formed by bosons like pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation. According to Ginzburg, “superconductivity is the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid”. Einstein predicted the phenomena of condensation in a paper published in July 1924; nevertheless, the phenomena was experimentally discovered till 1994 by Cornell, Wieman and Ketterle. In connection with this prediction, it is worthwhile considering how prescriptive learning and emergent learning were present in Einstein´s life.
 
