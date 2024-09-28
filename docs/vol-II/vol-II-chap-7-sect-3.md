@@ -7,7 +7,7 @@
 
 ## 7.3. Procedures to solve problems and explain solutions. 
 
-In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by [Paul Langevin](https://en.wikipedia.org/wiki/Paul_Langevin) (1872 - 1946) to obtain Einstein´s equation for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
+In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by [Paul Langevin](https://en.wikipedia.org/wiki/Paul_Langevin) (1872 - 1946) to obtain [Einstein´s equation](https://en.wikipedia.org/wiki/Langevin_equation) for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
 
 TADIR is a [problem solving](https://en.wikipedia.org/wiki/Problem_solving) procedure composed of five components: Translation (T), Analysis (A), Design (D), Implementation (I) and Review (R). The first four components (TADI) are of cognitive nature and the last one (R) is metacognitive. In the following diagram we define the five TADIR components and in Table 7.4 we indicate the corresponding steps proposed by Langevin to obtain Einstein´s equation.  
 
