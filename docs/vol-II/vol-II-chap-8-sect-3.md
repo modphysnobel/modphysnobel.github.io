@@ -5,9 +5,9 @@
 
 ***
 
-## 8.3. Anthropological spaces for the development of [collective intelligence](https://en.wikipedia.org/wiki/Collective_intelligence).
+## 8.3. Anthropological spaces for the development of collective intelligence.
 
-This section contains information obtained from Paul Levy´s book *Collective intelligence. Mindkind´s emerging world in [cyberspace](https://en.wikipedia.org/wiki/Cyberspace)* (2004) where he describes four anthropological spaces. All excerpts taken from this book are written in between quotation marks. 
+This section contains information obtained from Paul Levy´s book [*Collective intelligence*](https://en.wikipedia.org/wiki/Collective_intelligence). *Mindkind´s emerging world in* [*cyberspace*](https://en.wikipedia.org/wiki/Cyberspace) (2004) where he describes four anthropological spaces. All excerpts taken from this book are written in between quotation marks. 
 
 Levy defines anthropological spaces as “cultural manifestations of the dynamic evolution that tends to the construction of intelligent communities.”…” An [anthropological](https://en.wikipedia.org/wiki/Anthropology) space is a system of proximity (neighborhood) that defines a space and is anthropological because it is proper to humans. It depends on techniques, meanings, language, culture, conventions, representations and human emotions determined in the social spectrum.”
 
