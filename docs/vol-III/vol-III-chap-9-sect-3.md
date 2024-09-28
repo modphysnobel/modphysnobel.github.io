@@ -5,12 +5,12 @@
 
 ***
 
-## 9.3.  Communication formats for describing scientific texts.
+## 9.3.  Communication forms for describing scientific texts.
 
-Information contained in scientific texts to be shared is usually expressed in terms of different communication formats or types of documents. In this section we deal with four communication formats related to a couple of communication strategies, as described in next Table 9.2.
+Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 9.2 for a description of these communication forms.
 
  <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/9.2.jpg?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3.png?raw=true"> 
 </p>
 
 
@@ -19,11 +19,7 @@ Information contained in scientific texts to be shared is usually expressed in t
 </center>
 
 
-(1) the strategy for the organization of contents to be communicated in terms of **diagrams** for showing structural interconnections and **designs** for describing components of systems or sequences of actions, and 
-
-(2) the strategy for the application of procedures to be communicated in terms of **dialogues** for promoting exchanges of opinions or confrontations of points of view and **discourses** for making public critical essays dealing with systems of concepts, models, or theories.
-
-Next, we analyze how the four previous communication formats can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given in MLA format.
+Next, we analyze how the four previous communication forms can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given in MLA format.
 
 ### (1). Flux DIAGRAM for obtaining de Broglie equation $𝑝= ℎ/𝜆$ (as described in Section 9.1 and explained in his Nobel Lecture).
 
@@ -55,28 +51,34 @@ Thomson experiments were different in two aspects:
 
 •	The diffracting material was not a single crystal, but a microcrystalline aggregate composed by randomly oriented individual crystals. This fact resulted in diffraction patterns of concentric circles that were received in a photographic plate.
 
-It is interesting to note that in 1897 Joseph John Thomson (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
+It is interesting to note that in 1897 [Joseph John Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
 
-!!! tip "1906 Physics Nobel Prize awarded to Thomson."
+WORK: “The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms.”
 
-	WORK: “The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms.”
+MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
 
-	MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
+NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
 
-	NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
-
-	- Introductory
-	- Electric deflection of the rays
-	- Determination of e/m
-	- Corpuscles very widely distributed
-	- Magnitude of the electric charge carried by the corpuscle
+- Introductory
+- Electric deflection of the rays
+- Determination of e/m
+- Corpuscles very widely distributed
+- Magnitude of the electric charge carried by the corpuscle
 	
-	MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/>
-
 
 ### (3). DIALOGUES between Bohr and Heisenberg about correspondence and uncertainty principles.
 
-This is a hypothetical dialogue between the two laureates that could occurred if we select and quote some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932.
+This is a hypothetical dialogue between the two laureates that has been prepared by selecting and then quoting some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932 (Figure 9.4)
+
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3b.png?raw=true"> 
+</p>
+
+<center>
+(Image credit: CC Wikimedia Commons)
+</center>
+
+**Figure 9.4.** Werner Heisenberg and Niels Bohr in 1934.
 
 - Bohr´s Lecture *The Structure of the Atom* contains the section called *The correspondence principle.*
 	
@@ -241,7 +243,7 @@ $W=hν$ $p=\frac{hν}{c}$
 
 “This rule in itself will enable us to understand how it was possible to verify the wave theory of the electron by experiment.” …..
 
-----
+***
 	
 “Since the wavelength of the electron waves is of the order of that of X-rays, it must be expected that crystals can cause diffraction of these waves completely analogous to the Laue phenomenon.” …..
 
