@@ -104,4 +104,4 @@ MLA style: Werner Heisenberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 ***
 
-[**Next: 9.3.  Communication formats for describing scientific texts.**](./vol-III-chap-9-sect-3.md)
+[**Next: 9.3.  Communication forms for describing scientific texts.**](./vol-III-chap-9-sect-3.md)
