@@ -6,7 +6,7 @@
 
 ## 11.2 Production of new materials and study of individual quantum systems.
 
-This section deals with two issues that have been innovative and important in connection with the performance of critical experiments: materials describing what to study (the graphene) and methods explaining how to proceed (control of photons and ions). 
+This section deals with two issues that have been innovative and important in connection with the performance of critical experiments: materials describing what to study (the [graphene](https://en.wikipedia.org/wiki/Graphene)) and methods explaining how to proceed (control of [photons](https://en.wikipedia.org/wiki/Photon) and [ions](https://en.wikipedia.org/wiki/Ion)). 
 
 ### Production and applications of graphene.
 
@@ -16,7 +16,7 @@ Graphene is a virtually perfect two-dimensional lattice and one atom thick. It c
 
 Using normal Scotch tape and working at room temperature, in 2004 Geim and Novoselov managed to detach a layer of graphene from a piece of graphite. They obtained a two-dimensional material, with only length and width. It is a monolayer with two surfaces, one above and one below, separated by a layer the thickness of an atom. When that very thin layer of graphene is rolled up, carbon nanotubes are formed; when it is folded like a football fullerene is obtained (see the 1996 Chemistry Nobel Prize awarded jointly to Robert F. Curl Jr., Sir Harold W. Kroto, and Richard E. Smalley "for their discovery of fullerenes").
 
-The crystallographic structure of graphene resembles that of graphite, determined by means of X-rays in 1924 by John Desmond Bernal (1901-1971). Since the geometry of graphene corresponds to that of a two-dimensional surface, it shows surprising properties: 
+The crystallographic structure of graphene resembles that of [graphite](https://en.wikipedia.org/wiki/Graphite), determined by means of X-rays in 1924 by John Desmond Bernal (1901-1971). Since the geometry of graphene corresponds to that of a two-dimensional surface, it shows surprising properties: 
 
 - “It is one of the thinnest materials and at the same time the most resistant.
 - It is as good a conductor of electricity as copper. 
@@ -28,30 +28,28 @@ The crystallographic structure of graphene resembles that of graphite, determine
 - The material remains stable at room temperature and does not oxidize in contact with air.
 - The electric charge carriers in graphene monolayers behave as massless fermions, while in graphene double layers such charge carriers do manifest mass.”
 
-!!! tip "2010 Physics Nobel Prize awarded to Geim and Novoselov."
+WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
 
-    WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
+MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
 
-    MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
+We deal with Geim´s Nobel Lecture Random Walk to Graphen in next section 11.3.
 
-    We deal with Geim´s Nobel Lecture Random Walk to Graphen in next section 11.3.
+NOBEL LECTURE: *Graphene: Materials in the Flatlan* by Novoselov.
 
-    NOBEL LECTURE: *Graphene: Materials in the Flatlan* by Novoselov.
-
-    - Graphene and its unusual properties
-    - Two-dimensional crystals <br>
+- Graphene and its unusual properties
+- Two-dimensional crystals <br>
         Stability of 2D crystals <br>
         Graphene creation <br>
         Other 2D crystals <br>
         Out to Spaceland: 2D-based heterostructures
-    - Chiral quasiparticles and the electronic properties of graphene <br>
+- Chiral quasiparticles and the electronic properties of graphene <br>
         Linear dispersion relation and chirality <br>
         The Klein paradox <br>
         Half-integer quantum Hall effect <br>
         Effect of mechanical deformation <br>
         Graphene optics <br>
         Bilayer graphene
-    - Graphene applications <br>
+- Graphene applications <br>
         Graphene support <br>
         Transparent conductive coating <br>
         Graphene transistors <br>
@@ -59,7 +57,7 @@ The crystallographic structure of graphene resembles that of graphite, determine
         Other applications
 
 
-    MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
+MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
 
 
 ### Methods for individual control of photons and ions.
@@ -109,7 +107,7 @@ In previous experiments quantum states were observed through quantum non-demolit
 
 …. In 1952, Erwin Schrödinger (1887-1961) wrote: “We never experiment with just one electron or atom or (small) molecule. In thought-experiments we sometimes assume that we do; this invariably entails ridiculous consequences...”. 
 
-“In order to illustrate the absurd consequences of moving between the micro-world of quantum physics and our every-day macro-world, Schrödinger described a thought experiment with a cat: Schrödinger’s cat is completely isolated from the outside world inside a box. The box also contains a bottle of deadly cyanide which is released only after the decay of some radioactive atom, also inside the box.”
+“In order to illustrate the absurd consequences of moving between the micro-world of quantum physics and our every-day macro-world, Schrödinger described a thought experiment with a cat: [Schrödinger’s cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) is completely isolated from the outside world inside a box. The box also contains a bottle of deadly cyanide which is released only after the decay of some radioactive atom, also inside the box.”
 
 …..
 
@@ -119,64 +117,59 @@ In previous experiments quantum states were observed through quantum non-demolit
 
 “Both Nobel Laureates of 2012 have been able to map the quantum cat-state when it encounters outside world. They have devised creative experiments and managed to show in great detail how the act of measuring actually causes the quantum state to collapse and loose its superposition character. Instead of Schrödinger’s cat, Haroche and Wineland trap quantum particles and put them in cat-like superposition states. These quantum objects are not really macroscopic as a cat, but they are still quite large by quantum standards.”
 
-“Inside Haroche’s cavity microwave photons are put in cat-like states with opposite phases at the same time, like a stopwatch with a needle that spins both clockwise and counterclockwise simultaneously. The microwave field inside the cavity is then probed with Rydberg atoms. The result is another unintelligible quantum effect called entanglement. Entanglement has also been described by Erwin Schrödinger and can occur between two or more quantum particles that have no direct contact but still can read and affect the properties of each other. Entanglement of the microwave field and Rydberg atoms allowed Haroche to map the life and death of the cat-like state inside his cavity, following it step by step, atom by atom, as it underwent a transition from the quantum superposition of states to a well defined state of classical physics.”
+“Inside Haroche’s cavity microwave photons are put in cat-like states with opposite phases at the same time, like a stopwatch with a needle that spins both clockwise and counterclockwise simultaneously. The microwave field inside the cavity is then probed with [Rydberg atoms](https://en.wikipedia.org/wiki/Rydberg_atom). The result is another unintelligible quantum effect called [entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement). Entanglement has also been described by Erwin Schrödinger and can occur between two or more quantum particles that have no direct contact but still can read and affect the properties of each other. Entanglement of the microwave field and Rydberg atoms allowed Haroche to map the life and death of the cat-like state inside his cavity, following it step by step, atom by atom, as it underwent a transition from the quantum superposition of states to a well defined state of classical physics.”
 
 ### On the verge of a new computer revolution.
 
-“A possible application of ion traps that many scientists dream of is the quantum computer. In present-day classical computers the smallest unit of information is a bit that takes the value of either 1 or 0. In a quantum computer, however, the basic unit of information – a quantum bit or qubit – can be 1 and 0 at the same time. Two quantum bits can simultaneously take on four values – 00, 01, 10 and 11 – and each additional qubit doubles the amount of possible states. For n quantum bits there are $2^n$ possible states, and a quantum computer of only 300 qubits could hold $2^{300}$ values simultaneously, more than the number of atoms in the universe.”
+“A possible application of ion traps that many scientists dream of is the [quantum computer](https://en.wikipedia.org/wiki/Quantum_computing). In present-day classical computers the smallest unit of information is a bit that takes the value of either 1 or 0. In a quantum computer, however, the basic unit of information – a quantum bit or qubit – can be 1 and 0 at the same time. Two quantum bits can simultaneously take on four values – 00, 01, 10 and 11 – and each additional qubit doubles the amount of possible states. For n quantum bits there are $2^n$ possible states, and a quantum computer of only 300 qubits could hold $2^{300}$ values simultaneously, more than the number of atoms in the universe.”
 
 “Wineland’s group was the first in the world to demonstrate a quantum operation with two quantum bits. Since control operations have already been achieved with a few qubits, there is in principle no reason to believe that it should not be possible to achieve such operations with many more qubits. However, to build such a quantum computer is an enormous practical challenge. One has to satisfy two opposing requirements: the qubits need to be adequately isolated from their environment in order not to destroy their quantum properties, yet they must also be able to communicate with the outside world in order to pass on the results of their calculations.” ….
 
 ### New clocks.
 
-“David Wineland and his team of researchers have also used ions in a trap to build a clock that is a hundred times more precise than the caesium-based atomic clocks which are currently the standard for our measurement of time. Time is kept by setting, or synchronizing all clocks against one standard. Caesium clocks operate in the microwave range whereas Wineland’s ion clocks use visible light – hence their name: optical clocks. An optical clock can consist of just one ion or two ions in a trap. With two ions, one is used as the clock and the other is used to read the clock without destroying its state, or causing it to miss a tick. The precision of an optical clock is better than one part in $10^{17}$, which means that if one had started to measure time at the beginning of the universe in the Big Bang about 14 billion years ago, the optical clock would only have been off by about five seconds today.”
+“David Wineland and his team of researchers have also used ions in a trap to build a clock that is a hundred times more precise than the caesium-based atomic clocks which are currently the standard for our measurement of time. Time is kept by setting, or synchronizing all clocks against one standard. Caesium clocks operate in the microwave range whereas Wineland’s ion clocks use visible light – hence their name: optical clocks. An optical clock can consist of just one ion or two ions in a trap. With two ions, one is used as the clock and the other is used to read the clock without destroying its state, or causing it to miss a tick. The precision of an optical clock is better than one part in $10^{17}$, which means that if one had started to measure time at the beginning of the universe in the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) about 14 billion years ago, the optical clock would only have been off by about five seconds today.”
 
 For more advanced explanations consult Scientific background: *Measuring and manipulating individual quantum systems.*
 
 Next, for each laureate we quote the section Work and the title and subtitles of their lectures.
 
-!!! tip "2012 Physics Nobel Prize awarded to Haroche."
+WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
 
-    WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
+MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
 
-    MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
+NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary* by Haroche.
 
-    NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary* by Haroche.
+- Control of single particles in a quantum world
+- A personal account of the early days of cavity quantum electrodynamics
+- Counting photons without destroying them: a new photon box and circular rydberg atoms
+- Quantum feedback
+- Field state reconstruction
+- Schrödinger cat states of light and decoherence studies
+- Quantum information in cavity qed
+- Perspectives for the work of ens
+- Relation to other domains in quantum information science
+- Acknowledgments
 
-    - Control of single particles in a quantum world
-    - A personal account of the early days of cavity quantum electrodynamics
-    - Counting photons without destroying them: a new photon box and circular rydberg atoms
-    - Quantum feedback
-    - Field state reconstruction
-    - Schrödinger cat states of light and decoherence studies
-    - Quantum information in cavity qed
-    - Perspectives for the work of ens
-    - Relation to other domains in quantum information science
-    - Acknowledgments
+MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
 
-    MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
+WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
 
-!!! tip "2012 Physics Nobel Prize awarded to Wineland."
+MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/wineland/facts/
 
-    WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
+NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by Wineland.
 
-    MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/wineland/facts/
+- Introduction
+- Some early steps towards quantum control
+- Controlling the quantum levels of individual trapped ions
+- Manipulating ion motion at the quantum level
+- Schrödinger’s cat
+- Enter quantum information<br>
+    Quantum simulation<br>
+    Spectroscopy and quantum metrology
+- Summary
+- Acknowledgements
 
-    NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by Wineland.
-
-    - Introduction
-    - Some early steps towards quantum control
-    - Controlling the quantum levels of individual trapped ions
-    - Manipulating ion motion at the quantum level
-    - Schrödinger’s cat
-    - Enter quantum information<br>
-        Quantum simulation<br>
-        Spectroscopy and quantum metrology
-    - Summary
-    - Acknowledgements
-
-
-    MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/
+MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/
 
 
 ***
