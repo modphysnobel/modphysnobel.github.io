@@ -10,14 +10,11 @@
 
 ***
 
-This is the third Volume of the series MODERN PHYSICS BY EXPLORING NOBEL PRIZES. It concerns waves as mathematical representations of oscillatory processes and physical descriptions of phenomena involving transfer of matter, energy, information, … In the domain of classical optics, it was considered that light could be propagated independently as a corpuscle or as a wave. In quantum optics light is a beam of photons that can be registered both as a corpuscle or as a wave, depending on the type of experiment.
+This is the third Volume of the series MODERN PHYSICS BY EXPLORING NOBEL PRIZES. It concerns waves as mathematical representations of oscillatory processes and physical descriptions of phenomena involving transfer of matter, energy, information, … According to classical optics, it was considered that light could be propagated independently as a corpuscle or as a wave. However, in quantum optics light is a beam of photons that can be registered both as a corpuscle or as a wave, depending on the type of experiment.
 
 An appropriate mechanical description of the energy states of the electron and its movements around the nucleus gave rise to what initially was called wave mechanics because the movements of electrons were treated in terms of probabilistic matter waves. Afterwards, the name was changed into quantum mechanics implying that the movement is quantized both for radiation in terms of photons and for matter composed of atoms that are no longer indivisible and contains electrons in quantized energy states.
 
-In this Volume III we deal with the following aspects of waves: the existence of matter waves and its implication in the development of quantum physics, the observation of interferences of electromagnetic waves and of gravitational waves, the fabrication and explanation of new materials and the study of individual quantum systems, as well as the production of Bose-Einstein condensation, superfluidity, superconductivity and the Quantum Hall effects.
-
-The Chapters of this third Volume are the following:
-
+In Volume III we deal with the following aspects of waves: the existence of matter waves and its implication in the development of quantum physics, the observation of interferences of electromagnetic waves and the detection of gravitational waves, the fabrication and explanation of new materials and the study of individual quantum systems, as well as the production of Bose-Einstein condensation, superfluidity, superconductivity and the Quantum Hall effects.
 
 ## 9.   Matter waves and quantum mechanics principles.
 ### 9.1 [From a theoretical proposition to an experimental demonstration](vol-III-chap-9-sect-1.md).
@@ -26,12 +23,12 @@ The Chapters of this third Volume are the following:
 
 The transmission of energy of the electromagnetic radiation is usually considered in terms of waves, however the interactions of photons on matter shows that the quanta of energy present a corpuscle like behavior as in the photoelectric effect. Then, in a sort of symmetrical relationship, the transport of electrons is usually considered in terms of corpuscles, however the interactions of electrons with matter shows a diffraction pattern that corresponds to a wave like behavior as in the diffraction of electrons. The formulation of this new quantum mechanics of material waves and quantized states required new principles: the correspondence principle proposed by N.H. Bohr and the uncertainty principle proposed by W.K. Heisenberg. Physics Nobel Prizes were awarded to L. Broglie in recognition for his work on the existence of matter waves and to C.J. Davisson, and G.P. Thomson for the experimental demonstration of the diffraction of electrons. W.K. Heisenberg received a Physics Nobel Prize for his contributions to the creation of quantum mechanics.
 
-## 10.  Interferences of electromagnetic and gravitational waves.
+## 10. Interferences of electromagnetic waves and detection of gravitational waves.
 ### 10.1  [The Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
 ### 10.2  [Gravitational astronomy](vol-III-chap-10-sect-2.md).
 ### 10.3  [Organization and evaluation of learning communities](vol-III-chap-10-sect-3.md).
 
-The fact that no interferences of light waves were observed in the experiments of Michelson and Morley indicated that the electromagnetic ether did not exist as an absolute reference system. Nevertheless, the observation of interferences of gravitational waves in the Laser Interferometer Gravitational-Wave Observatory (LIGO) have demonstrated the existence of gravitons, the quanta of the gravitational field. The organization and development of the LIGO Project is analyzed as a learning community characterized by four pedagogical-pragmatic principles: accessible knowledge, visible thought, mutual learning, and continuous learning. The Nobel Lectures presented by A. Michelson and by R. Weiss, B.C. Barish and K.S. Thorne are then considered.
+The fact that no interferences of light waves were observed in the experiments of Michelson and Morley indicated that the electromagnetic ether did not exist as an absolute reference system. Nevertheless, the observation of interferences of electromagnetic signals in the Laser Interferometer Gravitational-Wave Observatory (LIGO) demonstrated the existence of gravitational waves. The organization and development of the LIGO Project is analyzed as a learning community characterized by four pedagogical-pragmatic principles: accessible knowledge, visible thought, mutual learning, and continuous learning. The Nobel Lectures presented by A. Michelson and by R. Weiss, B.C. Barish and K.S. Thorne are then considered.
        
 ## 11.  Quantum waves in condensed matter physics.
 ### 11.1  [Microscopic observation of solids](vol-III-chap-11-sect-1.md).
