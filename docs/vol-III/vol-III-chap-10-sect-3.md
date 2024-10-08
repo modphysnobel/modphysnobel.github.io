@@ -7,11 +7,11 @@
 
 ## 10.3.	Organization and evaluation of learning communities.
 
-In this section we describe what a learning community is about and explains that the organization of LIGO project can be interpreted in terms of  a learning community.
+In this section we describe what a [learning community](https://en.wikipedia.org/wiki/Learning_community) is about and explains that the organization of LIGO project can be interpreted in terms of  a learning community.
 
-Learning communities (LC) are cases of communities of practice, where individuals learn by interacting with each other in practical contexts in which knowing and doing are strongly related. The LC are groups of human beings who have the support of technological devices and are organized to accomplish certain goals with the following purposes: to be informed and establish communications; to obtain, apply and generate knowledge, as well as to participate in the realization of transformation activities. 
+Learning communities (LC) are cases of [communities of practice](https://en.wikipedia.org/wiki/Community_of_practice), where individuals learn by interacting with each other in practical contexts in which knowing and doing are strongly related. The LC are groups of human beings who have the support of technological devices and are organized to accomplish certain goals with the following purposes: to be informed and establish communications; to obtain, apply and generate knowledge, as well as to participate in the realization of transformation activities. 
 
-According to Linn and His (2000), four pedagogical-pragmatic principles characterize a Learning Community (LC): P1: accessible knowledge (AK), P2: visible thought (VT), P3: mutual learning (ML) and P4: continuous learning (CL). The degree of accomplishment of each principle can be determined by providing evidence that certain operational criteria are satisfied. 
+According to Linn and His (2000), four pedagogical-pragmatic principles characterize a Learning Community (LC): P1: accessible [knowledge](https://en.wikipedia.org/wiki/Knowledge) (AK), P2: visible [thought](https://en.wikipedia.org/wiki/Thought) (VT), P3: [mutual learning](https://en.wikipedia.org/wiki/Cooperative_learning) (ML) and P4: Ñ[continuous learning](https://en.wikipedia.org/wiki/Lifelong_learning) (CL). The degree of accomplishment of each principle can be determined by providing evidence that certain operational criteria are satisfied. 
 
 Next we present a sample of operational criteria (OC) useful for evaluating to what extend each one of the four pedagogical-pragmatic principles is satisfactorily accomplished.
 
@@ -43,7 +43,7 @@ OC-14. Engage LC members to be critical of the information they handle. <br>
 CO-15. Promote the participation of the members of the LC in activities looking for the establishment of a culture of permanent development.<br>
 OC-16. Establish generalizable inquiry processes for describing the accomplishment of expectations.
 
-One possible instrument for evaluating how previous operational criteria (OC) have been accomplished consists in the application of rubrics. Analyzing and classifying responses to rubrics serve to create sorts of maps of regions or patterns of understanding levels characterized by qualitative categories and sometimes by quantitative values. Such characterization may refer to individual results or to percentages and group trends. Therefore, in the evolution of working teams towards the creation of learning communities, the following levels of participation can be observed: 
+One possible instrument for evaluating how previous operational criteria (OC) have been accomplished consists in the application of rubrics. Analyzing and classifying responses to [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic)) serve to create sorts of maps of regions or patterns of understanding levels characterized by qualitative categories and sometimes by quantitative values. Such characterization may refer to individual results or to percentages and group trends. Therefore, in the evolution of [teamwork](https://en.wikipedia.org/wiki/Teamwork) towards the creation of learning communities, the following levels of participation can be observed: 
 
 Level L1:  the participants simply request, obtain and distribute the required information and use the knowledge they already have.
 
@@ -55,7 +55,7 @@ Level L3: in addition to what is done at level L2, new knowledge is generated an
 
 It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking what implied the LIGO project and consider if an international learning community has been formed.
 
-The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a timeline for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped in more than one principle. When required, texts quoted from the Lectures are indicated in between quotes. 
+The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a [timeline](https://en.wikipedia.org/wiki/Timeline) for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped in more than one principle. When required, texts quoted from the Lectures are indicated in between quotes. 
 
 #### ACTIVITIES DESCRIBED IN WEISS´ LECTURE.
 
@@ -73,7 +73,7 @@ RELATED TO VISIBLE THOUGHT.
 
 1916, 1918: Einstein proposes the existence of gravitational waves.
 
-1957: John Wheeler and Joseph Weber consider gravitational wave as a tidal force transverse to the propagation direction and treat the detection of weak gravitational waves as a Newtonian interaction of these forces exciting a mechanical resonator.
+1957: John Wheeler and Joseph Weber consider a gravitational wave as a tidal force transverse to the propagation direction and treat the detection of weak gravitational waves as a Newtonian interaction of these forces exciting a mechanical resonator.
 
 1972: Rainer Weiss, publish a paper on *Electromagnetically coupled broadband gravitational antenna*.
 
