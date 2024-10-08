@@ -24,7 +24,7 @@ An interference pattern produced by gravitational waves was detected and measure
 
 https://en.wikipedia.org/wiki/Graviton
 
-The observation of gravitational wave interferences indicated that very far away in the past a violent change in the [structure of spacetime](https://en.wikipedia.org/wiki/Spacetime) originated by the collision of two massive [black holes](https://en.wikipedia.org/wiki/Black_hole) during a few tenths of a second, more than a thousand million years ago. The difference in masses before the collision (29 and 36 solar masses) and after the collision (62 solar masses) resulted in dissipated energy (3 solar masses) in the form of gravitational waves. Such gravitational waves were produced because two black holes collided and merged.
+The detection of a gravitational wave indicated that very far away in the past a violent change in the [structure of spacetime](https://en.wikipedia.org/wiki/Spacetime) was originated by the collision of two massive [black holes](https://en.wikipedia.org/wiki/Black_hole) during a few tenths of a second, more than a thousand million years ago. The difference in masses before the collision (29 and 36 solar masses) and after the collision (62 solar masses) resulted in dissipated energy (3 solar masses) in the form of gravitational waves. Such gravitational waves were produced because two black holes collided and merged.
 
 The LIGO detector was just a laser interferometer with two arms forming an L, a beam splitter in the corner of the L and mirrors at the beginning and end of each arm whose length was 4 km. It functioned as follows: light coming from an external laser arrived at the beam splitter after which two signals traveled in different directions and reflected back and forth many times along the interferometer arms. Finally, these signals overlapped in the beam-splitter from where it was registered in a photodetector (see steps 5 and 6 in Figure 10.2) 
 
@@ -53,7 +53,7 @@ According to the document Popular information, the detection of gravitational wa
 
 - Powerful detection and recording instruments 
 
-“The two arms of the LIGO interferometer are two tunnels perpendicular to each other. At the end of each tunnel of length $d = 4$ km there is a mirror that reflects the light coming from a laser. The two beams of reflected light then overlap after traveling an effective distance on each arm that differs from $d$ in much very small but significant amounts. By the effect of the gravitational wave, while the length in one arm of the interferometer is shortened, in the other arm it lengthens. Then the light travels different distances in each arm and the electromagnetic waves arrive out of phase to the meeting point where they produce interference.  This effect is amplified if the laser light bounces off the mirrors many times to increase the total distance traveled and make the difference in the lengths of each arm more evident.”
+“The two arms of the LIGO interferometer are two tunnels perpendicular to each other. At the end of each tunnel of length $d = 4$ km there is a mirror that reflects the light coming from a laser. The two beams of reflected light then overlap after traveling an effective distance on each arm that differs from $d$ in very small but significant amounts. By the arrival effect of the gravitational wave, while the length in one arm of the interferometer is shortened, in the other arm it lengthens. Then the light travels different distances in each arm and the electromagnetic waves arrive out of phase at the meeting point where they produce interference.  This effect is amplified if the laser light bounces off the mirrors many times to increase the total distance traveled and make the difference in the lengths of each arm more evident.”
 
 In what follows we present some excerpts of the three 2017 Nobel Lectures. When the text of the Lecture contains subtitles, we include them. Furthermore, for each laureate we include the document called Work describing his contributions.
 
@@ -155,7 +155,7 @@ We just present some excerpts corresponding to the last subtitle.
 	Post-Newtonian Approximation for Computing Inspiral Waveforms<br>
 	Numerical Relativity for Computing Merger Waveforms<br>
 	Geometrodynamics in BBH Mergers <br>
-- Theorists’ contributions to understanding and controlling noise in the ligo interferometers<br>
+- Theorists’ contributions to understanding and controlling noise in the LIGO interferometers<br>
 	Scattered-Light Noise<br>
 	Gravitational noise<br>
 	Thermal Noise<br>
