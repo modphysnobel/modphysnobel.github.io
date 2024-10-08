@@ -6,9 +6,9 @@
 ***
 # 10. Interferences of electromagnetic waves and detection of gravitational waves.
 
-*When electromagnetic waves and gravitational waves produce interferences?*
+*When do electromagnetic waves and gravitational waves produce interferences?*
 
-When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed as a consequence of the detection of gravitational waves it implied that some mass was transformed into gravitational radiation. Electromagnetic wave interferences were understood since a long time ago; however, gravitational wavewere experimentally measured until recent times.
+When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed because of the detection of gravitational waves it implied that some mass was transformed into gravitational radiation. Electromagnetic wave interferences were understood long time ago; however, gravitational waves were experimentally measured until recent times.
 
 ### Learning objectives of Chapter 10.
 
@@ -48,7 +48,7 @@ Huygens explored only the visible region of the electromagnetic spectrum. Howeve
 
 Between 1864 and 1873 [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879) worked on his electromagnetic theory and conceived light as a radiation disturbance propagating in the ether. This fact was  corroborated by [Heinrich Rudolf Hertz](https://en.wikipedia.org/wiki/Heinrich_Hertz) (1857–1894) when he carried out experiments between 1887 and 1888 and considered the existence of a material medium, analogous to what is air for sound, through which the electromagnetic wave would travel: the ether.
 
-In 1851 Armand Hippolyte Louis Fizeau (1819–1896) determined how the speed of light was affected by the motion of the medium in which it propagated. If $V$ is the speed of light in air, $v$ the speed in water, then the refractive index of the fluid is defined as $n = v/V$.  In 1849 Fizeau estimated the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) to be around 300,000 km/s. 
+In 1851 [Armand Hippolyte Louis Fizeau](https://en.wikipedia.org/wiki/Hippolyte_Fizeau) (1819–1896) determined how the speed of light was affected by the motion of the medium in which it propagated. If $V$ is the speed of light in air, $v$ the speed in water, then the refractive index of the fluid is defined as $n = v/V$.  In 1849 Fizeau estimated the [speed of light](https://en.wikipedia.org/wiki/Speed_of_light) to be around 300,000 km/s. 
 
 In 1881 Albert Abraham Michelson designed an interferometer to measure the relative velocity of the Earth with respect to [the ether](https://en.wikipedia.org/wiki/Aether_theories). Michelson reasoned that if the ether was real, the Earth would move through it like an airplane through the air, producing a detectable "ether wind." Every year, the Earth travels an enormous distance in its orbit around the Sun at a speed of 30 km/s, a little more than 100,000 km/h. Michelson performed [the experiments](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) with the collaboration of Edward Williams Morley (1838-1923). They expected to observe interferences if the optical waves traveled different distances or used different times to cover the same distance.  
 
@@ -107,7 +107,7 @@ Taken from Figure 5 (page 173) in Michelson´s Nobel Lecture and the correspondi
 
 The Michelson-Morley experiment was planned assuming that after the splitting of the original light ray in the mirror $g$ of the interferometer, one ray will move in one direction, for instance in the direction of the motion of the Earth, and at the same time the other ray will travel in the interferometer the same total distance but in a perpendicular direction to the previous ray. When both rays coincided in $D$ they arrived with different relative velocities, because to the speed of propagation of light with respect to the ether was needed to add or to subtract the speed of translation of the Earth around the Sun. 
 
-As the two rays might had different relative velocities, they will produce an interference pattern from which the distance traveled by the Earth with respect to the ether could be calculated. However, no interference was ever found, no matter in which direction it was measured. Therefore, the ether did not exist, and the speed of light was a constant always.
+As the two rays might have different relative velocities, they will produce an interference pattern from which the distance traveled by the Earth with respect to the ether could be calculated. However, no interference was ever found, no matter in which direction it was measured. Therefore, the ether did not exist, and the speed of light was a constant always.
 
 Michelson and Morley's experiments failed to demonstrate the existence of the ether. To explain these negative results, in 1889 [George Francis FitzGerald](https://en.wikipedia.org/wiki/George_Francis_FitzGerald) (1851-1901) proposed that the interferometer suffered a contraction in its length. In the future, this contraction factor would appear in [Lorentz transformations](https://en.wikipedia.org/wiki/Lorentz_transformation) $γ= \frac{1}{\sqrt{1- (\frac{v^2}{c^2})}}$, where $v$ is the relative velocity between the observer and the moving object and $c$ is the speed of light.
 
