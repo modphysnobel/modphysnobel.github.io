@@ -43,9 +43,9 @@ OC-14. Engage LC members to be critical of the information they handle. <br>
 CO-15. Promote the participation of the members of the LC in activities looking for the establishment of a culture of permanent development.<br>
 OC-16. Establish generalizable inquiry processes for describing the accomplishment of expectations.
 
-One possible instrument for evaluating how previous operational criteria (OC) have been accomplished consists in the application of rubrics. Analyzing and classifying responses to [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic)) serve to create sorts of maps of regions or patterns of understanding levels characterized by qualitative categories and sometimes by quantitative values. Such characterization may refer to individual results or to percentages and group trends. Therefore, in the evolution of [teamwork](https://en.wikipedia.org/wiki/Teamwork) towards the creation of learning communities, the following levels of participation can be observed: 
+One possible instrument for evaluating how previous operational criteria (OC) have been accomplished consists in the application of [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic)). Analyzing and classifying responses to rubrics serves to create sorts of maps of regions or patterns of understanding levels characterized by qualitative categories and sometimes by quantitative values. Such characterization may refer to individual results or to percentages and group trends. Therefore, in the evolution of [teamwork](https://en.wikipedia.org/wiki/Teamwork) towards the creation of learning communities, the following levels of participation can be observed: 
 
-Level L1:  the participants simply request, obtain and distribute the required information and use the knowledge they already have.
+Level L1:  the participants simply look for, obtain and distribute the required information and use the knowledge they already have.
 
 Level L2: the participants transform their work from cooperative to collaborative and effectively use existing knowledge.
 
@@ -53,9 +53,9 @@ Level L3: in addition to what is done at level L2, new knowledge is generated an
 
 ### The LIGO project as a learning community.
 
-It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking what implied the LIGO project and consider if an international learning community has been formed.
+It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking about what implied the LIGO project and consider if an international learning community has been formed.
 
-The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a [timeline](https://en.wikipedia.org/wiki/Timeline) for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped in more than one principle. When required, texts quoted from the Lectures are indicated in between quotes. 
+The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a [timeline](https://en.wikipedia.org/wiki/Timeline) for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped on more than one principle. When required, texts quotes from the Lectures are indicated between quotation marks.
 
 #### ACTIVITIES DESCRIBED IN WEISS´ LECTURE.
 
@@ -108,7 +108,7 @@ RELATED TO ACCESSIBLE KNOWLEDGE.
 
 1994: Cancellation of the Superconducting Super Collider (SSC) in Texas by the U.S. Congress.
 
-1994: "Kip Thorne and Barry Barish present LIGO to the National Science Board describing both the theoretical underpinnings of gravitational waves and their plans for the project, in particular to develop and test Advanced LIGO technologies. They received formal approval at the full requested funding for Initial LIGO, with a commitment to support the crucial R&D program for Advanced LIGO".
+1994: "Kip Thorne and Barry Barish present LIGO to the National Science Board describing both the theoretical underpinnings of gravitational waves and their plans for the project, in particular to develop and test Advanced LIGO technologies. They received formal approval at the fully requested funding for Initial LIGO, with a commitment to support the crucial R&D program for Advanced LIGO".
 
 2004: A major funding through the NSF Major Research Equipment and Construction (MREFC) program is granted to the Advanced LIGO project. "Additional significant contributions to Advanced LIGO included: a pre-stabilized laser system from the Max Planck Institute (Germany); Test Mass Suspension systems from the Science and Technology Facilities Council (UK); and thermal compensation wavefront sensors and interferometer controls components from the Australian Research Council. Higher laser power, larger test masses and improved mirror coatings have been incorporated".
 
@@ -119,23 +119,22 @@ RELATED TO ACCESSIBLE KNOWLEDGE.
 2017: “Two weeks after the Nobel announcement in October and almost two months before this lecture, we announced the first observation of a merger of a neutron star binary system. This was also the first gravitational wave event to have electromagnetic counterparts observed in a large variety of astronomical instruments.”
 
 2017: Observation of one more black hole merger event (GW170814); “for the first time this was also observed in the Virgo detector near Pisa in Italy. Virgo is a collaboration of France, Italy, Netherlands, Poland and Hungary.” … “ Virgo, in this detection, not only gives independent confirmation of the LIGO black hole merger detections but improves markedly the ability to triangulate. This is a precursor to also adding KAGRA in Japan and LIGO-India detectors to the network.”
+
 RELATED TO VISIBLE THOUGHT.
 
 1994: A new structure for the project is proposed around the LIGO Laboratory by unifying the Caltech and MIT efforts, by developing two distant instruments in Hanford, Washington and Livingston, Louisiana, and by integrating new members to the existing staff.
 
-2003: A proposal to the NSF of the Advanced LIGO plan is submitted where a research and development program is presented and approved, implying that the initial LIGO sensitivity of the gravitational wave detector are improved, and the background noise levels are reduced. Potential sources of gravitational waves are searched in mergers of binary black holes, a black hole and a neutron star, and binary neutron star systems.
+2003: A proposal to the NSF of the Advanced LIGO plan is submitted where a research and development program is presented and approved, implying that the initial LIGO sensitivity of the gravitational wave detector is improved, and the background noise levels are reduced. Potential sources of gravitational waves are searched in mergers of binary black holes, a black hole and a neutron star, and binary neutron star systems.
 
-2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is following by the final merger, and then, the merged single object rings down". … "The two black holes inspiral and merge together due to the emission of gravitational radiation coming from the accelerations".
+2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is followed by the final merger, and then, the merged single object rings down". … "The two black holes in spiral and merge together due to the emission of gravitational radiation coming from the accelerations".
 
 RELATED TO MUTUAL LEARNING.
 
 1994-1999: Construction of the initial version of LIGO, "employing technologies that represented a balance between being capable of achieving sensitivity levels where the detections of gravitational waves might be ‘possible,’ and using techniques that we had fully demonstrated in our laboratories".
 
-2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is following by the final merger, and then, the merged single object rings down". … "The two black holes in spiral and merge together due to the emission of gravitational radiation coming from the accelerations".
-
 RELATED TO CONTINUOUS LEARNING.
 
-1997: Barry Barish makes a proposal to the NSF to improve LIGO Scientific Collaboration (LSC). Nearly 1200 members, from 108 institutions and 18 countries have participated in making the discovery of gravitational waves, analyzing the data, interpreting the results, and in writing up and presenting the results.
+1997: Barry Barish makes a proposal to NSF to improve LIGO Scientific Collaboration (LSC). Nearly 1200 members, from 108 institutions and 18 countries have participated in making the discovery of gravitational waves, analyzing the data, interpreting the results, and in writing up and presenting the results.
 
 2015, 2016, 2017: "The first Advanced LIGO data run (O1) continued for four months, from September 2015 to January 2016. Our second data run (O2) ran from December 2016 to the end of August 2017". … "We are actively searching for other signals, besides binary merges, including bust signals from phenomena like supernova explosions or gamma ray bursts, continuous wave signals from spinning neutron stars (pulsars), stochastic background signals, etc. So far, we have only detected binary merger signals, but hope to detect others as our sensitivity improves".
 
