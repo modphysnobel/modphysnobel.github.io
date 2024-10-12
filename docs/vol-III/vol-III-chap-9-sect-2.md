@@ -43,11 +43,10 @@ Summarizing $v_g=  \frac{dω}{dk}=  \frac{(\frac{dω}{dβ})}{(\frac{dk}{dβ}) } 
 
 Classically, the concepts of corpuscle and wave are well defined; they are represented mathematically in precise ways. A corpuscle has a shape circumscribed to a finite and small region of space where its position at any time can be located, so that its trajectory is observable and measurable. This does not happen with photons.
 
-Classically a wave is a continuous disturbance "scattered" in a certain region of space. In fact, a pure sine wave propagates occupying all space: it comes from minus infinity and goes towards plus infinity. Such a wave propagates with a certain velocity in a medium that is material for mechanical waves but that does not require ether for electromagnetic waves. Such propagations are described in terms of wave equations and their solutions allow us to explain interference and diffraction. This does not happen when electrons are considered as punctual corpuscles. Nevertheless, their matter waves are diffracted.
-
-Furthermore, an appropriate representation of matter waves requires to superimpose several sine waves to form a packet of waves with different frequencies (see Appendix 9.A).
+Classically a wave is a continuous disturbance "scattered" in a certain region of space. In fact, a pure sine wave propagates occupying all space: it comes from minus infinity and goes towards plus infinity. Such a wave propagates with a certain velocity in a medium that is material for mechanical waves but that does not require ether for electromagnetic waves. Such propagations are described in terms of wave equations and their solutions allow us to explain interference and diffraction. This does not happen when electrons are considered as punctual corpuscles. Nevertheless, their matter waves are diffracted. Furthermore, an appropriate representation of matter waves requires to superimpose several sine waves to form a packet of waves with different frequencies.
 
 By accepting that in quantum physics there is no sharp separation between the classical conceptualizations of waves and corpuscles, we are faced with two disturbing circumstances: (1) when light interacts with matter it loses its wave characteristics related to its propagation and quantized impact and (2) when different components of matter (like particles) interact with radiation, they lose their corpuscular properties and show diffraction. Therefore, what kind of motion equation will satisfy the matter waves proposed by de Broglie?
+
 
 ### Does light behave as a wave or a corpuscle?
 
