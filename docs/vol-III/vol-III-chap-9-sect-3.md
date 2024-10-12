@@ -265,4 +265,4 @@ FRENCH, A.P. TAYLOR, E.F. *Introduction to Quantum Physics*. The MIT Introductor
 
 ***
 
-[**APPENDIX 9A. Representation of the superposition of a sine waves packet.**](https://modphysnobel.github.io/vol-III/vol-II-chap-9-apendix/)
+[**10.1. The Michelson interferometer and the Michelson-Morley experiment.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-1/)
