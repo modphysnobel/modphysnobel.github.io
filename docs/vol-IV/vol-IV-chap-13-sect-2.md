@@ -5,7 +5,7 @@
 
 ***
 
-## 13.2. Steps in the development of Particle Physics
+## 13.2. Steps in the development of Particle Physics.
 
 Two steps correspond to developments of particle physics made in the period 1953 – 2012: P1- Classification of elementary particles (1953-1964), and P2- Beyond the Standard model (1964-2012). 
 
