@@ -5,50 +5,55 @@
 
 ***
 
-## 13. Development of knowledge in high energy physics.     
+# 13. Development of knowledge in high energy physics.     
 
-!!! abstract "Introduction."
 
-	*What are the structures of the atomic nuclei and the elementary particles?*
+*What are the structures of the atomic nuclei and of the elementary particles?*
 
-	This is the first chapter dedicated to the Universe. It is a review of a selection of Nobel Prizes that have contributed to understanding and applying high energy physics: nuclear physics and particle physics. We also describe the levels of operation of the mechanisms of knowledge concerning high energy physics. Cosmology is considered in next Chapter 14.
+This is the first chapter dedicated to the Universe. It is a review of a selection of Nobel Prizes that have contributed to improve our understanding of high energy physics (nuclear physics and particle physics) as well as to make possible several technological applications. We also describe the levels of operation of the mechanisms of knowledge concerning high energy physics. Cosmology is considered in next Chapter 14.
 
-	**Learning objectives of Chapter 13.**
+### Learning objectives of Chapter 13.
 	
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	- Describe the main steps and contributions made by experimental and theoretical developments in high energy physics. 
-	- Analize a timeline of the main developments in high energy physics that have been awarded with Nobel Prizes, mostly in Physics and few in Chemistry.
-	- Relate the levels of operation of the mechanisms of knowledge to the descriptions of the laboratory work, the experimental purposes, and the theorical implications concerning high energy physics.
+- Describe the main steps and contributions made by experimental and theoretical developments in high energy physics. 
+- Analize the main developments in high energy physics that have been awarded with Nobel Prizes, mostly in Physics and few in Chemistry.
+- Relate the levels of operation of the mechanisms of knowledge to the descriptions of the laboratory work, the experimental purposes, and the theorical implications concerning high energy physics.
 
+### Description of content of Chapter 13.
 
+Section 13.1.  Steps in the development of Nuclear Physics.
 
+This Section deals with two steps related to experimental and theoretical developments in nuclear physics made by Nobel Prize laureates; it contains a commented timeline of such developments.
 
-!!! abstract "Description of content of Chapter 13."
+Section 13.2.  Steps in the development of Particle Physics.
 
-	**Section 13.1.  Steps in the development of Nuclear Physics.**
+This Section deals with two steps related to experimental and theoretical developments in particle physics made by Nobel Prize laureates; it contains a commented timeline of such developments.
 
-	This Section deals with two steps related to experimental and theoretical developments in nuclear physics made by Nobel Prize laureates; it contains a commented timeline of such developments.
+Section 13.3.  Levels of operation of the mechanism of knowing.
 
-	**Section 13.2.  Timeline of the main developments in high energy physics.**
-
-	This Section deals with two steps related to experimental and theoretical developments in particle physics made by Nobel Prize laureates; it contains a commented timeline of such developments.
-
-	**Section 13.3.  Levels of operation of the mechanism of knowing.**
-
-	The levels of operation of the mechanisms of knowing (inter, intra and trans) correspond to different contributions made by Nobel laureates. These contributions are organized into three categories: the laboratory work, the experimental purposes, and the theorical consequences.
-
-	At the end of the chapter, Appendix 13.1 contains all references in MLA format.
+The levels of operation of the mechanisms of knowing (inter, intra and trans) correspond to different contributions made by Nobel laureates. These contributions are organized into three categories: the laboratory work, the experimental purposes, and the theorical consequences.
 
 ## 13.1. Steps in the development of Nuclear Physics.
 
-The main developments in nuclear physics made in the period 1895 – 1953 are considered in two steps: N1 - Atomic structure and electronic properties (1895-1919) and N2 - Production of new particles and detection of new interaction forces (1922-1953). We start with a descriptive summary of the main developments reported in each step, taking information from documents published in the Nobel Prize web page such as: Award ceremony speech, Facts, Speed read, Press release. Popular information, and Advanced information, Work and Nobel lecture. 
+The main achievements in nuclear physics awarded with Physics Nobel Prizes in the period 1895 – 1953 are considered in two steps: N1 - Atomic structure and electronic properties (1895-1919) and N2 - Production of particles and detection of interaction forces (1922-1953). In what follows, previous steps are considered in terms of two elements: 
 
-Afterwards, we present a timeline description of these developments by considering those documents called *WORK* that have been published in the Nobel Prize web page. We obtain information from those documents indicating the year each laureate started working on the subject, introduced a new concept or procedure, made a critical discovery, initiated a long-term project or started a pioneering contribution to the development or invention of a practical instrument or an experimental setting. Such dates do not correspond to the years the respective Nobel Prize were awarded.
+(1) A table indicating in the first column, in chronological order, the year when the future laureate started to work on a specific problem, in the second column a brief description of the corresponding achievements and in the third column the year of the Nobel Prize recognition. 
 
-The timeline contains two parts: the first one is a box indicating the year where the reported work was initiated and a short description of the corresponding development, and the second one is a small paragraph explaining its content.
+(2) An explanation of each Noble Prize award including the names of the laureates, the reasons for their award, and a full quotation of the Nobel document called WORK describing the contribution of each laureate and the year he (she) began working on the problem, as well as the title of the corresponding Nobel Lecture. We identify each Nobel Prize with the shorthand of the discipline (Ph for Physics or Ch for Chemistry) and the year of the award. The sequence of these descriptions follows the chronological order of the Prize recognition. The name of each laureate leads to a hyperlink containing biographical information. All the references to Nobel documents are given in MLA format.
+
 
 ### N1 - Atomic structure and electronic properties.
+
+	
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=480 align=center>
+	</p>
+	
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
+
 
 New phenomena were observed and there were no possibilities for understanding them in the frame of classical physics; for instance, the transformation of radioactive elements, the discovery of new elements, and the existence of isotopes. These phenomena lead to new structural models of atomic matter.
 
