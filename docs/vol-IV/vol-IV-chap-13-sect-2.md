@@ -5,133 +5,223 @@
 
 ***
 
-## 13.2. Steps in the development of Particle Physics.
+## 13.2. Steps in the development of Particle Physics
 
-Two steps correspond to developments of particle physics made in the period 1953 – 2012: P1- Classification of elementary particles (1953-1964), and P2- Beyond the Standard model (1964-2012). We proceed as in the previous section on nuclear physics by including information taken from Nobel Prize documents and by presenting a timeline of experimental and theoretical developments in particle physics.
+Two steps correspond to developments of particle physics made in the period 1953 – 2012: P1- Classification of elementary particles (1953-1964), and P2- Beyond the Standard model (1964-2012). 
 
-There is certain overlap between the closure of nuclear step N2 and the beginning of particle step P1. Altogether, the four steps of the development of high energy physics show the transitions from the study of the atomic models towards the discovery and use of nuclear properties and from them towards the understanding and classification of elementary particles. Such transitions imply significant changes in scales of energy, time, and size.
+Although there is certain overlap between the closure of nuclear step N2 and the beginning of particle step P1, we proceed as in the previous section13.1 concerning nuclear physics. Altogether, the four steps of the development of high energy physics (steps N1, N2, P1 and P2) show the transitions from the study of atomic models towards the discovery and use of nuclear properties and from them towards the understanding and classification of elementary particles. Such transitions imply significant changes in scales of energy, time, and size.
 
-### P1 - Classification of elementary particles.
 
-Experiments with elementary particles are quite difficult mainly for two reasons: such particles require very high energies to be produced and very complicated technological systems of apparatuses and installations need to be created and operated to observe and register their existence and interpret their behavior. Elementary particles are quite small in size and fast in movements; therefore, it is not possible to directly detect their motions. However, their trajectories can be followed when the particles leave some tracks while they pass through certain media. When the lifespan of the particles is extremely short there is no way to observe those tracks; the possibility is to register and afterwards to interpret instantaneous photographs of the reactions produced when those particles collide with other particles.
 
-The eightfold way was proposed as an organizational scheme for classifying subatomic particles and antiparticles, including the development of the quark model. The assumption that physical laws are characterized by symmetry operations was questioned and the theory that the left-right symmetry law is violated by the weak interaction was confirmed. The main characteristics of the Standard model are the following:
+### P1. Classification of elementary particles (1953-1964). 
 
-- Experimental observed particles are composite of smaller building blocks called quarks. Particles are classified according to their symmetry properties.
-- Nuclear forces maintain together protons and neutrons inside the atomic nucleus and are charge independent.
-- Pi-mesons predicted form a triplet of particles that have nearly the same mass but different charges; they explain the interaction among nucleons.
-- New particles heavier than the nucleons are produced when high-energy pi-mesons collide with nucleons. These particles form the group of baryons.
-- Elementary particles can be transformed in others by the strong and the electromagnetic interactions only if the total hypercharge is conserved.
-- The nucleons belong to a supermultiplet of eight particles (an octet). 
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.3.PNG?raw=true" width=600 align=center>
+	</p>
 
-Elementary particles are fermions (they have half-integer spin) and constitute two families, light particles (leptons) and heavy particles (hadrons) formed by quarks. Quarks have charges that are fractions of the proton charge. Light particles form three families consisting of pairs of particles: the electron ($𝑒−$) and the electron neutrino ($𝜈_𝑒$), the muon ($𝜇$) and the muon neutrino ($𝜈_𝜇$), and the tau ($𝜏$) and tau neutrino ($𝜈_𝜏$). Heavy particles (hadrons) are composed of mesons which are formed by quarks and antiquarks, and by baryons which are formed by combinations of three quarks. Quarks are of six types or flavors each one represented by the initial letter of its name; they form three generations of pairs: up ($𝑢$) and down ($𝑑$), charmed ($𝑐$) and strange ($𝑠$), top ($𝑡$) and bottom ($𝑏$).
+**Ph1957** to [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) and [Tsung-Dao (T.D.) Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) “for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles”.
 
-Bosons (have zero or integer spin) and correspond to four types of forces: the gravitational that is attractive and the electromagnetic that can be attractive or repulsive, the strong nuclear force that keeps protons and neutrons together inside the nucleus, and the weak nuclear force responsible for radioactivity and that affects particles such as neutrinos. The transformation of hydrogen into heavy hydrogen (deuterium) is caused by the weak force. The weak force makes a distinction between left and right; it has not the property of being reflection symmetric. The quanta that correspond to these four forces are all bosons: gravitons for the gravitational force, photons for the electromagnetic force, gluons for the strong nuclear force and particles $𝑊−$, $𝑊+$ and $𝑍^0$ for the weak nuclear force.
+WORK (Lee and Yang): “For a long time, physicists assumed that various symmetries characterized nature. In a kind of “mirror world” where right and left were reversed and matter was replaced by antimatter, the same physical laws would apply, they posited. The equality of these laws was questioned concerning the decay of certain elementary particles, however, in 1956 and Tsung-Dao Lee and Chen Ning Yang formulated a theory that the left-right symmetry law is violated by the weak interaction. Measurements of electrons’ direction of motion during a cobalt isotope’s beta decay confirmed this.”
 
-!!! bug ""
+MLA style: Tsung-Dao Lee – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/lee/facts/
 
-    **1953:** classification of elementary particles in the Eightfold Way.<br>
-    **1955:** confirmation of the existence of antiprotons.<br>
-    **1956:** study of symmetry violations in weak interactions. <br>
-    **1958:** resonance absorptions of gamma radiation in embedded atoms. <br>
-    **1960:** electroweak force unifies weak and electromagnetic interactions<br>
-    **1960:** production of neutrinos from nuclear reactions in the sun. <br>
-    **1960:** observation of emission of X-rays from stars and galaxies.<br>
-    **1960:** theory of spontaneous symmetry violations in subatomic physics.<br>
-    **1962:** experimental evidence of the existence of the muon neutrino.<br>
-    **1964:** discovery of observed matter–antimatter asymmetry in the universe.
+NOBEL LECTURE: *The Law of Parity Conservation and Other Symmetry Laws of Physics* by Yang.
 
-•	In **1953** Murray Gell-Mann (1929-2019) published the first of a series of papers indicating how to classify the elementary particles and their interactions (the Eightfold Way).
-	
-• In **1955** Emilio Gino Segrè (1905-1989) and Owen Chamberlain (1920-2006) confirmed the existence of the proton’s antiparticle, the antiproton.
-	
-•	In **1956** Chen Ning Yang (1922) and Tsung-Dao (T.D.) Lee (1926) proposed that the left-right symmetry law is violated by the weak interaction. This was in contradiction with the assumption that the same physical laws apply where right and left were reversed, and matter was replaced by antimatter.
-	
-•	In **1958** Rudolf Ludwig Mössbauer (1929-2011) discovered the resonance absorption of gamma radiation in atoms embedded in a crystal structure and developed a new experimental method for the investigation of the inner structure of nuclei and nucleons. He observed that in a gas a recoil effect occurs when an atom emits a photon.
-	
-•	In **1960** Sheldon Lee Glashow (1932), Abdus Salam (1926-1996) and Steven Weinberg (1933-2021) independently developed a theory in which the new concept of the electroweak force was introduced, unifying the weak and the electromagnetic interactions between elementary particles.
-	
-•	In **1960** Raymond Davis Jr. (1914-2006) showed that the sun's energy originates from nuclear reactions in which hydrogen atoms combine with helium atoms to produce neutrinos.
-	
-•	Beginning **1960** Riccardo Giacconi (1931-2018) started studying emission of X-rays from stars and galaxies by means of telescopes in satellites.
-	
-•	In **1960**, Yoichiro Nambu (1921-2015) formulated a mathematical theory for understanding spontaneous symmetry violations in subatomic physics.
-	
-•	In **1962** Leon M. Lederman (1922-2018), Melvin Schwartz (1932-2006) and Jack Steinberger (1921-2020) provided experimental evidence of the existence of a new type of neutrino, the muon neutrino.
-	
-•	In **1964** James Watson Cronin (1931-2016) and Val Logsdon Fitch (1923-2015) experimentally found that the matter-antimatter symmetry is violated when the neutral K-meson decays. They discovered that reactions going backward in time are not identical to those going forward meaning that there is an observed matter–antimatter asymmetry in the universe.
+MLA style: Chen Ning Yang – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/yang/lecture/
 
-### P2 - Beyond the Standard model.
+NOBEL LECTURE: *Weak Interactions and Nonconservation of Parity* by Lee.
 
-If natural laws are perfectly symmetrical and absolute, all the time they are valid throughout the entire universe. Three general principles of symmetry apply in physics: mirror symmetry (there is no difference between left and right), charge symmetry (antiparticles have the same properties but the opposite charge as the particles) and time symmetry (events are equally independent whether they occur forwards or backwards in time). These are respectively referred as P for parity, C for charge symmetry and T for time.
+MLA style: Tsung-Dao Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/lee/lecture/
 
-Symmetries simplify many calculations; they play a decisive role for the mathematical description of the microworld and implicate the application of conservation laws at the particle level. However, phenomena like the following have shown the need for considering broken symmetries. In the radioactive decay of kaon particles, a small fraction of them did not follow the current mirror and charge symmetries, they broke the double CP symmetry. In this case each kaon particle is a combination of a quark and an antiquark, and the weak force makes them switch identities: the quark becomes an antiquark while the antiquark becomes a quark.
+***
 
-A quantum field theory unifies the wave functions of quantum mechanics and the fields of electromagnetism. Electroweak interaction is understood as a relativistic quantum field theory where quantized fields are considered in terms of operators for the creation and annihilation of particles. The electroweak interaction refers to the unified treatment of electromagnetism and the weak force which underlies some forms of radioactivity, governs the decay of unstable subatomic particles such as mesons, and initiates the nuclear fusion reaction that fuels the Sun.
+**Ph1959** to [Emilio Gino Segrè](https://en.wikipedia.org/wiki/Emilio_Segr%C3%A8) and to [Owen Chamberlain](https://en.wikipedia.org/wiki/Owen_Chamberlain) “for their discovery of the antiproton”.
 
-During the last fifty years several complex experimental projects have been planned and developed, showing results of consequences: the discovery of the W an Z quantized carriers of the weak interaction, the development of techniques for studying the movements of stars in the middle of the Milky Way revealing the existence of a super massive black hole, the discovery of neutrino oscillations, and the evidence about the existence of the boson Higgs serving to explain the masses of elementary particles.
+WORK (Segrè and Chamberlain): “The matter around us has a kind of mirror image—antimatter. A particle and its antiparticle have an opposite electrical charge, among other things. The electron’s antiparticle positron was the first to be discovered. With high concentrations of energy, a pair of particles and antiparticles can be created, but when a particle and an antiparticle meet, both are annihilated and their mass is converted into radiation. In a 1955 experiment with a powerful particle accelerator, Emilio Segrè and Owen Chamberlain confirmed the existence of the proton’s antiparticle, the antiproton.”
 
-The decay of the atom nucleus in the radioactive element cobalt 60 revealed that it did not follow the principles of mirror symmetry (the electrons that left the cobalt nucleus preferred one direction to another). In this case charge and mirror symmetries are broken separately, however, CP symmetry is conserved. Another spontaneous broken symmetry, the Higgs mechanism, destroyed the original symmetry between forces and gave the particles their masses in the very earliest stages of the universe.
+MLA style: Emilio Segrè – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1959/segre/facts/
 
-The neutrino was a hypothetical particle introduced by Pauli in 1930 to explain the energy distribution of electrons emitted in the radioactive beta-decay process. Neutrinos are electrically neutral, weakly interacting and very light particles. There are six types of neutrinos: the electron neutrino and the positron neutrino, the muon neutrino and the antimuon neutrino, and the tau neutrino and the antitau neutrino. Neutrinos were detected and the existence of a fifth field created by the Higgs boson was proposed.
+NOBEL LECTURE: *Properties of Antinucleons* by Segré.
 
-As all matter is transparent to neutrinos, to measure their action it was necessary first to produce them as a decay product of pi-mesons generated when accelerated protons collided with beryllium atoms. A special detector was built to observe the results of neutrino collisions with matter by registering produced muons in a spark chamber.
+MLA style: Emilio Segrè – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1959/segre/lecture/
 
-The Higgs boson is the mechanism by which mass originates in the universe: everything in it is immersed in an invisible field whose quantum is the Higgs boson. When a particle moves within this field there is some resistance to movement and the faster the movement the greater the resistance, thus implying that this quantitative measure of inertia, the mass, will be greater. Depending on the intensity of the interaction of a particle with the Higgs boson, so will be the magnitude of its mass. The Higgs boson cannot be detected directly, only its fingerprints, because the instant it is produced it disintegrates into other particles that are produced at very high energies.
+NOBEL LECTURE: *The Early Antiproton Work* by Chamberlain.
 
-The results of deep inelastic scattering of electrons on protons and bound neutrons served to confirm that these particles are composed of quarks. The mathematical structure of electroweak interaction was considered and the study of the strong interaction between quarks and gluons was formulated as Quantum Chromodynamics.
+MLA style: Owen Chamberlain – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1959/chamberlain/lecture/
 
-Relativistic considerations of the existence of black holes and theoretical explanations concerning symmetry violations were proposed. According to the theory of general relativity, stars containing large concentrations of masses warp space-time and generate gravitational forces. In the vicinity of this super-dense region, space-time is encapsulated, giving rise to a black hole. This process is called gravitational collapse whereby the black hole traps everything that approaches it and then prevents it from leaving, even if it is light.
+***
 
-Certain solutions of the equations of general relativity technically correspond to a singularity wrapped in a closed surface, which curves the space-time of four dimensions and thus delimits the so-called event horizon of the black hole. Such a singularity means that all the mass of the star is concentrated in a mathematical point, which by definition is dimensionless. The greater the mass of the black hole, the larger the size of its event horizon and therefore, the more intense the gravitational field that exists inside it. The black hole is not seen, we only perceive the imprint left by its presence.
+**Ph1969** to [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) “for his contributions and discoveries concerning the classification of elementary particles and their interactions”.
 
-!!! bug ""
+WORK: “During the 1950s and 1960s, new accelerators and apparatuses helped identify many new elementary particles. In theoretical works from the same period, Murray Gell-Mann classified particles and their interactions. He proposed that observed particles are in fact composite, that is, comprised of smaller building blocks called quarks. According to this theory, as-yet-undiscovered particles should exist. When these were later found in experiments, the theory was accepted.”
 
-    **1964:** proposition of a theory of how particles acquire mass: the Higgs boson.<br>
-    **1964:** description of the formation of black holes.<br>
-    **1968:**  multiwire proportional chamber for detecting particle interactions.<br>
-    **1970:** quarks as building blocks and gluon as their binding force. <br>
-    **1970:** theory explaining the quantum structure of electroweak interaction.<br>
-    **1972:** explanation of the asymmetrical decay of particles called kaons.<br>
-    **1973:**  interactions between quarks mediated by gluons (Quantum ChromoDynamics).<br>
-    **1974:** discovery of particle (J/psi) and existence of the fourth quark, the “charm”.<br>
-    **1974-1977:** discovery of a new particle—the tau lepton. <br>
-    **1980:** effects produced by neutrinos passings through a tank of water inside a mine. <br>
-    **1983:** production of W and Z particles by colliding protons and antiprotons.<br>
-    **1990:** mapping the orbits of the brightest stars closest to the center of our galaxy.<br>
-    **1998:** neutrinos switch their identities before arriving to the Earth’s atmospheres.<br>
-    **2000:** study of neutrinos created in nuclear reactions in the Sun. <br>
-    **2012:** experiments conducted at CERN confirmed the existence of the Higgs particle. 
+MLA style: Murray Gell-Mann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1969/gell-mann/facts/
 
-•	In **1964** François Englert (1932) and Robert Brout (1928-2011) proposed independently of Peter W. Higgs (1929) a theory of how particles acquire mass.
-	
-•	In **1964**, Roger Penrose (1931) proposed critical mathematical tools to describe black holes. He showed that Einstein’s general theory of relativity means the formation of black holes and described black holes as a singularity where all known laws of nature dissolve.
-	
-•	In **1968** Georges Charpak (1924-2010) invented a multiwire proportional chamber for detecting very rare particle interactions. The entrance of particles in the chamber produced two effects: the liberation in cascade of electrons and the generation of currents in many thin, parallel wires arranged in a plane between two cathode planes.
-	
-•	Around **1970** Jerome I. Friedman (1930), Henry W. Kendall (1926-1999) and Richard E. Taylor (1929-2018) started a series of experiments with high-energy electrons colliding with protons and neutrons. Their results supported the theory that quarks are the building blocks of protons and neutrons and that the binding of them is due to the action of the bosons called gluons.
-	
-•	In the early **1970s**, Gerardus t'Hooft (1946) and Martinus J.G. Veltman (1931-2021) formulated and tested a mathematical theory that explained the quantum structure of electroweak interaction.
-	
-•	In **1972**, Makoto Kobayashi (1944) and Toshihide Maskawa (1940-2021) provided a mathematics-based explanation of the discovery that the decay of certain particles (kaons) was asymmetrical.
-	
-•	In **1973** David J. Gross (1941), H. David Politzer (1949) and Frank Wilczek (1951) postulated the existence of a property called asymptotic freedom. They proposed the mathematical framework called Quantum ChromoDynamics (QCD): the theory of the strong interaction between quarks mediated by gluons.
-	
-•	In **1974** Burton Richter (1931-2018) and Samuel Chao Chung Ting (1936) independently of each other, discovered a new heavy particle (J/psi) and proved experimentally the existence of the fourth quark, the “charm”.
-	
-•	In a series of experiments from **1974** to **1977** Martin L. Perl (1927-2014) discovered a new particle—the tau lepton. The experiments consisted in producing frontal collisions between electrons and their antiparticles, positrons.
-	
-•	Since **1980** Masatoshi Koshiba (1926-2020) measured the effects produced by neutrinos. When neutrinos pass through a tank of water inside a mine, they interact with atomic nuclei in the water and release an electron, creating small flashes of light to be detected by photomultipliers and then counted.
-	
-•	In **1983** Carlo Rubbia (1934) proposed and led experiments that, by allowing protons and antiprotons to collide at very high speeds, showed the existence of W and Z particles. Collaborating with him, Simon van der Meer (1925-2011) developed a method to accumulate a large number of energetic antiprotons in an accelerator ring. Rubbia developed the idea and van der Meer made it feasible.
-	
-•	Since the **1990s** and for almost thirty years, Reinhard Genzel (1952) and Andrea Ghez (1965) they have developed and refined techniques for mapping the orbits of the brightest stars that are closest to the center of our galaxy.
-	
-•	In **1998** Takaaki Kajita (1959) built the Super-Kamiokande detector in a mine in Japan and discovered that neutrinos switch their identities before arriving. Neutrinos have been created in reactions between cosmic rays and the Earth’s atmospheres; however, the measurements showed that up to two thirds of the calculated amount was missing. This was explained in terms of neutrinos oscillations whose existence might imply that neutrinos do have very small mass.
-	
-•	Since **2000** Arthur B. McDonald (1943) made measurements in a mine in Canada for studying neutrinos created in nuclear reactions in the Sun. Deviations in such measurements showed that in coming the neutrinos were having mid-flight metamorphosis switching between three different types. As the Standard Model is based on neutrinos lacking mass and the oscillation of neutrinos implies that they have mass, that model must be revised.
-	
-•	In **2012**, two experiments conducted at the CERN laboratory confirmed the existence of the Higgs particle. Two research groups of some 3,000 scientists each, managed to extract the Higgs particle from billions of particle collisions in the LHC (Large Hadron Collider).
+NOBEL LECTURE: *Symmetry and Currents in Particle Physics* by Gell-Man.
+
+(No manuscript was available.)
+
+***
+
+**Ph1988** to [Leon M. Lederman](https://en.wikipedia.org/wiki/Leon_M._Lederman), [Melvin Schwartz](https://en.wikipedia.org/wiki/Melvin_Schwartz) and [Jack Steinberger](https://en.wikipedia.org/wiki/Jack_Steinberger) “for the neutrino beam method and the demonstration of the doublet structure of the leptons through the discovery of the muon neutrino”.
+
+WORK (Lederman, Schwartz and Steinberger): “In decays of certain elementary particles, neutrinos are produced; particles that occasionally interact with matter to produce electrons. Leon Lederman, Melvin Schwartz, and Jack Steinberger managed to create a beam of neutrinos using a high-energy accelerator. In 1962, they discovered that, in some cases, instead of producing an electron, a muon (200 times heavier than an electron) was produced, proving the existence of a new type of neutrino, the muon neutrino. These particles, collectively called “leptons”, could then be systematically classified in families.”
+
+MLA style: Leon M. Lederman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 Jul 2023. https://www.nobelprize.org/prizes/physics/1988/lederman/facts/
+
+NOBEL LECTURE: *Observations in Particle Physics from Two Neutrinos to the Standard Model* by Lederman.
+
+MLA style: Leon M. Lederman – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 Jul 2023. https://www.nobelprize.org/prizes/physics/1988/lederman/lecture/
+
+NOBEL LECTURE: *The First High Energy Neutrino Experiment* by Schwartz.
+
+MLA style: Melvin Schwartz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 Jul 2023. https://www.nobelprize.org/prizes/physics/1988/schwartz/lecture/
+
+NOBEL LECTURE: *Experiments with High-Energy Neutrino Beams* by Steinberger.
+
+MLA style: Jack Steinberger – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 20 Jul 2023. https://www.nobelprize.org/prizes/physics/1988/steinberger/lecture/
+
+***
+
+**Ph2002** to [Raymond Davis Jr.](https://en.wikipedia.org/wiki/Raymond_Davis_Jr.) and [Masatoshi Koshiba](https://en.wikipedia.org/wiki/Masatoshi_Koshiba) “for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos” and to [Riccardo Giacconi](https://en.wikipedia.org/wiki/Riccardo_Giacconi) “for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources”.
+
+WORK (Davis): “In certain nuclear reactions (such as when protons combine to form helium nuclei) elusive particles called neutrinos are created. Raymond Davies wanted to detect neutrinos in radiation from space to confirm the theory that this kind of nuclear reaction is the source of the sun’s energy. Beginning in the 1960s, he placed a large tank containing a chlorine-rich liquid inside a mine. In rare cases, a neutrino interacted with a chlorine atom to form an argon atom. By counting these argon atoms, neutrinos from space could be detected.”
+
+MLA style: Raymond Davis Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2002/davis/facts/
+
+NOBEL LECTURE: *A Half-Century with Solar Neutrinos* by Davis.
+
+MLA style: Raymond Davis Jr. – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/davis/lecture/
+
+WORK (Koshiba): “Certain nuclear reactions, including those where hydrogen atoms combine with helium, form elusive particles called neutrinos. By proving the existence of neutrinos in cosmic radiation, Raymond Davis showed that the sun's energy originates from such nuclear reactions. From 1980, Masatoshi Koshiba provided further proof of this through measurements taken inside an enormous water tank within a mine. In rare cases, neutrinos react with atomic nuclei in water, creating an electron and thus a flash of light that can be detected.”
+
+MLA style: Masatoshi Koshiba – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/koshiba/facts/
+
+NOBEL LECTURE: *Birth of Neutrino Astrophysics* by Koshiba.
+
+MLA style: Masatoshi Koshiba – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/koshiba/lecture/
+
+WORK (Giacconi): “Stars and galaxies emit not only visible light, but also X-rays. However, the X-rays dissipate as they pass through the earth’s atmosphere, so X-rays from the cosmos have to be studied by means of telescopes in satellites. Beginning in the 1960s, Riccardo Giacconi made several pivotal contributions to the development of such telescopes. With the telescopes, he discovered X-ray sources outside our own solar system, cosmic background radiation with X-ray wavelengths as well as X-ray sources that probably contain black holes.”
+
+MLA style: Riccardo Giacconi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2002/giacconi/facts/
+
+NOBEL LECTURE: *The Dawn of X-Ray Astronomy* by Giacconi.
+
+MLA style: Riccardo Giacconi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2002/giacconi/lecture/
+
+### P2. Beyond the Standard model (1964-2012).
+
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.4.PNG?raw=true" width=600 align=center>
+	</p>
+
+**Ph1979** to [Sheldon Lee Glashow](https://en.wikipedia.org/wiki/Sheldon_Glashow), [Abdus Salam](https://en.wikipedia.org/wiki/Abdus_Salam) and [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg) “for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current”.
+
+WORK (Glashow, Salam and Weinberg): “According to modern physics, four fundamental forces exist in nature. Electromagnetic interaction is one of these. The weak interaction—responsible, for example, for the beta decay of nuclei—is another. Thanks to contributions made by Sheldon Glashow, Abdus Salam, and Steven Weinberg in 1968, these two interactions were unified to one single, called electroweak. The theory predicted, for example, that weak interaction manifests itself in “neutral weak currents” when certain elementary particles interact. This was later confirmed.”
+
+MLA style: Sheldon Glashow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 11 Oct 2024. <https://www.nobelprize.org/prizes/physics/1979/glashow/facts/>
+
+NOBEL LECTURE: *Towards a Unified Theory – Threads in a Tapestry* by Glashow.
+
+MLA style: Sheldon Glashow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/glashow/lecture/
+
+NOBEL LECTURE: *Gauge Unification of Fundamental Forces* by Salam.
+
+MLA style: Abdus Salam – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/salam/lecture/
+
+NOBEL LECTURE: *Conceptual Foundations of the Unified Theory of Weak and Electromagnetic Interactions* by Weinberg.
+
+MLA style: Steven Weinberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/weinberg/lecture/
+
+***
+
+**Ph1992** to [Georges Charpak](https://en.wikipedia.org/wiki/Georges_Charpak) “for his invention and development of particle detectors, in particular the multiwire proportional chamber”.
+
+WORK: “When onrushing particles collide and form showers of new particles, they offer a key to understanding the smallest components of matter. In 1968 Georges Charpak developed the multiwire proportional chamber, which represented a more effective way of detecting particles. The multiwire chamber contains many parallel metal wires surrounded by a gas. Between the chamber’s walls and the threads, an electrical charge is introduced. When particles enter, electrons in the gas are liberated in cascading fashion. Currents are generated in the wires and are registered and processed using computers.”
+
+MLA style: Georges Charpak – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1992/charpak/facts/
+
+NOBEL LECTURE: Electronic Imaging of Ionizing Radiation with Limited Avalanches in Gases by Charpak.
+
+MLA style: Georges Charpak – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1992/charpak/lecture/
+
+***
+
+**Ph1999** to [Gerardus ‘t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) and [Martinus J.G. Veltman](https://en.wikipedia.org/wiki/Martinus_J._G._Veltman) “for elucidating the quantum structure of electroweak interactions in physics”.
+
+WORK (t Hooft and Veltman): “According to modern physics, four fundamental forces exist in nature. Electromagnetic interaction is one of these. The weak interaction—responsible, for example, for the beta decay of nuclei—is another. In the 1960s, a unified theory was formulated for these two forces: the electroweak interaction. However, certain problems still remained to be solved. In the early 1970s, Gerardus t'Hooft and Martinus Veltman formulated and tested a mathematical theory that further explained the electroweak interaction.”
+
+MLA style: Gerardus 't Hooft – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/thooft/facts/
+
+NOBEL LECTURE: *A Confrontation with Infinity* by t'Hooft.
+
+MLA style: Gerardus ‘t Hooft – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/
+
+NOBEL LECTURE: *From Weak Interactions to Gravitation* by Veltman.
+
+MLA style: Martinus J.G. Veltman – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/veltman/lecture/
+
+***
+
+**Ph2013** to [François Englert](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert) and [Peter W. Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) “for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN’s Large Hadron Collider”.
+
+
+WORK (Englert and Higgs): “According to modern physics, matter consists of a set of particles that act as building blocks. Between these particles lie forces that are mediated by another set of particles. A fundamental property of the majority of particles is that they have a mass. Independently of one another, in 1964 both Peter Higgs and the team of François Englert and Robert Brout proposed a theory about the existence of a particle that explains why other particles have a mass. In 2012, two experiments conducted at the CERN laboratory confirmed the existence of the Higgs particle.”
+
+MLA style: François Englert – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 11 Oct 2024. <https://www.nobelprize.org/prizes/physics/2013/englert/facts/>
+
+NOBEL LECTURE: *The BEH Mechanism and its Scalar Boson* by Englert.
+
+MLA style: François Englert – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2013/englert/lecture/
+
+NOBEL LECTURE: *Evading the Goldstone Theorem* by Higgs.
+
+MLA style: Peter Higgs – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2013/higgs/lecture/
+
+***
+
+**Ph2015** to Takaaki Kajita and Arthur B. McDonald “for the discovery of neutrino oscillations, which shows that neutrinos have mass”.
+
+WORK (Kajita): “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In the Super-Kamiokande detector, an experimental facility in a mine in Japan in 1998, Takaaki Kajita detected neutrinos created in reactions between cosmic rays and the Earth’s atmosphere. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
+
+MLA style: Takaaki Kajita – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2015/kajita/facts/
+
+NOBEL LECTURE: *Discovery of Atmospheric Neutrino Oscillations* by Kajita.
+
+MLA style: Takaaki Kajita – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/kajita/lecture/
+
+WORK (McDonald): “The Standard Model used by modern physics has three types of a very small and elusive particle called the neutrino. In an experimental facility in a mine in Canada in 2000, Arthur McDonald studied neutrinos created in nuclear reactions in the sun. Measurements showed deviations, which were explained by the neutrinos switching between the different types. This means that they must have mass. The Standard Model, however, is based on neutrinos lacking mass and the model must be revised.”
+
+MLA style: Arthur B. McDonald – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 30 Jun 2023. https://www.nobelprize.org/prizes/physics/2015/mcdonald/facts/
+
+NOBEL LECTURE: *The Sudbury Neutrino Observatory: Observation of Flavor Change for Solar Neutrinos* by McDonald.
+
+MLA style: Arthur B. McDonald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/2015/mcdonald/lecture/
+
+***
+
+**Ph2020** to [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose) “for the discovery that black hole formation is a robust prediction of the general theory of relativity” and to [Reinhard Genzel](https://en.wikipedia.org/wiki/Reinhard_Genzel) and [Andrea Ghez](https://en.wikipedia.org/wiki/Andrea_M._Ghez) “for the discovery of a supermassive compact object at the centre of our galaxy”.
+
+WORK (Penrose): “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. In 1964, Roger Penrose proposed critical mathematical tools to describe black holes. He showed that Einstein’s general theory of relativity means the formation of black holes must be seen as a natural process in the development of the universe. He was also able to describe black holes in detail: at their farthest depths is a singularity where all known laws of nature dissolve.”
+
+MLA style: Roger Penrose – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 1 Jul 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/facts/
+
+NOBEL LECTURE: *Black Holes, Cosmology, and Space-Time Singularities* by Penrose.
+
+MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/lecture/
+
+WORK (Genzel and Ghez): “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. Since nothing, not even light, can escape black holes, they can only be observed by the radiation and the movement of nearby objects. Since the 1990s, Reinhard Genzel and Andrea Ghez with their respective research teams, have developed and refined techniques for studying the movement of stars. Observations of stars in the area around Sagittarius A* in the middle of our galaxy, the Milky Way, revealed a super massive black hole.”
+
+MLA style: Reinhard Genzel – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 1 Jul 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/facts/
+
+NOBEL LECTURE: *A Forty Year Journey* by Genzel.
+
+MLA style: Reinhard Genzel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/lecture/
+
+NOBEL LECTURE: *From the Possibility to the Certainty of a Supermassive Black Hole* by Ghez.
+
+MLA style: Andrea Ghez – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/2020/ghez/lecture/
+
 
 ***
 
