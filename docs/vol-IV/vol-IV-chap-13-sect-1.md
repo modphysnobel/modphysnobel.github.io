@@ -47,158 +47,383 @@ The main achievements in nuclear physics awarded with Physics Nobel Prizes in th
 
 	
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=480 align=center>
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.1.PNG?raw=true" width=600 align=center>
 	</p>
-	
-<center>
-(Images credit: CC Wikimedia Commons)
-</center>
 
+**Ph1901** to [Wilhelm Conrad Röntgen](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
 
-New phenomena were observed and there were no possibilities for understanding them in the frame of classical physics; for instance, the transformation of radioactive elements, the discovery of new elements, and the existence of isotopes. These phenomena lead to new structural models of atomic matter.
+WORK: “In 1895, Wilhelm Röntgen studied cathode radiation, which occurs when an electrical charge is applied to two metal plates inside a glass tube filled with rarefied gas. Although the apparatus was screened off, he noticed a faint light on light-sensitive screens that happened to be close by. Further investigations revealed that this was caused by a penetrating, previously unknown type of radiation. X-ray radiation became a powerful tool for physical experiments and examining the body's interior.”
 
-Henri Becquerel observed the effect of the disintegration of uranium that produced the transmutation into new elements accompanied by the emissions of radiations: Alpha rays (nucleus of He atoms), Beta rays (electrons), and/or Gamma rays (radiation with the shortest wavelength of the electromagnetic spectrum).
-
-Research on radioactivity has contributed to generate knowledge in next aspects: there is a new property of matter with the capability of spontaneously emitting certain type of radiation; specific experimental methods have been developed to produce radioactive elements, and a new source of energy has been found with no clear understanding of its origin and properties.
-
-The smallest particles with negative and positive charges known at the time were the electron and the proton, respectively. Being part of atomic structures, they came out from the decomposition of the radioactive substances and from the disintegration of atoms and molecules. Although the atom is electrically neutral, the existence of isotopes indicated that something with mass but without charge was inside the nucleus: the neutron.
-
-Two Rutherford´ students (Hans Geiger and Ernest Marsden) performed a series of experiments for testing Thomson atomic model called the “plum pudding”. They observed that some alpha particles were dispersed after impacting a very thin foil of gold instead of passing through it. This was an indication that something like a coulombic repulsion was changing the trajectory of the positive incident radiation of alpha particles. This surprising result led Rutherford to propose an atomic model composed of a positive core or nucleus and a cloud of surrounding negative charges, the electrons. Consequently, radioactivity had to be interpreted as something interior to the atomic system, not anymore indivisible.
-
-!!! bug ""
-	**1895:** discovery of X-rays.<br>
-	**1896:** discovery of spontaneous radioactivity.<br>
-	**1897:** discovery of electrons.<br>
-	**1898:** discovery of radioactive elements (polonium and radium). <br>
-	**1899:** detection of alpha and beta radiations.<br>
-	**1902:** production of the transmutation of elements. <br>
-	**1910:** theory of atomic radioactive transformations.<br>
-	**1910:** calculation of the electron’s charge.<br>
-	**1911:** construction of a cloud chamber.<br>
-	**1919:** production of transmutations of atomic nuclei.<br>
-	**1919:** building a map of isotopes by using a mass spectrograph.
-
-•	Around **1895** Wilhelm Conrad Röntgen (1845-1923) discovered X-rays when he was experimenting with a Crookes tube. This type of radiation was generated because fast-moving electrons suddenly decelerated during their colliding interaction with the target anode.
-	
-•	In **1896** Antoine Henri Becquerel (1852-1908) discovered spontaneous radioactivity when he analyzed the image formed in a sensitive photographic plate by a sort of radiation produced by certain salts of uranium, even though he had covered the plate with aluminum foils; such radiation also made air conduct electricity.
-	
-•	In **1897** Joseph John Thomson (1856-1940) showed that cathode rays conduced electricity as particles forming part of atoms: the electrons.
-	
-•	In **1898** the Curies Pierre (1859-1906) and Marie (1867-1934) provided experimental proof of the existence of radioactive elements such as polonium and radium. They also examined many substances and minerals for signs of radioactivity as in actinium. They described the radioactive properties of these elements and demonstrated that radioactivity was a specific atomic property.
-	
-•	In **1899** Ernest Rutherford (1871-1937) demonstrated that there were at least two distinct types of radiation emanating from a radioactive element: alpha radiation and beta radiation, afterwards interpreted respectively as ionized helium atoms He-4 (composed of two protons and two neutrons) and as electrons.
-	
-•	In **1902** Rutherford and Frederick Soddy (1877-1956) proposed a transmutation theory explaining the transformation of elements. In between 1908 and 1913, Hans Geiger (1882-1945) and Ernest Marsden (1989-1970) performed a series of experiments for testing Thomson atomic model called the “plum pudding”.
-	
-•	In **1910** Marie Curie (1867-1934) produced radium as a pure metal and worked on the theory of atomic radioactive transformations.
-	
-•	In **1910** Robert Andrews Millikan (1868-1953) determined the magnitude of the electron’s charge by experimenting with small electrically charged drops subjected to the downward force of gravity and the upward attraction of an external electrical field.
-	
-•	In **1911** Charles Thomson Rees Wilson (1869-1959) constructed a cloud chamber which was a glass container with a mixture of air and water vapor. An increase in the volume of this mixture produced small water drops. When the air contained electrically charged particles (ions), some droplets were formed surrounding these charges. The traces left by ionizing radiation and particles that pass through the chamber become visible to be photographed.
-	
-•	In **1919** Rutherford produced transmutations of atomic nuclei by bombarding nitrogen with helium nuclei obtained from a radium source. This transformation of nitrogen into oxygen was the first case of transmutation of elements by external means, the dream of alchemists.
-	
-•	In **1919** Francis William Aston (1877-1945) developed a mass spectrograph to build a map of different isotopes.
-
-### N2 - Production of new particles and detection of new interaction forces.
-
-Designing and building accelerators of particles and creating appropriate detection instruments transformed the way of doing experimental research in physics. Understanding the nucleus models and discovering new particles like neutrons and positrons required the consideration of new types of forces, aside gravitation and electromagnetism: the strong force for explaining the nuclear binding between protons and neutrons (existence of mesons) and the weak force responsible of radioactivity. The artificial production of radioactivity opened new possibilities for the transformation of elements and for the liberation of energy.
-
-The fact that photons are quantized energy electromagnetic radiations, and that electrons could be diffracted implied the existence of quanta of energy and a dual behavior of electrons. Furthermore, a restriction on the electronic quantum numbers was proposed by the Pauli exclusion principle and tracks created by the passage of particles indicated the presence of subatomic particles.
-
-Ernest Lawrence applied a method called magnetic resonance acceleration by combining a constant homogeneous magnetic field and an oscillating electrical field with constant frequency. Charged particles that moved under the influence of such fields described orbits with ever-increasing radii through stepwise acceleration in a spiral-shaped path before they collide with specific targets to penetrate atomic nucleus and produce nuclear reactions. Later, this machine, the cyclotron, has been also used in the production of artificially radioactive substances.
-
-When beryllium atoms were bombarded with alpha particles (nuclei of helium) a strong and penetrating radiation was observed; this radiation appeared to be radioactive γ-rays. This radiation caused a disintegration of the atoms, similar to an explosion inside the nuclei. James Chadwick studied such radiations and calculated the transformations of mass-produced during collisions: an available procedure to detect the presence of a particle with mass but without charge: the neutrons.
-
-Robert Millikan recorded the tracks produced by cosmic radiations in a Wilson chamber equipped with very strong magnets. By analyzing photographs of those tracks Carl Anderson discovered the positron: he found one case where the curved path showed the same deviation as the negative electrons, but in the opposite direction, which corresponded to a positively charged particle.
-
-According to Hans Bethe, the existence of stars follows a life cycle: to be born and then to grow and develop by burning fuel, finally they die burning out all their energy sources. The dominant reaction occurs when four hydrogen nuclei links together to form one helium nucleus. However, in a more complex cycle of nuclear reactions carbon atoms acts as a catalyst. These fusion reactions create heat and light as another demonstration of the validity of Einstein´s equation ($E = mc^2$).
-
-Otto Hahn and Lise Meitner studied the products obtained by projecting neutrons onto heaviest elements like thorium and uranium. Later, Lise Meitner and Otto Frisch proved that the uranium nucleus had been fragmented. This was the first nuclear fission reaction obtained due to a chain reaction where matter was converted into energy in a laboratory.
-
-Tracks created by the passage of particles indicated the presence of subatomic particles. Furthermore, fission of heavy nuclei was produced first as a laboratory experiment and afterwards lead to the production of atomic bombs. New experiments and theories were developed to produce and explain phenomena such as: the invention of new devices for detecting particles, the use of nuclear reactors for spectroscopical studies, the prove of the existence of neutrinos, and the explanation of nuclear structure and motions. The quantized interaction of radiation with matter was proposed by developing quantum electrodynamics.
-
-!!! bug ""
-
-	**1922:** electromagnetic radiation described in terms of photons.<br>
-	**1924:** existence of matter waves. <br>
-	**1925:** formulation of the exclusion principle.<br>
-	**1927:** observation of electron diffraction patterns.<br>
-	**1929:** construction of a cyclotron.<br>
-	**1932:** existence of neutrons.<br>
-	**1932:** discovery of the positron.<br>
-	**1932:** formations of pairs of electrons and positrons out of photons.<br>
-	**1932:** artificial production of nuclear transmutations.<br>
-	**1933:** description of the force binding nucleons together.<br>
-	**1934:** artificial creation of radioactive elements.<br>
-	**1934:** radioactivity induced by neutrons and nuclear synthesis.<br>
-	**1934:** prediction of mesons responsible of the strong nuclear force.<br>
-	**1938:** description of the Sun as a giant nuclear reactor.<br>
-	**1939:** discovery of the fission of heavy nuclei.<br>
-	**1946:** determination of structures using neutrons created in a reactor. <br>
-	**1947:** production of short-lived particles: the pi-mesons.<br>
-	**1948:** magic numbers describe closed shells in nuclei.<br>
-	**1948:** formulation of quantum electrodynamics.<br>
-	**1949:** model describing nucleons distributed in shells.<br>
-	**1950:**  development of neutron diffraction techniques.<br>
-	**1950:**  electron scattering in atomic nucleus.<br>
-	**1950:**  discovery of neutrinos.<br>
-	**1950:** study of shape distortions in atomic nucleus.<br>
-	**1952:** tracks produced by charged particles in bubble chambers.<br>
-	**1952-1953:**  explanation of the nuclear rotational spectrum.
-
-•	In **1922** Arthur Holly Compton (1892-1962) directed X-ray photons onto a metal surface and observed that the X-rays’ wavelength increased because some of the incident photon energy was transferred to the electrons, confirming that electromagnetic radiation could be described as photons.
-	
-•	In **1924** Louis-Victor Pierre Raymond de Broglie (1892-1987) proposed that electrons could be understood both as particles and as waves, meaning that particles have an associated wave function describing their propagation and interactions. The existence of matter waves was proposed by him.
-	
-•	In **1925** Wolfgang Pauli (1900-1958) formulated the exclusion principle, which implies that no two electrons in an atom could have identical sets of quantum numbers.
-	
-•	In **1927** Clinton Joseph Davisson (1881-1958) and George Paget Thomson (1892-1975) demonstrated, independently of one another, that electrons could be described as waves and present diffraction patterns.
-	
-•	In **1929** Ernest Orlando Lawrence (1901- 1958) started thinking in the construction of a cyclotron for accelerating protons to high velocities.
-	
-•	In **1932** James Chadwick (1891-1974) experimentally confirmed the existence of neutrons as a new fundamental building-stone of matter. He also determined the neutron mass and the atomic weights of some elements.
-	
-•	In **1932** Carl David Anderson (1905-1991) discovered of the positron: a particle with a similar mass as the electron and a positive charge, confirming Dirac prediction about the existence of antimatter.
-	
-•	In **1932** Patrick Maynard Stuart Blackett (1897-1974) in collaboration with Giuseppe Occhialini (1907-1993) connected a cloud chamber to a Geiger counter and detected the passage of particles. They also described how pairs of electrons and positrons could be formed out of photons. Blackett developed both the method and the apparatus.
-	
-•	In **1932** John Douglas Cockcroft (1897-1967) and Ernest Thomas Sinton Walton (1903-1995) bombarded lithium with high velocity protons, causing their nuclei to split and to produce two alpha particles. This was the first nuclear transmutation produced by artificial acceleration of particles under human controls.
-	
-•	In **1933** Eugene Wigner (1902-1995) discovered that the force binding the nucleons together is weak at great distances and strong at short distances. The force between two nucleons is the same, regardless of whether they are protons or neutrons. Wigner also demonstrated that most essential properties of the nuclei follow from generally valid symmetries of the laws of motion.
-	
-•	In **1934** Frédéric Joliot (1900-1958) and Irène Joliot-Curie (1897-1956) bombarded a thin piece of aluminum with alpha particles obtained from polonium and discovered that the radiation from the aluminum continued even after the source of radiation was removed. They created artificially the first radioactive element when aluminum atoms were converted into a radioactive isotope of phosphorus.
-	
-•	In **1934** Enrico Fermi (1901-1954) and collaborators observed that when neutrons were used as projectiles and slowed down by a shield of paraffin, the interaction rate with nuclei increases. Fermi discovered radioactivity induced by neutrons and applied it to 22 different elements. Fermi also obtained nuclear synthesis and produced two new elements: Ausenium and Hesperium, corresponding to atomic numbers 93 and 94.
-	
-•	In **1934** Hideki Yukawa (1907-1981) predicted the existence of a new particle, the meson, responsible of the strong nuclear force that maintained together protons and neutrons inside the atomic nucleus. The meson has a mass of nearly 200 times the mass of an electron, it is exchanged between nucleons, and when transformed it generates an electron and a neutrino, a very light particle without charge that was proposed in 1930 by Wolfgang Pauli (1900-1958).
-	
-•	In **1938** and **1939** Hans Albrecht Bethe (1906-2005) revealed how the Sun behaves like a giant nuclear reactor in which two kinds of nuclear reactions produce energy.
-	
-•	In **1939** Otto Hahn (1879-1968) in collaboration with Fritz Strassman (1902-1980) irradiated uranium with neutrons and created barium. Hahn received this Prize “for his discovery of the fission of heavy nuclei”.
-	
-•	In **1946** Clifford G. Shull (1915-2001) determined the structure of different molecules and materials using beams of neutrons created in a nuclear reactor. Shull was interested on where the atoms “are” (their structure).
-	
-•	In **1947** Cecil Frank Powell (1903-1969) discovered that the reaction of incident cosmic ray particles with atomic nuclei, as detected in a photographic emulsion, produced other short-lived particles: the pi-mesons.
-	
-•	In **1948** Maria Goeppert Mayer (1906-1972) wrote the paper On closed shells in nuclei, when she collected the empirical evidence pointing out the significance of the magic numbers.
-	
-•	During **1948**, working through a renormalization procedure, Sin-Itiro Tomonaga (1906-1979) interpreted the splitting of degenerated energy levels within the hydrogen atom (the Lamb shift), Julian Schwinger (1918-1994) reformulated the theory to explain that he electron’s magnetic moment proved to be somewhat larger than expected, and Richard P. Feynman (1918-1988) created a new version of quantum electrodynamics introducing a graphical procedure for the calculation of interaction probabilities (the Feynman diagrams).
-	
-•	In **1949** J. Hans D. Jensen (1907-1973) developed a model in which nucleons were distributed in shells with different energy levels, even though individual nucleons moved freely in an averaged potential.
-	
-•	During **1950** Bertram N. Brockhouse (1918-2003) worked on the development of the neutron diffraction technique and elaborated a chart of properties of molecules and materials. Brockhouse was interested on what the atoms “do” (their dynamics).
-	
-•	In **1950** Robert Hofstadter (1915-1990) started his studies on electron scattering in atomic nucleus by analyzing the distribution of charge and magnetism inside the nucleons. He also investigated these distributions bombarding the nucleus with fast electrons and made accurate measurements in the nuclei of the magnetic moments of protons and neutrons.
-	
-•	Since **1950** Frederick Reines (1918-1998) in collaboration with Clyde Cowan (1919-1974) were experimenting with radiation coming from a nuclear reactor and discovered neutrinos.
-	
-•	In **1950** James Rainwater (1917-1986) postulated that the atomic nucleus could be distorted and that certain nuclei had not spherical symmetry but were deformed as an ellipsoid because the valence nucleons influenced the shape of the inner nucleus.
-	
-•	In **1952** Donald Arthur Glaser (1926-2013) invented the bubble chamber as an instrument for observing the tracks produced by charged particles when they pass through a chamber filled with a liquid at near-boiling point. When the pressure inside the chamber is reduced, strings of bubbles are formed around these charged atoms and afterwards their corresponding tracks can be photographed and analyzed.
-	
-•	In the years **1952-1953** Aage Niels Bohr (1922-2009) and Ben Roy Mottelson (1926-2022), they proved that the position of energy levels in certain nuclei could be explained by the assumption that they form a rotational spectrum produced by the coupling of oscillations of the nuclear surface to the movements of the individual nucleons.
+MLA style: Wilhelm Conrad Röntgen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 23 Dec 2023. https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/
+No Nobel Lecture was delivered.
 
 ***
 
-[**Next: 13.2. Steps in the development of Particle Physics.**](./vol-IV-chap-13-sect-2.md)
+**Ph1903** to [Antoine Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) “in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity” and to [Pierre Curie](https://en.wikipedia.org/wiki/Pierre_Curie) and [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie), née Sklodowska “in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel”.
+
+WORK (Becquerel): “When Henri Becquerel investigated the newly discovered X-rays in 1896, it led to studies of how uranium salts are affected by light. By accident, he discovered that uranium salts spontaneously emit a penetrating radiation that can be registered on a photographic plate. Further studies made it clear that this radiation was something new and not X-ray radiation: he had discovered a new phenomenon, radioactivity.”
+
+MLA style: Henri Becquerel – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sun. 6 Oct 2024. <https://www.nobelprize.org/prizes/physics/1903/becquerel/facts/>
+
+NOBEL LECTURE: *On Radioactivity, a New Property of Matter* by Becquerel.
+
+MLA style: Henri Becquerel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1903/becquerel/lecture/
+
+WORK (Pierre Curie): “The 1896 discovery of radioactivity by Henri Becquerel inspired Marie and Pierre Curie to further investigate this phenomenon. They examined many substances and minerals for signs of radioactivity. They found that the mineral pitchblende was more radioactive than uranium and concluded that it must contain other radioactive substances. From it they managed to extract two previously unknown elements, polonium and radium, both more radioactive than uranium.”
+
+MLA style: Pierre Curie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sun. 6 Oct 2024. <https://www.nobelprize.org/prizes/physics/1903/pierre-curie/facts/>
+
+NOBEL LECTURE: *Radioactive Substances, Especially Radium* by Pierre Curie.
+
+MLA style: Pierre Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1903/pierre-curie/lecture/
+
+WORK (Marie Curie): “The 1896 discovery of radioactivity by Henri Becquerel inspired Marie Skłodowska Curie and Pierre Curie to further investigate this phenomenon. They examined many substances and minerals for signs of radioactivity. They found that the mineral pitchblende was more radioactive than uranium and concluded that it must contain other radioactive substances. From it they managed to extract two previously unknown elements, polonium and radium, both more radioactive than uranium.”
+
+MLA style: Marie Curie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sun. 6 Oct 2024. <https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/>
+
+No Lecture was delivered by Mme. Curie
+
+***
+
+**Ph1906** to [Joseph John Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”.
+
+WORK: “The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms.”
+
+MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1906/thomson/facts/
+
+NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
+
+MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1906/thomson/lecture/
+
+***
+
+**Ch1908** to [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
+
+WORK: “The discovery of radioactivity in 1896 led to a series of more in-depth investigations. In 1899 Ernest Rutherford demonstrated that there were at least two distinct types of radiation: alpha radiation and beta radiation. He discovered that radioactive preparations gave rise to the formation of gases. Working with Frederick Soddy, Rutherford advanced the hypothesis that helium gas could be formed from radioactive substances. In 1902 they formulated a revolutionary theory: that elements could disintegrate and be transformed into other elements.”
+
+MLA style: Ernest Rutherford – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1908/rutherford/facts/
+
+NOBEL LECTURE: *The Chemical Nature of the Alpha Particles from Radioactive Substances* by Rutherford.
+
+MLA style: Ernest Rutherford – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1908/rutherford/lecture/
+
+***
+
+**Ch1911** to Marie Curie, née Sklodowska “in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element”.
+
+WORK: ”After Marie Skłodowska Curie and Pierre Curie first discovered the radioactive elements polonium and radium, Marie continued to investigate their properties. In 1910 she successfully produced radium as a pure metal, which proved the new element's existence beyond a doubt. She also documented the properties of the radioactive elements and their compounds. Radioactive compounds became important as sources of radiation in both scientific experiments and in the field of medicine, where they are used to treat tumors.”
+
+MLA style: Marie Curie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/facts/
+
+NOBEL LECTURE: *Radium and the New Concepts in Chemistry* by Marie Curie.
+
+MLA style: Marie Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/
+
+***
+
+**Ch1922** to [Francis William](https://en.wikipedia.org/wiki/Francis_William_Aston) Aston “for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule”.
+
+WORK: “After it became clear that elements could have different isotopes, i.e., occur in different variants with different atomic weights, Francis Aston developed the mass spectrograph in 1919 to map the different isotopes. In the mass spectrograph, beams of atoms were generated in a tube with the aid of an electrical field. When the beams passed through an electrical and magnetic field, the lighter isotopes were bent more than the heavier ones. Aston came to the conclusion that the weight of the isotopes was very close to whole-number multiples of a unit.”
+
+MLA style: Francis W. Aston – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1922/aston/facts/
+
+NOBEL LECTURE: *Mass Spectra and Isotopes* by Aston.
+
+MLA style: Francis W. Aston – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1922/aston/lecture/
+
+***
+
+**Ph1923** to Robert [Andrews Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) “for his work on the elementary charge of electricity and on the photoelectric effect”.
+
+WORK: “During the 1890s the theory that electricity was conveyed by a miniscule unit, the electron, gained acceptance. In 1910 Robert Millikan succeeded in precisely determining the magnitude of the electron’s charge. Small electrically charged drops of oil were suspended between two metal plates where they were subjected to the downward force of gravity and the upward attraction of an electrical field. By measuring how the various drops of oil moved about, Millikan showed that their charge always was a multiple of a precisely determined charge—the electron’s charge.”
+
+MLA style: Robert A. Millikan – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
+
+NOBEL LECTURE: *The Electron and the Light-Quant from the Experimental Point of View* by Millikan.
+
+MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/
+
+***
+
+**Ph1927** to [Charles Thomson Rees Wilson](https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson) “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
+
+WORK:” If the volume of a mixture of air and water vapor increases, small water drops form. If the air contains electrically charged particles—ions—then droplet formation occurs around these especially. C.T.R. Wilson exploited this phenomenon when he constructed his cloud chamber in 1911—a glass container with air and water vapor and ingenious devices that allow traces left by ionizing radiation and particles that pass through the chamber to become visible and be photographed. The cloud chamber became an important tool in physics.”
+
+MLA style: C.T.R. Wilson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/facts/
+
+NOBEL LECTURE: *On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles* by Wilson.
+
+MLA style: C.T.R. Wilson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/lecture/
+
+### N2 -  Production of particles and detection of interaction forces (1922-1953). 
+
+<p align="center">
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.1.PNG?raw=true" width=600 align=center>
+	</p>
+
+**Ph1927** to [Arthur Holly Compton](https://en.wikipedia.org/wiki/Arthur_Compton) “for his discovery of the effect named after him”.
+
+WORK: “According to Einstein’s photoelectric effect theory, light consists of quanta, “packages” with definite energies corresponding to certain frequencies. A light quantum is called a photon. When Arthur Compton directed X-ray photons onto a metal surface in 1922, electrons were emancipated and the X-rays’ wavelength increased because some of the incident photon energy was transferred to the electrons. The experiment confirmed that electromagnetic radiation could also be described as photon particles following the laws of mechanics.”
+
+MLA style: Arthur H. Compton – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1927/compton/facts/
+
+NOBEL LECTURE: *X-rays as a Branch of Optics* by Compton.
+
+MLA style: Arthur H. Compton – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1927/compton/lecture/
+
+***
+
+**Ph1929** to [Prince Louis-Victor Pierre Raymond de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) “for his discovery of the wave nature of electrons”.
+
+WORK:” In the beginning of the 20th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. In 1924 Louis de Broglie introduced the idea that particles, such as electrons, could be described not only as particles but also as waves. This was substantiated by the way streams of electrons were reflected against crystals and spread through thin metal foils. The idea had great significance for the continued evolution of quantum mechanics.”
+
+MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/facts/
+
+NOBEL LECTURE: The Wave Nature of the Electron by de Broglie.
+
+MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/
+
+***
+
+**Ph1935** to [James Chadwick](https://en.wikipedia.org/wiki/James_Chadwick) “for the discovery of the neutron”.
+
+WORK:” When Herbert Becker and Walter Bothe directed alpha particles (helium nuclei) at beryllium in 1930, a strong, penetrating radiation was emitted. One hypothesis was that this could be high-energy electromagnetic radiation. In 1932, however, James Chadwick proved that it consisted of a neutral particle with about the same mass as a proton. Ernest Rutherford had earlier proposed that such a particle might exist in atomic nuclei. Its existence now proven, it was called a “neutron”.”
+
+MLA style: James Chadwick – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/
+
+NOBEL LECTURE: *The Neutron and Its Properties* by Chadwick.
+
+MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/
+
+***
+
+**Ch1935** to [Frédéric Joliot](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Joliot-Curie) and to [Irène Joliot-Curie](https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie) “in recognition of their synthesis of new radioactive elements”.
+
+WORK (Joliot and Joliot-Curie): “Radiation from radioactive substances also became an important tool in investigating atoms. When Frédéric Joliot and Irene Joliot-Curie bombarded a thin piece of aluminum with alpha particles (helium atom nuclei) in 1934, a new kind of radiation was discovered that left traces inside an apparatus known as a cloud chamber. The pair discovered that the radiation from the aluminum continued even after the source of radiation was removed. This was because aluminum atoms had been converted into a radioactive isotope of phosphorus. That meant that, for the first time in history, a radioactive element had been created artificially.”
+
+MLA style: Frédéric Joliot – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/
+
+NOBEL LECTURE: *Chemical Evidence of the Transmutation of Elements* by Joliot.
+
+MLA style: Frédéric Joliot – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/lecture/
+
+NOBEL LECTURE: Artificial Production of Radioactive Elements by Joliot-Curie.
+MLA style: Irène Joliot-Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/lecture/
+
+***
+
+**Ph1936** to [Carl David Anderson](https://en.wikipedia.org/wiki/Carl_David_Anderson) “for his discovery of the positron”.
+
+WORK:” In developing quantum mechanical theory, Dirac predicted that all matter has a kind of mirror image—antimatter. A particle and its antiparticle, if charged, should have opposite charges. By studying the tracks of cosmic ray particles in a cloud chamber, in 1932 Carl Anderson discovered a positively-charged particle with a mass seemingly equal to that of an electron. Anderson’s particle was the first antiparticle proven by experiment and was named a “positron”.
+
+MLA style: Carl D. Anderson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1936/anderson/facts/
+
+NOBEL LECTURE: *The Production and Properties of Positrons* by Anderson.
+
+MLA style: Carl D. Anderson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1936/anderson/lecture/
+
+***
+
+**Ph1937** to [Clinton Joseph Davisson](https://en.wikipedia.org/wiki/Clinton_Davisson) and [George Paget Thomson](https://en.wikipedia.org/wiki/George_Paget_Thomson) “for their experimental discovery of the diffraction of electrons by crystals”.
+
+WORK (Davisson and Thomson): ”In the beginning of the 19th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. Later it was proposed that matter, such as electrons, also can be described as both waves and particles. In 1927 Clinton Davisson and G.P. Thomson demonstrated, independently of one another, that electrons could be described as waves. When an electron beam passed through a nickel crystal, diffraction patterns appeared.”
+
+MLA style: Clinton Davisson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/facts/
+
+NOBEL LECTURE: *The Discovery of Electron Waves* by Davisson.
+
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 4 Aug 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
+
+NOBEL LECTURE: *Electronic Waves* by Thomson.
+
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1937/thomson/lecture/
+
+***
+
+**Ph1938** to [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) “for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons”.
+
+WORK: “Discovered in 1932, the neutron proved to be a powerful new tool for studying atoms. When Enrico Fermi irradiated heavy atoms with neutrons, these were captured by the atomic nuclei, creating new and often radioactive isotopes. In 1934, Fermi and his colleagues discovered that when neutrons are slowed down, e.g. by paraffin shielding, the interaction rate with nuclei increases. This revelation led to the discovery of many hitherto-unknown radioactive isotopes.”
+
+MLA style: Enrico Fermi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1938/fermi/facts/
+
+NOBEL LECTURE: *Artificial Radioactivity Produced by Neutron Bombardment* by Fermi.
+
+MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/
+
+***
+
+**Ph1939** to [Ernest Orlando Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) “for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements”.
+
+WORK: “If the nuclei of atoms are bombarded by beams of particles, such as protons, the atoms can be transformed into different variants of the element with different masses, so-called isotopes. The likelihood that particles can penetrate the atomic nucleus and bring about a nuclear reaction increases if the bombarding particles have a high velocity. In 1929 Ernest Lawrence developed an apparatus known as a cyclotron that used electrical and magnetic fields to accelerate protons to high velocities in a spiral-shaped path before they collide with their target.”
+
+MLA style: Ernest Lawrence – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1939/lawrence/facts/
+
+NOBEL LECTURE: *The Evolution of the Cyclotron* by Lawrence.
+
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1939/lawrence/lecture/
+
+**Ch1944** to [Otto Hahn](https://en.wikipedia.org/wiki/Otto_Hahn) “for his discovery of the fission of heavy nuclei”.
+
+WORK: “The discovery of the neutron in 1932 provided a powerful new tool for investigating atoms. When Otto Hahn and Fritz Strassman irradiated uranium with neutrons in 1939, they created barium, which was far too light an element to be a decay product of uranium. Hahn's long-time colleague, Lise Meitner, and her nephew, Otto Frisch, tackled the problem from a theoretical standpoint and proved that the uranium nucleus had been split. The phenomenon, later called “fission”, proved important in developing nuclear weapons and energy.”
+
+MLA style: Otto Hahn – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1944/hahn/facts/
+
+NOBEL LECTURE: *From the Natural Transmutations of Uranium to Its Artificial Fission* by Hahn.
+
+MLA style: Otto Hahn – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1944/hahn/lecture/
+
+***
+
+**Ph1945** to [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) “for the discovery of the Exclusion Principle, also called the Pauli Principle”.
+
+WORK: “In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too.”
+
+MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/facts/
+
+NOBEL LECTURE: Exclusion Principle and Quantum Mechanics by Pauli.
+
+MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/
+
+***
+
+**Ph1949** to [Hideki Yukawa](https://en.wikipedia.org/wiki/Hideki_Yukawa) “for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces”.
+
+WORK: “Atomic nuclei consist of protons and neutrons held together by a strong force. Hideki Yukawa assumed that this force is borne by particles and that there is a relationship between the range of the force and the mass of the force-bearing particle. In 1934, Yukawa predicted that this particle should have a mass about 200 times that of an electron. He called this particle a “meson”. Mesons’ existence was verified in later experiments.”
+
+MLA style: Hideki Yukawa – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/facts/
+
+NOBEL LECTURE: *Meson Theory in Its Developments* by Yukawa.
+
+MLA style: Hideki Yukawa – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/lecture/
+
+***
+
+**Ph1950** to [Cecil Frank Powell](https://en.wikipedia.org/wiki/C._F._Powell) “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”.
+
+WORK: “Charged particles moving through photographic emulsions leave tracks that can be examined in the images developed afterward. Cecil Powell made improvements to this technique in order to study radiation and nuclear reactions. In 1947 he discovered that incident cosmic ray particles could react with atomic nuclei in the emulsion, creating other, short-lived particles. These particles turned out to be pi-mesons, the particles proposed by Yukawa as mediating the strong force binding protons and neutrons in nuclei.”
+
+MLA style: Cecil Powell – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1950/powell/facts/
+
+NOBEL LECTURE: The Cosmic Radiation by Powell.
+
+MLA style: Cecil Powell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1950/powell/lecture/
+
+***
+
+**Ph1951** to [Sir John Douglas Cockcroft](https://en.wikipedia.org/wiki/John_Cockcroft) and to [Ernest Thomas Sinton Walton](https://en.wikipedia.org/wiki/Ernest_Walton) “for their pioneer work on the transmutation of atomic nuclei by artificially accelerated atomic particles”.
+
+WORK (Cokcroft): ”Ernest Rutherford used alpha particles from radioactive elements to study nuclear reactions and used his findings to convert nitrogen into oxygen. However, only a very few nuclear reactions could be achieved using alpha particles. John Cockcroft and Ernest Walton developed a device, an accelerator, to generate more penetrating radiation. Using a strong electric field, protons were accelerated to high velocities. In 1932, they bombarded lithium with protons, causing their nuclei to split and producing two alpha particles.”
+
+MLA style: John Cockcroft – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1951/cockcroft/facts/
+
+NOBEL LECTURE: *Experiments on the Interaction of High-Speed Nucleons with Atomic Nuclei* by Cockcroft.
+
+MLA style: John Cockcroft – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1951/cockcroft/lecture/
+
+WORK (Walton): “Ernest Rutherford used alpha particles from radioactive elements to study nuclear reactions and used his findings to convert nitrogen into oxygen. However, only a very few nuclear reactions could be achieved using alpha particles. Ernest Walton and John Cockcroft developed a device, an accelerator, to generate more penetrating radiation. Using a strong electric field, protons were accelerated to high velocities. In 1932, they bombarded lithium with protons, causing their nuclei to split and producing two alpha particles.
+
+MLA style: Ernest T.S. Walton – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1951/walton/facts/
+
+NOBEL LECTURE: *The Artificial Production of Fast Particles* by Walton.
+
+MLA style: Ernest T.S. Walton – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1951/walton/lecture/
+
+***
+
+**Ph1960** to [Donald Arthur Glaser](https://en.wikipedia.org/wiki/Donald_A._Glaser) “for the invention of the bubble chamber”.
+
+WORK: “Our ability to study the smallest components of our world took a giant leap forward when C.T.R. Wilson invented the cloud chamber, where the trails of charged particles can be observed. Donald Glaser's invention of the bubble chamber in 1952 made it possible to study particles with higher energies. When charged particles rush forward through the chamber filled with a liquid at near-boiling point, they ionize atoms they pass by. When the pressure inside the chamber is then reduced, bubbles form around these charged atoms. The particles' tracks can then be photographed and analyzed.”
+
+MLA style: Donald A. Glaser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1960/glaser/facts/
+
+NOBEL LECTURE: *Elementary Particles and Bubble Chambers* by Glaser.
+
+MLA style: Donald A. Glaser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1960/glaser/lecture/
+
+***
+
+**Ph1963** to [Eugene Paul Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) “for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles” and to [Maria Goeppert Mayer](https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer) and [J. Hans D. Jensen](https://en.wikipedia.org/wiki/J._Hans_D._Jensen) “for their discoveries concerning nuclear shell structure”.
+
+WORK (Wigner): “After discovery of the neutron, it became evident that the atomic nucleus is made up of nucleons—protons and neutrons—that are affected by a cohesive force. In 1933 Eugene Wigner discovered that the force binding the nucleons together is very weak when the distance between them is great, but very strong when the nucleons are close to one another as in the atomic nucleus. Wigner also described several characteristics of the nucleons and the nuclear force, including the fact that the force between two nucleons is the same, regardless of whether they are protons or neutrons.
+
+MLA style: Eugene Wigner – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1963/wigner/facts/
+
+NOBEL LECTURE: *Events, Laws of Nature, and Invariance Principles* by Wigner.
+
+MLA style: Eugene Wigner – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/wigner/lecture/
+
+WORK (Goeppert Mayer and Jensen): “According to modern physics, an atom consists of a nucleus made up of nucleons—protons and neutrons—surrounded by electrons distributed within shells with a fixed number of electrons. It became apparent that atomic nuclei in which the number of nucleons corresponded to full electron shells are especially stable. In 1949 Maria Goeppert Mayer and Hans Jensen developed a model in which nucleons were distributed in shells with different energy levels. The model reflected observations of directions in which nucleons rotated around their own axes and around the center of the nucleus.”
+
+MLA style: Maria Goeppert Mayer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1963/mayer/facts/
+
+NOBEL LECTURE: *The Shell Model* by Goeppert Mayer.
+
+MLA style: Maria Goeppert Mayer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/mayer/lecture/
+
+NOBEL LECTURE: *Glimpses at the History of the Nuclear Structure Theory* by Jensen.
+
+MLA style: J. Hans D. Jensen – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/jensen/lecture/
+
+***
+
+**Ph1965** to  [Shinichiro Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga), [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) and [Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
+
+WORK (Tomonoga): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. The theory had to be reformulated, however, partly due to the observation of the Lamb shift in 1947, in which the supposed single energy level within a hydrogen atom was instead proven to be two similar levels. Sin-Itiro Tomonga solved this problem in 1948 through a “renormalization” and thereby contributed to a new quantum electrodynamics.”
+
+MLA style: Sin-Itiro Tomonaga – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/tomonaga/facts/
+
+NOBEL LECTURE: *Development of Quantum Electrodynamics* by Tomonoga.
+
+MLA style: Sin-Itiro Tomonaga – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/tomonaga/lecture/
+
+WORK (Schwinger): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. However, partly because the electron’s magnetic moment proved to be somewhat larger than expected, the theory had to be reformulated. Julian Schwinger solved this problem in 1948 through “renormalization” and thereby contributed to a new quantum electrodynamics.”
+
+MLA style: Julian Schwinger – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/schwinger/facts/
+
+NOBEL LECTURE: *Relativistic Quantum Field Theory* by Schwinger.
+
+MLA style: Julian Schwinger – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/schwinger/lecture/
+
+WORK (Feynman): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. This needed to be reformulated, however. In 1948 in particular, Richard Feynman contributed to creating a new quantum electrodynamics by introducing Feynman diagrams: graphic representations of various interactions between different particles. These diagrams facilitate the calculation of interaction probabilities.”
+
+MLA style: Richard P. Feynman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/feynman/facts/
+
+NOBEL LECTURE: *The Development of the Space-Time View of Quantum Electrodynamics* by Feynman.
+
+MLA style: Richard P. Feynman – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/
+
+***
+
+**Ph1967** to [Hans Albrecht Bethe](https://en.wikipedia.org/wiki/Hans_Bethe) “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”.
+
+WORK: “The discovery of fission—the splitting of heavy nuclei—revealed the liberation of large quantities of energy; an effect now exploited in nuclear reactors. This energy is generated by differences in mass. Energy is also liberated when light nuclei combine to form heavier ones, i.e. fusion. In 1938, Hans Bethe proved that fusion produces the enormous energy emitted by stars. He proposed two different processes, both of which result in hydrogen nuclei fusing with helium nuclei.”
+
+MLA style: Hans Bethe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/facts/
+
+NOBEL LECTURE: *Energy Production in Stars* by Bethe.
+
+MLA style: Hans Bethe – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. <https://www.nobelprize.org/prizes/physics/1967/bethe/lecture/
+
+***
+
+**Ph1975** to [Aage Niels Bohr](https://en.wikipedia.org/wiki/Aage_Bohr), [Ben Roy Mottelson](https://en.wikipedia.org/wiki/Ben_Roy_Mottelson) and Leo [James Rainwater](https://en.wikipedia.org/wiki/James_Rainwater) “for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection”.
+
+WORK (Bohr, Mottelson and Rainwater): “According to modern physics, an atomic nucleus consists of nucleons—protons and neutrons. In earlier models the nucleus was depicted as being spherical, but this proved to be inaccurate. In 1950 James Rainwater postulated that the atomic nucleus can be distorted. The nucleons in the outer portions of the atomic nucleus move about in paths and interact with nucleons inside, causing the nucleus to be distorted. Independently of Rainwater, Aage Bohr arrived at the same theory and corroborated it through experiments in collaboration with Ben Mottelson in 1952 and 1953.”
+
+MLA style: Aage N. Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1975/bohr/facts/
+
+NOBEL LECTURE: *Rotational Motion in Nuclei* by Bohr.
+
+MLA style: Aage N. Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/bohr/lecture/
+
+NOBEL LECTURE: *Elementary Modes of Excitation in the Nucleus* by Mottelson.
+
+MLA style: Ben R. Mottelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/mottelson/lecture/
+
+NOBEL LECTURE: *Background for the Spheroidal Nuclear Model Proposal* by Rainwater.
+
+MLA style: James Rainwater – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/rainwater/lecture/
+
+***
+
+[**Next: 13.2. Steps in the development of Particle Physics**](./vol-IV-chap-13-sect-2.md)
