@@ -6,7 +6,7 @@
 
 ## 13.3. Levels of operation of the mechanisms of knowing.
 
-According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. These levels of operation are associated with three categories describing the scenario and the results of contributions made by Nobel laureates working in high energy physics: the laboratory work, the experimental purposes, and the theorical consequences. 
+According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. . We associate these levels of operation to three categories describing the scenario and the results of contributions made by Nobel laureates working in high energy physics: the laboratory work, the experimental purposes, and the theorical consequences.
 
 The operation of the level *intra* is connected to the invention of experimental tools and the description of laboratories where research is done. These are the places and technological arrangements where tools, devices, instruments, apparatuses, and installations are the cognitive objects defining the experimental settings used to explore and learn about high energy physics.
 
@@ -22,12 +22,8 @@ The selected contributions of the Nobel laureates that have been considered in p
 1927: Wilson constructs a cloud chamber to register the tracks of particles (1911).<br>
 <u>1936:</u> Aston: development of a mass spectrograph to create a map of isotopes. (1919).<br>
 1939: Lawrence builds a cyclotron for accelerating protons (1929).<br>
-1948: Blackett and Occhialini study the passage of particles through cloud chambers (1932).<br>
 1950: Powell studies nuclear processes by introducing photographic methods (1947).<br>
 1960: Glaser invents the bubble chamber (1952).<br>
-1968: Alvarez improves the bubble chamber and introduces computer-based methods for analyzing large quantities of data (1950).<br>
-1994: Shull uses beams of neutrons created in a nuclear reactor (1946).<br>
-1994: Brockhouse applies slow neutron spectroscopy to analyze nuclear properties (1950).<br>
 1992: Charpak invents a multiwire proportional chamber (1968).<br>
 2002: Giacconi starts studying emission of X-rays from stars and galaxies (1960).
 
@@ -47,15 +43,10 @@ The selected contributions of the Nobel laureates that have been considered in p
 1951: Cockcroft and Walton artificially produce transmutation of atoms (1932).<br>
 1938: Fermi produces artificial radioactivity by neutron bombardment (1934).<br>
 <u>1944:</u> Hahn and Strassman discover the fission of heavy nuclei (1939).<br>
-1959: Segrè and Chamberlain confirm the existence of the antiproton (1955).<br>
-1961: Hofstadter studies electron scattering in atomic nuclei (1950).<br>
-1961: Mössbauer investigates the inner structure of nuclei and nucleons (1958).<br>
-1976: Richter and Ting discover the J/psi particle and prove the existence of the charm quark (1974).<br>
-1980: Cronin and Fitch find violations in matter-antimatter symmetry (1964).<br>
-1984: Rubbia and van der Meer demonstrate the existence of W and Z particles (1983).<br>
+1959: Segrè and Chamberlain confirm the existence of the antiproton (1955).
+
+**1984:** Rubbia and van der Meer demonstrate the existence of W and Z particles (1983).<br>
 1988: Lederman, Schwartz and Steinberger discover the muon neutrino (1962).<br>
-1990: Friedman, Kendall and Taylor study collisions among high-energy electrons with protons and neutrons (1970).<br>
-1995: Perl discovers the tau lepton (1974-1977).<br>
 1995: Reines and Cowan prove the existence of neutrinos (1950).<br>
 2002: Koshiba detect neutrinos burst from a supernova (1980).<br>
 2002: Davis detects neutrinos emitted from the Sun (1960).<br>
@@ -71,7 +62,7 @@ The selected contributions of the Nobel laureates that have been considered in p
 1929: de Broglie proposes the wave nature of the electron (1924).<br>
 1945: Pauli proposes the exclusion principle for electrons (1925).<br>
 1949: Yukawa predicts the existence of mesons (1934).<br>
-1955: Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1948).<br>
+1965: Tomonaga, Schwinger and Feynman develop quantum electrodynamics.<br>
 1957: Yang and Lee propose that left-right symmetry is violated in weak interactions (1956).<br>
 1963: Wigner studies the force binding the nucleons together and their symmetries (1933).<br>
 1963: Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948).<br>
@@ -82,9 +73,6 @@ The selected contributions of the Nobel laureates that have been considered in p
 1975: Bohr and Mottelson study rotational motion in nuclei (1952-1953).<br>
 1979: Glashow, Salam and Weinberg explain the structure of the electroweak force (1960).<br>
 1999: t'Hooft and Veltman explain the quantum structure of electroweak interaction (1970).<br>
-2004: Gross, Politzer and Wilczek develop Quantum ChromoDynamics (1973).<br>
-2008: Nambu explains spontaneous symmetry violations (1960).<br>
-2008: Kobayashi and Maskawa explain the asymmetry in the decay of kaons (1972).<br>
 2013: Englert, Brout and Higgs propose a theory of how particles acquire mass (1964).<br>
 2020: Penrose proposes mathematical tools for describing black holes (1964).
 
