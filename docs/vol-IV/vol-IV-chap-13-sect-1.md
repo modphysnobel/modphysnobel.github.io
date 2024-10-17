@@ -43,7 +43,7 @@ The main achievements in nuclear physics awarded with Physics Nobel Prizes in th
 (2) An explanation of each Noble Prize award including the names of the laureates, the reasons for their award, and a full quotation of the Nobel document called WORK describing the contribution of each laureate and the year he (she) began working on the problem, as well as the title of the corresponding Nobel Lecture. We identify each Nobel Prize with the shorthand of the discipline (Ph for Physics or Ch for Chemistry) and the year of the award. The sequence of these descriptions follows the chronological order of the Prize recognition. The name of each laureate leads to a hyperlink containing biographical information. All the references to Nobel documents are given in MLA format.
 
 
-### N1 - Atomic structure and electronic properties.
+### N1. Atomic structure and electronic properties (1895-1919).
 
 	
 <p align="center">
@@ -155,10 +155,10 @@ NOBEL LECTURE: *On the Cloud Method of Making Visible Ions and the Tracks of Ion
 
 MLA style: C.T.R. Wilson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/lecture/
 
-### N2 -  Production of particles and detection of interaction forces (1922-1953). 
+### N2.  Production of particles and detection of interaction forces (1922-1953). 
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.1.PNG?raw=true" width=600 align=center>
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.2.PNG?raw=true" width=600 align=center>
 	</p>
 
 **Ph1927** to [Arthur Holly Compton](https://en.wikipedia.org/wiki/Arthur_Compton) “for his discovery of the effect named after him”.
