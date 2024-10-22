@@ -5,64 +5,42 @@
 
 ***
 
-## 14. Evolution of cosmology.
+# 14. Evolution of cosmology.
 
-!!! abstract "Introduction."
+*What do we understand by cosmology?* 
 
-	*What do we understand by cosmology?* 
+In this chapter we consider those Physics Nobel laureates that have contributed to improve our understanding of cosmology: the study of the origin and evolution of the universe. It implies very high energies, successes that are very old and occurred a long time ago far away from Earth. Up to now, explanations of some phenomena are still unclear and incomplete.
 
-	In this chapter we consider those Physics Nobel laureates that have contributed to improve our understanding of cosmology: the study of the origin and evolution of the universe. It refers to existing objects and observed phenomena detected outside the Earth. It implies very high energies, successes that are very old and had occurred long time ago. Up to now, explanations of some phenomena are still unclear and incomplete.
+### Learning objectives of Chapter 14.
 
-	**Learning objectives of Chapter 14.**
+After this Chapter you should be able to: 
 
-	After this Chapter you should be able to: 
+- Describe Nobel laureate’s explanations of the structure and functioning of stars, pulsars, and black holes. 
+- Describe Nobel laureate’s explanations of the structure and functioning of neutrino oscillations, background radiations, accelerating expansion, and exoplanets. 
+- Analyze Peebles’ Nobel Lecture *How Physical Cosmology Grew* in terms of the components of contextualization of learning.
 
-	- Describe some Nobel laureate’s explanations of the structure and functioning of stars, pulsars, and black holes. 
-	- Describe some Nobel laureate’s explanations of the structure and functioning of neutrino oscillations, background radiations, accelerating expansion, and exoplanets. 
-	- Analyze Peebles’ Nobel Lecture *How Physical Cosmology Grew* in terms of the components of contextualization of learning.
-
-!!! abstract "Description of content of Chapter 14."
+### Description of content of Chapter 14.
  
-	**Section 14.1.  Stars, pulsars, and black holes.**
+Section 14.1.  Stars, pulsars, and black holes.
 
-	This section considers the Physics Nobel Prizes awarded in 1967 (the production of energy in stars like the Sun), in 1983 (the evolution of stars and the creation of elements), in 1974 (the observation of pulsars with radio telescopes), in 1993 (the discovery of a binary pulsar and the existence of gravitational waves) and in 2020 (the formation and detection of a black hole).
+This section considers the Physics Nobel Prizes awarded in 1967 (the production of energy in stars like the Sun), in 1983 (the evolution of stars and the creation of elements), in 1974 (the observation of pulsars with radio telescopes), in 1993 (the discovery of a binary pulsar and the existence of gravitational waves) and in 2020 (the formation and detection of a black hole).
 
-	**Section 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**
+Section 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.
 
-	This section considers the Physics Nobel Prizes awarded in 1995 (the first detection of neutrinos), in 2002 (the detection of cosmic neutrinos and the discovery of X-ray sources) and in 2015 (the discovery of neutrino oscillations). It also includes the Prizes awarded in 1978 (the discovery of cosmic microwave background radiation), in 2006 (the discovery of the anisotropy of the cosmic microwave background radiation), in 2011 (the discovery of the accelerating expansion of the universe) and in 2019 (theoretical discoveries in physical cosmology and the discovery of an exoplanet orbiting a solar-type star). 
+This section considers the Physics Nobel Prizes awarded in 1995 (the first detection of neutrinos), in 2002 (the detection of cosmic neutrinos and the discovery of X-ray sources) and in 2015 (the discovery of neutrino oscillations). It also includes the Prizes awarded in 1978 (the discovery of cosmic microwave background radiation), in 2006 (the discovery of the anisotropy of the cosmic microwave background radiation), in 2011 (the discovery of the accelerating expansion of the universe) and in 2019 (theoretical discoveries in physical cosmology and the discovery of an exoplanet orbiting a solar-type star). 
 
-	**Section 14.3. Contextualization of learning about the universe.** 
+Section 14.3. Contextualization of learning about the universe.
 
-	The three elements of contextualization of learning (problematic situation, generating questions, and learning and evaluation activities) are applied to the analysis of Peebles´ Nobel Lecture *How Physical Cosmology Grew*.
+The three elements of contextualization of learning (problematic situation, generating questions, and learning and evaluation activities) are applied to the analysis of Peebles´ Nobel Lecture *How Physical Cosmology Grew*.
 
 
 ## 14.1. Stars, pulsars, and black holes.
 
-In this Section we indicate the year of the Physics Nobel Prize award and to whom and for what kind of research the recognition was officially announced. Then, we quote the document called Work containing brief descriptions of the main contributions made by each laureate. We also include the titles and subtitles of the corresponding Nobel Lectures. Afterward, in PHYSICS CONTENT we summarize information taken from documents such as *Award ceremony speech, Press release, Speed read, Popular information.*, and *Advanced information*. When required, selected excerpts are indicated in between quotation marks. All the references are given at the end of the chapter in MLA format. In what follows, PNP means Physics Nobel Prize.
+In this section, a description of the selected Physics Nobel Prizes is made in three parts: (1) the official announcement of the Prize indicating the year of the award, the names of the laureates and the reasons for the recognition; (2) PHYSICS CONTENT containing information taken from documents such as *Award ceremony speech, Press release, Speed read, Popular information* and *Advanced information*; and (3) Description of the Physics Nobel Prize including a full quote of the document called WORK (facts), which is a brief explanation of the main contributions made by each laureate, followed by the title and subtitles, when they exist in the original of the corresponding Nobel Lectures. Quoted texts are indicated in quotation marks. In the first part the names of the laureates are hypertext links to bibliographic references. All the references to documents of the Nobel Foundation are given in MLA format. 
 
-**In 1967:** to Hans Albrecht Bethe "for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars".
+**1967:** to [Hans Albrecht Bethe](https://en.wikipedia.org/wiki/Hans_Bethe) "for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars".
 
-!!! tip "1967 Physics Nobel Prize awarded to Bethe."
-
-	WORK: “The discovery of fission—the splitting of heavy nuclei—revealed the liberation of large quantities of energy; an effect now exploited in nuclear reactors. This energy is generated by differences in mass. Energy is also liberated when light nuclei combine to form heavier ones, i.e. fusion. In 1938, Hans Bethe proved that fusion produces the enormous energy emitted by stars. He proposed two different processes, both of which result in hydrogen nuclei fusing with helium nuclei.”
-
-	MLA style: Hans Bethe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/facts/
-
-	NOBEL LECTRURE: *Energy Production in Stars* by Bethe.
-
-	- History
-	- Properties of Stars
-	- Thermonuclear Reactions
-	- Nuclear Reactions in Main Sequence Stars
-	- Experimental Results
-	- The Completion of the Proton-Proton Chain
-	- Evolution of a Star
-	- Buildup and Dispersal of Elements
-
-	MLA style: Hans Bethe – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/lecture/
-
-
-**PHYSICS CONTENT (based on *Award ceremony speech* and on *Speed read: Stellar Nuclear Reactors*).**
+PHYSICS CONTENT (based on *Award ceremony speech* and on *Speed read: Stellar Nuclear Reactors*).
 
 - In the 1920s Arthur Eddington indicated that the innermost part of the sun is a hot gas mainly consisting of hydrogen and helium atoms which at the intense temperatures and pressures release energy when they fuse and create heavier atoms. 
 
@@ -76,59 +54,34 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 
 - In his Nobel Lecture Bethe considered first the reaction $H+H=D+ε^+ +ν$, where $H$ and $D$ corresponded, respectively, to hydrogen and deuterium, $ε^+$ to a positron and $ν$ to a neutrino. The second process required the presence of carbon and was represented by the following cycle of reactions:
 
-<p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/chap%2014-1.png?raw=true" width=360 align=center>
-  	</p>
+### Description of the 1967 Physics Nobel Prize awarded to Bethe.
+
+WORK: “The discovery of fission—the splitting of heavy nuclei—revealed the liberation of large quantities of energy; an effect now exploited in nuclear reactors. This energy is generated by differences in mass. Energy is also liberated when light nuclei combine to form heavier ones, i.e. fusion. In 1938, Hans Bethe proved that fusion produces the enormous energy emitted by stars. He proposed two different processes, both of which result in hydrogen nuclei fusing with helium nuclei.”
+
+MLA style: Hans Bethe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/facts/
+
+NOBEL LECTRURE: *Energy Production in Stars* by Bethe.
+
+- History
+- Properties of Stars
+- Thermonuclear Reactions
+- Nuclear Reactions in Main Sequence Stars
+- Experimental Results
+- The Completion of the Proton-Proton Chain
+- Evolution of a Star
+- Buildup and Dispersal of Elements
+
+MLA style: Hans Bethe – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/lecture/
 
 ***
 
-**In 1983:** divided equally between Subramanyan Chandrasekhar "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars" and William Alfred Fowler "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe".
+**1983:** divided equally between [Subramanyan Chandrasekhar](https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar) "for his theoretical studies of the physical processes of importance to the structure and evolution of the stars" and [William Alfred Fowler](https://en.wikipedia.org/wiki/William_Alfred_Fowler) "for his theoretical and experimental studies of the nuclear reactions of importance in the formation of the chemical elements in the universe".
 
-!!! tip "1983 Physics Nobel Prize awarded to Chandrasekhar."
-	
-	WORK: “Stars in the universe form from clouds of gas and dust. When these clouds are pulled together by gravitational force, energy is released in the form of heat. And when a high enough temperature is reached, reactions among the atomic nuclei in the star’s interior begin. Beginning in the 1930s, Subramanyan Chandrasekhar formulated theories for the development that stars subsequently undergo. He showed that when the hydrogen fuel of stars of a certain size begins to run out, it collapses into a compact, brilliant star known as a white dwarf.”
+PHYSICS CONTENT (based on *Press release* and *Speed read: Death of a Star & Alchemy in the Stars*).
 
-	MLA style: Subramanyan Chandrasekhar – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/facts/
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 18 Oct 2024. <https://www.nobelprize.org/prizes/physics/1983/press-release/>
 
-	NOBEL LECTURE: *On Stars, Their Evolution and Their Stability* by Chandrasekhar.
-
-	1.	Introduction
-	2.	The role of radiation pressure
-	3.	Do stars have enough energy to cool?
-	4.	Fowler’s resolution of Eddington’s paradox; the degeneracy of the electrons in white dwarf stars
-	5.	The theory of the white dwarf stars; the limiting mass
-	6.	Under what conditions can normal stars develop degenerate cores?
-	7.	Some brief remarks on recent progress in the evolution of massive stars and the onset of gravitational collapse
-	8.	Instabilities of relativistic origin: (I) The vibrational instability of spherical stars
-	9.	Instabilities of relativistic origin: (2) The secular instability of rotating stars derived from the emission of gravitational radiation by non-axisymmetric modes of oscillation
-	10.	The mathematical theory of black holes
-
-	MLA style: Subramanyan Chandrasekhar – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/lecture/
-
-!!! tip "1983 Physics Nobel Prize awarded to Fowler."
-	WORK: “Stars in the universe form from clouds of gas and dust. When these clouds are pulled together by gravitational force, energy is released in the form of heat. And when a high enough temperature is reached, reactions among the atomic nuclei in the star’s interior begin. These reactions are what causes radiation from stars. In the 1950s William Fowler showed how these nuclear reactions also account for how various elements are formed. These processes have created the elements that make up our earth and other heavenly bodies in the universe.”
-
-	MLA style: William A. Fowler – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/fowler/facts/
-
-	NOBEL LECTURE: *Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements* by Fowler.
-	
-	I. Introduction<br>
-	II. Early Research on Element Synthesis<br>
-	III. Stellar Reaction Rates from Laboratory Cross Sections<br>
-	IV. Hydrogen Burning in Main Sequence Stars and the Solar Neutrino Problem<br>
-	V. The Synthesis of 12C and 16O and Neutron Production in Helium Burning<br>
-	VI. Carbon, Neon, Oxygen, and Silicon Burning<br>
-	VII. Astrophysical Weak-Interaction Rates<br>
-	VIII. Calculated abundances for A ≤60 with Brief Comments on Explosive Nucleosynthesis<br>
-	IX. Isotopic Anomalies in Meteorites and Observational Evidence for Ongoing Nucleosynthesis<br>
-	X. Observational Evidence for Nucleosynthesis in Supernovae<br>
-	XI. Neutron capture processes in nucleosynthesis<br>
-	XII. Nucleocosmochronology<br>
-	XIII. Conclusión
-
-	MLA style: William A. Fowler – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/fowler/lecture/
-
-**PHYSICS CONTENT (based on *Press release* and *Speed read: Death of a Star & Alchemy in the Stars*).**
+MLA style: Speed read: Death of a Star & Alchemy in the Stars. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 18 Oct 2024. <https://www.nobelprize.org/prizes/physics/1983/speedread/>
 
 - In the 1920s, scientists considered that when a star burns off all its energy supply a white dwarf emerges from the burnt-out ashes. 
 
@@ -140,85 +93,95 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 
 - Stars bigger than the Sun, can fuse heavier elements than helium, creating all the elements up to iron which requires too much energy as the one produced when a large star dies in a supernova explosion. 
 
-- In 1950, Fowler and his colleagues studied how the chemical elements are generated within the stars through nuclear reactions. They made theoretical calculations of the steps involved in such nuclear reactions and interpreted experimental results from particle accelerators for describing the behavior of elements. 
+- In 1950, Fowler and his colleagues studied how the chemical elements are generated within the stars through nuclear reactions. They made theoretical calculations of the steps involved in such nuclear reactions and interpreted experimental results from particle accelerators for describing the behavior of elements.
+
+### Description of the 1983 Physics Nobel Prize awarded to Chandrasekhar and Fowler.
+
+WORK (Chandrasekhar): “Stars in the universe form from clouds of gas and dust. When these clouds are pulled together by gravitational force, energy is released in the form of heat. And when a high enough temperature is reached, reactions among the atomic nuclei in the star’s interior begin. Beginning in the 1930s, Subramanyan Chandrasekhar formulated theories for the development that stars subsequently undergo. He showed that when the hydrogen fuel of stars of a certain size begins to run out, it collapses into a compact, brilliant star known as a white dwarf.”
+
+MLA style: Subramanyan Chandrasekhar – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/facts/
+
+NOBEL LECTURE: *On Stars, Their Evolution and Their Stability* by Chandrasekhar.
+
+1.	Introduction
+	2.	The role of radiation pressure
+	3.	Do stars have enough energy to cool?
+	4.	Fowler’s resolution of Eddington’s paradox; the degeneracy of the electrons in white dwarf stars
+	5.	The theory of the white dwarf stars; the limiting mass
+	6.	Under what conditions can normal stars develop degenerate cores?
+	7.	Some brief remarks on recent progress in the evolution of massive stars and the onset of gravitational collapse
+	8.	Instabilities of relativistic origin: (I) The vibrational instability of spherical stars
+	9.	Instabilities of relativistic origin: (2) The secular instability of rotating stars derived from the emission of gravitational radiation by non-axisymmetric modes of oscillation
+	10.	The mathematical theory of black holes
+
+MLA style: Subramanyan Chandrasekhar – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/chandrasekhar/lecture/
+
+WORK (Fowler): “Stars in the universe form from clouds of gas and dust. When these clouds are pulled together by gravitational force, energy is released in the form of heat. And when a high enough temperature is reached, reactions among the atomic nuclei in the star’s interior begin. These reactions are what causes radiation from stars. In the 1950s William Fowler showed how these nuclear reactions also account for how various elements are formed. These processes have created the elements that make up our earth and other heavenly bodies in the universe.”
+
+MLA style: William A. Fowler – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/fowler/facts/
+
+NOBEL LECTURE: *Experimental and Theoretical Nuclear Astrophysics; the Quest for the Origin of the Elements* by Fowler.
+	
+I. Introduction<br>
+II. Early Research on Element Synthesis<br>
+III. Stellar Reaction Rates from Laboratory Cross Sections<br>
+IV. Hydrogen Burning in Main Sequence Stars and the Solar Neutrino Problem<br>
+V. The Synthesis of 12C and 16O and Neutron Production in Helium Burning<br>
+VI. Carbon, Neon, Oxygen, and Silicon Burning<br>
+VII. Astrophysical Weak-Interaction Rates<br>	
+VIII. Calculated abundances for A ≤60 with Brief Comments on Explosive Nucleosynthesis<br>
+IX. Isotopic Anomalies in Meteorites and Observational Evidence for Ongoing Nucleosynthesis<br>
+X. Observational Evidence for Nucleosynthesis in Supernovae<br>
+XI. Neutron capture processes in nucleosynthesis<br>
+XII. Nucleocosmochronology<br>
+XIII. Conclusión
+
+MLA style: William A. Fowler – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1983/fowler/lecture/
 
 ***
 
-**In 1974:** to Sir Martin Ryle and Antony Hewish "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars".
+**1974:** to [Sir Martin Ryle](https://en.wikipedia.org/wiki/Martin_Ryle) and [Antony Hewish](https://en.wikipedia.org/wiki/Antony_Hewish) "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars".
 
-!!! tip "1974 Physics Nobel Prize awarded to Ryle."
+PHYSICS CONTENT (based on *Press release* and *Speed read: Radio Stars*).
 
-	WORK: “Stars and other astronomical objects emit not only visible light, but also radio waves. In the 1940s Martin Ryle developed a telescope designed to capture radio waves and methods for reading and processing the data received. By connecting a number of telescopes several kilometers from one another, he created the equivalent of a telescope as large as the entire surface between the individual telescopes. This paved the way for a precise mapping of stars and galaxies and a clearer picture of the universe’s evolution.”
+- Radio astronomy is the study of the universe made by detecting and analyzing radio waves emitted by stars and other cosmological objects. Those objects have been registered over distances thousands of millions of lightyears or more. All these happened many years ago, at the beginning of the universe. A light year is the distance that light travels during a year of 31,556 952 seconds at a speed of 299 792 458 m/s. Such distance is the product of velocity multiplied by time; it corresponds to 9.460 536 207 $ \times 10^{15}$ meters per second, nearly $10^{16}$ m/s.
 
-	MLA style: Martin Ryle – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/ryle/facts/
+- The aperture synthesis technique developed by Martin Ryle consisted in connecting a series of small mutually adjustable and steerable radio antennae attached to large receiver dishes. All these antennae were pointing out in the same direction of observation. The positions of the radio telescopes were adjustable within nearly 5 kilometers and it is considered that the earth turns once a day in relation to the celestial sphere.
 
-	NOBEL LECTURE: *Radio Telescopes of Large Resolving Power* by Ryle.
+- Hewish and Bell discovered a dense, burnt-out remains of a massive neutron star that had been formed because of a supernova explosion. When viewed from Earth, this object was observed spinning around rapidly and emitting shorts radio wave pulses, extremely regularly and almost every second. This revealed the presence of a neutron star: the nucleus of the pulsar. That star was surrounded by a plasma, a gas conducting electricity; the whole system was immersed in a turning strong magnetic field.
 
-	MLA style: Martin Ryle – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/ryle/lecture/
+### Description of the 1974 Physics Nobel Prize awarded to Ryle and Hewish.
 
-!!! tip "1974 Physics Nobel Prize awarded to Hewish."
-	WORK: “Stars and other astronomical objects emit not only visible light, but also radio waves. In 1967 Antony Hewish and Jocelyn Bell discovered a previously unknown source of radiation that emitted radio waves in the form of pulses at intervals that were extremely regular. It turned out that this type of astronomical object, which became known as pulsars, has a core consisting of an extremely compact star, a neutron star. Their discovery allowed scientists to prove these stars exist.”
+WORK (Ryle): “Stars and other astronomical objects emit not only visible light, but also radio waves. In the 1940s Martin Ryle developed a telescope designed to capture radio waves and methods for reading and processing the data received. By connecting a number of telescopes several kilometers from one another, he created the equivalent of a telescope as large as the entire surface between the individual telescopes. This paved the way for a precise mapping of stars and galaxies and a clearer picture of the universe’s evolution.”
 
-	MLA style: Antony Hewish – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/hewish/facts/
+MLA style: Martin Ryle – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/ryle/facts/
 
-	NOBEL LECTURE: *Pulsars and High Density Physics* by Hewish.
+NOBEL LECTURE: *Radio Telescopes of Large Resolving Power* by Ryle.
 
-	- DISCOVERY OF PULSARS
+MLA style: Martin Ryle – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/ryle/lecture/
+
+WORK (Hewish): “Stars and other astronomical objects emit not only visible light, but also radio waves. In 1967 Antony Hewish and Jocelyn Bell discovered a previously unknown source of radiation that emitted radio waves in the form of pulses at intervals that were extremely regular. It turned out that this type of astronomical object, which became known as pulsars, has a core consisting of an extremely compact star, a neutron star. Their discovery allowed scientists to prove these stars exist.”
+
+MLA style: Antony Hewish – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/hewish/facts/
+
+NOBEL LECTURE: *Pulsars and High Density Physics* by Hewish.
+
+- DISCOVERY OF PULSARS
 	- HIGH DENSITY PHYSICS INSIDE NEUTRON STARS
 	- PLASMA PHYSICS OUTSIDE NEUTRON STARS
 	- CONCLUSION
 
-	MLA style: Antony Hewish – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/hewish/lecture/
-
-**PHYSICS CONTENT (based on *Press release* and *Speed read: Radio Stars*).**
-
-- Radio astronomy is the study of the universe made by detecting and analyzing radio waves emitted by stars and other cosmological objects. Those objects have been registered over distances thousands of millions of lightyears or more. All these happened many years ago, at the beginning of the universe. A light year is the distance that light travels during a year of 31,556 952 seconds at a speed of 299 792 458 m/s. Such distance is the product of velocity multiplied by time; it corresponds to 9.460 536 207 $ \times 10^{15}$ meters per second, nearly $10^{16}$ m/s.
-
-- The aperture synthesis technique developed by Martin Ryle consisted in connecting a series of small mutually adjustable and steerable radio antennae attached to large receiver dishes. All these antennae were pointing out in the same direction of observation. The positions of the radio telescopes were adjustable within nearly 5 kilometers and considered that the earth turns once a day in relation to the celestial sphere.
-
-- Hewish and Bell discovered a dense, burnt-out remains of a massive neutron star that had been formed as a consequence of a supernova explosion. When viewed from Earth, this object was observed spinning around rapidly and emitting shorts radio wave pulses, extremely regularly and almost every second. This revealed the presence of a neutron star: the nucleus of the pulsar. That star was surrounded with a plasma, a gas conducting electricity; the whole system was immersed in a turning strong magnetic field.
+MLA style: Antony Hewish – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1974/hewish/lecture/
 
 ***
 
-**In 1993:** awarded jointly to Russell A. Hulse and Joseph H. Taylor Jr. "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation".
+**1993:** awarded jointly to [Russell A. Hulse](https://en.wikipedia.org/wiki/Russell_Alan_Hulse) and [Joseph H. Taylor Jr.](https://en.wikipedia.org/wiki/Joseph_Hooton_Taylor_Jr) "for the discovery of a new type of pulsar, a discovery that has opened up new possibilities for the study of gravitation".
 
-!!! tip "1993 Physics Nobel Prize awarded to Hulse and Taylor."
+PHYSICS CONTENT (based on *Press release* and *Speed read: Catching Gravity´s Waves*).
 
-	WORK: “Pulsars are very compact stars that radiate radio waves with very regular variations. In 1974 Russell Hulse and James Taylor discovered a pulsar comprised of two stars in very close proximity that rotate around each other. Hulse and Taylor could demonstrate that the stars’ radiation and movements correspond with Einstein’s general theory of relativity. Among other things, this theory predicts that the pulsar would emit energy in the form of gravitational waves, which should result in slowly declining intervals. Taylor was able to confirm this in 1978.”
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/press-release/
 
-	MLA style: Russell A. Hulse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/hulse/facts/
-
-	MLA style: Joseph H. Taylor Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/taylor/facts/
-
-	NOBEL LECTURE: *The Discovery of the Binary Pulsar* by Hulse.
-
-	- PULSARS
-	- SEARCHING FOR PULSARS
-	- THE ARECIBO TELESCOPE
-	- PARAMETER SPACE, THE FINAL FRONTIER
-	- DE-DISPERSION
-	- PERIOD AND PULSE WIDTH ANALYSIS
-	- PUTTING IT ALL TOGETHER
-	- SCANNING THE SKIES WITH COMPUTER AND TELESCOPE
-	- MAKING DATA MAKE SENSE: THE BINARY PULSAR
-	- ANALYZING THE ORBIT WITH NEWTON AND EINSTEIN
-
-	MLA style: Russell A. Hulse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/hulse/lecture/
-
-	NOBEL LECTURE: *Binary Pulsars and Relativistic Gravity* by Taylor.
-	
-	I. SEARCH AND DISCOVERY<br>
-	II. CLOCK-COMPARISON EXPERIMENTS<br>
-	III. MODEL FITTING<br>
-	IV. THE NEWTONIAN LIMIT<br>
-	V. GENERAL RELATIVITY AS A TOOL<br>
-	VI. TESTING FOR GRAVITATIONAL WAVES<br>
-	VII. ACKNOWLEDGMENTS
-
-	MLA style: Joseph H. Taylor Jr. – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/taylor/lecture/
-
-
-**PHYSICS CONTENT (based on *Press release* and *Speed read: Catching Gravity´s Waves*).**
+MLA style: Speed read: Catching Gravity´s Waves. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 18 Oct 2024. <https://www.nobelprize.org/prizes/physics/1993/speedread/>
 
 - In 1915 Einstein explained that gravity is caused by changes in the geometry of space and time: space-time curves near the presence of massive bodies such as very big stars. He also predicted the formation of ripples of gravitational radiation as these bodies move through the cosmos. In 1919 Arthur Eddington announced the deflection of starlight passing near the surface of the sun; this was verified during solar eclipse expeditions.
 
@@ -230,73 +193,48 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 
 - Beginning in the 1970s the LIGO detector was developed using laser technology to measure small changes in length caused by gravitational waves. Later, in 2015 gravitational waves were detected for the first time and in 2017 the Physics Nobel Prize was awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne "for decisive contributions to the LIGO detector and the observation of gravitational waves". LIGO stands for Laser Interferometer Gravitational-Wave Observatory. (See for more information the Section 10.2. Gravitational astronomy, Chapter 10. Interferences of electromagnetic and gravitational waves, Volume III. Waves.)
 
+### Description of the 1993 Physics Nobel Prize awarded to Hulse and Taylor.
+
+WORK (Hulse and Taylor): “Pulsars are very compact stars that radiate radio waves with very regular variations. In 1974 Russell Hulse and James Taylor discovered a pulsar comprised of two stars in very close proximity that rotate around each other. Hulse and Taylor could demonstrate that the stars’ radiation and movements correspond with Einstein’s general theory of relativity. Among other things, this theory predicts that the pulsar would emit energy in the form of gravitational waves, which should result in slowly declining intervals. Taylor was able to confirm this in 1978.”
+
+MLA style: Russell A. Hulse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/hulse/facts/
+
+NOBEL LECTURE: *The Discovery of the Binary Pulsar* by Hulse.
+
+- PULSARS
+	- SEARCHING FOR PULSARS
+	- THE ARECIBO TELESCOPE
+	- PARAMETER SPACE, THE FINAL FRONTIER
+	- DE-DISPERSION
+	- PERIOD AND PULSE WIDTH ANALYSIS
+	- PUTTING IT ALL TOGETHER
+	- SCANNING THE SKIES WITH COMPUTER AND TELESCOPE
+	- MAKING DATA MAKE SENSE: THE BINARY PULSAR
+	- ANALYZING THE ORBIT WITH NEWTON AND EINSTEIN
+
+MLA style: Russell A. Hulse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/hulse/lecture/
+
+NOBEL LECTURE: *Binary Pulsars and Relativistic Gravity* by Taylor.
+	
+I. SEARCH AND DISCOVERY<br>
+II. CLOCK-COMPARISON EXPERIMENTS<br>
+III. MODEL FITTING<br>
+IV. THE NEWTONIAN LIMIT<br>
+V. GENERAL RELATIVITY AS A TOOL<br>
+VI. TESTING FOR GRAVITATIONAL WAVES<br>
+VII. ACKNOWLEDGMENTS
+
+MLA style: Joseph H. Taylor Jr. – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1993/taylor/lecture/
+
 ***
 
-**In 2020:** divided, one half awarded to Roger Penrose "for the discovery that black hole formation is a robust prediction of the general theory of relativity", the other half jointly to Reinhard Genzel and Andrea Ghez "for the discovery of a supermassive compact object at the centre of our galaxy".
+**2020:** divided, one half awarded to [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose) "for the discovery that black hole formation is a robust prediction of the general theory of relativity", the other half jointly to [Reinhard Genzel](https://en.wikipedia.org/wiki/Reinhard_Genzel) and [Andrea Ghez](https://en.wikipedia.org/wiki/Andrea_M._Ghez) "for the discovery of a supermassive compact object at the centre of our galaxy".
 
-!!! tip "2020 Physics Nobel Prize awarded to Penrose."
+PHYSICS CONTENT (based on *Press release* and *Popular information: Black holes and the Milky Way’s darkest secret*).
 
-	WORK: “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. In 1964, Roger Penrose proposed critical mathematical tools to describe black holes. He showed that Einstein’s general theory of relativity means the formation of black holes must be seen as a natural process in the development of the universe. He was also able to describe black holes in detail: at their farthest depths is a singularity where all known laws of nature dissolve.”
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 18 Oct 2024. <https://www.nobelprize.org/prizes/physics/2020/press-release/>
 
-	MLA style: Roger Penrose – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/facts/
-
-	NOBEL LECTURE: *Black Holes, Cosmology, and Space-Time Singularities* by Penrose.
-	
-	The following subtitles have been obtained from the Lecture:
-		
-	- Introduction
-	- General Relativity
-	- The Schwarzschild Singularity
-	- Two Spinners
-	- Quasars
-	- Universe
-	- Infinity
-	- Supermassive black holes
-
-	MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/lecture/
-
-!!! tip "2020 Physics Nobel Prize awarded to Genzel and Ghez."
-
-	WORK: “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. Since nothing, not even light, can escape black holes, they can only be observed by the radiation and the movement of nearby objects. Since the 1990s, Reinhard Genzel and Andrea Ghez with their respective research teams, have developed and refined techniques for studying the movement of stars. Observations of stars in the area around Sagittarius A* in the middle of our galaxy, the Milky Way, revealed a super massive black hole.”
-
-	MLA style: Reinhard Genzel – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/facts/
-
-	NOBEL LECTURE: *A Forty Year Journey* by Genzel.
-
-	The following subtitles have been obtained from the Lecture:
-		
-	- Introduction
-	- A Forty Year Journey
-	- Prologue (1963-1971): Quasars & the Massive Black Hole Paradigm
-	- First Phase (1971-1991): SgrA* & Gas Motions
-	- After Phase 1 (1991)
-	- Second Phase (1992-1998): Motion of stars on 0.1pc scales with speckle & 3D-IFU techniques
-	- After Phase 2 (1998)
-	- Third Phase (2002-2017): Stellar orbits
-	- After Phase 3 (2017)
-	- After Phase 4 (2020)
-
-	MLA style: Reinhard Genzel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/lecture/
-
-	NOBEL LECTURE: *From the Possibility to the Certainty of a Supermassive Black Hole* by Ghez.
-		
-	The following subtitles have been obtained from the Lecture:
-		
-	- Introduction
-	- Dedicated speech
-	- How do we observe something
-	- What is a black hole
-	- Ordinary mass black holes
-	- Supermassive black holes
-	- Our own galaxy
-	- Optical and infrared light
-	- Large telescopes
-	- Adaptive optics
-	- Spectroscopy
-  	
-	MLA style: Andrea Ghez – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/ghez/lecture/
-
-**PHYSICS CONTENT (based on *Press release* and *Popular information*).**
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/popular-information/
 
 - At the end of the 18th century, John Michell and Pierre Simon de Laplace mentioned that heavenly bodies could become so dense that they would be invisible.
 
@@ -311,6 +249,68 @@ In this Section we indicate the year of the Physics Nobel Prize award and to who
 - Since 1990, two teams of astronomers headed by Reinhard Genzel and Andrea Ghez, discovered that a supermassive black hole governed the orbits of stars at the center of our galaxy in a region called Sagittarius A*. Although the two teams worked independently, the measurements obtained by each one of them were in excellent agreement. They refined new techniques to compensate for distortions caused by the Earth’s atmosphere and build unique instruments for observing stars movements during systematic research projects of nearly thirty years.
 
 - Using the orbits of the stars as guides, the two teams produced the most convincing evidence that nearby Sagittarius A* there was hiding an invisible supermassive object: a black hole that was formed when a massive star collapsed under its own gravity. Starting in 1992 they mapped the entire orbit of one of the brightest stars, the one identified as S2, which completes an orbit at the center of the galaxy in less than 16 years. They found that the radial velocity of S2 increases as it approached Sagittarius A* and decreased as it moved away along its elliptical orbit. A black hole was the only possible explanation of this observed effect.
+
+### Description of the 2020 Physics Nobel Prize awarded to Penrose.
+
+WORK (Penrose): “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. In 1964, Roger Penrose proposed critical mathematical tools to describe black holes. He showed that Einstein’s general theory of relativity means the formation of black holes must be seen as a natural process in the development of the universe. He was also able to describe black holes in detail: at their farthest depths is a singularity where all known laws of nature dissolve.”
+
+MLA style: Roger Penrose – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/facts/
+
+NOBEL LECTURE: *Black Holes, Cosmology, and Space-Time Singularities* by Penrose.
+	
+The following subtitles have been obtained from the Lecture:
+		
+- Introduction
+	- General Relativity
+	- The Schwarzschild Singularity
+	- Two Spinners
+	- Quasars
+	- Universe
+	- Infinity
+	- Supermassive black holes
+
+MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/lecture/
+
+### Description of the 2020 Physics Nobel Prize awarded to Genzel and Ghez.
+
+WORK (Genzel and Ghez):  “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. Since nothing, not even light, can escape black holes, they can only be observed by the radiation and the movement of nearby objects. Since the 1990s, Reinhard Genzel and Andrea Ghez with their respective research teams, have developed and refined techniques for studying the movement of stars. Observations of stars in the area around Sagittarius A* in the middle of our galaxy, the Milky Way, revealed a super massive black hole.”
+
+MLA style: Reinhard Genzel – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/facts/
+
+NOBEL LECTURE: *A Forty Year Journey* by Genzel.
+
+The following subtitles have been obtained from the Lecture:
+		
+- Introduction
+	- A Forty Year Journey
+	- Prologue (1963-1971): Quasars & the Massive Black Hole Paradigm
+	- First Phase (1971-1991): SgrA* & Gas Motions
+	- After Phase 1 (1991)
+	- Second Phase (1992-1998): Motion of stars on 0.1pc scales with speckle & 3D-IFU techniques
+	- After Phase 2 (1998)
+	- Third Phase (2002-2017): Stellar orbits
+	- After Phase 3 (2017)
+	- After Phase 4 (2020)
+
+MLA style: Reinhard Genzel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/genzel/lecture/
+
+NOBEL LECTURE: *From the Possibility to the Certainty of a Supermassive Black Hole* by Ghez.
+		
+The following subtitles have been obtained from the Lecture:
+		
+- Introduction
+	- Dedicated speech
+	- How do we observe something
+	- What is a black hole
+	- Ordinary mass black holes
+	- Supermassive black holes
+	- Our own galaxy
+	- Optical and infrared light
+	- Large telescopes
+	- Adaptive optics
+	- Spectroscopy
+  	
+MLA style: Andrea Ghez – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 15 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/ghez/lecture/
 
 ***
 
