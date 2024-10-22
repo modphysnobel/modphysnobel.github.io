@@ -208,6 +208,7 @@ NOBEL LECTURE: *Chemical Evidence of the Transmutation of Elements* by Joliot.
 MLA style: Frédéric Joliot – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/lecture/
 
 NOBEL LECTURE: Artificial Production of Radioactive Elements by Joliot-Curie.
+
 MLA style: Irène Joliot-Curie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/lecture/
 
 ***
