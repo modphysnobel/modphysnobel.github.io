@@ -11,15 +11,14 @@
 
 ***
 
+
 This is the fourth Volume of the series MODERN PHYSICS BY EXPLORING NOBEL PRIZES. It refers to understanding some aspects of the universe. According to Carl Sagan: “the universe is all that existed, exists and will exist”. Understanding requires asking questions and proposing answers that foster the improvement of knowledge. It means to bite the unknown.
 
 The study of the universe is like archaeology in the sense that it concerns the reconstruction of what is past and like history because it consists in the interpretation of what has been registered. The traces of the past serve to interpret the present and propose radiographies of possible futures.
 
-Physics, as a natural science, deals with objects and forces acting in regions that existed since the beginning of time, as well as in regions observed nowadays in modern accelerators of particles. In a quite different domain of knowledge, social sciences describe and interpret how human beings organize their way of living, producing, consuming and creating. The ways of building and applying concepts, models and research methodologies are quite different in universes integrated by particles, waves and energy, as compared with those universes where the participants are individuals and their evolving societies. In both universes Mathematics are bridges for solving problems and ladders for attaining better and better explanations.
+Physics, as a natural science, deals with objects and forces acting in regions that existed since the beginning of time, as well as in regions observed nowadays in modern accelerators of particles. The ways of building and applying concepts, models and research methodologies have evolved in universes integrated by particles, waves, matter and energy. To study those universes mathematics serve as bridges for solving problems and ladders for attaining better and better explanations.
 
-In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Nobel Prizes, mostly in Physics and few in Chemistry (Chapters 13: Development of knowledge in high energy physics and 14: Evolution of cosmology) and Prizes in Economic Sciences in Memory of Alfred Nobel (Chapter 15: Universes composed by humans and societies).
-
-The chapters 13 and 14 are dedicated to Physics and deal with high energy physics which comprehend nuclear physics, particle physics and cosmology.  These regions of the universe differ in the size of its components and the intensity of the energies involved. The last chapter 15 is dedicated to Economics Sciences, as a social science where the use of mathematics is more appealing. One reason is because several mathematical ideas and procedures as well as some physical concepts and models have been used and adapted to study social processes, not with a reductionistic approach. Furthermore, many economists have been former mathematicians and some of them studied Physics.
+In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Nobel Prizes, mostly in Physics and few in Chemistry. Chapters 13 (Development of knowledge in high energy physics) and 14 (Evolution of cosmology) deal with high energy physics which comprehend nuclear physics, particle physics and cosmology. These regions of the universe differ in the size of its components and the intensity of the energies involved. 
 
 The Chapters of this fourth Volume are the following:
 
@@ -43,20 +42,6 @@ The three levels of operation of the mechanisms of knowing are associated to the
 Aside the human eyes, the first devices for observing bodies outside Earth were optic telescopes. Afterwards, different technologies changed the wavelength of the electromagnetic radiation used to detect the positions and structure of planets, stars, moons, comets, galaxies, pulsars, and even black holes. As data obtained from farthest events correspond to the oldest ones to be registered, modern astronomical observatories are telling us what happened in the first moments of the universe. Complicated and longtime astronomical observations and measurements lead to the detection and explanations of new phenomena such as the following: the neutrino oscillations (when and how they were produced and detected, the existence of three types of them and the possibilities that they have mass), the cosmic microwave background radiation (a remnant of the Big Bang when the universe was created producing a spectrum corresponding to black-body radiation), the accelerating expansion of the universe (discovered through observations that some galaxies were rushing away from us and each other, and the farther away they were, the faster they moved), and the existence of an exoplanet orbiting a solar-type star (the star moved affected by the gravity of its planet).
 
 The elements characterizing contextualization of learning (the proposition of a problematic situation, the elaboration of generating questions and the description of learning and evaluation activities) are applied to analyze the content of Peebles´ Nobel Lecture *How Physical Cosmology Grew*.
-
-
-## 15.    Universes composed by humans and societies.
-### 15.1 [Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.](vol-IV-chap-15-sect-1.md)
-### 15.2 [Role of statistical analysis in the formulation of models.](vol-IV-chap-15-sect-2.md)
-### 15.3 [Interpretation of natural experiments in Economic sciences.](vol-IV-chap-15-sect-3.md)
-
-Social sciences are approached mainly by two methods: the positivist one that resembles natural sciences and tries to construct empirically falsifiable theories, and the interpretative or speculative one that applies social critiques or symbolic interpretations. The original meaning of the word Economy was household management. Nowadays it refers to the production, distribution, exchange and consumption of goods, resources and services, according to arrangements and modes of operation of specific social systems. 
-
-To close this Chapter and the Volume IV we have selected two Prizes related to mathematical economics (econometrics) which were mostly characterized by looking at empirical quantification and statistical testing of hypotheses.
-
-The first Prize in Economic Sciences was awarded in 1969 to Ragnar Frisch and Jan Tinbergen “for having developed and applied dynamic models for the analysis of economic processes”. Their respective Prize Lectures were *From Utopian Theory to Practical Applications. The Case of Econometrics by Frisch, and The Use of Models: Experience and Prospects* by Tinbergen. 
-
-The Prize awarded in 2021 was to David Card “for his empirical contributions to labour economics” and to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”. Their respective Prize Lectures were *Design‐based research in empirical microeconomics* by Card, *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist, and *Causality in econometrics: methods in conversation with practice* by Imbens.
 
 ***
 
