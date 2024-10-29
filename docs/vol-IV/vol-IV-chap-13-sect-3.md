@@ -84,5 +84,6 @@ J. Piaget and R. Garcia. (1988). *Psychogenesis and the History of Science*. Col
 
 ***
 
-[**Appendix.**](./vol-IV-chap-13-apendix.md) 
+[**Next: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md) 
+
 
