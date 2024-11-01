@@ -62,7 +62,7 @@ The selected contributions of the Nobel laureates that have been considered in p
 1929: de Broglie proposes the wave nature of the electron (1924).<br>
 1945: Pauli proposes the exclusion principle for electrons (1925).<br>
 1949: Yukawa predicts the existence of mesons (1934).<br>
-1965: Tomonaga, Schwinger and Feynman develop quantum electrodynamics ().<br>
+1965: Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1965).<br>
 1957: Yang and Lee propose that left-right symmetry is violated in weak interactions (1956).<br>
 1963: Wigner studies the force binding the nucleons together and their symmetries (1933).<br>
 1963: Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948).<br>
