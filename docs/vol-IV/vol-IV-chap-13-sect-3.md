@@ -1,10 +1,10 @@
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 13.2. Timeline of the main developments in high energy physics.**](./vol-IV-chap-13-sect-2.md) 
+[**Previous: 13.2. Accounts of experimental results.**](./vol-IV-chap-13-sect-2.md) 
 
 ***
 
-## 13.3. Levels of operation of the mechanisms of knowing.
+## 13.3. Contributions made by theoretical approaches.
 
 According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. . We associate these levels of operation to three categories describing the scenario and the results of contributions made by Nobel laureates working in high energy physics: the laboratory work, the experimental purposes, and the theorical consequences.
 
