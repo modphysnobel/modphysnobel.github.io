@@ -6,84 +6,226 @@
 
 ## 13.3. Contributions made by theoretical approaches.
 
-According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. . We associate these levels of operation to three categories describing the scenario and the results of contributions made by Nobel laureates working in high energy physics: the laboratory work, the experimental purposes, and the theorical consequences.
+The description of the Nobel Prize contributions is the same as in Section 13.1.
 
-The operation of the level *intra* is connected to the invention of experimental tools and the description of laboratories where research is done. These are the places and technological arrangements where tools, devices, instruments, apparatuses, and installations are the cognitive objects defining the experimental settings used to explore and learn about high energy physics.
+### The theoretical approaches.
 
-The operation of the level *inter* is connected to the description of experiments for answering questions and proposing further challenges. These are the activities where concepts are tested by obtaining the values of observable and measurable quantities and by understanding their meanings. Cognitive relationships among physical concepts are proposed or proved for improving or transforming the explanations of physical concepts.
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.11.PNG?raw=true"> 
+</p>
 
-The operation of the level *trans* is connected to the description of theories as cognitive structures serving to interpret, explain, and very often predict physical phenomena. These are the important components describing the evolution of the body of knowledge called high energy physics.
+**Ch1908** to [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
 
-The selected contributions of the Nobel laureates that have been considered in previous Sections 13.1 and 13.2 are now organized in terms of each one of the levels of operation of the mechanism of knowing. We identify each contribution with two dates: the first date, at the beginning of the line, indicates the year the Nobel Prize was awarded; the second date, written in parentheses at the end of the line, refers to the date where the contribution was initiated or reported. These contributions follow the chronological order of the year the Nobel Prize has been awarded. When the Nobel Prize corresponds to Chemistry the first date is underlined; all the other cases have been awarded in Physics.
+WORK: “The discovery of radioactivity in 1896 led to a series of more in-depth investigations. In 1899 Ernest Rutherford demonstrated that there were at least two distinct types of radiation: alpha radiation and beta radiation. He discovered that radioactive preparations gave rise to the formation of gases. Working with Frederick Soddy, Rutherford advanced the hypothesis that helium gas could be formed from radioactive substances. In 1902 they formulated a revolutionary theory: that elements could disintegrate and be transformed into other elements.”
 
-### Level *intra*: the laboratory work.
+MLA style: Ernest Rutherford – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1908/rutherford/facts/
 
-1901: Röntgen produces X-rays (1895).<br>
-1927: Wilson constructs a cloud chamber to register the tracks of particles (1911).<br>
-<u>1936:</u> Aston: development of a mass spectrograph to create a map of isotopes. (1919).<br>
-1939: Lawrence builds a cyclotron for accelerating protons (1929).<br>
-1950: Powell studies nuclear processes by introducing photographic methods (1947).<br>
-1960: Glaser invents the bubble chamber (1952).<br>
-1992: Charpak invents a multiwire proportional chamber (1968).<br>
-2002: Giacconi starts studying emission of X-rays from stars and galaxies (1960).
+NOBEL LECTURE: *The Chemical Nature of the Alpha Particles from Radioactive Substances* by Rutherford.
 
-### Level *inter*: the experimental purposes.
+MLA style: Ernest Rutherford – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/chemistry/1908/rutherford/lecture/
 
-1903: Becquerel discovers spontaneous radioactivity (1896).<br>
-1903: Pierre and Marie Curie discover polonium and radium (1898).<br>
-1906: Thomson discovers the electron (1897).<br>
-<u>1908:</u> Rutherford shows that radioactive elements generate ionized helium atoms and electrons (1899).<br>
-<u>1911:</u> Marie Curie produces radium as a pure metal (1910).<br>
-1923: Millikan determines the electron’s charge (1910).<br>
-1927: Compton studies the dispersion of X-ray photons after collision with electrons (1922).<br>
-<u>1935:</u> Chadwick confirms the existence of neutrons (1932).<br>
-1935: Frédéric Joliot and Irène Joliot-Curie artificially create the first radioactive element (1934).<br>
-1936: Anderson discovers the positron (1932).<br>
-1937: Davisson and Thomson demonstrate the diffraction of electrons (1927).<br>
-1951: Cockcroft and Walton artificially produce transmutation of atoms (1932).<br>
-1938: Fermi produces artificial radioactivity by neutron bombardment (1934).<br>
-<u>1944:</u> Hahn and Strassman discover the fission of heavy nuclei (1939).<br>
-1959: Segrè and Chamberlain confirm the existence of the antiproton (1955).
+**Ph1949** to [Hideki Yukawa](https://en.wikipedia.org/wiki/Hideki_Yukawa) “for his prediction of the existence of mesons on the basis of theoretical work on nuclear forces”.
 
-**1984:** Rubbia and van der Meer demonstrate the existence of W and Z particles (1983).<br>
-1988: Lederman, Schwartz and Steinberger discover the muon neutrino (1962).<br>
-1995: Reines and Cowan prove the existence of neutrinos (1950).<br>
-2002: Koshiba detect neutrinos burst from a supernova (1980).<br>
-2002: Davis detects neutrinos emitted from the Sun (1960).<br>
-2013: Experiments conducted at the CERN confirm the existence of the Higgs particle (2012). <br>
-2015: Kajita discovers that neutrinos switch identities before arriving to Earth (1998).<br>
-2015: McDonald studies neutrinos created in nuclear reactions in the Sun (2000).<br>
-2020: Genzel and Ghez start mapping the orbits of stars to reveal the existence of a black hole (1990).
+WORK: “Atomic nuclei consist of protons and neutrons held together by a strong force. Hideki Yukawa assumed that this force is borne by particles and that there is a relationship between the range of the force and the mass of the force-bearing particle. In 1934, Yukawa predicted that this particle should have a mass about 200 times that of an electron. He called this particle a “meson”. Mesons’ existence was verified in later experiments.”
+
+MLA style: Hideki Yukawa – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/facts/
+
+NOBEL LECTURE: *Meson Theory in Its Developments* by Yukawa.
+
+MLA style: Hideki Yukawa – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1949/yukawa/lecture/
+
+**Ph1967** to [Hans Albrecht Bethe](https://en.wikipedia.org/wiki/Hans_Bethe) “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”.
+
+WORK: “The discovery of fission—the splitting of heavy nuclei—revealed the liberation of large quantities of energy; an effect now exploited in nuclear reactors. This energy is generated by differences in mass. Energy is also liberated when light nuclei combine to form heavier ones, i.e. fusion. In 1938, Hans Bethe proved that fusion produces the enormous energy emitted by stars. He proposed two different processes, both of which result in hydrogen nuclei fusing with helium nuclei.”
+
+MLA style: Hans Bethe – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1967/bethe/facts/
+
+NOBEL LECTURE: *Energy Production in Stars* by Bethe.
+
+MLA style: Hans Bethe – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. <https://www.nobelprize.org/prizes/physics/1967/bethe/lecture/
+
+**Ph2020** to [Roger Penrose](https://en.wikipedia.org/wiki/Roger_Penrose ) “for the discovery that black hole formation is a robust prediction of the general theory of relativity” and to Reinhard Genzel and Andrea Ghez “for the discovery of a supermassive compact object at the centre of our galaxy”.
+
+WORK (Penrose): “A black hole is a supermassive compact object with a gravitational force so large that nothing, not even light, can escape from it. In 1964, Roger Penrose proposed critical mathematical tools to describe black holes. He showed that Einstein’s general theory of relativity means the formation of black holes must be seen as a natural process in the development of the universe. He was also able to describe black holes in detail: at their farthest depths is a singularity where all known laws of nature dissolve.”
+
+MLA style: Roger Penrose – Facts – 2020. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 1 Jul 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/facts/
+
+NOBEL LECTURE: *Black Holes, Cosmology, and Space-Time Singularities* by Penrose.
+
+MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2020/penrose/lecture/
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.12.PNG?raw=true"> 
+</p>
+
+**Ph1929** to [Prince Louis-Victor Pierre Raymond de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) “for his discovery of the wave nature of electrons”.
+
+WORK:” In the beginning of the 20th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. In 1924 Louis de Broglie introduced the idea that particles, such as electrons, could be described not only as particles but also as waves. This was substantiated by the way streams of electrons were reflected against crystals and spread through thin metal foils. The idea had great significance for the continued evolution of quantum mechanics.”
+
+MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/facts/
+
+NOBEL LECTURE: The Wave Nature of the Electron by de Broglie.
+
+MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/
+
+**Ph1945** to [Wolfgang Pauli](https://en.wikipedia.org/wiki/Wolfgang_Pauli) “for the discovery of the Exclusion Principle, also called the Pauli Principle”.
+
+WORK: “In Niels Bohr’s model of the atom, electrons move in fixed orbits around a nucleus. As this model developed, electrons were assigned certain quantum numbers corresponding to distinct states of energy and movement. In 1925, Wolfgang Pauli introduced two new numbers and formulated the Pauli principle, which proposed that no two electrons in an atom could have identical sets of quantum numbers. It was later discovered that protons and neutrons in nuclei could also be assigned quantum numbers and that Pauli’s principle applied here too.”
+
+MLA style: Wolfgang Pauli – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/facts/
+
+NOBEL LECTURE: *Exclusion Principle and Quantum Mechanics* by Pauli.
+
+MLA style: Wolfgang Pauli – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1945/pauli/lecture/
+
+**Ph1957** to [Chen Ning Yang](https://en.wikipedia.org/wiki/Yang_Chen-Ning) and [Tsung-Dao (T.D.) Lee](https://en.wikipedia.org/wiki/Tsung-Dao_Lee) “for their penetrating investigation of the so-called parity laws which has led to important discoveries regarding the elementary particles”.
+
+WORK (Lee and Yang): “For a long time, physicists assumed that various symmetries characterized nature. In a kind of “mirror world” where right and left were reversed and matter was replaced by antimatter, the same physical laws would apply, they posited. The equality of these laws was questioned concerning the decay of certain elementary particles, however, in 1956 and Tsung-Dao Lee and Chen Ning Yang formulated a theory that the left-right symmetry law is violated by the weak interaction. Measurements of electrons’ direction of motion during a cobalt isotope’s beta decay confirmed this.”
+
+MLA style: Tsung-Dao Lee – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/lee/facts/
+
+NOBEL LECTURE: *The Law of Parity Conservation and Other Symmetry Laws of Physics* by Yang.
+
+MLA style: Chen Ning Yang – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/yang/lecture/
+
+NOBEL LECTURE: *Weak Interactions and Nonconservation of Parity* by Lee.
+
+MLA style: Tsung-Dao Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1957/lee/lecture/
+
+**Ph1963** to [Eugene Paul Wigner](https://en.wikipedia.org/wiki/Eugene_Wigner) “for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles” and to [Maria Goeppert Mayer](https://en.wikipedia.org/wiki/Maria_Goeppert_Mayer) and [J. Hans D. Jensen](https://en.wikipedia.org/wiki/J._Hans_D._Jensen) “for their discoveries concerning nuclear shell structure”.
+
+WORK (Wigner): “After discovery of the neutron, it became evident that the atomic nucleus is made up of nucleons—protons and neutrons—that are affected by a cohesive force. In 1933 Eugene Wigner discovered that the force binding the nucleons together is very weak when the distance between them is great, but very strong when the nucleons are close to one another as in the atomic nucleus. Wigner also described several characteristics of the nucleons and the nuclear force, including the fact that the force between two nucleons is the same, regardless of whether they are protons or neutrons.
+
+MLA style: Eugene Wigner – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1963/wigner/facts/
+
+NOBEL LECTURE: *Events, Laws of Nature, and Invariance Principles* by Wigner.
+
+MLA style: Eugene Wigner – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/wigner/lecture/
+
+WORK (Goeppert Mayer and Jensen): “According to modern physics, an atom consists of a nucleus made up of nucleons—protons and neutrons—surrounded by electrons distributed within shells with a fixed number of electrons. It became apparent that atomic nuclei in which the number of nucleons corresponded to full electron shells are especially stable. In 1949 Maria Goeppert Mayer and Hans Jensen developed a model in which nucleons were distributed in shells with different energy levels. The model reflected observations of directions in which nucleons rotated around their own axes and around the center of the nucleus.”
+
+MLA style: Maria Goeppert Mayer – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1963/mayer/facts/
+
+NOBEL LECTURE: *The Shell Model* by Goeppert Mayer.
+
+MLA style: Maria Goeppert Mayer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/mayer/lecture/
+
+NOBEL LECTURE: *Glimpses at the History of the Nuclear Structure Theory* by Jensen.
+
+MLA style: J. Hans D. Jensen – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1963/jensen/lecture/
+
+**Ph1975** to [Aage Niels Bohr](https://en.wikipedia.org/wiki/Aage_Bohr), [Ben Roy Mottelson](https://en.wikipedia.org/wiki/Ben_Roy_Mottelson) and [Leo James Rainwater](https://en.wikipedia.org/wiki/James_Rainwater) “for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection”.
+
+WORK (Bohr, Mottelson and Rainwater): “According to modern physics, an atomic nucleus consists of nucleons—protons and neutrons. In earlier models the nucleus was depicted as being spherical, but this proved to be inaccurate. In 1950 James Rainwater postulated that the atomic nucleus can be distorted. The nucleons in the outer portions of the atomic nucleus move about in paths and interact with nucleons inside, causing the nucleus to be distorted. Independently of Rainwater, Aage Bohr arrived at the same theory and corroborated it through experiments in collaboration with Ben Mottelson in 1952 and 1953.”
+
+MLA style: Aage N. Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 2023. https://www.nobelprize.org/prizes/physics/1975/bohr/facts/
+
+NOBEL LECTURE: *Rotational Motion in Nuclei* by Bohr.
+
+MLA style: Aage N. Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/bohr/lecture/
+
+NOBEL LECTURE: *Elementary Modes of Excitation in the Nucleus* by Mottelson.
+
+MLA style: Ben R. Mottelson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/mottelson/lecture/
+
+NOBEL LECTURE: *Background for the Spheroidal Nuclear Model Proposal* by Rainwater.
+
+MLA style: James Rainwater – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1975/rainwater/lecture/
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.13.PNG?raw=true"> 
+</p>
+
+**Ph1965** to  [Shinichiro Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga), [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) and [Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
+
+WORK (Tomonoga): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. The theory had to be reformulated, however, partly due to the observation of the Lamb shift in 1947, in which the supposed single energy level within a hydrogen atom was instead proven to be two similar levels. Sin-Itiro Tomonga solved this problem in 1948 through a “renormalization” and thereby contributed to a new quantum electrodynamics.”
+
+MLA style: Sin-Itiro Tomonaga – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/tomonaga/facts/
+
+NOBEL LECTURE: *Development of Quantum Electrodynamics* by Tomonoga.
+
+MLA style: Sin-Itiro Tomonaga – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/tomonaga/lecture/
+
+WORK (Schwinger): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. However, partly because the electron’s magnetic moment proved to be somewhat larger than expected, the theory had to be reformulated. Julian Schwinger solved this problem in 1948 through “renormalization” and thereby contributed to a new quantum electrodynamics.”
+
+MLA style: Julian Schwinger – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/schwinger/facts/
+
+NOBEL LECTURE: *Relativistic Quantum Field Theory* by Schwinger.
+
+MLA style: Julian Schwinger – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/schwinger/lecture/
+
+WORK (Feynman): “Following the establishment of the theory of relativity and quantum mechanics, an initial relativistic theory was formulated for the interaction between charged particles and electromagnetic fields. This needed to be reformulated, however. In 1948 in particular, Richard Feynman contributed to creating a new quantum electrodynamics by introducing Feynman diagrams: graphic representations of various interactions between different particles. These diagrams facilitate the calculation of interaction probabilities.”
+
+MLA style: Richard P. Feynman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/feynman/facts/
+
+NOBEL LECTURE: *The Development of the Space-Time View of Quantum Electrodynamics* by Feynman.
+
+MLA style: Richard P. Feynman – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/
+
+**Ph1969** to [Murray Gell-Mann](https://en.wikipedia.org/wiki/Murray_Gell-Mann) “for his contributions and discoveries concerning the classification of elementary particles and their interactions”.
 
 
-### Level *trans*: the theorical implications.
+WORK: “During the 1950s and 1960s, new accelerators and apparatuses helped identify many new elementary particles. In theoretical works from the same period, Murray Gell-Mann classified particles and their interactions. He proposed that observed particles are in fact composite, that is, comprised of smaller building blocks called quarks. According to this theory, as-yet-undiscovered particles should exist. When these were later found in experiments, the theory was accepted.”
 
-<u>1908:</u> Rutherford and Soddy formulate a theory of the transmutations of atomic nuclei (1902).<br>
-1929: de Broglie proposes the wave nature of the electron (1924).<br>
-1945: Pauli proposes the exclusion principle for electrons (1925).<br>
-1949: Yukawa predicts the existence of mesons (1934).<br>
-1965: Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1965).<br>
-1957: Yang and Lee propose that left-right symmetry is violated in weak interactions (1956).<br>
-1963: Wigner studies the force binding the nucleons together and their symmetries (1933).<br>
-1963: Goeppert Mayer provides evidence of the significance of the magic nuclear numbers (1948).<br>
-1963: Jensen develops a nuclear shell model (1949).<br>
-1967: Bethe studies energy production in stars. (1938-1939).<br>
-1969: Gell-Mann classifies elementary particles and their interactions (1953).<br>
-1975: Rainwater proposes the spheroidal nuclear model (1950).<br>
-1975: Bohr and Mottelson study rotational motion in nuclei (1952-1953).<br>
-1979: Glashow, Salam and Weinberg explain the structure of the electroweak force (1960).<br>
-1999: t'Hooft and Veltman explain the quantum structure of electroweak interaction (1970).<br>
-2013: Englert, Brout and Higgs propose a theory of how particles acquire mass (1964).<br>
-2020: Penrose proposes mathematical tools for describing black holes (1964).
+MLA style: Murray Gell-Mann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1969/gell-mann/facts/
 
-*** 
+NOBEL LECTURE: *Symmetry and Currents in Particle Physics* by Gell-Man.
 
-## REFERENCES
+(No manuscript was available.)
 
-J. Piaget and R. Garcia. (1988). *Psychogenesis and the History of Science*. Columbia University Press.
+**Ph1979** to [Sheldon Lee Glashow](https://en.wikipedia.org/wiki/Sheldon_Glashow), [Abdus Salam](https://en.wikipedia.org/wiki/Abdus_Salam) and [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg) “for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current”.
+
+WORK (Glashow, Salam and Weinberg): “According to modern physics, four fundamental forces exist in nature. Electromagnetic interaction is one of these. The weak interaction—responsible, for example, for the beta decay of nuclei—is another. Thanks to contributions made by Sheldon Glashow, Abdus Salam, and Steven Weinberg in 1968, these two interactions were unified to one single, called electroweak. The theory predicted, for example, that weak interaction manifests itself in “neutral weak currents” when certain elementary particles interact. This was later confirmed.”
+
+MLA style: Sheldon Glashow – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 11 Oct 2024. <https://www.nobelprize.org/prizes/physics/1979/glashow/facts/>
+
+NOBEL LECTURE: *Towards a Unified Theory – Threads in a Tapestry* by Glashow.
+
+MLA style: Sheldon Glashow – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/glashow/lecture/
+
+NOBEL LECTURE: *Gauge Unification of Fundamental Forces* by Salam.
+
+MLA style: Abdus Salam – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/salam/lecture/
+
+NOBEL LECTURE: *Conceptual Foundations of the Unified Theory of Weak and Electromagnetic Interactions* by Weinberg.
+
+MLA style: Steven Weinberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 18 Jul 2023. https://www.nobelprize.org/prizes/physics/1979/weinberg/lecture/
+
+**Ph1999** to [Gerardus ‘t Hooft](https://en.wikipedia.org/wiki/Gerard_%27t_Hooft) and [Martinus J.G. Veltman](https://en.wikipedia.org/wiki/Martinus_J._G._Veltman) “for elucidating the quantum structure of electroweak interactions in physics”.
+
+WORK (t Hooft and Veltman): “According to modern physics, four fundamental forces exist in nature. Electromagnetic interaction is one of these. The weak interaction—responsible, for example, for the beta decay of nuclei—is another. In the 1960s, a unified theory was formulated for these two forces: the electroweak interaction. However, certain problems still remained to be solved. In the early 1970s, Gerardus t'Hooft and Martinus Veltman formulated and tested a mathematical theory that further explained the electroweak interaction.”
+
+MLA style: Gerardus 't Hooft – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/thooft/facts/
+
+NOBEL LECTURE: *A Confrontation with Infinity* by t'Hooft.
+
+MLA style: Gerardus ‘t Hooft – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/thooft/lecture/
+
+NOBEL LECTURE: *From Weak Interactions to Gravitation* by Veltman.
+
+MLA style: Martinus J.G. Veltman – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 28 Jul 2023. https://www.nobelprize.org/prizes/physics/1999/veltman/lecture/
+
+**Ph2013** to [François Englert](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert) and [Peter W. Higgs](https://en.wikipedia.org/wiki/Peter_Higgs) “for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN’s Large Hadron Collider”.
+
+WORK (Englert and Higgs): “According to modern physics, matter consists of a set of particles that act as building blocks. Between these particles lie forces that are mediated by another set of particles. A fundamental property of the majority of particles is that they have a mass. Independently of one another, in 1964 both Peter Higgs and the team of François Englert and Robert Brout proposed a theory about the existence of a particle that explains why other particles have a mass. In 2012, two experiments conducted at the CERN laboratory confirmed the existence of the Higgs particle.”
+
+MLA style: François Englert – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Fri. 11 Oct 2024. <https://www.nobelprize.org/prizes/physics/2013/englert/facts/>
+
+NOBEL LECTURE: *The BEH Mechanism and its Scalar Boson* by Englert.
+
+MLA style: François Englert – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2013/englert/lecture/
+
+NOBEL LECTURE: *Evading the Goldstone Theorem* by Higgs.
+
+MLA style: Peter Higgs – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/2013/higgs/lecture/
 
 ***
 
-[**Next: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md) 
+### REFERENCE.
 
+J. Piaget and R. Garcia. (1988). Psychogenesis and the History of Science. Columbia University Press.
+
+***
+
+[**Next: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md)
 
