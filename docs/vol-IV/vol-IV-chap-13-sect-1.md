@@ -16,9 +16,9 @@ This is the first chapter dedicated to the Universe. It describes a selection of
 	
 After this Chapter you should be able to: 
 
-- Describe the main instruments and experimental settings that have been built to study high energy physics. 
-- Analize the main experiments that have generated new conceptual relationships derived from observations and measurements in high energy physics.
-- Consider the main theoretical approaches that have proposed fruitful explanations in high energy physics.
+- Describe the main instruments, laboratories and experimental settings employed in the study of high energy physics. 
+- Analyze the main experiments that contributed with critical observations and measurements in high energy physics.
+- Consider the main theoretical approaches that fruitfully explained high energy physics.
 
 
 ### Description of content of Chapter 13.
@@ -48,6 +48,15 @@ We identify each Nobel Prize with the shorthand of the discipline (Ph for Physic
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.5.PNG?raw=true"> 
 </p>
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.1.PNG?raw=true"> 
+
+
+(Source: Wikipedia common)
+</p>
+
+**Figure 13.1.** Original apparatus created by Röntgen and by Lawrence.
 
 **Ph1901** to [Wilhelm Conrad Röntgen](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
 
