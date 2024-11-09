@@ -51,8 +51,9 @@ We identify each Nobel Prize with the shorthand of the discipline (Ph for Physic
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.1.PNG?raw=true"> 
+</p>
 
-
+<p>
 (Source: Wikipedia common)
 </p>
 
@@ -92,7 +93,9 @@ MLA style: Cecil Powell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.2.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia common)
 </p>
 
