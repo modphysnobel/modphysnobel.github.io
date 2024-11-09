@@ -16,7 +16,9 @@ The description of the Nobel Prize contributions is the same as in Section 13.1.
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.7.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
@@ -68,7 +70,9 @@ MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.8.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
@@ -155,7 +159,9 @@ MLA style: James Rainwater – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.9.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
