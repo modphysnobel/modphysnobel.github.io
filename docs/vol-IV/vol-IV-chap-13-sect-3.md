@@ -14,6 +14,14 @@ The description of the Nobel Prize contributions is the same as in Section 13.1.
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.11.PNG?raw=true"> 
 </p>
 
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.7.PNG?raw=true"> 
+
+(Source: Wikipedia commons)
+</p>
+
+**Figure 13.6.** K meson decay observed in 1949. 
+
 **Ch1908** to [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
 
 WORK: “The discovery of radioactivity in 1896 led to a series of more in-depth investigations. In 1899 Ernest Rutherford demonstrated that there were at least two distinct types of radiation: alpha radiation and beta radiation. He discovered that radioactive preparations gave rise to the formation of gases. Working with Frederick Soddy, Rutherford advanced the hypothesis that helium gas could be formed from radioactive substances. In 1902 they formulated a revolutionary theory: that elements could disintegrate and be transformed into other elements.”
@@ -57,6 +65,15 @@ MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.12.PNG?raw=true"> 
 </p>
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.8.PNG?raw=true"> 
+
+(Source: Wikipedia commons)
+</p>
+
+**Figure 13.7.** Scheme showing matter and antimatter species related to charge (C), parity (P) and time (T) reversal symmetries.
+
 
 **Ph1929** to [Prince Louis-Victor Pierre Raymond de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) “for his discovery of the wave nature of electrons”.
 
@@ -135,6 +152,14 @@ MLA style: James Rainwater – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.13.PNG?raw=true"> 
 </p>
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.9.PNG?raw=true"> 
+
+(Source: Wikipedia commons)
+</p>
+
+**Figure 13.8.** Classification of particles according to Standard model.
 
 **Ph1965** to  [Shinichiro Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga), [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) and [Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
 
