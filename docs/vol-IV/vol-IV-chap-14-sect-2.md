@@ -58,6 +58,11 @@ MLA style: Frederick Reines – Nobel Lecture. NobelPrize.org. Nobel Prize Outre
 
 PHYSICS CONTENT (based on *Speed read: Mining Mysterious Particles & X-ray Vision of the Universe* and *Popular information: Two New Windows on the Universe*).
 
+MLA style: Speed read: Mining Mysterious Particles & X-ray Vision of the Universe. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/2002/speedread/>
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/2002/popular-information/>
+
+
 - A radioactive beta decay is a three-body process in which an atomic nucleus emits an electron and another subatomic particle which is created in the interaction process. In a beta decay of a neutron it is transformed into a proton by the emission of an electron accompanied by an antineutrino. Conversely, a proton is converted into a neutron by the emission of a positron with a neutrino in the so-called positron emission. These transformations between neutrons and protons corresponds to exchanges of the quantum bosons of the weak force carriers: the particles named as $W^+$, $W^-$ and $Z^0$.  
 
 - In 1962 León Lederman, Melvin Schwartz y Jack Steinberger were able to distinguish electron and muon decay reactions in which two types of neutrinos were produced, later called electron neutrino ($ν_e$) and muon neutrino ($ν_μ$).
@@ -405,8 +410,6 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. T
 - To measure the movement of the planet orbiting the star Mayor and Queloz built a special instrument − a spectrograph. They measured the radial velocity of the star by means of the Doppler effect: light rays from an object moving towards us are bluer and, if the object is moving away from us, the rays are redder. These Doppler shifts gave information about the planet’s orbital period around the star and also set a lower mass limit. 
 
 ### Description of the 2019 Physics Nobel Prize awarded to Peebles, Mayor and Queloz.
-
-!!! tip "2019 Physics Nobel Prize awarded to Peebles."
 
 WORK (Peebles): “Fundamental questions about the universe’s structure and history have always fascinated human beings. James Peebles’ theoretical framework, developed since the mid-1960s, is the basis of our contemporary ideas about the universe. The cosmic background radiation is a remaining trace of the formation of the universe. Using his theoretical tools and calculations, James Peebles was able to interpret these traces from the infancy of the universe and discover new physical processes. The results showed us a universe in which just five per cent of its content is known matter. The rest, 95 per cent, is unknown dark matter and dark energy.”
 
