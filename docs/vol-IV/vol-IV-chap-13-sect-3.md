@@ -254,7 +254,7 @@ MLA style: Peter Higgs – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach A
 
 ### REFERENCE.
 
-J. Piaget and R. Garcia. (1988). Psychogenesis and the History of Science. Columbia University Press.
+J. Piaget and R. Garcia. (1988). *Psychogenesis and the History of Science*. Columbia University Press.
 
 ***
 
