@@ -42,6 +42,10 @@ In this section, a description of the selected Physics Nobel Prizes is made in t
 
 PHYSICS CONTENT (based on *Award ceremony speech* and on *Speed read: Stellar Nuclear Reactors*).
 
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/1967/ceremony-speech/>
+
+MLA style: Speed read: Stellar Nuclear Reactors. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/1967/speedread/>
+
 - In the 1920s Arthur Eddington indicated that the innermost part of the sun is a hot gas mainly consisting of hydrogen and helium atoms which at the intense temperatures and pressures release energy when they fuse and create heavier atoms. 
 
 - Radioactivity was a possible explanation, but it was discarded by estimating that the sun might not contain enough radioactive substances to produce its energy.  
@@ -143,6 +147,10 @@ MLA style: William A. Fowler – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 **1974:** to [Sir Martin Ryle](https://en.wikipedia.org/wiki/Martin_Ryle) and [Antony Hewish](https://en.wikipedia.org/wiki/Antony_Hewish) "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars".
 
 PHYSICS CONTENT (based on *Press release* and *Speed read: Radio Stars*).
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/1974/press-release/>
+
+MLA style: Speed read: Radio Stars. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 9 Nov 2024. <https://www.nobelprize.org/prizes/physics/1974/speedread/>
 
 - Radio astronomy is the study of the universe made by detecting and analyzing radio waves emitted by stars and other cosmological objects. Those objects have been registered over distances thousands of millions of lightyears or more. All these happened many years ago, at the beginning of the universe. A light year is the distance that light travels during a year of 31,556 952 seconds at a speed of 299 792 458 m/s. Such distance is the product of velocity multiplied by time; it corresponds to 9.460 536 207 $ \times 10^{15}$ meters per second, nearly $10^{16}$ m/s.
 
