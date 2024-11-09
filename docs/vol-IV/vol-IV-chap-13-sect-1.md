@@ -90,6 +90,14 @@ MLA style: Cecil Powell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.6.PNG?raw=true"> 
 </p>
 
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.2.PNG?raw=true"> 
+
+(Source: Wikipedia common)
+</p>
+
+**Figure 13.2.** Original cloud chamber created by Wilson and track of an alpha particle obtained in a diffusion cloud chamber.
+
 **Ph1927** to [Charles Thomson Rees Wilson](https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson) “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
 
 WORK: “If the volume of a mixture of air and water vapor increases, small water drops form. If the air contains electrically charged particles—ions—then droplet formation occurs around these especially. C.T.R. Wilson exploited this phenomenon when he constructed his cloud chamber in 1911—a glass container with air and water vapor and ingenious devices that allow traces left by ionizing radiation and particles that pass through the chamber to become visible and be photographed. The cloud chamber became an important tool in physics.”
