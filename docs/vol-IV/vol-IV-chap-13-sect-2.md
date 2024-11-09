@@ -17,7 +17,9 @@ The description of the Nobel Prize contributions is the same as in Section 13.1.
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.7.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
@@ -97,7 +99,9 @@ MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.4.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
@@ -105,7 +109,9 @@ MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.5.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
@@ -226,7 +232,9 @@ MLA style: Frederick Reines – Nobel Lecture. NobelPrize.org. Nobel Prize Outre
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.6.PNG?raw=true"> 
+</p>
 
+<p>
 (Source: Wikipedia commons)
 </p>
 
