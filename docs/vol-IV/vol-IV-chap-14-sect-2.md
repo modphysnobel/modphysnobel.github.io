@@ -9,51 +9,6 @@
 
 In this Section we describe the selected Physics Nobel Prizes in the same way as in section 14.1. 
 
-**1995:** awarded "for pioneering experimental contributions to lepton physics" jointly with one half to Martin L. Perl "for the discovery of the tau lepton" and with one half to [Frederick Reines](https://en.wikipedia.org/wiki/Frederick_Reines) "for the detection of the neutrino". We focus only on Reines.
-
-PHYSICS CONTENT (based on *Press release, Award ceremony speech* and *Advanced information*).
-
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/press-release/
-
-MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 23 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/ceremony-speech/
-
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 23 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/advanced-information/
-
-- In 1930 Wolfgang Pauli was analyzing a nuclear beta decay process in which an atomic nucleus emitted an electron; however, something else was missing to balance energy. To make sure that energy was conserved he proposed the existence of a hypothetical subatomic particle without electrical charge, a negligible mass and it reacted very little with its environment: the neutrino was not observed, but it carried the missing energy.
-
-- In 1933 Enrico Fermi was working on a theory for explaining the weak force and called neutrino (little neutral one in Italian) to the particle proposed by Pauli. Fermi also used the neutrino hypothesis to formulate a theory for weak interactions and considered that nuclear reactors could be used as intensive neutrino sources.
-
-- In 1953 Frederick Reines and Clyde L. Cowan, Jr., proposed a reactor experiment to detect neutrinos and demonstrated experimentally its existence. They passed a radiation coming from a nuclear reactor through 200 liters of a solution of cadmium chloride ($CdCl_2$) in water. They studied a reaction where a neutrino was captured by a proton giving a neutron and a positron. The neutrino quickly faded away. The positron was slowed down by the water and annihilated by an electron. This annihilation created two photons, which were registered in two scintillation detectors. The neutron slowed down in the water and was eventually captured by a cadmium nucleus which are strong neutron absorbers. 
-
-- In 1956 Reines and Cowan sent a telegram to Pauli announcing that they have discovered reactions that proved the existence of neutrino, the subatomic particle that he invented thirty years ago.
-
-### Description of the 1995 Physics Nobel Prize awarded to Reines.
-
-WORK (Reines): “During the beta decay of a nucleus, a neutron is converted to a proton and an electron is produced. In studying the electron’s velocity, it was clear that this decay violated energy-conversation and other laws. It was thus proposed that an additional particle—a neutrino—was formed during beta decay. In the early 1950s, Frederick Reines passed radiation from a nuclear reactor through a water tank and discovered reactions that proved the neutrino’s existence.”
-
-MLA style: Frederick Reines – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/reines/facts/
-
-NOBEL LECTURE: *The Neutrino: From Poltergeist to Particle* by Reines.
-	
-- Need for Direct Detection.
-	- Detection Technique.
-	- The Hanford Experiment.
-	- The Savannah River Experiment.
-	- Observation of the Neutrino.
-	- Signal Rate.
-	- First and Second Pulses.
-	- Signal as a Function of Target Protons.
-	- Absorption Test.
-	- What Next?
-	- Neutrino-electron elastic scattering.
-	- Neutrino interactions with deuterons.
-	- Neutrino stability and oscillations.
-	- Other Neutrino Physics Experiments.
-
-MLA style: Frederick Reines – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 14 Aug 2023. https://www.nobelprize.org/prizes/physics/1995/reines/lecture/
-
-***
-
 **2002:** divided, one half jointly to [Raymond Davis Jr.](https://en.wikipedia.org/wiki/Raymond_Davis_Jr) and [Masatoshi Koshiba](https://en.wikipedia.org/wiki/Masatoshi_Koshiba) "for pioneering contributions to astrophysics, in particular for the detection of cosmic neutrinos" and the other half to [Riccardo Giacconi](https://en.wikipedia.org/wiki/Riccardo_Giacconi) "for pioneering contributions to astrophysics, which have led to the discovery of cosmic X-ray sources".
 
 PHYSICS CONTENT (based on *Speed read: Mining Mysterious Particles & X-ray Vision of the Universe* and *Popular information: Two New Windows on the Universe*).
