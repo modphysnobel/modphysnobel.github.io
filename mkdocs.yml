@@ -83,7 +83,12 @@ extra:
 #      link: https://www.facebook.com/carlos.lizarragac/
 #    - icon: fontawesome/brands/mastodon
 #      link: https://mastodon.online/@clizarraga
-    
+
+  analytics:
+    provider: google
+    property: G-141LZ4BFH8
+
+
 
 # Extensions
 markdown_extensions:
