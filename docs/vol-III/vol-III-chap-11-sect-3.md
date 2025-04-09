@@ -1,52 +1,57 @@
+
+[**Volume III: Waves**](./volume-III.md)
+
+[**Previous: 11.2 Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md) 
+
+***
+
 ## 11.3. Phases in a learning and research process.
 
-In this section we describe Geim´s Lecture *Random Walk to Graphene* as a learning and research process that involves two phases, one for learning and another for research.
+In this section we describe Geim´s Nobel Lecture *Random Walk to Graphene*: MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
 
-MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. 
-https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
+We analyze this Lecture as a learning and research process that involves two structural phases:
 
-The Learning phase is for inquiring and exploring; it consists in the description of the motivation and problematization steps for the acquisition of existing knowledge and the development of skills. Its steps concern motivation and problematization. 
+• The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
 
-The Research phase is for evaluating and communicating; it consists in the description of the experimentation, testing, and publishing steps for the development and application of new knowledge and the confrontation with external ideas, methods and results. Its steps refer to experimentation and problematization.
+• The research phase is for evaluating and communicating and consists in the description of testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
 
-In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table corresponds to the corresponding subtitle included in the original document.  The first column in the Table describes activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been involved in each activity. For simplicity, we omit many names and simplify the descriptions of the activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
+In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table refers to the corresponding subtitle included in the original document.  The first column in the Table describes reported activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been predominantly involved in each activity. For simplicity, we omit many names and simplify the descriptions of such  activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
 
-Geim starts his Nobel Lecture with this remark: *I hope that the reader will excuse me if on this occasion I recommend my own writings [1–3]. Instead of repeating myself here, I have chosen to describe my twisty scientific road that eventually led to the Nobel Prize. Most parts of this story are not described anywhere else, and its timeline covers the period from my PhD in 1987 to the moment when our 2004 paper, recognised by the Nobel Committee, was accepted for publication.*
+Geim starts his Nobel Lecture with this remark: “I hope that the reader will excuse me if on this occasion I recommend my own writings [1–3]. Instead of repeating myself here, I have chosen to describe my twisty scientific road that eventually led to the Nobel Prize. Most parts of this story are not described anywhere else, and its timeline covers the period from my PhD in 1987 to the moment when our 2004 paper, recognized by the Nobel Committee, was accepted for publication.”
 
 1. A. K. Geim, K. S. Novoselov. Nature Mater. 6, 183 (2007). 
 2. A. K. Geim, P. Kim. Sci. Am. 298, 90 (2008). 
 3. A. K. Geim. Science 324, 1530 (2009).
 
-<!-- HTML Table 1.1.1-->
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.1. Zombie management.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-PhD dissertation in 1987: “Investigation of mechanisms of transport relaxation in metals by a helicon resonance method”.
+PhD dissertation in 1987: *Investigation of mechanisms of transport relaxation in metals by a helicon resonance method*.
         </td>
         <th>
 X
@@ -66,7 +71,7 @@ X
         </tr>
     <tr>
     <td>
-Work at the Institute of Microelectronics Technology on a personal project for fabricating a sandwich consisting of a thin metal film and a superconductor separated by a thin insulator. 
+Work at the Institute of Microelectronics Technology on a personal project for fabricating a sandwich consisting of a thin metal film and a [superconductor](https://en.wikipedia.org/wiki/Superconductivity) separated by a thin insulator. 
         </td>
         <th>
 -
@@ -106,30 +111,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
    Table 11.2. One man’s junk, another man’s gold.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -155,7 +160,7 @@ X
         </tr>
     <tr>
     <td>
-Work as postdoc in European universities during four years for studying mesoscopic systems and phenomena such as two-dimensional electron gases, quantum point contacts, resonant tunnelling, and quantum Hall effect.
+Work as postdoc in European universities during four years for studying mesoscopic systems and phenomena such as two-dimensional electron gases, quantum point contacts, resonant tunnelling, and [quantum Hall effect](https://en.wikipedia.org/wiki/Quantum_Hall_effect).
         </td>
         <th>
 -
@@ -195,30 +200,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
-    Table 11.3. Dutch comfort
+    <th colspan="6" style="text-align: center">
+    Table 11.3. Dutch comfort.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -304,36 +309,36 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.4. A spell of levity.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-Work on magnetic water (liquid magnetized under an applied magnetic field); looking for the physics behind these phenomena (diamagnetism ). 
+Work on [magnetic water](https://en.wikipedia.org/wiki/Magnetic_water_treatment) (liquid magnetized under an applied magnetic field); looking for the physics behind these phenomena (diamagnetism ). 
         </td>
         <th>
 X
@@ -374,30 +379,30 @@ X
 </table>
 
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.5. Friday night experiments.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -423,7 +428,7 @@ X
         </tr>
     <tr>
     <td>
-Proof-of-concept experiments to make a material that mimicked the climbing ability of geckos (their hairs are attached to the opposite surface of a glass due to a van der Waals attractive force).
+Proof-of-concept experiments to make a material that mimicked the climbing ability of [geckos](https://en.wikipedia.org/wiki/Gecko) (their hairs are attached to the opposite surface of a glass due to a van der Waals attractive force).
         </td>
         <th>
 X
@@ -443,36 +448,36 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.6. Better to be wrong than boring.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-A list of Friday night experiments performed in a period of nearly fifteen years contains failures like the interpretation of giant diamagnetism in alloys as a sign of high-T superconductivity or the detection of “heartbeats” of individual living cells. 
+A list of Friday night experiments performed in a period of nearly fifteen years contains failures like the interpretation of giant [diamagnetism](https://en.wikipedia.org/wiki/Diamagnetism) in alloys as a sign of high-T superconductivity or the detection of “heartbeats” of individual living cells. 
         </td>
         <th>
 -
@@ -492,7 +497,7 @@ X
         </tr>
     <tr>
     <td>
-However, we succeed in topics such as levitation, gecko tape and graphene. When one dares to try, rewards are not guaranteed, but at least it is an adventure.
+However, we succeed in topics such as [levitation](https://en.wikipedia.org/wiki/Levitation_(physics)), gecko tape and graphene. “When one dares to try, rewards are not guaranteed, but at least it is an adventure.”
         </td>
         <th>
 X
@@ -512,30 +517,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.7. The Mancunian way.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -581,30 +586,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
-    <tr>
-    <th>
+<tr>
+    <th colspan="6" style="text-align: center">
     Table 11.8. Three little clouds.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -630,7 +635,7 @@ X
         </tr>
     <tr>
     <td>
-Appearance of three badly shaped thought clouds: concept of ‘metallic electronics”, carbon nanotubes, and intercalated graphite compounds. The three thought clouds s merged into the PhD project. 
+Appearance of three badly shaped thought clouds: concept of ‘metallic electronics”, [carbon nanotubes](https://en.wikipedia.org/wiki/Carbon_nanotube), and intercalated graphite compounds. The three thought clouds merged into the PhD project. 
         </td>
         <th>
 -
@@ -650,30 +655,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.9. Legend of a Scotch tape.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -719,7 +724,7 @@ X
         </tr>
         <tr>
     <td>
-Geim and a new collaborator decided to check out the electrical properties of the graphite flakes found on the cellotape and to transfer them onto glass slides by using tweezers. 
+Geim and a new collaborator decided to check out the electrical properties of the graphite flakes found on the cellotape and to transfer them onto [glass](https://en.wikipedia.org/wiki/Glass) slides by using tweezers. 
         </td>
         <th>
 -
@@ -739,7 +744,7 @@ X
         </tr>
          <tr>
     <td>
-Geim suggested the use of an oxidized Si wafers as substrates. Placing thin graphite fragments onto those wafers allowed to observe interference colours indicating that some of the fragments were optically transparent. some of these fragments were just a few nm thick: this was a first real breakthrough.
+Geim suggested the use of an oxidized Si wafers as substrates. Placing thin graphite fragments onto those wafers allowed to observe interference colours indicating that some of the fragments were optically transparent. Some of these fragments were just a few nm thick: this was a first real breakthrough.
         </td>
         <th>
 -
@@ -779,30 +784,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.10. Eureka moment.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -828,7 +833,7 @@ X
         </tr>
     <tr>
     <td>
-The Scotch tape technique was used for the isolation and identification of ultra-thin graphite films and graphene. Silver paint was employed to make electrical contacts to graphite platelets transferred from the Scotch tape. The prepared material resulted with higher conductivity and reasonably low resistance.
+The Scotch tape technique was used for the isolation and identification of ultra-thin graphite films and graphene. Silver paint was employed to make electrical contacts to graphite platelets transferred from the Scotch tape. The prepared material resulted in higher conductivity and reasonably low resistance.
         </td>
         <th>
 -
@@ -888,7 +893,7 @@ X
         </tr>
          <tr>
     <td>
-Learning how to identify monolayers by using optical and atomic force microscopy.
+Learning how to identify monolayers by using optical and [atomic force microscopy.](https://en.wikipedia.org/wiki/Atomic_force_microscopy) 
         </td>
         <th>
 X
@@ -908,7 +913,7 @@ X
         </tr>
         <tr>
     <td>
-Concerning microfabrication, the electron-beam lithography was used to define proper Hall bar devices and started making contacts by metal evaporation rather than silver painting.
+Concerning microfabrication, the electron-beam [lithography](https://en.wikipedia.org/wiki/Lithography) was used to define proper Hall bar devices and started making contacts by metal evaporation rather than silver painting.
         </td>
         <th>
 -
@@ -968,7 +973,7 @@ X
         </tr>
         <tr>
     <td>
-By the end of 2003, we got a reliable experimental picture ready for publication. We submitted the paper in a high-profile journal. It was rejected twice and one of the referees considered that our report did “not constitute a sufficient scientific advance.” The paper was published in Science 306, 666 (2004).
+By the end of 2003, we got a reliable experimental picture ready for publication. We submitted the paper in a high-profile journal. It was rejected twice and one of the referees considered that our report did “not constitute a sufficient scientific advance.” The paper was published in *Science* **306**, 666 (2004).
         </td>
         <th>
 -
@@ -988,30 +993,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.11. Defiant existence.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1077,7 +1082,7 @@ X
         </tr>
          <tr>
     <td>
-(3)	2D crystals cannot be grown in isolation, without an epitaxial substrate that provides an additional atomic bonding. The density of thermal fluctuations for a 2D crystal in the 3D space diverges with temperature.
+(3)	2D crystals cannot be grown in isolation, without an [epitaxial substrate](https://en.wikipedia.org/wiki/Epitaxial_wafer) that provides an additional atomic bonding. The density of thermal fluctuations for a 2D crystal in the 3D space diverges with temperature.
         </td>
         <th>
 -
@@ -1117,30 +1122,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.12. Requiem for brilliant ideas.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1166,7 +1171,7 @@ X
         </tr>
     <tr>
     <td>
-The 2004 paper demonstrated the experimental progress achieved to overcome the challenges of obtaining isolated 2D crystals, their thermodynamic instability, the observation of nanoscrolls, and papers on epitaxial growth.
+The 2004 paper demonstrated the experimental progress achieved to overcome the challenges of obtaining isolated [2D crystals](https://en.wikipedia.org/wiki/Single-layer_materials), their thermodynamic instability, the observation of nanoscrolls, and papers on epitaxial growth.
         </td>
         <th>
 -
@@ -1186,36 +1191,36 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.13.  Graphene incarnations.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-The beginning of graphene history is the observation by the British chemist Benjamin Brodie (1783-1862) who in 1859 obtained what he called ‘carbonic acid’ by exposing graphite to strong acids. What he observed was a suspension of tiny crystals of graphene oxide.
+The beginning of graphene history is the observation by the British chemist Benjamin Brodie (1783-1862) who in 1859 obtained what he called ‘[carbonic acid](https://en.wikipedia.org/wiki/Carbonic_acid)’ by exposing graphite to strong acids. What he observed was a suspension of tiny crystals of graphene oxide.
         </td>
         <th>
 -
@@ -1255,7 +1260,7 @@ X
         </tr>
          <tr>
     <td>
-Creased flakes down to a few nm in thickness were observed by using transmission electron microscopy (TEM).
+Creased flakes down to a few nm in thickness were observed by using [transmission electron microscopy](https://en.wikipedia.org/wiki/Transmission_electron_microscopy) (TEM).
         </td>
         <th>
 -
@@ -1375,36 +1380,36 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
     Table 11.14. Πλανητη Graphene.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-Earlier experiments were observational; they observed ultra-thin graphitic films, and occasionally even monolayers without reporting any of graphene’s distinguishing properties; there were few electrical and optical measurements.
+Earlier experiments were observational; they observed ultra-thin graphitic films, and occasionally even [monolayers](https://en.wikipedia.org/wiki/Monolayer) without reporting any of graphene’s distinguishing properties; there were few electrical and optical measurements.
         </td>
         <th>
 X
@@ -1464,7 +1469,7 @@ X
         </tr>
          <tr>
     <td>
-In semiconductor physics, electronic quality is described in terms of charge carrier mobility µ = 10,000 $cm^2/Vs$. In 2010 Geim´s group reported a value 10 and 100 times higher at room and low temperature, respectively.
+In [semiconductor](https://en.wikipedia.org/wiki/Semiconductor) physics, electronic quality is described in terms of charge carrier mobility µ = 10,000 $cm^2/Vs$. In 2010 Geim´s group reported a value 10 and 100 times higher at room and low temperature, respectively.
         </td>
         <th>
 -
@@ -1504,36 +1509,36 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
    Table 11.15. Magic of flat Carbon.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
           <tr>
     <td>
-In 2005 we demonstrated that charge carriers in graphene are massless fermions described by a Dirac-like equation rather than by the standard Schrödinger equation. 
+In 2005 we demonstrated that charge carriers in graphene are massless [fermions](https://en.wikipedia.org/wiki/Fermion) described by a Dirac-like equation rather than by the standard Schrödinger equation. 
         </td>
         <th>
 -
@@ -1573,7 +1578,7 @@ X
         </tr>
          <tr>
     <td>
-In 2006 we suggested that the phenomenon of Klein tunnelling, which was known in relativistic quantum physics for many decades but assumed non-observable, could be probed using graphene devices.
+In 2006 we suggested that the phenomenon of [Klein tunnelling](n.wikipedia.org/wiki/Klein_paradox), which was known in relativistic quantum physics for many decades but assumed non-observable, could be probed using graphene devices.
         </td>
         <th>
 -
@@ -1633,30 +1638,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
    Table 11.16. Ode to one.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1742,7 +1747,7 @@ X
         </tr>
         <tr>
     <td>
-(4) Charge carriers in a monolayer are massless Dirac fermions whereas they are massive in a graphene bilayer
+(4) [Charge carriers](https://en.wikipedia.org/wiki/Charge_carrier) in a monolayer are massless Dirac fermions whereas they are massive in a graphene bilayer
         </td>
         <th>
 -
@@ -1762,30 +1767,30 @@ X
         </tr>
 </table>
 
-<!-- HTML Table 1.1.1-->
+
 <table width="100%">
     <tr>
-    <th>
+    <th colspan="6" style="text-align: center">
    Table 11.17. To colleagues and friends.
         </th>
      </tr>
      <tr>
-    <th>
+    <th style="text-align: center">
 ACTIVITY
         </th>
-        <th>
+        <th style="text-align: center">
 Motv
         </th>
-        <th>
+        <th style="text-align: center">
 Prob
         </th>
-        <th>
+        <th style="text-align: center">
 Expm
         </th>
-        <th>
+        <th style="text-align: center">
 Tstn
         </th>
-        <th>
+        <th style="text-align: center">
 Publ
         </th>
         </tr>
@@ -1810,3 +1815,29 @@ X
         </th>
         </tr>
 </table>
+
+***
+
+### REFERENCES
+
+Physics and Chemistry Nobel Prizes
+
+MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. https://www.nobelprize.org/prizes/physics/1915/speedread/
+
+MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/speedread/
+
+MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/perspectives/
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/press-release/
+
+MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. https://www.nobelprize.org/prizes/physics/2010/popular-information/
+
+***
+
+MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/chemistry/1996/press-release/
+
+MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/advanced-information/
+
+***
+
+[**Next: 12.1.	Boson condensation.**](./vol-III-chap-12-sect-1.md)

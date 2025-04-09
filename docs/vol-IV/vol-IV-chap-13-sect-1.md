@@ -1,132 +1,136 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 12.3. **](./vol-III-chap-12-sect-3.md) 
+[**Previous: 12.3. Analysis of learning trajectories.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-3/) 
 
 ***
 
-## 13. Development of knowledge in high energy physics.     
+# 13. Development of knowledge in high energy physics.     
 
-!!! abstract "Introduction"
 
-	*What are the structures of the atomic nuclei and the elementary particles?*
+*What are the structures of atomic nuclei and of elementary particles?*
 
-	This is the first chapter dedicated to the Universe. We describe the levels of operation of the mechanisms of knowledge concerning high energy physics: nuclear physics and particle physics. A selection of those laboratories, experiments and theories in high energy physics that have been recognized with Nobel Prizes are considered.
+This is the first chapter dedicated to the Universe. It describes a selection of Nobel Prizes that have contributed to better understanding high energy physics (nuclear physics and particle physics). Such contributions are organized into three categories: the laboratory instruments, the experimental results, and the theorical approaches. Cosmology is considered in next Chapter 14. 
 
-	**Learning objectives of Chapter 13.**
+### Learning objectives of Chapter 13.
 	
-	After this Chapter you should be able to: 
+After this Chapter you should be able to: 
 
-	- Describe the main steps and contributions to the development of nuclear physics that have been awarded with Nobel Prizes in Physics and Chemistry.
-	- Describe the main steps and contributions to the development of particle physics that have been awarded with Nobel Prizes in Physics.   
-	- Analize the levels of operation of the mechanisms of knowledge related to the descriptions of laboratories, experiments, and theories in high energy physics.
+- Describe the main instruments, laboratories and experimental settings employed in the study of high energy physics. 
+- Analyze the main experiments that contributed with critical observations and measurements in high energy physics.
+- Consider the main theoretical approaches that fruitfully explained high energy physics.
 
-!!! abstract "Description of content of Chapter 13."
 
-	**Section 13.1.  Steps in the development of Nuclear Physics.**
+### Description of content of Chapter 13.
 
-	This Section contains a review of the three steps (N1 – N3) describing the development of nuclear physics, and a selection of contributions made by Nobel Prize laureates in Physics and Chemistry. 
+Section 13.1. Descriptions of laboratory instruments.
 
-	**Section 13.2.  Steps in the development of Particle Physics.**
+The most relevant devices and technological settings and installations used for research in high energy physics are considered.
 
-	This Section contains a review of the three steps (P1 – P3) describing the development of particle physics, and a selection of contributions made by Nobel Prize laureates in Physics. 
+Section 13.2. Accounts of experimental results.	
 
-	**Section 13.3.  Levels of operation of the mechanism of knowing.**
+The critical experiments made for answering relevant questions in high energy physics and the physical interpretations of their consequences are described.
 
-	The levels of operation of the mechanisms of knowing (inter, intra and trans) are described in terms of contributions made by Physics Nobel laureates, which are organized into three categories: laboratories, experiments, and theories. 
+Section 13.3. Contributions made by theoretical approaches.
 
-	Two Appendices present complementary information to what has been considered in previous sections 13.1 and 13.2: Appendix 13.1. Timeline of main developments in high energy physics and Appendix 13.2. References to Nobel Prizes and Lectures in Physics and Chemistry.
+The most successful cognitive structures serving to interpret, explain, and predict physical phenomena in high energy physics are reviewed. 
 
-## 13.1. Steps in the development of Nuclear Physics.
+## 13.1. Descriptions of laboratory instruments.
 
-Three steps (N1 – N3) describe the main developments of nuclear physics made in the period 1895 - 1953. Each one of these steps descriptions contains a timeline of selected contributions of Nobel laureates. We indicate the year when the activities of the laureates were initiated not when the Nobel Prizes were awarded.
+According to Piaget and García (1988) there are three levels of operation of the mechanisms of knowing: the level *intra* for the description of objects, the level *inter* for the transformation of concepts and the level *trans* for the construction of structures. We associate these levels of operation with three categories describing the contributions made by Nobel laureates working in high energy physics: the laboratory instruments, the experimental results, and the theorical approaches.
 
-!!! info "Step N1- Atomic structure and electronic properties."
+The selected contributions of the Nobel laureates are organized in terms of each one of the levels of operation of the mechanism of knowing that corresponds to instruments, results and approaches. In each level of operation, we group the Nobel Prizes into categories describing their main physics content. For each category a brief description of the included Prizes is presented on a table. It follows an image representing some aspect of the physics content of the category and then, the corresponding Nobel Prizes are described.
 
-	New phenomena were observed and there were no possibilities for understanding them in the frame of classical physics, for instance, the transformation of radioactive elements, the discovery of new elements, the existence of isotopes, the fact that photons are quantized energy electromagnetic radiations, and the diffraction of electrons. A restriction on the electronic quantum numbers was proposed by the Pauli exclusion principle. Tracks created by the passage of particles indicated the presence of subatomic particles.
+We identify each Nobel Prize with the shorthand of the discipline (Ph for Physics or Ch for Chemistry) and the year of the award. Afterwards, we quote a Nobel document called WORK describing the contribution of each laureate. The title of the corresponding Nobel Lecture is also included. The name of each laureate leads to a hyperlink containing biographical information. All the references to Nobel documents are given in MLA format.
 
-	[N01] Röntgen produces X-rays (1895).
+### The laboratory instruments.
 
-	[N02] Becquerel discovers spontaneous radioactivity (1896).
-	
-	[N03] Thomson discovers the electron (1897).
-	
-	[N04] Pierre and Marie Curie discover polonium and radium (1898).
-	
-	[N05] Rutherford shows that radioactive elements generate ionized helium atoms and electrons (1899).
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.5.PNG?raw=true"> 
+</p>
 
-	[N06] Marie Curie produces radium as a pure metal (1910).
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.1.PNG?raw=true"> 
+</p>
 
-	[N07] Millikan determines the electron’s charge (1910).
+<p>
+(Source: Wikipedia common)
+</p>
 
-	[N08] Wilson constructs a cloud chamber to register the tracks of particles (1911).
+**Figure 13.1.** Original apparatus created by Röntgen and by Lawrence.
 
-	[N09] Rutherford produces transmutations of atomic nuclei (1919).
+**Ph1901** to [Wilhelm Conrad Röntgen](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
 
-	[N10] Aston uses the mass spectrograph for discovering isotopes (1919).
+WORK: “In 1895, Wilhelm Röntgen studied cathode radiation, which occurs when an electrical charge is applied to two metal plates inside a glass tube filled with rarefied gas. Although the apparatus was screened off, he noticed a faint light on light-sensitive screens that happened to be close by. Further investigations revealed that this was caused by a penetrating, previously unknown type of radiation. X-ray radiation became a powerful tool for physical experiments and examining the body's interior.”
 
-	[N11] Compton studies the dispersion of X-ray photons after collision with electrons (1922).
+MLA style: Wilhelm Conrad Röntgen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 23 Dec 2023. https://www.nobelprize.org/prizes/physics/1901/rontgen/facts/
 
-	[N12] de Broglie proposes the wave nature of the electron (1924).
+No Nobel Lecture was delivered.
 
-	[N13] Pauli proposes the exclusion principle for electrons (1925).
+**Ph1939** to [Ernest Orlando Lawrence](https://en.wikipedia.org/wiki/Ernest_Lawrence) “for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements”.
 
-	[N14] Davisson and Thomson demonstrate the diffraction of electrons (1927).
+WORK: “If the nuclei of atoms are bombarded by beams of particles, such as protons, the atoms can be transformed into different variants of the element with different masses, so-called isotopes. The likelihood that particles can penetrate the atomic nucleus and bring about a nuclear reaction increases if the bombarding particles have a high velocity. In 1929 Ernest Lawrence developed an apparatus known as a cyclotron that used electrical and magnetic fields to accelerate protons to high velocities in a spiral-shaped path before they collide with their target.”
 
-!!! info "Step N2-Production of nucleons and new interaction forces."
+MLA style: Ernest Lawrence – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul2023. https://www.nobelprize.org/prizes/physics/1939/lawrence/facts/
 
-	Designing and building accelerators of particles and creating appropriate detection instruments transformed the way of doing experimental research in physics. Understanding the nucleus models and discovering new particles like neutrons and positrons required the consideration of new types of forces, aside gravitation and electromagnetism: the strong force for explaining the nuclear binding between protons and neutrons (existence of mesons) and the weak force responsible of radioactivity. The artificial production of radioactivity opened new possibilities for the transformation of elements and for the liberation of energy.
+NOBEL LECTURE: *The Evolution of the Cyclotron* by Lawrence.
 
-	[N15] Lawrence builds a cyclotron for accelerating protons (1929).
-	
-	[N16] Chadwick confirms the existence of neutrons (1932).
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon.17Jul2023. https://www.nobelprize.org/prizes/physics/1939/lawrence/lecture/
 
-	[N17] Anderson discovers the positron (1932).
+**Ph1950** to [Cecil Frank Powell](https://en.wikipedia.org/wiki/C._F._Powell) “for his development of the photographic method of studying nuclear processes and his discoveries regarding mesons made with this method”.
 
-	[N18] Blackett and Occhialini study the passage of particles through cloud chambers (1932).
+WORK: “Charged particles moving through photographic emulsions leave tracks that can be examined in the images developed afterward. Cecil Powell made improvements to this technique in order to study radiation and nuclear reactions. In 1947 he discovered that incident cosmic ray particles could react with atomic nuclei in the emulsion, creating other, short-lived particles. These particles turned out to be pi-mesons, the particles proposed by Yukawa as mediating the strong force binding protons and neutrons in nuclei.”
 
-	[N19] Cockcroft and Walton artificially produce transmutation of atoms (1932).
+MLA style: Cecil Powell – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1950/powell/facts/
 
-	[N20] Wigner studies the force binding the nucleons together and their symmetries (1933). 
+NOBEL LECTURE: *The Cosmic Radiation* by Powell.
 
-	[N21] Frédéric Joliot and Irène Joliot-Curie create artificially the first radioactive element (1934).
+MLA style: Cecil Powell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 3 Aug 2023. https://www.nobelprize.org/prizes/physics/1950/powell/lecture/
 
-	[N22] Fermi produces artificial radioactivity by neutron bombardment (1934).
-	
-	[N23] Yukawa predicts the existence of mesons (1934).
-	
-	[N24] Bethe studies energy production in stars. (1938-1939).
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Nuevo%2013.6.PNG?raw=true"> 
+</p>
 
-!!! info "Step N3-Applications of nuclear properties."
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.2.PNG?raw=true"> 
+</p>
 
-	Fission of heavy nuclei was produced first as a laboratory experiment and afterwards led to the production of atomic bombs. Experiments and theories accompanied the invention of new devices for detecting particles, the use of nuclear reactors for spectroscopical studies, the prove of the existence of neutrinos, and the explanation of nuclear structure and motions. The quantized interaction of radiation with matter was proposed by developing quantum electrodynamics.
+<p>
+(Source: Wikipedia common)
+</p>
 
-	[N25] Hahn and Strassman discover the fission of heavy nuclei (1939).
-	
-	[N26] Shull uses beams of neutrons created in a nuclear reactor (1946).
+**Figure 13.2.** Original cloud chamber created by Wilson and track of an alpha particle obtained in a diffusion cloud chamber.
 
-	[N27] Powell studies nuclear processes by introducing photographic methods (1947).
+**Ph1927** to [Charles Thomson Rees Wilson](https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson) “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
 
-	[N28] Goeppert Mayer interprets the significance of the magic nuclear numbers (1948)
-	
-	[N29] Jensen develops the nuclear shell model (1949).
+WORK: “If the volume of a mixture of air and water vapor increases, small water drops form. If the air contains electrically charged particles—ions—then droplet formation occurs around these especially. C.T.R. Wilson exploited this phenomenon when he constructed his cloud chamber in 1911—a glass container with air and water vapor and ingenious devices that allow traces left by ionizing radiation and particles that pass through the chamber to become visible and be photographed. The cloud chamber became an important tool in physics.”
 
-	[N30] Tomonaga, Schwinger and Feynman develop quantum electrodynamics (1945).
+MLA style: C.T.R. Wilson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 28 Jun 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/facts/
 
-	[N31] Brockhouse applies slow neutron spectroscopy to analyze nuclear properties (1950).
+NOBEL LECTURE: *On the Cloud Method of Making Visible Ions and the Tracks of Ionizing Particles* by Wilson.
 
-	[N32] Hofstadter studies electron scattering in atomic nuclei (1950).
+MLA style: C.T.R. Wilson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1927/wilson/lecture/
 
-	[N33] Alvarez improves the bubble chamber and introduces computer-based methods for analyzing large quantities of data (1950).
+**Ph1960** to [Donald Arthur Glaser](https://en.wikipedia.org/wiki/Donald_A._Glaser) “for the invention of the bubble chamber”.
 
-	[N34] Reines and Cowan prove the existence of neutrinos (1950).
+WORK: “Our ability to study the smallest components of our world took a giant leap forward when C.T.R. Wilson invented the cloud chamber, where the trails of charged particles can be observed. Donald Glaser's invention of the bubble chamber in 1952 made it possible to study particles with higher energies. When charged particles rush forward through the chamber filled with a liquid at near-boiling point, they ionize atoms they pass by. When the pressure inside the chamber is then reduced, bubbles form around these charged atoms. The particles' tracks can then be photographed and analyzed.”
 
-	[N35] Rainwater proposes the spheroidal nuclear model (1950).
+MLA style: Donald A. Glaser – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1960/glaser/facts/
 
-	[N36] Glaser invents the bubble chamber (1952).
+NOBEL LECTURE: *Elementary Particles and Bubble Chambers* by Glaser.
 
-	[N37] Bohr and Mottelson study rotational motion in nuclei (1952-1953).
+MLA style: Donald A. Glaser – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1960/glaser/lecture/
+
+**Ph1992** to [Georges Charpak](https://en.wikipedia.org/wiki/Georges_Charpak) “for his invention and development of particle detectors, in particular the multiwire proportional chamber”.
+
+WORK: “When onrushing particles collide and form showers of new particles, they offer a key to understanding the smallest components of matter. In 1968 Georges Charpak developed the multiwire proportional chamber, which represented a more effective way of detecting particles. The multiwire chamber contains many parallel metal wires surrounded by a gas. Between the chamber’s walls and the threads, an electrical charge is introduced. When particles enter, electrons in the gas are liberated in cascading fashion. Currents are generated in the wires and are registered and processed using computers.”
+
+MLA style: Georges Charpak – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1992/charpak/facts/
+
+NOBEL LECTURE: *Electronic Imaging of Ionizing Radiation with Limited Avalanches in Gases* by Charpak.
+
+MLA style: Georges Charpak – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 17 Jul 2023. https://www.nobelprize.org/prizes/physics/1992/charpak/lecture/
 
 ***
 
-[**Next: 13.2. Steps in the development of Particle Physics.**](./vol-IV-chap-13-sect-2.md)
+[**Next: 13.2. Accounts of experimental results.**](./vol-IV-chap-13-sect-2.md)

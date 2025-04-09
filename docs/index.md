@@ -1,4 +1,4 @@
-# Modern Physics through Nobel Prizes
+# Modern Physics by exploring Nobel Prizes
 
 <img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
 
@@ -42,7 +42,7 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
 
 Created: 2023-03-12; Updated: 2023-11-24 
 
-Jorge R. Barojas-Weber, Carlos Lizárraga-Celaya
+Jorge Barojas-Weber, Carlos Lizárraga-Celaya
 
 [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
