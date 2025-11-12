@@ -1,6 +1,6 @@
 # Modern Physics by exploring Nobel Prizes
 
-<img src="./figs/ModPhysNobel.png" width=840>
+<img src="./figs/ModPhysNobel.png" width=640>
 
 (Image credit: Gemini.AI)
 
