@@ -1,8 +1,8 @@
 # Modern Physics by exploring Nobel Prizes
 
-<img src="./figs/Leonardo_Diffusion_XL_1.jpg" width=840>
+<img src="./figs/ModPhysNobel.png" width=840>
 
-(Image credit: [Leonardo.AI](https://leonardo.ai/))
+(Image credit: Gemini.AI)
 
 ***
 
