@@ -45,7 +45,7 @@ A journey in Modern Physics based on the works of Physics Nobel Prize recipients
 
 ***
 
-Created: 2023-03-12; Updated: 2023-11-24 
+Created: 2023-03-12; Updated: 2025-12-10 
 
 Jorge Barojas-Weber, Carlos Lizárraga-Celaya
 
