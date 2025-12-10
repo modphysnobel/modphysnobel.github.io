@@ -1,104 +1,154 @@
+
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 12.2.	Quantum Hall effects.**](./vol-III-chap-12-sect-2.md) 
+[**Previous: 10.2. Gravitational astronomy.**](./vol-III-chap-10-sect-2.md) 
 
 ***
 
-## 12.3. Types of schools and learning trajectories.
+## 10.3.	Organization and evaluation of learning communities.
 
-Albert Einstein predicted the phenomena of condensation in the following publication *Quantentheorie des einatomigen idealen gases*. Königliche Preußische Akademie der Wissenschaften. Sitzungsberichte, (1924), 261–267. At that time, he was a mature and well recognized physicist of 45 years of age. The phenomenon was experimentally discovered till 1994 by Eric Cornell, Carl Wieman and Wolfgang Ketterle. What did Einstein learn to be able to make a theoretical prediction that was experimentally verified after 70 years? An answer to this question can be related to the notion of [curriculum](https://es.wikipedia.org/wiki/Curr%C3%ADculo_(educaci%C3%B3n)) and two possible manifestations in Einstein´s life concerning [learning](https://en.wikipedia.org/wiki/Learning): prescriptive learning and [emergent learning](https://en.wikipedia.org/wiki/Emergent_curriculum). 
+In this section we describe what a [learning community](https://en.wikipedia.org/wiki/Learning_community) is about and explains that the organization of LIGO project can be interpreted in terms of  a learning community.
 
-Unlike what is simple to learn and has been previously prescribed, learning the new is difficult, especially in recently explored topics, when important problems are poorly explained or badly solved; also when writing lacks precision, coherence and clarity. Prescriptive learning and emergent learning consider in different ways how the following elements are described in the next Table.
+Learning communities (LC) are cases of [communities of practice](https://en.wikipedia.org/wiki/Community_of_practice), where individuals learn by interacting with each other in practical contexts in which knowing and doing are strongly related. The LC are groups of human beings who have the support of technological devices and are organized to accomplish certain goals with the following purposes: to be informed and establish communications; to obtain, apply and generate knowledge, as well as to participate in the realization of transformation activities. 
 
- <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.1.jpg?raw=true"> 
-</p>
+According to Linn and His (2000), four pedagogical-pragmatic principles characterize a Learning Community (LC): P1: accessible [knowledge](https://en.wikipedia.org/wiki/Knowledge) (AK), P2: visible [thought](https://en.wikipedia.org/wiki/Thought) (VT), P3: [mutual learning](https://en.wikipedia.org/wiki/Cooperative_learning) (ML) and P4: Ñ[continuous learning](https://en.wikipedia.org/wiki/Lifelong_learning) (CL). The degree of accomplishment of each principle can be determined by providing evidence that certain operational criteria are satisfied. 
+
+Next we present a sample of operational criteria (OC) useful for evaluating to what extend each one of the four pedagogical-pragmatic principles is satisfactorily accomplished.
+
+P1: Accessible Knowledge (AK).
+
+OC-01. Encourage LC members to build knowledge from their ideas and develop more powerful and practical viewpoints. <br>
+OC-02. Assist LC members to personally be involved in relevant issues and regularly review their knowledge. <br>
+OC-03. Support the members of the LC to participate in processes of inquiry and research to enrich their knowledge.<br>
+OC-04. Encourage communication between working teams to share with others the specialized knowledge of each team.
+
+P2: Visible Thought (VT).
+
+OC-05. Model the process of knowledge building in connection with the treatment of alternative explanations and the diagnosis of errors. <br>
+OC-06. Support LC members to explain their own ideas. <br>
+OC-07. Provide multiple visual representations using various media.<br>
+OC-08. Promote the systematic recording of the knowledge acquired by different teams.
+
+P3: Mutual Learning (ML).
+
+OC-09. Encourage LC members to listen to and learn from each other. <br>
+OC-10. Design social activities that promote productive and respectful interactions.<br>
+OC-11. Encourage the members of the LC to design and prudently apply the criteria and standards characteristic of the project in which they are involved. <br>
+OC-12. Organize multiple structured social activities.
+
+P4:  Continuous Learning (CL).
+
+OC-13. Engage the members of the LC to reflect on their own ideas and their progress in the development of the project. <br>
+OC-14. Engage LC members to be critical of the information they handle. <br>
+CO-15. Promote the participation of the members of the LC in activities looking for the establishment of a culture of permanent development.<br>
+OC-16. Establish generalizable inquiry processes for describing the accomplishment of expectations.
+
+One possible instrument for evaluating how previous operational criteria (OC) have been accomplished consists in the application of [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic)). Analyzing and classifying responses to rubrics serves to create sorts of maps of regions or patterns of understanding levels characterized by qualitative categories and sometimes by quantitative values. Such characterization may refer to individual results or to percentages and group trends. Therefore, in the evolution of [teamwork](https://en.wikipedia.org/wiki/Teamwork) towards the creation of learning communities, the following levels of participation can be observed: 
+
+Level L1:  the participants simply look for, obtain and distribute the required information and use the knowledge they already have.
+
+Level L2: the participants transform their work from cooperative to collaborative and effectively use existing knowledge.
+
+Level L3: in addition to what is done at level L2, new knowledge is generated and applied to solve problems as well as to anticipate and avoid them.
+
+### The LIGO project as a learning community.
+
+It is nonsense to analyze if all the previous 16 operational criteria (OC) for the application of the pragmatic pedagogic principles have been satisfied while the LIGO project was planned, developed and evaluated. However, it makes sense to consider if the activities reported in the Nobel Lectures by Weiss and Barish satisfy in general any of those four principles. It is an exercise for thinking about what implied the LIGO project and consider if an international learning community has been formed.
+
+The reported activities in those two Nobel Lectures constitute a LIGO chronology describing a [timeline](https://en.wikipedia.org/wiki/Timeline) for publications of papers, reports, or proposals as well as for actions undertaken by individuals or institutions participating in the project. In what follows, for each Nobel Lecture, those activities are grouped together according to the four pedagogical principles characterizing a learning community: accessible knowledge, visible thought, mutual learning, and continuous learning. These selections are not unique, and it is possible that some activities could be grouped on more than one principle. When required, texts quotes from the Lectures are indicated between quotation marks.
+
+#### ACTIVITIES DESCRIBED IN WEISS´ LECTURE.
+
+RELATED TO ACCESSIBLE KNOWLEDGE.
+
+1915: Einstein publishes the General Theory of Relativity and presents the idea that mass distorts the geometry of space and the flow of time.
+
+1970: Kip Thorne starts a research group in theoretical gravitation at the California Institute of Technology (Caltech). Plans are made for a new complementary program in experimental gravitation.
+
+1974: Russell Hulse and Joseph Taylor discover a binary pulsar system and showed evidence for energy loss due to the radiation of gravitational waves. (They were awarded the Nobel Prize in Physics in 1993).
+
+1983: The Gravity Research Group in Glasgow, Scotland published a paper on *Interferometric detectors for gravitational radiation*.
+
+RELATED TO VISIBLE THOUGHT.
+
+1916, 1918: Einstein proposes the existence of gravitational waves.
+
+1957: John Wheeler and Joseph Weber consider a gravitational wave as a tidal force transverse to the propagation direction and treat the detection of weak gravitational waves as a Newtonian interaction of these forces exciting a mechanical resonator.
+
+1972: Rainer Weiss, publish a paper on *Electromagnetically coupled broadband gravitational antenna*.
+
+1975: Kip Thorne and Rainer Weiss work on a committee to study the possible role of the space program in research on gravitation and cosmology.
+
+1983: MIT and Caltch present a report to an NSF committee: *A study of a long baseline gravitational wave antenna system*. The committee was remarkably encouraging in their evaluation.
+
+1988: The Max Planck Institute of Astrophysics Group in Germany publishes a paper on *Noise behavior of the Garching 30-meterpprototype gravitational-wave detector*.
+
+RELATED TO MUTUAL LEARNING.
+
+1960, 1969: Joseph Weber publish two papers *Detection and generation of gravitational waves and Evidence for the Discovery of Gravitational Waves*.
+
+1970: There are no confirmations of the Weber experiments.
+
+1994: As Director of LIGO Barry Barish makes possible a transition from independent investigator small-scale science to the project organization required for a large-scale coordinated scientific effort. He also conceived and organized the LIGO Scientific Collaboration.
+
+RELATED TO CONTINUOUS LEARNING.
+
+1966: Rainer Weiss prepare a course in General Relativity to be taught at Massachusetts Institute of Technology (MIT) Physics Department. He thinks about a simple gedanken experiment to measure a gravitational wave and the possibility to do a real experiment by using a Michelson interferometer.
+
+1978, 1980: Caltech forms a group with significant internal investment and Stan Whitcomb as a new leader.
+
+1987: A report by an independent Panel on Interferometric Observatories for Gravitational Waves encouraged the NSF to build two full scale interferometric detectors at widely separated sites and insisted that the project find a single Director before moving forward.
+
+1989: Caltech and MIT present a joint proposal to the NSF *The construction, operation and supporting research and development of a LASER INTERFEROMETER GRAVITATIONAL-WAVE OBSERVATORY*.
 
 
-<center>
-(Source: elaboration by the authors.)
-</center>
+#### ACTIVITIES DESCRIBED IN BARISH´S LECTURE.
 
-### Albert Einstein learning trayectory.
+RELATED TO ACCESSIBLE KNOWLEDGE.
 
-Einstein’s life began in Ulm, Germany on March 14, 1879, and ended in Princeton, United States on April 18, 1955. For more information see the references at the end of the chapter. Next, we might ask in what types of schools did he learn.
+1994: Cancellation of the Superconducting Super Collider (SSC) in Texas by the U.S. Congress.
 
-*Punitive barrack whose objective was to obey*. His preuniversity learning was subjected to a traditional German instruction almost exclusively reduced to the transmission of information that had to be accepted and digested without questioning. Although he excelled in mathematics and physics, his school performance was mediocre and sometimes even poor. He paid little attention to the requirements of prescriptive learning related to encyclopedic-type content, implied conventional rote procedures, mainly expressed in terms of dogmatic, sectarian or authoritarian attitudes: to obey and not to [think](https://en.wikipedia.org/wiki/Thought). He challenged systems and institutions and as an original and persistent [autodidact](https://en.wikipedia.org/wiki/Autodidacticism), he began to generate some emerging learning of great [creativity](https://en.wikipedia.org/wiki/Creativity) that he would later apply in all his intellectual productions. More [rote learning](https://en.wikipedia.org/wiki/Rote_learning) than [critical thinking](https://en.wikipedia.org/wiki/Critical_thinking).
+1994: "Kip Thorne and Barry Barish present LIGO to the National Science Board describing both the theoretical underpinnings of gravitational waves and their plans for the project, in particular to develop and test Advanced LIGO technologies. They received formal approval at the fully requested funding for Initial LIGO, with a commitment to support the crucial R&D program for Advanced LIGO".
 
-*Efficient factory whose objective was to produce*. He could not be accepted to study physics at a university; after several attempts he was accepted at the Federal Institute of Technology in Zurich, Switzerland. He independently learned what was prescriptive but interested him, and he took time to work on emerging learning outside what was established. Instead of repeating other people's ideas, he thought and persistently followed challenging questions that apparently made no sense to others. On December 13, 1900, he sent to the journal *Annalen der Physik*  his first scientific paper at the age of twenty-one.
+2004: A major funding through the NSF Major Research Equipment and Construction (MREFC) program is granted to the Advanced LIGO project. "Additional significant contributions to Advanced LIGO included: a pre-stabilized laser system from the Max Planck Institute (Germany); Test Mass Suspension systems from the Science and Technology Facilities Council (UK); and thermal compensation wavefront sensors and interferometer controls components from the Australian Research Council. Higher laser power, larger test masses and improved mirror coatings have been incorporated".
 
-*Emotional festival whose objective was to create*. Throughout his life, his research work was empowered by a continuous emergent learning that made possible a unique scientific career where three epochs can be identified: 
+2016: On February 11 the observation of gravitational waves in LIGO is announced.
 
-(1)	*Revolutionary explosion*. In a period of 195 days five publications were submitted and accepted and at the end of the same year a sixth paper was submitted; he was 26 years old. Although those publications were written in German, in the second column of next Table 12.2 all the titles are in English. It is remarkable how self-explanatory those titles are.
+2017: The Physics Nobel Prize is awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne “for decisive contributions to the LIGO detector and the observation of gravitational waves.”
 
- <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.2.jpg?raw=true"> 
-</p>
+2017: “Two weeks after the Nobel announcement in October and almost two months before this lecture, we announced the first observation of a merger of a neutron star binary system. This was also the first gravitational wave event to have electromagnetic counterparts observed in a large variety of astronomical instruments.”
 
-<center>
-(Source: Pais, *Subtle is the Lord... The Science and the Life of Albert Einstein.*)
-</center>
+2017: Observation of one more black hole merger event (GW170814); “for the first time this was also observed in the Virgo detector near Pisa in Italy. Virgo is a collaboration of France, Italy, Netherlands, Poland and Hungary.” … “ Virgo, in this detection, not only gives independent confirmation of the LIGO black hole merger detections but improves markedly the ability to triangulate. This is a precursor to also adding KAGRA in Japan and LIGO-India detectors to the network.”
 
+RELATED TO VISIBLE THOUGHT.
 
-(2) *[Leadership](https://en.wikipedia.org/wiki/Theoretical_physics) in [theoretical physics](https://en.wikipedia.org/wiki/Theoretical_physics)*. His realistic position regarding the existence of atoms and molecules remained against the opinion of many physicists in the early twentieth century. He convinced through the explanatory and predictive value of his theories. As an example of this capacity Table 12.3 indicates the number of years elapsed between five Einstein theoretical [prediction](https://en.wikipedia.org/wiki/Prediction) and the experimental [observation](https://en.wikipedia.org/wiki/Observation) or [calcution](https://en.wikipedia.org/wiki/Calculation) of the phenomenon in consideration.
+1994: A new structure for the project is proposed around the LIGO Laboratory by unifying the Caltech and MIT efforts, by developing two distant instruments in Hanford, Washington and Livingston, Louisiana, and by integrating new members to the existing staff.
 
- <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/12.3.jpg?raw=true"> 
-</p>
+2003: A proposal to the NSF of the Advanced LIGO plan is submitted where a research and development program is presented and approved, implying that the initial LIGO sensitivity of the gravitational wave detector is improved, and the background noise levels are reduced. Potential sources of gravitational waves are searched in mergers of binary black holes, a black hole and a neutron star, and binary neutron star systems.
 
+2015: Observation of the first Black Hole merger by Advanced LIGO (event GW150914). "As the objects in-spiral together, more and more gravitational waves are emitted and the frequency and amplitude of the signal increases (the characteristic chirp signal). This is followed by the final merger, and then, the merged single object rings down". … "The two black holes in spiral and merge together due to the emission of gravitational radiation coming from the accelerations".
 
+RELATED TO MUTUAL LEARNING.
 
-<center>
-(Source: Rigden. *Einstein 1905: The Standard of Greatness.*)
-</center>
+1994-1999: Construction of the initial version of LIGO, "employing technologies that represented a balance between being capable of achieving sensitivity levels where the detections of gravitational waves might be ‘possible,’ and using techniques that we had fully demonstrated in our laboratories".
 
+RELATED TO CONTINUOUS LEARNING.
 
-(3) *Search and discrepancy.* During many years he concentrated on problems that remained unresolved, like a unified field treatment of gravitational and quantum phenomena. He participated also in debates with Niels Bohr (1885-1962) about the [interpretation of quantum mechanics](https://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics) and with David Hilbert (1862-1943) about the formulation of [gravitational theories](https://en.wikipedia.org/wiki/History_of_gravitational_theory). Although his emergent learnings was declining, he published several books and wrote many letters and articles about philosophy of science, pacifism, politics, education, morality, cosmic religiosity, ...
+1997: Barry Barish makes a proposal to NSF to improve LIGO Scientific Collaboration (LSC). Nearly 1200 members, from 108 institutions and 18 countries have participated in making the discovery of gravitational waves, analyzing the data, interpreting the results, and in writing up and presenting the results.
 
-By all means, a lot of learning can be obtained by analizing Einstein´s learning trajectory.
+2015, 2016, 2017: "The first Advanced LIGO data run (O1) continued for four months, from September 2015 to January 2016. Our second data run (O2) ran from December 2016 to the end of August 2017". … "We are actively searching for other signals, besides binary merges, including bust signals from phenomena like supernova explosions or gamma ray bursts, continuous wave signals from spinning neutron stars (pulsars), stochastic background signals, etc. So far, we have only detected binary merger signals, but hope to detect others as our sensitivity improves".
+
 
 ***
 
 ### REFERENCES
 
-**Superconductivity on twisted bilayer graphene.**
-
-Cao, Yuan; Fatemi, Valla; Demir, Ahmet; Fang, Shiang; Tomarken, Spencer L.; Luo, Jason Y.; Sanchez-Yamagishi, Javier D.; Watanabe, Kenji; Taniguchi, Takashi; Kaxiras, Efthimios; Ashoori, Ray C.; Jarillo-Herrero, Pablo (5 de marzo de 2018). *Correlated insulator behaviour at half-filling in magic-angle graphene superlattices*. En Springer Science and Business Media LLC, ed. Nature 556 (7699): 80-84.
-
-**References concerning Einstein.**
-
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 30 Apr 2024. <https://www.nobelprize.org/prizes/physics/1998/press-release/>
-
-**References about Einstein.**
-
-EINSTEIN, ALBERT, *Out of my Later Years*, The Philosophical Library, New York, (1950).
-
-EINSTEIN, ALBERT, *Ideas and Opinions*, Wings Books, New York, (1954).
-
-FRANK, PHILIPP, Einstein: His Life and Times, Alfred A. Knopf Inc., New York, (1953).
-
-GAL-OR, BENJAMIN, *Cosmology, Physics and Philosophy*; Springer-Verlag, New York, (1983).
-
-GOLDBERG, STANLEY, *Understanding Relativity. Origin and Impact of a Scientific Revolution*, Birkhäuser, Boston, (1984).
-
-JAMMER, MAX, *Einstein and Religion. Physics and Theology*, Princeton University Press, Princeton, (1999).
-
-KUHN, THOMAS S., *The Structure of Scientific Revolutions*. The University of Chicago Press, Chicago, (1970).
-
-LANCZOS, CORNELIUS, *Albert Einstein and the cosmic world order*, Interscience Publishers, New York, (1965).
-
-LAUGHLIN, ROBERT B., *A Different Universe: Reinventing Physics from the Bottom Down*. Basic Books, New York, (2006). 
-
-PAGELS, HEINZ R., *The Dreams of Reason. The Computer and the Rise of the Sciences of Complexity*, Bantam Books, New York, (1988).
-
-PAIS, ABRAHAM, *Subtle is the Lord… The Science and the Life of Albert Einstein*, Oxford University Press, Oxford, (1982).
-
-RIGDEN, JOHN S., *Einstein 1905: The Standard of Greatness*. Harvard University Press, Cambridge, Massachusetts, (2009).
-
-SCHILPP, PAUL ARTHUR, *Albert Einstein: Philosopher-Scientist*. The Library of Living Philosophers, vol. 7, Evanston, IL, (1949).
-
-STACHEL, JOHN, *Einstein Miracolous Year. Five Papers that Changed the Face of Physics*. Princeton University Press, Princeton, New Jersey (1998).
+Linn, M.C. and His, S. (2000). *Computers, Teachers, Peers: Science learning partners*. Mahwah, New Jersey, Lawrence Erlbaum Associates.
+	
 
 ***
 
-[**Next: 13.1. Descriptions of laboratory instruments.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-1/)
+[**Next: 11.1. Microscopic observation of solids.**](./vol-III-chap-11-sect-1.md)
+
+ 
+

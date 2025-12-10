@@ -1,173 +1,319 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 5.3. Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md) 
+[**Previous: 4.3 Aspects and Factors distinguishing scientific theories.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-3/) 
 
 ***
 
-# 6.   Spectroscopic studies of electronic levels.	
+# 5.   Energy quantization in the black body radiation.
 
-*What happens when an electron changes its energy levels?* 
 
-Spectroscopic studies have been very useful to determine, understand and practically use transitions between quantized electronic levels in atoms. [Atomic spectroscopy](https://en.wikipedia.org/wiki/Atomic_spectroscopy) studies began with the discovery made by Isaac Newton when he observed the decomposition of visible light in different colors produced when that radiation traversed a prism. 
-	
-### Learning objectives of Chapter 6.
+*Why the color of an object changes when it is heated?*
+
+This is the first chapter of the second volume on Energy: it deals with [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics) and the beginning of quantum physics. Thermodynamics is the study of the macroscopic transformations of energy and implies the use of concepts such as temperature, heat, and entropy. However, at the beginning of last century classical thermodynamics was not enough to solve the [black body](https://en.wikipedia.org/wiki/Black-body_radiation) radiation problem, making imperative the quantization of energy. 
+
+### Learning objectives of Chapter 5.
 
 After this Chapter you should be able to: 
+
+- Examine the main developments of the [Kinetic theory of gases](https://en.wikipedia.org/wiki/Kinetic_theory_of_gases), the statements of the laws of Thermodynamics and the contents of some Chemistry Nobel Prizes related to Thermodynamics.
+- Explain the meaning of [quantization](https://en.wikipedia.org/wiki/Quantization_(physics)) in classical Physics and in the black body radiation.
+- Describe the content of two Nobel Lectures: *On the Laws of Thermal Radiation* by Wien and *The Genesis and Present State of Development of the Quantum Theory* by Planck.
+
+### Description of content of Chapter 5.
+
+Section 5.1. Kinetic theory of gases and Thermodynamics.
+ 
+We consider the main developments in the kinetic theory of gases, and the initial contributions to the development of Thermodynamics made by James Prescott Joule, Julius Robert Mayer, Nicolas Léonard Sadi Carnot, William Thomson - First Baron Kelvin, Rudolf Julius Emanuel Clausius and Walther Hermann Nernst. We review the statements of the laws of Thermodynamics. We also refer to the following Chemistry Nobel Prizes related to Thermodynamics: in 1920 to Walther Hermann Nernst, in 1949 to William Francis Giauque, in 1968 to Lars Onsager and in 1977 to Ilya Prigogine.
+
+Section 5.2.  The [photon](https://en.wikipedia.org/wiki/Photon) as a quantum of energy.
+
+We describe a simple case of quantization in classical Physics and analyze the first physical phenomena whose explanation required the quantization of energy: the electromagnetic radiation of a black body described in terms of photons.
+ 
+Section 5.3.  Components of the explanation of a scientific theory.
+
+In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture *On the Laws of Thermal Radiation* and Planck´s Nobel Lecture *The Genesis and Present State of Development of the Quantum Theory*. 
+
+## 5.1.  Kinetic theory of gases and Thermodynamics.
+
+Key information: In 1811 [Amadeo Avogadro](https://en.wikipedia.org/wiki/Amedeo_Avogadro) (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 \times 10^{23}$ (molecules/mol).
+
+### Main developments on the Kinetic theory of gases.
+
+Around 1738 [Daniel Bernoulli](https://en.wikipedia.org/wiki/Daniel_Bernoulli) (1700-1782) explained that the pressure in gases was due to the collisions of its molecules with the walls of the box that contains them. Years later, in 1851, James Prescot Joule (1818-1889) calculated that the average speed at which gas molecules move at ordinary temperatures was 400 m/s.
+
+In 1802 [Joseph Louis Gay-Lussac](https://en.wikipedia.org/wiki/Joseph_Louis_Gay-Lussac) (1778-1850) formulated an empirical rule that governed the behavior of gases: if the mass and pressure of a gas remain constant, its volume increases proportionally with temperature. Subsequently, [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) (1831-1879) and [Ludwig Edward Boltzmann](https://en.wikipedia.org/wiki/Ludwig_Boltzmann) (1844-1906) established the kinetic theory of gases, making use of probabilistic notions to treat the random movements of molecules. They explained, for example, that on average molecules move faster in hotter substances and that heat is a form of energy due to such random motion. In summary, the kinetic theory of gases indicates that:
+
+- Gases are made up of colliding particles that follow the reversible laws of classical mechanics.
+- Gases are not made up of a subtle and continuous, elastic, compressible and extensible matter, but of tiny solid particles; according to Avogadro's hypothesis they were identified with molecules.
+- The molecules of a gas are separated from each other by relatively large distances; therefore, the macroscopic volume occupied by a given amount of gas is mostly empty.
+- The molecules of a gas have great speed; furthermore, they move chaotically in all directions, continually colliding with each other and with the walls of the container.
+
+The kinetic theory of gases introduced concepts such as collision probability, mean free path, energy equipartition and velocity distribution. Nevertheless, these concepts are not enough to explain the irreversibility of macroscopic phenomena. According to Boltzmann, the [irreversibility](https://en.wikipedia.org/wiki/Irreversible_process) of the movement of the particles in a gas needs to be approached statistically; that is, by considering a very large number of particles and calculating average values.
+
+It was Boltzmann who established the connection between the macroscopic states that thermodynamics describes and the microscopic states that [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) deals with. For example, the [entropy](https://en.wikipedia.org/wiki/Entropy) (S) of the system is a macroscopic variable that is a function of three variables: [energy](https://en.wikipedia.org/wiki/Energy) (E), volume (V), and number of particles (N). These variables are related to the number of microscopic configurations or possible states (Ω) such that the [entropy in thermodynamics](https://en.wikipedia.org/wiki/Entropy_in_thermodynamics_and_information_theory) is the function $S(E,N,V) = k_Blog(Ω)$, where $k_B$ is the Boltzmann constant.
+
+### The [laws of Thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics).
+
+The name Thermodynamics means: Thermo (heat) and dynamics: the dynamic of heat (the study of processes involving transferences of heat). Nowadays it has been extended to the study of processes involving transferences of energy. Thermodynamics is a science of a phenomenological type.  It refers to theories and models that were first derived from experience and then formulated in terms of abstract concepts that give meaning to certain physical phenomena. The statements of the four laws of Thermodynamics are the following:
+
+**Zeroth Law:** (transitivity) if two separate bodies are in thermodynamic equilibrium with a third one (they have the same temperature), then both bodies have the same temperature.
+
+**1st Law:** the change in internal energy in a closed system is equal to the difference in heat supplied to the system minus the work done.
 	
-- Describe the Bohr´s atomic model, analyze the energy levels of the hydrogen atom and explain the functioning of lasers.
-- Explain the experimental steps required to produce, measure and interpret the Lamb shift.
-- Describe the main concepts and models contained in the Nobel Lectures corresponding to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, and Schawlow.
+**2nd Law:** the only possible changes in an isolated system are those in which the entropy increases or remains constant.
 
-### Description of content of Chapter 6.
+**3rd Law:** if the temperature of a system approaches absolute zero, the entropy tends to a minimum value (absolute zero is unreachable in a finite number of processes). 
 
-Section 6.1. Electronic energy levels according to atomic models.
+The founding fathers of Thermodynamics are shown in next Figure 5.1.
 
-We deal with the spectroscopic description of the hydrogen electronic levels as well as the processes of emitting and absorbing radiation by considering Bohr´s atomic model. We also describe the production of the laser effect (LASER means Light Amplification by Stimulated Emission of Radiation).
-
-Section 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.
-    
-We consider how external perturbations split electronic levels even when there are no external photons present: the vacuum of the electromagnetic field is not empty because it is full of virtual photons. We describe the experiments realized by Lamb and Retherford showing that certain degenerated energy levels in the hydrogen atom are separated when the self-energy of the electron is considered. 
-
-Section 6.3. Identification of concepts and descriptions of models.
-	
-We apply the procedure Identification of concepts and [descriptions of models](https://en.wikipedia.org/wiki/Model) to the analysis of the content of the Physics Nobel Prizes awarded to: Niels Henrik David Bohr (1985-1962) in 1922 “for his services in the investigation of the structure of atoms and of the radiation emanating from them”, Willis Eugene Lamb (1985-1962) in 1955 “for his discoveries concerning the fine structure of the hydrogen spectrum” (Prize shared with Polykarp Kusch), Charles Hard Townes (1915-2015) in 1964 “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle” (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov) and Arthur Leonard Schawlow (1921-1999) in 1981 "for their contribution to the development of laser spectroscopy" (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
-	
-## 6.1. Electronic energy levels according to atomic models.
-
-The simplest atom is the [hydrogen](https://en.wikipedia.org/wiki/Hydrogen): only one proton forms the nucleus, and one electron surrounds it. Hydrogen means *generator of water*. Antoine-Laurent de Lavoisier (1743-1794) named as such in 1783 because he observed that water was produced during hydrogen gas burning. The properties of hydrogen as a chemical element were first studied by Henry Cavendish (1731-1810); in 1766 he also discovered the composition of water, indicating that "water was composed of dephlogisticated air (oxygen) joined to phlogiston (hydrogen)".
-
-Isaac Newton was one of the firsts to demonstrate the scattering of light when he passed visible light through a prism and watched it break up into a continuous spectrum of bands of different colors (Figure 6.1). 
-
-<p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig2.jpg?raw=true" width=480 align=center>
-</p>
+<div style="text-align:center;">
+	<table>
+	<tbody>
+	<tr>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Joule_James_Jeens_engraving.jpg" width=180 align=center>
+		</td>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Julius_Robert_Meyer.jpg" width=180 align=center>
+		</td>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Sadi_Carnot.jpeg" width=180 align=center>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Clausius.jpg" width=180 align=center>
+		</td>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/ETH-BIB-Lord_Kelvin_%2C_William_Thomson_%281824-1907%29-Portrait-Portr_09529.tif/lossy-page1-397px-ETH-BIB-Lord_Kelvin_%2C_William_Thomson_%281824-1907%29-Portrait-Portr_09529.tif.jpg" width=180 align=center>
+		</td>
+		<td>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Walther_Nernst_1900s.jpg" width=180 align=center>
+		</td>
+	</tr>
+	</tbody>
+	</table> 
+	</div> 
 
 <center>
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 6.1.** Production of three types of spectra: continuous, emission and absorption.
+**Figure 5.1.** The founding fathers of Thermodynamics: Joule, Mayer and Carnot in the first row; Clausius, Thomson and Nernst in the second row.
 
-The intensity and frequency (ν) or wavelength (λ) of the spectral lines determine the properties of the atomic structure of the corresponding element, once the observed regularities in each series of [spectral lines](https://en.wikipedia.org/wiki/Spectral_line) are interpreted. The different regions of the electromagnetic spectrum have the following wavelengths (λ) expressed in nanometers: X-rays ($λ<10$), ultraviolet ($10<λ<400$), visible ($400< λ<750$), infrared ($λ>750$). A nanometer is one billionth of a meter ($1 nm = 10^{-9} m$).
+Independently and practically simultaneously [James Prescott Joule](https://en.wikipedia.org/wiki/James_Prescott_Joule) (1818-1889) and [Julius Robert Mayer](https://en.wikipedia.org/wiki/Julius_von_Mayer) (1814-1878) verified the transformation of mechanical work into heat and vice versa. Nearby 1840 they established a quantitative connection between heat and mechanical energy. In 1849, Joule published his experimental results showing that heat is a form of energy and measured the mechanical equivalent of heat. In 1846 Mayer published *Organic Motion*, a study of electrical and biological phenomena. In that publication Mayer presented what would later become known as the principle of conservation of energy. Years later, in 1851, Mayer published *Notes on the mechanical equivalent of heat*.
 
-Systematic studies of atomic spectroscopy began when a Swiss school teacher, [Johann Jacob Balmer](https://en.wikipedia.org/wiki/Johann_Jakob_Balmer) (1825 – 1898) published in 1885 (*Ann. Physik*, vol 25, p. 80) the spectra of the series that now bears his name. The values of the wavelengths in the visible region of the spectral lines designated as $H_α$, $H_β$, $H_γ$ and $H_δ$ were summarized by Balmer using an empirical formula $λ=B(\frac{m^2}{m^2-2^2})$, where $B = 3.6456 \times 10^{-7} m = 364.56 nm$ and the index $m$ is greater than 2.
+In 1824 [Nicolas Léonard Sadi Carnot](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot) (1796-1832) studied the efficiency of an idealized steam engine. This work served for the formulation around 1850 of the First law concerning the conservation of energy. It was William Thomson, First Baron Kelvin (1824-1907) who formulated the first and second laws of thermodynamics. 
 
-In 1888 [Johannes Robert Rydberg](https://en.wikipedia.org/wiki/Johannes_Rydberg) (1854 –1919) generalized Balmer's formula: he took the reciprocal of Balmer's formula, defined $R_H = 4/B$, and expressed the result in terms of the wavenumber $ῦ$ (the number of wavelengths per unit of distance, measured in reciprocals of distances: $m^{-1}$):
+Meanwhile, [Rudolf Julius Emanuel Clausius](https://en.wikipedia.org/wiki/Rudolf_Clausius) (1822-1888) published in 1850 *On the motive force of heat and Laws of heat that can be deduced*, where he established the basic ideas of the second law of thermodynamics. Later, in 1865 he introduced the concept of entropy, which in Greek means evolution or transformation; this quantity measures the degree of organization in a system. That same year he published *The Mechanical Theory of Heat – with its Applications to the Steam Engine and to Physical Properties of Bodies.*
 
-$ῦ = \frac{1}{λ} = \frac{1}{B} (\frac{m^2-2^2}{m^2}) =  \frac{1}{B} (1- \frac{4}{m^2}) =  \frac{4}{B} (\frac{1}{4} - \frac{1}{m^2}) = R_H (\frac{1}{2^2} -\frac{1}{m^2})$ 
+Furthermore, [Walther Hermann Nernst Görbitz](https://en.wikipedia.org/wiki/Walther_Nernst) (1864-1941) formulated in 1912 the so-called heat theorem, which states that entropy tends to vanish when the temperature approaches absolute zero. His book *The New Heat Theorem* was published in 1926 and also in 1969.
 
-This is a particular case for $n = 2$ in the general equation $ῦ = \frac{1}{λ} = R_H (\frac{1}{n^2} - \frac{1}{m^2})$ where $m>n$.
+Nevertheless, there was a time in the history of physics when the unproven existence of atoms was doubted. Positivists who were members of the so-called energy school, such as [Ernst Mach](https://en.wikipedia.org/wiki/Ernst_Mach) (1838-1916) and [Wilhelm Ostwald](https://en.wikipedia.org/wiki/Wilhelm_Ostwald) (1853-1932), claimed that the objective of science should be reduced to describe the observable world through directly verifiable mathematical laws without the need for introducing hypotheses about the internal structure of matter or the purpose of explaining phenomena not directly verifiable through experiment.
 
-The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Rydberg constant for the hydrogen atom. Figure 6.2 shows the alpha lines of each hydrogen series as a function of the wavelength expressed in nanometers; the following abbreviations are used: Lyman (Ly- α), Balmer (Ba- α), Paschen (Pa- α), Brackett (Br- α), Pfund (Pf- α), and Humphreys (Hu- α).
+### Chemistry Nobel Lectures related to Thermodynamics.
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=640 align=center>
-</p>
+In what follows we consider the four Nobel Prizes in Chemistry awarded in 1920, 1949, 1968 and 1977. For each Prize we indicate the year of the Prize, the name of the laureate and the reasons for such recognition. Afterwards, we consider three documents: some excerpts from the Presentation Speech corresponding to the Award ceremony speech, the complete document called Work which is a descriptive explanation of the contributions made by the laureate, and his Nobel Lecture, including the title and subtitles, when they are in the original. For all these documents their appropriate references are indicated in MLA format. 
 
-<center>
-(Images credit: CC Wikimedia Commons)
-</center>
+**In 1920:** to Walther Hermann Nerst (1864-1941) “in recognition of his work in [thermochemistry](https://en.wikipedia.org/wiki/Thermochemistry)”.
 
-**Figure 6.2.** Spectral series of the hydrogen atom in logarithmic scale.
+<u>*Presentation Speech*</u> by Professor Gerard de Geer, President of the Royal Swedish Academy of Sciences, on December 10, 1921.
 
-The manifest regularity of the values of the spectral lines that satisfied the Rydberg formula posed serious problems of theoretical interpretation in the first decades of the 20th century. New approaches were necessary regarding the atomic structure and the processes by which the spectral lines were produced. It is here where [Niels Henrik David Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962) makes his entrance.
-
-### Bohr's model.
-
-In 1913 Niels Bohr considered [Rutherford's atomic model](https://en.wikipedia.org/wiki/Rutherford_model) as a starting point for his interpretation of atomic spectra. According to such model, the atom	 is electrostatically neutral but not indivisible; it is composed of a heavy positively charged nucleus, surrounded by negative electrical charges, the electrons. Bohr assumed that under stable conditions the electron does not emit radiation even when it circulates in closed orbits around the nucleus. He connected the frequencies of the spectral lines with transitions between different electronic states and proposed a frequency condition: the difference in the energies of the orbits from an initial electronic state ($E_i$) to a final state ($E_f$) should be proportional to the frequency $ν_{if}$ of the photon of the quantized radiation emitted or absorbed. This means that $E_f - E_i = hν_{if}$, where $h$ is Planck's constant.
-
-In such circumstances, the emission lines will be due to transitions from a higher energy state to a lower energy state, while the absorption lines will be the reverse, from lower energy states to higher energy excited states. However, Rutherford's model presented a strong electromagnetic contradiction: if there is a Coulomb attractive force between the positive nucleus and the negative electrons, why don't the electrons rush towards the nucleus and the atom doesn't lose energy continuously?
-
-To avoid previous contradiction and explain atomic spectra, Bohr proposed two postulates:
-
-(1) the stability of atoms is due to the fact that the electron occupies stationary states and
-
-(2) the transitions between stationary states are accompanied by emission or absorption of a quantum of electromagnetic radiation (a photon).
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/ceremony-speech/
 	
-According to Bohr the [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) ($L$) of the electron was quantized in such a way that $L = m_evr = nh/2π = nђ$, where $ђ = h/2π$ is Dirac's constant and $h$ is Planck's constant; $m_e$ is the mass of the electron, $v$ its speed, $r$ the radius of its orbit and $n$ an index with values 1, 2, 3...; this will be called the principal quantum number.
-
-Classically, the force by which the electron describes a circular orbit is $F = (m_ev^2)/r$ where $F$ is the Coulomb force of attraction $F= -κq^2/(r^2)$, with $κ$ a constant of proportionality that depends on the system of units. If we make $κ = 1$ we have that $(m_ev^2)/r = F = q^2/(r^2)$ therefore $(m_ev^2) = q^2/r$ and the kinetic energy is $E_c = ½m_ev^2 = q^2/(2r)$. The potential energy $E_p$ is such that $F = - dE_p/dr$, whence $E_p = - q^2/r$ and the total energy is $E = Ec + Ep = - q^2/(2r)$.
-
-By definition, the magnitude of the angular momentum is $L = m_evr$, whence $v = L/(m_er)$. Using the expression $(m_ev^2) = q^2/r$ it results $r = (L^2)/(m_eq^2)$ and applying the quantization condition $L_n = nђ$ it can be obtained  $r_n = (L_n)^2/(m_eq^2) = ((ђ^2)/(m_eq^2))(n^2) = a_0(n^2)$. The Bohr radius is defined as $a_0 = (ђ^2)/(m_eq^2) = 5.292 \times 10^{-11} m ≈ 0.53 Å$. This radio corresponds to the shortest distance an electron has in the first electronic orbit and measures almost half an Angstrom for the hydrogen atom ($1 Å = 10^{-10} m$, one tenth of a nanometer).  
-
-If the quantized radius $r_n$ is considered in the value of the total energy $E = - q^2/(2r)$ then the quantized energy is $E_n = - q^2/(2r_n) = -((m_eq^4)/(2 ђ^2))(1/n^2)= - R_H/(n^2)$, where the Rydberg constant for the hydrogen atom is $R_H = [(m_eq^4)/(2ђ^2)]$.
-
-If the energy of the initial state $E_i$ characterized by the quantum number $m$ is $E_m = - R_H/(m^2)$ and the energy of the final state $E_f$ characterized by the quantum number $n$ is $E_n = - R_H/(n^2)$, then the energy of the transition from the initial state to the final state $E_f- E_i$ will be $hν_{if}$. (See Figure 6.3.).
-
-$hν_{if}= E_f- E_i = E_n- E_m = [\frac{-R_H}{n^2}]- [\frac{-R_H}{m^2}]=R_H [\frac{1}{m^2} - \frac{1}{n^2} ]$.
-
-<p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Emission_of_Light_by_Hydrogen_%2801F8GFBF8YZEY6KY9WNRWEV1N2%29.png" width=480 align=center>
-	</p>
-
-<center>
-	(Images credit: CC Wikimedia Commons)
-	</center>
-
-**Figure 6.3.**  First spectral emission lines in the Balmer series.
-
-However, the intensities of the atomic spectral lines of elements heavier than hydrogen were different from those predicted by Bohr's theory. These deficiencies were corrected in 1916 by [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) (1868-1951), who considered that electrons moved at relativistic speeds (close to the value of the speed of light) and in quasi-elliptical orbits; he also incorporated the motion of the nucleus.
-
-[Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) was initially called wave mechanics because the movements of electrons, previously considered as tiny corpuscles with quantized mass but non quantized radii and energies, should be associated with matter waves and probabilistic descriptions. This was enough to calculate transitions between quantized energy levels. Later, a wave equation was proposed to describe the behavior of those matter waves and to calculate the behavior of electrons as quantum particles. By solving such equation, the expressions of the energies and quantized radii derived by Bohr were obtained.
+……
 	
-The development of quantum mechanics lead to a completely quantized treatment of radiation and matter when radiation had discrete values expressed in terms of photons and matter was considered as made up of atoms containing electrons in states with quantized energies. An example where radiation and electronic levels are quantized is the laser (Light Amplification by Stimulated Emission of Radiation).
+“In fact fire is in all probability the first chemical reaction which mankind took into his service.
 
-### [Laser effect](https://en.wikipedia.org/wiki/Laser).
-
-According to [classical electromagnetism](https://en.wikipedia.org/wiki/Classical_electromagnetism), any accelerated charge emits electromagnetic radiation and the absorption of energy results from the work done on the charged particles by the force applied by an external electric field. However, the quantum point of view gives a very different explanation of emission and absorption processes: such processes are due to radiative transitions between electronic levels of different quantized energies. This was explained by Einstein in an article published in Phys. Zeitschr. 18, 121, 1917, where, in addition to considering spontaneous absorption and emission processes, he proposed the existence of [stimulated emission](https://en.wikipedia.org/wiki/Stimulated_emission) processes that years later will be used in the production of the laser.
-
-Transitions between electronic levels are radiative if the energy $hν$ of the absorbed or emitted photon is equal to the energy change $ΔE$ between an initial state whose principal quantum number is $n_i$ and a final state of different energy represented by $n_f$. Here Planck´s relation indicates that $hν = ΔE = En_f – En_i$. Since the electron experiences a Coulomb interaction with the proton in the nucleus, its negative energy corresponds to bound states and carries a negative sign. Remember that in the Bohr energy expression $E_n = -R_H/n^2$, with $n ≥ 1$.
-
-The quantum processes of radiative transitions are of two types: spontaneous when it is in the absence of external radiation and induced or stimulated by the presence of external photons. Spontaneous absorption occurs if $ΔE< 0$, when the electron rises to a level whose energy is less negative ($n_f > n_i$) and the final level is closer to the ionization energy at which $E_∞ = 0$. There is emission when $ΔE > 0$ and the electron passes to a more negative level ($n_f < n_i$), so that now the final level is closer to the ground state, where the expression $E_n = -R_H/n^2$ has the value $E_1 = - R_H$ when $n=1$.
-
-Consider an atom whose electrons occupy only two levels such that $n_2 > n_1$, with respective energies $E_2$ and $E_1$, where $E_2 > E_1$ corresponds to an excited state and $E_1$ to a ground state with the lowest possible energy. Under such conditions, $N_2$ and $N_1$ will indicate the numbers of atoms with electrons in each of the two levels of the system; these are the so-called occupation numbers of the corresponding electronic populations. Also, $g_2$ and $g_1$ are the respective degeneracies at those levels (the degeneracy is the number of electrons with the same energy). If the system is in thermodynamic equilibrium at a temperature $T$, the relative number of particles in such states is described by the [Boltzmann factor](https://en.wikipedia.org/wiki/Boltzmann_distribution) $exp[-(E_2 – E_1)/k_BT]$, where $k_B$ is Boltzmann's constant.
-
-For the atomic system described above, in spontaneous emission the electron goes from the excited state to the ground state and emits a photon of energy $hν = E_2 - E_1$. (The half-life of an excited state is usually of the order of $10^{-8}$ sec, while in the so-called metastable states it is of the order of $10^{-3}$ sec.) In spontaneous absorption the opposite occurs due to a transition of the electron from the ground state to the excited state; here the atom absorbs a photon of energy $hν_{ext}$ coming from an electromagnetic field external to the system.
-
-The stimulated emission is a completely quantum process that occurs when the electron is in the excited state $E_2$, the atom is in the presence of external photon of energy $hν_{ext}$ and a transition to the ground state $E_1$ is produced. This process is accompanied by the emission of a photon whose energy is $hν = E_2 - E_1 = hν_{ext}$. The incident external photon – a virtual photon- corresponds to the action of an effective electromagnetic field that is external to the atomic system. Virtual photons are generated by the quantum effect of [vacuum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation).
-
-In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
-
-<p align="center" width="100%">
-    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig5.JPG?raw=true"> 
-</p>
-
-<center>
-	(Image credit: drawings made by the authors.)
-	</center>
-
-**Figure 6.4.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG){width="40"}) causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG){width="20"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG){width="40"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG){width="40"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG){width="40"}).
-
-Consider that the spectral density of electromagnetic radiation of frequency $ν$ is $ρ(ν)$; this function defines the time ratio of the transitions between the two quantized states under consideration. Let $R_{1—2}$ be the probability per unit time of a transition from the initial state $E_1$ to the final state $E_2$ (emission process) and $R_{2—1}$ the corresponding probability for the transition from the initial state $E_2$ to the final state $E_1$ (absorption process). For spontaneous emission and spontaneous absorption these probabilities will be proportional to the energy density $ρ(ν)$ of the radiation of energy $hν = E_2 - E_1$. The induced emission does not depend on the density $ρ(ν)$.
-
-In the two previous cases, proportionality coefficients are introduced, the so-called [Einstein coefficients](https://en.wikipedia.org/wiki/Einstein_coefficients), which will depend on the characteristic properties of the quantized states. The coefficient $B_{21}$ will correspond to the spontaneous emission of the photon of energy $hν$ for the transition from $E_2$ to $E_1$, while $B_{12}$ will refer to the absorption of a photon of the same energy hν for the transition between levels $E_1$ to $E_2$. For the absorption $R_{1-2} = B_{12}ρ(ν)$ and for the spontaneous emission $R_{2—1} = B_{21}ρ(ν)$.
-
-However, in the emission process, in addition to spontaneous emission, there is a contribution of the induced emission to which it is associated a third coefficient $A_{21}$ independent of the density $ρ(ν)$; therefore $R_{2—1}= A_{21} + B_{21}ρ(ν)$. This means that the variations over time of the populations between these levels correspond to:
-
-*(Rate of change of absorbed energy)* $≈ N_1 \times$ *[Probability of stimulated absorption]*
-
-*(Rate of change of emitted energy)* $≈ N_2 \times$ *[(Stimulated emission probability) + (Spontaneous emission probability)]*,
-
-In terms of Einstein coefficients, the above relationships are expressed as:
-
-$\frac{dN_{12}}{dt} = N_1 (R_{1—2} )= N_1 [ρ(ν)B_{12} ]$       y      $\frac{dN_{21}}{dt} = N_2 (R_{2—1} ) = N_2 [ρ(ν)B_{21}+ A_{21} ]$
-
-If the complete system is in thermodynamic equilibrium, each of the occupation numbers $N_1$ and $N_2$ are determined by a [Maxwell-Boltzmann distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution) $N_i = N_0[exp(-βE_i)]$, for $i = 1$ and $2$. In this expression $N_0$ is a normalization constant and the factor $β = 1/(k_BT)$, with $k_B$ the Boltzmann constant and $T$ the temperature. Therefore, the quotient of the populations between the two levels will be $N_2/N_1 = [exp(-βE_2)]/[ exp(-βE_1)] = exp(-βhν)$.
-
-If the previous condition is fulfilled between $N_1$ and $N_2$ and that by microscopic reversibility  $\frac{dN_{12}}{dt}=  \frac{dN_{21}}{dt}$, we obtain $N_1 [ρ(ν)B_{12} ]= N_2 [ρ(ν)B_{21}+ A_{21} ]$, from which $\frac{N_2}{N_1} = \frac{ρ(ν)B_{12}}{ρ(ν)B_{21}+ A_{21}} = e^{-βhν}$. Solving last equation, it results that $ρ(ν)= \frac{A_{21}⁄B_{12}}{e^{βhν}-(B_{21}⁄B_{12})}$.
-
-On the other hand, according to the law of [black body radiation](https://en.wikipedia.org/wiki/Black-body_radiation) obtained by Planck, we have that $ρ(ν)=[\frac{8πhν^3}{c^3}][\frac{1}{e^{βhν}-1}]$. By equating the two previous expressions for $ρ(ν)$ the following condition must be satisfied $\frac{A_{21}⁄B_{12}}{e^{βhν}-(B_{21}⁄B_{12})}= [\frac{8πhν^3}{c^3}][\frac{1}{e^{βhν}-1}]$ which implies next two conditions $\frac{B_{21}}{B_{12}} =1$ and  $\frac{A_{21}}{B_{12}} =[\frac{8πhν^3}{c^3}]$.                                                             
-
-From the first condition it can be inferred that the coefficients of stimulated absorption and stimulated emission are the same. The second condition establishes that the spontaneous emission coefficient varies with frequency as $ν^3$, which means that if the difference between the two quantized states increases because the frequency $ν$ is quite high ($hν = E_2 – E_1$), the stimulated emission corresponding to $A_{21}$ will be much more likely than the spontaneous emission represented by $B_{12}$.
-
-From the condition $\frac{N_2}{N_1} =\frac{ρ(ν)B_{12}}{ρ(ν)B_{21}+ A_{21}} = e^{-βhν}$ it can be obtained that $ρ(ν)(\frac{B_{12}}{B_{21}}) =$ $[ρ(ν)(\frac{B_{21}}{B_{21}})+ (\frac{A_{21}}{B_{21}})]$ $(e^{-βhν} )$. By applying the condition $\frac{B_{21}}{B_{12}} =1$, it follows by dividing by $ρ(ν)$ that $1=$ $[1+ (\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} )]$ $(e^{-βhν} )$ and then $(\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} ) = e^{βhν}-1$. In here $βhν=[hν⁄(k_B T)]$. If the value of $βhν$ is lower, equal or greater than 1, the stimulated emission will be dominant, equiparable or negligible when compared to the spontaneous emission.
-
-When $N_2 >> N_1$, that is, when the population of the excited state $E_2$ is much greater than the population of the state with the lowest energy $E_1$, the emission is much more frequent than the absorption and the amplification of the radiation characteristic of the laser effect occurs.
-
-For $N_2 >> N_1$ it is required to invert the population, which is produced by optical pumping. If under this condition, the radiation accumulates in a resonant cavity that has two mirrors at its ends, one fully reflective and the other semi-transparent, then the laser radiation is emitted.
-
+Later, since the inception of chemistry, the connection between chemical reactions and heat has been the subject of innumerable experiments and a great deal of thought.”
 	
+…….
+	
+“During the combustion of carbon in air no actual work is performed, since the affinity results only in heat or, as we understand it today, in an increase of the motions of the molecules. This is indeed, what we are trying to achieve when we want to use the affinity between carbon and oxygen to obtain heat.”
+	
+…..
+	
+“This means that at these low temperatures the difference between the specific heats of various substances comes even closer to zero, and thus that the heat of reaction for solid and liquid substances practically becomes independent of temperature at very low temperatures.”
+
+“This fact was an extremely important starting point for Nernst but was still not enough to solve the problem. The new supposition or, as we are now justified in calling it, the new theorem laid down by Nernst which made it possible to solve the problem at hand, stated that what applies to the evolution of heat at very low temperatures also applies to the chemical affinity, or altogether to the magnitude of the driving force in a physical or chemical change, so that at very low temperatures, this too is also almost independent of temperature.”
+
+“With the help of this assumption, which means amongst other things that the evolution of heat in the region of absolute zero is a measure of chemical affinity, it is therefore also possible to calculate this at all other temperatures. This calculation is based on the above assumption and on the known evolution of heat at one given temperature and the known change in this evolution of heat with temperature: this change again, can be calculated, as we have indicated, if the specific heats are known.”
+	
+…..
+	
+“The most significant advance which chemistry owes to Nernst’s thermochemical work might in short be stated by saying that it is now possible to calculate beforehand the conditions under which a given chemical reaction will take place to the extent where a required product will be obtained in sufficient quantities to make the method of production a practical proposition. Technical difficulties can naturally appear during the course of the experiments, but it is a most significant step forward to know that the aim can be achieved and that there is every chance that the experiments will finally succeed.”
+
+WORK: “During chemical reactions, atoms and molecules regroup and form new constellations. In most cases chemical reactions are not complete without an ensuing chemical equilibrium that depends on the temperature. In almost all chemical reactions heat is released or absorbed. In 1912 Walther Nernst (1864-1941) was able to formulate the third law of thermodynamics, which made it possible to calculate chemical equilibriums on the basis of the heat exchange. He achieved this by studying conditions at very low temperatures.”
+
+MLA style: Walther Nernst – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/facts/
+
+NOBEL LECTURE: *Studies in Chemical Thermodynamics* by Nernst.
+
+“I should best fulfil my obligation to give a lecture relating to my prizewinning publications, if I discussed my heat theorem, which supplements the older thermodynamics, with special reference to its chemical applications, and described the experimental tests which it has undergone in numerous investigations in my laboratory. 
+
+But this has already been done, especially in recent years, by a number of different authors in textbooks and monographs. On this important occasion, a keen desire to avoid simply repeating what has been said earlier, prompts me to discuss the subject from the viewpoint of electrochemistry.”
+
+MLA style: Walther Nernst – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1920/nernst/lecture/
+
+
 ***
 
-[**Next: 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.**](./vol-II-chap-6-sect-2.md)
+**In 1949:** to [William Francis Giauque](https://en.wikipedia.org/wiki/William_Giauque) (1895-1982) “for his contributions in the field of [chemical thermodynamics](https://en.wikipedia.org/wiki/Chemical_thermodynamics), particularly concerning the behavior of substances at extremely low temperatures”.
+
+<u>*Presentation Speech*</u> by Professor A. Tiselius, member of the Nobel Committee for Chemistry of the Royal Swedish Academy of Sciences.
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/chemistry/1949/ceremony-speech/
+	
+…..
+
+“Chemistry became a science only when experiments became systematic, and an attempt was made to discover general laws for the changes in matter.”
+	
+…..
+
+“It is thus often possible nowadays to calculate in advance whether a given chemical process is possible and what conditions favour it.”
+
+…..
+	
+“The laws which I want particularly to touch on here are those dealing with the kinship between substances or, as chemists say, their affinity to one another, how this affinity shall be defined, how best to measure it and to what extent it can be calculated.” … “It is usually far simpler to measure the heat generated during a chemical reaction, the heat of reaction, and it is therefore natural that much research in this field has been devoted in the last fifty years to the problem of finding some way in which the free energy may be calculated from the heat, i.e. to enable us to predict the result of a chemical reaction from purely thermodynamic determinations.”
+
+…..
+	
+“This year’s Nobel Prize winner, William Francis Giauque, has added considerably to our knowledge of the entropy of chemical substances, particularly at very low temperatures.” … “If a substance is given a certain quantity of heat, then the entropy increases by an amount equal to the amount of heat divided by the absolute temperature. We can thus measure the change in entropy, and from these measurements obtain the data necessary for us to calculate the free energy and heat of reaction of a chemical reaction at a given temperature if we know them at another temperature.”
+	
+….
+
+“There is another very important law stating that the entropy is zero for a crystallized substance at a temperature equal to the absolute zero, - 273.16°.”
+
+“This law – the third law of thermodynamics – first formulated by the German Nobel Prize winner, Walther Nernst, has only now been fully proved as a result of Giauque’s work. By means of this law we can now calculate not only differences in entropy but the entropy itself for a considerable number of elements and chemical compounds.” …..
+	
+…..
+	
+“Behind the data used in such calculations and behind the final proof of the third law lie, however, extensive studies of the properties of substances at temperatures approaching absolute zero. It is here that this year’s Nobel Prize winner has made his greatest contributions to chemistry.”  …. “This method has made it possible to reach temperatures nearer to absolute zero than was possible by any earlier technique.”
+	
+…..
+	
+“Giauque has achieved many interesting results by comparing the entropy values he has obtained by these methods (calorimetric entropy) with the values he could calculate from the band spectra (spectroscopic entropy).” ….
+
+“Giauque’s achievements in the field of chemical thermodynamics and especially his work on the behaviour of matter at low temperatures and his closely allied studies of entropy comprise one of the most significant contributions to modern physical chemistry.” …
+
+
+WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. An important but difficult to grasp concept in thermodynamics is entropy, which is a measure of disorder in a system. The third law of thermodynamics states that the entropy in a perfect crystal is zero when the absolute temperature is zero. In 1933 William Giauque (1895-1982) used a magnetic field to attain an extremely low temperature and was able provide evidence for the law’s validity.”
+
+MLA style: William F. Giauque – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/facts/
+
+NOBEL LECTURE: *Some Consequences of Low Temperature Research in Chemical Thermodynamics* by Giauque.
+
+“The basic purpose which underlies most of the work in the Low Temperature Laboratory, of the University of California, is the study of entropy. It is easy for a chemist to write an equation for a desired reaction, but this does not mean that the reaction will actually take place. If one knows the heats of formation and entropies of the substances concerned in the equation, the so-called free energy or thermodynamic potential of the reaction may be calculated. A knowledge of the free energy change permits chemists to determine all reactions which are thermodynamically possible and the extent to which they are possible. When it has been found that a certain reaction should go, but experiment fails, then a catalyst can be sought or the conditions can be altered so as to secure a practicable rate of reaction. If the free energy shows that the reaction is thermodynamically impossible, a search for a catalyst is futile.”
+
+“The third law of thermodynamics, which developed from the Nernst Heat Theorem, states that all perfect crystalline substances approach zero entropy as the absolute zero of temperature is approached. According to this statement a knowledge of the heat capacity, to sufficiently low temperatures, will permit the calculation of the absolute entropy of a substance. It was this possibility which interested me in low temperature research.”
+	
+MLA style: William F. Giauque – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1949/giauque/lecture/
+
+…..
+
+***
+
+**In 1968:**  to [Lars Onsager](https://en.wikipedia.org/wiki/Lars_Onsager) (1903-1976) “for the discovery of the [reciprocal relations](https://en.wikipedia.org/wiki/Onsager_reciprocal_relations) bearing his name, which are fundamental for the thermodynamics of [irreversible processes](https://en.wikipedia.org/wiki/Irreversible_process)”.
+
+<u>*Presentation Speech*</u> by Professor S. Claesson of the Royal Swedish Academy of Sciences.
+
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/ceremony-speech/
+	
+…..
+
+“Onsager’s reciprocal relations can be described as a universal natural law, the scope and importance of which becomes clear only after being put in proper relation to complicated questions in border areas between physics and chemistry. A short historical review emphasizes this.”	
+
+“Onsager presented his fundamental discovery at a Scandinavian scientific meeting in Copenhagen in 1929. It was published in its final form in 1931 in the wellknown journal Physical Review in two parts with the title “Reciprocal relations in irreversible processes”. The elegant presentation meant that the size of the two papers was no more than 22 and 15 pages respectively. Judged from the number of pages this work is thus one of the smallest ever to be rewarded with a Nobel Prize.”
+
+…..
+
+“The great importance of irreversible thermodynamics becomes apparent if we realize that almost all common processes are irreversible and cannot by themselves go backwards. As examples can be mentioned conduction of heat from a hot to a cold body and mixing or diffusion. When we dissolve a cold lump of sugar in a cup of hot tea these processes take place simultaneously.”
+
+…..
+	
+“The Three Laws of Thermodynamics gradually emerged and formed the basis of this science. These are among our most generally known laws of nature. The First Law is the Law of Conservation of Energy. The Second and the Third Laws define the important quantity entropy which among other things provides a connection between thermodynamics and statistics. The study of the random motion of molecules by means of statistical methods has been decisive for the development of thermodynamics. The American scientist J. Willard Gibbs (1839-1903) who made so many important contributions to statistical thermodynamics, has his name attached to the special professorship which Onsager now holds.”
+
+“It can be said that Onsager’s reciprocal relations represent a further law making possible a thermodynamic study of irreversible processes.”
+
+…..
+
+“Onsager’s great contribution was that he could prove that if the equations governing the flows are written in an appropriate form, then there exist certain simple connections between the coefficients in these equations. These connections – the reciprocal relations – make possible a complete theoretical description of irreversible processes.”
+
+…..
+
+“The proof of the reciprocal relations was brilliant. Onsager started from a statistical mechanical calculation of the fluctuations in a system, which could be directly based on the simple laws of motion which are symmetrical with regard to time. Furthermore, he made the independent assumption that the return of a fluctuation to equilibrium in the mean occurs according to the transport equations mentioned earlier. By means of this combination of macroscopic and microscopic concepts in conjunction with an extremely skilful mathematical analysis he obtained those relationships which are now called Onsager’s Reciprocal Relations.”
+
+
+WORK: “Thermodynamics is about heat and its conversion into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction and not in the reverse. Lars Onsager (1903-1976) analyzed mathematical equations for various irreversible thermodynamic processes and in 1931 found the connection that led him to formulate equations that came to be known as reciprocal relations. This allowed a complete description of irreversible processes.”
+
+MLA style: Lars Onsager – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/facts/
+
+NOBEL LECTURE: *The Motion of Ions: Principles and Concepts* by Onsager.
+
+“Today I shall try to help you grasp the significance of a fairly general principle which applies to diverse types of irreversible processes. After last night it will be just as well if we do not go into all fine points of definitions or survey all possible applications. Rather, I want to talk about progress over a period of time in one field of research where much has happened (some of this relevant to the principle I mentioned) and intriguing problems still remain. Before we survey the progress in our understanding of electrolytes since the days of Arrhenius, let us take a quick look at what went before.”
+
+MLA style: Lars Onsager – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1968/onsager/lecture/
+
+***
+
+**In 1977:** to [Ilya Romanovich Prigogine](https://en.wikipedia.org/wiki/Ilya_Prigogine) (1917-2003) “for his contributions to non-equilibrium thermodynamics, particularly the theory of [dissipative structures](https://en.wikipedia.org/wiki/Dissipative_system)”.
+
+<u>*Presentation Speech*</u> by Professor Stig Claesson of the Royal Swedish Academy of Sciences.
+
+MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/ceremony-speech/
+	
+…..
+
+“The history of thermodynamics dates back to the early years of the nineteenth century. With the acceptance of the atomic theory – due above all to the works of John Dalton – the view began to be commonly accepted that what we term heat is merely the movement of the smallest components of matter. Then the invention of the steam engine created an increasingly urgent need for exact mathematical study of the interaction between heat and mechanical work.”
+
+…..
+
+“This process of development attained something of a conclusion in the early years of the present century, and thermodynamics began to be regarded as a branch of science whose evolution was essentially complete. However, it was subject to certain limitations. For the most part it could only deal with reversible processes, that is, processes occurring via states of equilibrium. Even an irreversible system as simple as the thermocouple, with its simultaneous conduction of heat and electricity, could not be satisfactorily treated until Onsager developed the reciprocity relations which earned him the 1968 Nobel Prize for Chemistry. The reciprocity relations were a great step forward in the development of a thermodynamics of irreversible processes, but they presupposed a linear approximation. which can only be employed relatively close to equilibrium.”
+
+…..
+	
+“Prigogine’s great contribution lies in his successful development of a satisfactory theory of non-linear thermodynamics in states which are far removed from equilibrium. In doing so he has discovered phenomena and structures of completely new and completely unexpected types, with the result that this generalized, nonlinear and irreversible thermodynamics has already been given surprising applications in a wide variety of fields.”
+
+“Prigogine has been particularly captivated by the problem of explaining how ordered structures – biological systems, for example – can develop from disorder. Even if Onsager’s relations are utilized, the classical principles of equilibrium in thermodynamics still show that linear systems close to equilibrium always develop into states of disorder which are stable to perturbations and cannot explain the occurrence of ordered structures.” 
+
+
+WORK: “Thermodynamics is about heat and its transformation into other forms of energy—basically involving statistical descriptions of atomic and molecular movements. Irreversible thermodynamic processes go in only one direction, usually toward more disorder. However, during the 1960s Ilya Prigogine (1917-2003) developed a theory about dissipative structures, which maintains that long before a state of equilibrium is reached in irreversible processes, orderly and stable systems can arise from more disordered systems. The result has been applied in a great many areas.”
+ 
+MLA style: Ilya Prigogine – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 31 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/facts/
+
+NOBEL LECTURE: *Time, Structure and Fluctuations* by Prigogine.
+
+- Introduction
+
+“The problem of time in physics and chemistry is closely related to the formulation of the second law of thermodynamics. Therefore another possible title of this lecture could have been: “the macroscopic and microscopic aspects of the second law of thermodynamics”. 
+  
+“It is a remarkable fact that the second law of thermodynamics has played in the history of science a fundamental role far beyond its original scope. Suffice it to mention Boltzmann’s work on kinetic theory, Planck’s discovery of quantum theory or Einstein’s theory of spontaneous emission, which were all based on the second law of thermodynamics.” 
+    
+“It is the main thesis of this lecture that we are only at the beginning of a new development of theoretical chemistry and physics in which thermodynamic concepts will play an even more basic role. Because of the complexity of the subject we shall limit ourselves here mainly to conceptual problems. The conceptual problems have both macroscopic and microscopic aspects. For example, from the macroscopic point of view classical thermodynamics has largely clarified the concept of equilibrium structures such as crystals.” …..
+	
+…..
+
+“The inclusion of thermodynamic elements leads to a reformulation of (classical or quantum) dynamics. This is a most surprising feature. Since the beginning of this century we were prepared to find new theoretical structures in the microworld of elementary particles or in the macroworld of cosmological dimensions. We see now that even for phenomena on our own level the incorporation of thermodynamic elements leads to new theoretical structures. This is the price we have to pay for a formulation of theoretical methods in which time appears with its full meaning associated with irreversibility or even with “history”, and not merely as a geometrical parameter associated with motion.”
+	
+…..
+
+- Entropy production
+- Thermodynamic stability theory
+- Application to chemical reactions
+- The law of large numbers and the statistical description of chemical reactions
+- The dynamic interpretation of the Lyapunov function
+- Non-unitary transformation theory
+- Concluding remarks
+
+MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
+
+***
+
+[**Next: 5.2.  The photon as a quantum of energy.**](./vol-II-chap-5-sect-2.md)
+
+
+
+
+

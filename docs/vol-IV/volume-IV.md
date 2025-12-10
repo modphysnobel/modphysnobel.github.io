@@ -17,7 +17,7 @@ The study of the universe is like archaeology in the sense that it concerns the 
 
 Physics, as a natural science, deals with objects and forces acting in regions that existed since the beginning of time, as well as in regions observed nowadays in modern accelerators of particles. The ways of building and applying concepts, models and research methodologies have evolved in universes integrated by particles, waves, matter and energy. To study those universes mathematics serves as bridges for solving problems and ladders for attaining better and better explanations.
 
-In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Nobel Prizes, mostly in Physics and few in Chemistry. Chapters 13 (Developments in high energy physics) and 14 (Evolution of cosmology) deal with high energy physics which comprehends nuclear physics, particle physics and cosmology. These regions of the universe differ in the size of its components and the intensity of the energies involved. The Chapters of this fourth Volume are the following:
+In this Volume IV we review and comment the essential nodes of a cognitive network of explanations, discoveries, and inventions that have been recognized with Nobel Prizes, mostly in Physics and few in Chemistry. Chapters 16 (Development of knowledge in high energy physics) and 17 (Evolution of cosmology) deal with high energy physics which comprehends nuclear physics, particle physics and cosmology. These regions of the universe differ in the size of its components and the intensity of the energies involved. The Chapters of this fourth Volume are the following:
 
  <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/Intro1.PNG?raw=true"> 
@@ -39,9 +39,35 @@ Complicated and longtime astronomical observations and measurements lead to the 
 
 The elements characterizing contextualization of learning (the proposition of a problematic situation, the elaboration of generating questions and the description of learning and evaluation activities) are applied to analyze the content of Peebles´ Nobel Lecture *How Physical Cosmology Grew*.
 
+## 16. Development of knowledge in high energy physics
+
+### 16.1. [Descriptions of laboratory instruments](vol-IV-chap-16-sect-1.md)
+### 16.2. [Accounts of experimental results](vol-IV-chap-16-sect-2.md)
+### 16.3. [Contributions made by theoretical approaches](vol-IV-chap-16-sect-3.md)
+
+## 17. Evolution of cosmology. 
+
+### 17.1. [Stars, pulsars, and black holes](vol-IV-chap-17-sect-1.md)
+### 17.2. [Neutrino oscillations, background radiation, accelerating expansion, and exoplanets](vol-IV-chap-17-sect-2.md)
+### 17.3. [Contextualization of learning about the universe](vol-IV-chap-17-sect-3.md)
+
+## 18. Understanding of complex physical systems (2021 Physics Nobel Prize). - TBD
+
+## 19. Machine learning with artificial neural networks (2024 Physics Nobel Prize) - TBD
+
+## 20. Universes composed by humans and societies 
+
+### 20.1. [Selection of Prizes in Economic Sciences in Memory of Alfred Nobel](vol-IV-chap-20-sect-1.md)
+### 20.2. [Role of statistical analysis in the formulation of models (1969 Economics Nobel Prize)](vol-IV-chap-20-sect-2.md)
+### 20.3. [Interpretation of natural experiments in Economic sciences (2021 Economics Nobel Prize)](vol-IV-chap-20-sect-3.md)
+
+
+
+
+
 ***
 
-Created: 2023-03-12; Updated: 2023-11-24 
+Created: 2023-03-12; Updated: 2025-12-10 
 
 Barojas-Weber, J.R., & Lizárraga-Celaya, C. (2023).
 _Modern Physics through Nobel Prizes_.

@@ -1,145 +1,95 @@
+
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 7.1. Experimental results concerning the Brownian motion.**](./vol-II-chap-7-sect-1.md) 
+[**Previous: 6.1. Electronic energy levels according to atomic models.**](./vol-II-chap-6-sect-1.md) 
 
 ***
 
-## 7.2.  Statistical mechanical calculations of the specific heat in solids.
+## 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom.  
 
-This section contains three examples of the calculation of the thermodynamic quantity known as specific heat at constant volume <br>  ($C_V$), following the procedures indicated by statistical mechanics. We analyze three models of a solid which assume that it is composed by: (1) free particles, (2) harmonic oscillators quantized with the same frequency, and (3) harmonic oscillators quantized with a frequency distribution.
+The first example of a solution of the [Schrodinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) to the Bohr atom model indicated that the quantization of the energy levels $E_n = -R/n^2$, where n is the principal quantum number and $R = (m_e)(q_e^4)/[2(ђ^2)] = 13.6 eV$ is the Rydberg constant for the hydrogen atom. However, when the Dirac equation was considered, the expression for the electronic levels of the hydrogen atom was $E_{nj}= -(\frac{R}{n^2})[1+(\frac{α^2}{n^2})(\frac{n}{j+½}- \frac{3}{4})]$, where $R$ is the Rydberg constant and the fine structure constant $α= \frac{q_e^2}{ђc}=7.297 \times 10^{-3}≈\frac{1}{137}$. The quantum number $j = l + s = l ± ½$. Note that the first term is the Bohr energy and the next term is proportional to $α^2$, which is a very small quantity but not zero.
 
-The specific heat ($C$) is a thermodynamic quantity of an extensive nature: it increases with the size of the system and depends on its internal structure. It is defined as the quotient of the differential increase in the amount of heat ($δQ$) divided by the differential increase in temperature $(δT): C = δQ/δT$.
+In the usual spectroscopic notation the first levels of the [fine structure](https://en.wikipedia.org/wiki/Fine_structure) in the hydrogen atom are designated as follows: the ground state is the first level and corresponds to $1S_{1/2}$ ($n = 1$, $l = 0$, $j =1/2$). According to the Dirac solution given above for $E_{nj}$ the next two levels are degenerate states: the levels $2S_{1/2}$ ($n = 2$, $l = 0$, $j = ½$, when $s = +½$ ) and $2P_{1/2}$ ($n = 2$, $l = 1$, $j = ½$, when  $s = -½$). Then comes the level $2P_{3/2}$ ($n = 2$, $l = 1$, $j = 3/2$) which is followed again by two degenerate states $3S_{1/2}$ ($n = 3$, $l = 0$, $j = ½$) and $3P_{1/2}$ ($n = 3$, $l = 1$, $j = 3/2$), and so on. The following energies measured in eV have been calculated for the first four levels:
 
-On the other hand, the internal energy ($U$) of a system is a function of the thermodynamic parameters of temperature ($T$), pressure <br> ($p$) and volume ($V$). The internal energy $U$ is associated with the disordered movement that the components of the system present at the microscopic level. It corresponds to the total energy of the system, which has been necessary to create it. It is not connected with the block movements of the complete system (in bulk), nor with the energies caused when the complete system is under the action of external forces.
+For $n = 1$ and $j =1/2$, level $1S_{1/2}$:  $E =-(\frac{R}{1})[1+(\frac{α^2}{1}) (\frac{1}{½+½}- \frac{3}{4})]=$ $-(13.6)[1+(\frac{α^2}{1})(\frac{1}{4})]  ≈13.6$
 
-If the amount of heat $dQ$ is introduced to the system, the change in its internal energy ($dU$) is the sum of the heat transferred ($dQ$) plus or minus the work done $(pdV): dU = dQ ± pdV$. This equation corresponds to the first law of thermodynamics, associated with the conservation of energy.
+For $n = 2$ and $j =1/2$, level $2S_{1/2}$:  $E =-(\frac{R}{4})[1+(\frac{α^2}{4}) (\frac{2}{½+½}- \frac{3}{4})]=$ $-(\frac{13.6}{4})[1+(\frac{α^2}{4})(\frac{5}{4})]  ≈3.4$
 
-If the volume of the system is constant, the specific heat at constant volume ($C_V$) only contains the term connected to the heat variation ($dQ$) since the contribution of work ($pdV$) is null, so $C_V = (δQ/δT )_V = (δU/δT)_V$. In other words, if we want to calculate $C_V$, we need to propose a model of the solid and a calculation procedure that allows us to obtain the quantity $(δU/δT)_V$. This requires understanding what the internal energy of the system represents and what to do to calculate it.
+For $n = 2$ and $j =1/2$, level $2P_{1/2}$:  $E =-(\frac{R}{4})[1+(\frac{α^2}{4}) (\frac{2}{½+½}- \frac{3}{4})]=$ $-(\frac{13.6}{4})[1+(\frac{α^2}{4})(\frac{5}{4})]  ≈3.4$
 
-The variable $U$ has two components: the kinetic energy or thermal energy caused by the movements of translation, rotation and vibration of the microscopic components of the system (statistically connected with the temperature) and the potential energy associated with any static situation of the components that conforms the internal structure of the system, whose properties are manifested when the system interacts with the outside.
+For $n = 3$ and $j = 3/2$, level $2P_{3/2}$:  $E =-(\frac{R}{9})[1+(\frac{α^2}{9}) (\frac{3}{2}- \frac{3}{4})]=$ $-(\frac{13.6}{9})[1+(\frac{α^2}{9})(\frac{3}{4})]  ≈1.5$
 
-In statistical mechanics, the internal energy is equal to the average over the ensemble in question of the total energy of the system: $U = N_A <〈E〉$, where $〈E〉$ is the average value of the energy and $N_A$ is Avogadro's number. If the energy of each microstate has discrete values $E_i$, with probability $p_i$, $U= N_A〈E〉= N_A ∑_{i=1}^N p_i E_i$ where $p_i$ and $E_i$ are, respectively, the probability of occupation of the i-th microstate and its corresponding energy. These probabilities satisfy the normalization condition such that $∑_{i=1}^Np_i=1$.
+Considering previous data, we obtain the following spacings between neighboring levels: between $1S_{1/2}$ and $2S_{1/2}$: 13.6 – 3.4 = 10.2, while between $2S_{1/2}$ and $2P_{1/2}$: 3.4 – 3.4 = 0 (degenerate levels according to Dirac) and between $2P_{1/2}$ and $2P_{3/2}$: 3.4 – 1.5 = 1.9. The null separation between the energies of the $2S_{1/2}$ and $2P_{1/2}$ states was a consequence of having assumed that the only interaction between the electron and the proton of the nucleus was due to a Coulombian potential between such charges. (See figure 6.5).
 
-When the energy spectrum is continuous, the summation in the previous equation becomes an integral; furthermore $p_i$ is described in terms of a normalized probability distribution function $f(\vec{v},\vec{r})$ and $〈E〉=\frac{∬Ef(\vec{v},\vec{r})d\vec{v}d\vec{r}}{∬f(\vec{v},\vec{r})d\vec{v}d\vec{r}}$. In Cartesian coordinates we have $d\vec{v}= d\vec{v}_xdv_ydv_z$ and $d\vec{r}= dxdydz$.
+<figure markdown>
+![Fig 4](./figs/chap-6-sect-2-fig1.JPG){width="480"}
+<figcaption> (Image credit: elaborated by the authors.)
+</figcaption>
+</figure>
 
-Next, for each one of the previously mentioned models, we consider four stages for calculating the internal energy, to then obtain the specific heat $C_V$. In the first two stages (STAGE 1 and STAGE 2)  the interpretation model of the physical system and the corresponding distribution function are described. The next two stages (STAGE 3 and STAGE 4) refer to the calculations of the average energy, the internal energy and the specific heat $C_V$.
+Source: diagram elaborated by the authors.
 
-### [Dulong and Petit classic model.](https://en.wikipedia.org/wiki/Dulong%E2%80%93Petit_law)
+**Figure 6.5.** First electronic levels of the hydrogen atom. 
 
-STAGE 1: description of the physical system.
+### [Lamb shift](https://en.wikipedia.org/wiki/Lamb_shift) measurements.
 
-In this first model, the solid is a system of atoms considered as classical particles of mass $m$, subject to a harmonic oscillator potential of restitution constant $K$. The total energy of each atom in the crystal lattice is the sum of the kinetic energy  ($E_c$) plus the potential energy $(V):  E= E_c+V= ½mv^2 + ½Kr^2$.
+Beginning in 1947, [Lamb and Retherford](https://en.wikipedia.org/wiki/Lamb_shift) measured with an accuracy of one part in ten thousand the transitions between the $2S_{1/2}$ and $2P_{1/2}$ levels. According to Dirac's theory, these levels should have the same energy (degenerate states) and there could be no radiative transitions between them. These states have the same quantum numbers $n$ and $j$: the radial number $n = 2$ and the total angular momentum number $j = ½$. However, the orbital angular momentum quantum numbers are different: $l = 0$ for the $2S_{1/2}$ state and $l = 1$ for the $2P_{1/2}$ state.
 
-In Cartesian coordinates $v^2 = v_x^2 + v_y^2 + v_z^2$ and $r^2 = x^2 + y^2 + z^2$. For simplicity, we will first deal with a one-dimensional problem, such that $v^2 = v_x^2$ and $r^2 = x^2$; Later, we will take into account the degrees of freedom corresponding to the other two coordinates. The complete motion is assumed to be the superposition of three independent motions, one in each dimension.
+Lamb and Retherford confirmed that the $2S_{1/2}$ level was above the $2P_{1/2}$ level and that the separation was 0.033 $cm^{-1}$ (about the order of 1000 MHz). The first measured value was 1060 MHz and later on the value of 1,057.845 MHz was obtained. The theoretical calculation made by Bethe in 1947 was 1040 MHz; afterwards the value of 1,057.853 MHz was reported.
 
-STAGE 2: description of the distribution function.
+In their experiment Lamb and Retherford took advantage of two facts: 
 
-In this classical case, the function $f(\vec{v}, \vec{r})$ will correspond to the Maxwell-Boltzmann distribution, which describes the probability that one of the classical oscillators in the crystal lattice has an energy $E$ at temperature $T$. As we are considering only one degree of freedom, simplifying the notation and writing $v_x = \vec{v}$, the total energy of the oscillator is $E = ½[mv^2 + Kx^2]$ and the distribution function $f(\vec{v}, \vec{r})  = f(v_x, x) =  e^{-βE}$ where $β = \frac{1}{k_B T}$ and $k_B$ is Boltzmann's constant.
+(1) the observed separation between the $2S_{1/2}$ and $2P_{1/2}$ levels turned out to be of the order of microwave frequencies, which fluctuate between $10^{-5}$ eV and $10^{-3}$ eV (the first experimentally measured value was $4.4 \times 10^{-4} eV$), and 
 
-STAGE 3: calculation of average energy.
+(2) the $2S_{1/2}$ state is a metastable state with a half-life relatively long and does not decay rapidly to the $1S_{1/2}$ ground state, whereas the $2P_{1/2}$ state has a much shorter half-life. When a transition corresponding to a radio frequency is induced from the $2P_{1/2}$ or $2P_{3/2}$ levels, the atom loses its metastability and in $10^{-9}$ seconds it decays to the ground state without emitting radiation.
 
-Calculating the average energy in an oscillator in one dimension involves solving the following integrals $〈E〉 = \frac{∫_{-∞}^∞ d\vec{v} ∫_{-∞}^∞ dx(Ee^{-βE})}{∫_{-∞}^∞ d\vec{v} ∫_{-∞}^∞dx(e^{-βE})}$ . We will leave aside the details of the calculation; we simply indicate the result $〈E〉 =  \frac{1}{β}=k_B T$.
+The experimental design consisted of four regions for the following purposes: dissociation of the molecular hydrogen ($R_{dis}$), bombardment of the electrons ($R_b$), application of an external radiofrequency ($R_{rf}$), and detection ($R_{det}$). Different actions were carried out in each region, which are described below according to the following stages:
 
-STAGE 4: calculation of internal energy and specific heat.
+STAGE 1: *Production of atomic hydrogen in the* $R_{dis}$ *region*. The $H_2$ molecules are heated up to 2500º C in an oven where the atoms dissociate in a percentage of the order of 64%; then the atoms pass through a double slit and hit a diode in a vacuum.
 
-From the definition $U= N_A〈E〉$ and the previous result $〈E〉 =k_B T$, it can be obtained that $U = N_Ak_B T = RT$ with $R = N_Ak_B$. If the three degrees of freedom are considered, $U = 3RT$, from where $C_V = (δU/δT)_V = 3R = 3 \times  (8.3143 J K^{-1} mol^{-1}) = 24.9429 J K^{-1}mol^{-1}$. This means that the specific heat at constant volume is the same for all materials.
+STAGE 2: *Excitation of atoms at the* $2S_{1/2}$ *level in the* $R_b$ *region*. Inside the diode a current of electrons are emitted at the cathode and directed towards the anode. Along the way, these electrons bombard the hydrogen atoms coming from the oven and produce excited atomic states, among which is the $2S_{1/2}$ state, which is metastable. The $2S_{1/2}$ states cannot decay to the $1S_{1/2}$ ground state because there is a selection rule indicating that transitions only occur if there is a change in the quantum number $l$, which is zero for both states.
 
-A similar result to the above ($C_V = 3R$) was obtained experimentally by Pierre-Louis Dulong (1785-1838) and Alexis-Thérèse Petit (1791-1820). These authors established that "the atoms of simple substances have exactly the same specific heat", as shown by the data they reported in their article *Recherches sur quelques points importants de la Théorie de la Chaleur*, published in 1819 in *Annales de Chimie et de Physique.*
+After a small recoil deflection, the excited atoms move on to a metal surface from which they can eject electrons and so be detected. Between the bombardment region ($R_b$) and the detection region ($R_{det}$) it passes through the region ($R_{rf}$) where a radiofrequency field is applied.
 
-The following Table 7.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
+STAGE 3: *Application of a microwave field to the excited atoms in the* $R_{rf}$ *region*. The excited atoms are directed to a metallic surface where they produce an output signal of electrons that can be detected. If the frequency of the external oscillating field is zero, the atoms in the metastable state have time to cross the radio frequency region ($R_{rf}$) before de-exciting. However, if that frequency corresponds precisely to the difference in energies between the $2S_{1/2}$ state and the closest state in energy, such as the $2P_{1/2}$ level, then the atoms in the metastable state will no longer be in that state and therefore fewer atoms will reach a tungsten metallic plate placed after the $R_{rf}$ region.
+
+The half-life for the $2S_{1/2}$ state is 1/7 seconds while for the $2P_{1/2}$ state it is $1.6 \times 10^{-9}$ seconds. Before de-exciting, the atoms in the first state (the metastable) can travel a distance of the order of 10 cm, while the atoms in the second state only manage to travel $1.3 \times 10^{-3}$ cm and therefore do not reach the metallic plate and will no longer be detected in the next stage $E_4$.
+
+STAGE 4: *Detection of atoms in metastable state after passing through the* $R_{rf}$ *region*. The atoms that remained in the $2S_{1/2}$ state and managed to cross the $R_{rf}$ region have a long half-life; therefore, they have time to reach the tungsten plate which is sensitive only to atoms in the metastable state. The following sequence of three processes occurred on this plate: 
+	
+(1) the hydrogen atoms are de-excited when they collide with the atoms of the plate, causing the release of electrons from this plate;
+
+(2) the electrons are collected and form an electrical current that is amplified and
+
+(3) the amplified current is sent to a galvanometer for recording and measurement; when decreases in this current are observed in percentages that vary between 30% and 80%, it means that a transition is induced from the metastable state to another that was no longer metastable and therefore the electron does not reach the metal plate.
+
+STAGE 5: *Application of an external magnetic field to the* $R_{rf}$ *region*. In practice it was difficult to adjust the frequency of the oscillating field to induce the transition to the $2P_{1/2}$ level, while keeping the intensity of the microwave field constant. To solve this difficulty, an external magnetic field was applied in the $R_F$ region, which produced an extra doubling of the fine structure levels. Under these conditions, the frequency of the oscillating field was fixed and the intensity of the magnetic field was varied. The minima in the readings of the galvanometer indicated the presence of induced transitions from the metastable state to other short life expectancy states, such as the $2P_{1/2}$ and $2P_{3/2}$ states. 
+
+STAGE 6: *Graphing of readings and extrapolation to the null field of the* $R_{det}$ *region*. For a fixed oscillation frequency of the microwave field, a minimum in the current registered in the galvanometer indicated a decrease in the number of atoms in a metastable state arriving at the metal plate. Afterwards, the points with coordinates defined by the oscillation frequency (R) and the external magnetic field (B) were graphed and the value extrapolated to the null field was read on the graph to obtain the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels. Thus, the Lamb shift was determined indirectly as the separation energy $ΔL$ between two supposedly degenerate levels (Figure. 6.6).
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.3.jpg?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-2-fig2.JPG?raw=true"> 
 </p>
 
-<center>
-	(Source: article published by Dulong and Petit (1819).)
-	</center>
+	
+**Figure 6.6.**  Lamb shift measurement: graph of the measured values of Radio Frequency (R) as a function of the applied magnetic field (B). The lines in blue correspond to the $2P_{3/2}$ level, in red to the $2S_{1/2}$ level and in green to the $2P_{1/2}$ level; $ΔL$ indicates the separation between the supposedly degenerate levels for a null external magnetic field.
 
-However, more precise and recent measurements have shown that the results obtained by Dulong and Petit are only valid at very high temperatures, where the value of the constant $3R ≈ 25 J K^{-1} mol^{-1}$ corresponds to the upper limit of the scale of the ordinates. In no way this value represents the behavior at low temperatures where, moreover, the experimental curves are different for different materials. Observe in Figure 7.3 how for different materials the values close to 300 K differ from the constant $3R ≈ 25 J K^{-1} mol^{-1}$, although for the first two materials, Lead (Pb) and Copper (Cu), the graphed values are much closer to that constant.
+After having analyzed how the Lamb-Retherford experiment allowed to measure the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels, let us consider what the treatment of [quantum electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics) consists of, and qualitatively explain such a shift in the previously considered degenerated energy states of the electron in the hydrogen atom. 
+
+The type of interaction in which an electron emits and absorbs a virtual photon is called self-energy. This implies that a charged particle such as an electron suffers the effects of the field it generates: an electron is itself an electric charge dressed by its own self-champ. Therefore, any electron not only suffers the effect of external electromagnetic fields but is also a source of its own field that produces effects such as the change in the value (renormalization) of it mass and charge. The breaking of this experimentally observed degeneracy of levels was due to an extra perturbation caused by the interaction of the electron field with itself that creates and destroys a virtual photon.
+
+Quantum electrodynamics considers in a quantized way both, the energy levels of the electron and the electromagnetic radiation field that includes real photons (those due to external fields) as well as virtual photons (those that exist due to vacuum fluctuations). For example, Figure 6.7 represents an interaction between two electrons (e-) in which the exchange of a virtual photon (γ) occurs.  
 
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Moglft0304_calor_solidos.jpg" width=480 align=center>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Feynmandiagram.svg" width=300 align=center>
 	</p>
 
 <center>
-	(Source: article published by Dulong and Petit (1819).)
-	</center>
-	
+	(Images credit: CC Wikimedia Commons)
+</center>
 
-**Figure 7.3.** Experimental values of specific heat at constant volume.
-
-### [Einstein's quantum model.](https://en.wikipedia.org/wiki/Einstein_solid)
-
-STAGE 1: description of the physical system.
-
-In this case, the crystal lattice is supposed to be formed by atoms represented by independent harmonic oscillators, all with the same frequency ($ν_n = ν$ for all $n$), and quantized values of energy $E_n = nhν$; $n$ is a positive integer from zero to infinity and $h$ is Planck's constant.
-
-STAGE 2:  description of the distribution function.
-
-As in the previous model, the same Maxwell-Boltzmann distribution function is considered, now with discrete values of the energy $E_n: f(\vec{v}, \vec{r}) = e^{-βE_n}$. 
-
-STAGE 3: calculation of average energy.
-
-Now the integrals are replaced by discrete sums and $〈E〉 =  \frac{∑_{n=0}^{n=∞}E_n e^{-βE_n}}{∑_{n=0}^{n=∞}e^{-βE_n}}$, where $E_n = nhν$ and  $n = 0, 1, 2 , ….. ∞$. The result is Planck's formula $〈E〉 = \frac{hν}{e^{βhν}- 1}$.
-
-STAGE 4:  calculation of internal energy and specific heat.
-
-As $U = 3N_A〈E〉$ and $C_V = (dU/dT)_V$ we will have that $C_V = (3N_Ahν)  \frac{d}{dT} (\frac{1}{e^{βhν}- 1})$ and remembering that $R = N_Ak_B$, it results the expression obtained by Einstein and published in  Annalen der Physik in 1907: 
-
-$C_V = [(3R)(\frac{hν}{k_B T})^2 ]$ $\frac{e^{\frac{hν}{k_B T}}}{(e^{\frac{hν}{k_B T}}-1)^2}$
-
-Now it is convenient to take two limit cases, depending on the temperature $T$. At high temperatures, the exponent $βhν = \frac{hν}{k_B T}≪1$. <br> Then, developing to first order the exponential the average energy is $〈E〉 =   \frac{hν}{e^{βhν}- 1} = \frac{hν}{(1+ βhν+⋯ -1)} =   \frac{hν}{βhν} = k_B T$, from which Dulong and Petit's law is obtained $C_V  = (3N_A )   \frac{d〈E〉}{dT}=3N_A k_B=3R$.
-
-At low temperatures $βhν =  \frac{hν}{k_B T}≫ 1$ and the exponential $e^{ \frac{hν}{k_B T}}≫ 1$, which results in:
-
-$U=(3R)( \frac{hν}{k_B} )(e^{-βhν})$ and $C_V= \frac{dU}{dT} = (3R)( \frac{d}{dT})[\frac{hν}{k_B} (e^{-βhν})]=(3R)(\frac{hν}{k_B T})^2(e^{\frac{- hν}{k_B T}} )$.
-
-### [Debye's quantum model.](https://en.wikipedia.org/wiki/Debye_model)
-
-STAGE 1:  description of the physical system.
-
-For low temperatures, the Einstein model predicts a value that does not vanish when the temperature is zero and also deviates considerably from the experimental results, even when it surpasses the inconsistency of Dulong and Petit's law, which predicts a constant value. To overcome this shortcoming of Einstein's model, Debye assumed in 1912 that each quantized oscillators had a different frequency. He considered the solid as a continuous elastic body, such that its internal energy was due to quantized vibrational states of stationary elastic waves, the called phonons.
-
-The elastic waves that represent the phonons can vibrate both in a longitudinal direction with velocity $v_l$ and in a transverse direction with velocity $v_t$. There is one polarization direction for longitudinal waves and two perpendicular polarization directions for transverse waves. Therefore, the number of standing elastic waves in the interval of frequencies between $ν$ and $ν + dν$ will have two contributions: $n(ν)dν=(4πν^2dν)[\frac{1}{ν_l^3} + \frac{2}{ν_t^3})]$.
-
-STAGE 2:  description of the distribution function.
-
-As in Einstein's model, Debye considered that the same distribution function applies with discrete values of the energy <br> $E_n: f(\vec{v}, \vec{r}) = e^{-βE_n }$, but now $E_n$ is a continuous function of the quantized frequencies.
-
-STAGE 3:  calculation of average energy.
-
-Debye assumed that the statistics of the phonon system in the solid was the same as that used by Einstein: the one that corresponded to Planck photon gas. Following the previous model procedure, the same result was used for obtaining that $〈E〉=  \frac{hν}{e^{βhν}- 1}$.
-
-STAGE 4:  calculation of internal energy and specific heat.
-
-If the energy of waves with frequencies between $ν$ and $ν + dν$ is $n(ν)〈E〉dν$ and if $V_0$ is the volume of one kmol, the internal energy will be $U= (V_0 ) ∫_0^{ν_m}n(ν)〈E〉dν$.  In this equation the upper limit of integration $ν_m$ means that there is a finite number of standing waves so that the internal energy has a finite value. Under such conditions, the total number of standing waves will be equal to $3N_A$ degrees of freedom of one kmol of the solid and
-
-$U=(V_0 ) ∫_0^{ν_m} n(ν)dν= (4πV_0)( \frac{1}{ν_l^3} + \frac{2}{ν_t^3}) ∫_0^{ν_m}ν^2 dν$.
-
-Defining the variable $x= \frac{hν}{k_B T}$ and the Debye temperature $θ= \frac{hν_m}{k_B}$ , it results
-
-$C_V= (9R)[(\frac{4T^3}{θ^3}) ∫_0^{x_m}(\frac{x^3}{e^x- 1})  dx- (\frac{θ}{T})(\frac{1}{e^{θ/T}- 1})]$
-
-Figure 7.4 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
-	
-<p align="center" width="100%">
-    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-2-fig2.JPG?raw=true"> 
-</p>
-	
-
-<center>
-	(Image credit: CC Wikimedia Commons)
-	</center>
-	
-**Figure 7.4.** Comparison in dimensionless units of the results of the three models of a solid.
-
-Again, it is worth to consider two limiting cases. For high temperatures $\frac{θ}{T}≪1$ the second term is negligible and the integral can be calculated. Then, the Dulong and Petit law is obtained again
-
-$C_V= (9R)[(\frac{4T^3}{θ^3})(\frac{1}{3})(\frac{θ}{T})^3- 1]=$ $(9R)[(\frac{4}{3})- 1] n=3R$
-
-For low temperatures, $C_V= (9R)(\frac{4T^3}{θ^3})(\frac{π^4}{15})= (\frac{12Rπ^4}{5}) (\frac{T}{θ})^3$. This dependence on $T^3$ describes much better the experimental results. If the model is improved, especially if more complicated quantum effects are introduced in the description of the solid, the agreement with the experimental results will improve even more, although the calculation procedures will require numerical methods.
+**Figure 6.7.** Feynman diagram showing how a photon is emitted by one electron (the left one) and then absorbed by the second electron (the right one).
 
 ***
 
-[**Next: 7.3.  Procedure to solve problems and explain solutions.**](./vol-II-chap-7-sect-3.md)
+[**Next: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md)

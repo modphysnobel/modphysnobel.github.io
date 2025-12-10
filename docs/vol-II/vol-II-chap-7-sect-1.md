@@ -1,180 +1,173 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md) 
+[**Previous: 5.3. Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md) 
 
 ***
 
-# 7.  Brownian motion and specific heats.
+# 6.   Spectroscopic studies of electronic levels.	
 
+*What happens when an electron changes its energy levels?* 
 
-*Under what conditions is statistical mechanics necessary?*
-
-Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num). When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic [model of the system](https://en.wikipedia.org/wiki/Systems_modeling), a [statistical](https://en.wikipedia.org/wiki/Statistics) procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
-
-### Learning objectives of Chapter 7.
+Spectroscopic studies have been very useful to determine, understand and practically use transitions between quantized electronic levels in atoms. [Atomic spectroscopy](https://en.wikipedia.org/wiki/Atomic_spectroscopy) studies began with the discovery made by Isaac Newton when he observed the decomposition of visible light in different colors produced when that radiation traversed a prism. 
+	
+### Learning objectives of Chapter 6.
 
 After this Chapter you should be able to: 
-
-- Explain the phenomena of [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) from both perspectives: the theoretical one based on Einstein´s interpretation and the experimental one derived from Perrin´s work.
-- Describe the calculations of the [specific heat in solids](https://en.wikipedia.org/wiki/Specific_heat_capacity) according to the models proposed by Dulong and Petit, by Einstein and by Debye.
-- Describe the problem-solving steps proposed by Langevin to obtain Einstein´s Brownian motion equation.
-
-### Description of content of Chapter 7.
-
-Section 7.1. Experimental results concerning the Brownian motion.**
-
-We discuss two contributions to the study of Brownian motion: the theoretical calculation made by Einstein and the experimental procedures reported by Perrin. We also consider the 1926 Physics Nobel Lecture *Discontinuous Structure of Matter* by J.B. Perrin. 
-
-Section 7.2. Statistical mechanical calculations of the specific heat in solids.**
-
-We consider the calculations of the specific heat at constant volume in solids, according to three models: the classic model by Dulong and Petit where the solid is formed by independent classical harmonic oscillators, the quantum models by Einstein where the solid is composed by quantized harmonic oscillators all of them with the same frequency, and the quantum model by Deby where the solid is a continuous elastic body whose internal energy is due to quantized vibrational states of stationary elastic waves, the phonons.
-
-Section 7.3. Procedure to solve problems and explain solutions.
-
-We apply the *Procedure to solve problems and explain solutions* in the description of the steps of [Langevin´s procedure](https://en.wikipedia.org/wiki/Langevin_equation) to obtain Einstein's equation of Brownian motion.
-
-## 7.1. Experimental results concerning the Brownian motion.
-
-To calculate average values of quantities related to physical observables, interpretation models and calculation procedures must be proposed and tested. The models describe with a certain level of approximation the probability distribution functions about the possible configurational states of the system or microstates. The procedures for counting and mathematically operating with the formal representations of these configurational states serve to calculate macroscopic quantities characterizing the physical system. 
-
-### Einstein´s procedures.
-
-[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955) carried out in 1905 one of the first [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) calculations to explain the Brownian movement. He assumed the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the [diffusion](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)) of many particles.
-
-In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: “In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”.
-
-Einstein considered the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein assumed that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle.
-
-The expression $D = (RT)/(6πηaN_A)$ is called the [Stokes-Einstein equation](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)), where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
-
-The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the $X$-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $X$ occurs. That is to say $λ_x=\sqrt{〈x^2〉}=\sqrt{2Dt}$. 
-
-Einstein used the two previous equations that define $D$ and $λ_x$ and predicted that the root mean square deviation of the random displacements in an X direction had a linear behavior with respect to the temperature $T$ of the liquid and the time $t$ during which the Brownian particle suffers collisions with surrounding water molecules:
-
-<center>
-$<ΔX^2> =[(k_BT)/(3πηa)](t)$
-</center>
-
-In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
 	
-<p align="center" width="100%">
-    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
-</p>
+- Describe the Bohr´s atomic model, analyze the energy levels of the hydrogen atom and explain the functioning of lasers.
+- Explain the experimental steps required to produce, measure and interpret the Lamb shift.
+- Describe the main concepts and models contained in the Nobel Lectures corresponding to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, and Schawlow.
 
+### Description of content of Chapter 6.
+
+Section 6.1. Electronic energy levels according to atomic models.
+
+We deal with the spectroscopic description of the hydrogen electronic levels as well as the processes of emitting and absorbing radiation by considering Bohr´s atomic model. We also describe the production of the laser effect (LASER means Light Amplification by Stimulated Emission of Radiation).
+
+Section 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.
+    
+We consider how external perturbations split electronic levels even when there are no external photons present: the vacuum of the electromagnetic field is not empty because it is full of virtual photons. We describe the experiments realized by Lamb and Retherford showing that certain degenerated energy levels in the hydrogen atom are separated when the self-energy of the electron is considered. 
+
+Section 6.3. Identification of concepts and descriptions of models.
+	
+We apply the procedure Identification of concepts and [descriptions of models](https://en.wikipedia.org/wiki/Model) to the analysis of the content of the Physics Nobel Prizes awarded to: Niels Henrik David Bohr (1985-1962) in 1922 “for his services in the investigation of the structure of atoms and of the radiation emanating from them”, Willis Eugene Lamb (1985-1962) in 1955 “for his discoveries concerning the fine structure of the hydrogen spectrum” (Prize shared with Polykarp Kusch), Charles Hard Townes (1915-2015) in 1964 “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle” (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov) and Arthur Leonard Schawlow (1921-1999) in 1981 "for their contribution to the development of laser spectroscopy" (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
+	
+## 6.1. Electronic energy levels according to atomic models.
+
+The simplest atom is the [hydrogen](https://en.wikipedia.org/wiki/Hydrogen): only one proton forms the nucleus, and one electron surrounds it. Hydrogen means *generator of water*. Antoine-Laurent de Lavoisier (1743-1794) named as such in 1783 because he observed that water was produced during hydrogen gas burning. The properties of hydrogen as a chemical element were first studied by Henry Cavendish (1731-1810); in 1766 he also discovered the composition of water, indicating that "water was composed of dephlogisticated air (oxygen) joined to phlogiston (hydrogen)".
+
+Isaac Newton was one of the firsts to demonstrate the scattering of light when he passed visible light through a prism and watched it break up into a continuous spectrum of bands of different colors (Figure 6.1). 
+
+<p align="center">
+<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig2.jpg?raw=true" width=480 align=center>
+</p>
 
 <center>
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 7.1.** Graph of the equation obtained by Einstein.
+**Figure 6.1.** Production of three types of spectra: continuous, emission and absorption.
 
-In Figure 7.1, the time t on the horizontal axis indicates two moments: before the collisions (segment O to N) when the Brownian particle is placed in the liquid and moves freely until the collisions begin, and during the collisions (segment N to M) when the trajectory of the Brownian particle changes randomly satisfying Einstein's linear equation. In section 7.3 we obtain this equation by following Langevin procedure.
+The intensity and frequency (ν) or wavelength (λ) of the spectral lines determine the properties of the atomic structure of the corresponding element, once the observed regularities in each series of [spectral lines](https://en.wikipedia.org/wiki/Spectral_line) are interpreted. The different regions of the electromagnetic spectrum have the following wavelengths (λ) expressed in nanometers: X-rays ($λ<10$), ultraviolet ($10<λ<400$), visible ($400< λ<750$), infrared ($λ>750$). A nanometer is one billionth of a meter ($1 nm = 10^{-9} m$).
 
-Einstein's theoretical work contributed to the following: (1) to demonstrate the discontinuous structure of matter and prove the existence of atoms; (2) to develop ideas and procedures of statistical mechanics, which lays the foundations of thermodynamics, and (3) to test experimentally ideas derived from statistical calculations that led to the exact measurement of quantities such as Avogadro's number and the mass of the hydrogen molecule.
+Systematic studies of atomic spectroscopy began when a Swiss school teacher, [Johann Jacob Balmer](https://en.wikipedia.org/wiki/Johann_Jakob_Balmer) (1825 – 1898) published in 1885 (*Ann. Physik*, vol 25, p. 80) the spectra of the series that now bears his name. The values of the wavelengths in the visible region of the spectral lines designated as $H_α$, $H_β$, $H_γ$ and $H_δ$ were summarized by Balmer using an empirical formula $λ=B(\frac{m^2}{m^2-2^2})$, where $B = 3.6456 \times 10^{-7} m = 364.56 nm$ and the index $m$ is greater than 2.
 
-### Observations and measurements of the Brownian motion.
+In 1888 [Johannes Robert Rydberg](https://en.wikipedia.org/wiki/Johannes_Rydberg) (1854 –1919) generalized Balmer's formula: he took the reciprocal of Balmer's formula, defined $R_H = 4/B$, and expressed the result in terms of the wavenumber $ῦ$ (the number of wavelengths per unit of distance, measured in reciprocals of distances: $m^{-1}$):
 
-The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies*.
+$ῦ = \frac{1}{λ} = \frac{1}{B} (\frac{m^2-2^2}{m^2}) =  \frac{1}{B} (1- \frac{4}{m^2}) =  \frac{4}{B} (\frac{1}{4} - \frac{1}{m^2}) = R_H (\frac{1}{2^2} -\frac{1}{m^2})$ 
 
-Many years later in 1910, [Jean Perrin](https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin) (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
+This is a particular case for $n = 2$ in the general equation $ῦ = \frac{1}{λ} = R_H (\frac{1}{n^2} - \frac{1}{m^2})$ where $m>n$.
 
-Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
-	
-<div style="text-align:center;">
-	<table cellspacing="0" cellpadding="0">
-	<tbody>
-	<tr>
-		<td>
-		<img width="120" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig5.jpg?raw=true"> 
-		</td>
-		<td>
-		<img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig6.jpg?raw=true"> 
-		</td>
-	</tr>
-	</tbody>
-	</table> 
-	</div> 
+The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Rydberg constant for the hydrogen atom. Figure 6.2 shows the alpha lines of each hydrogen series as a function of the wavelength expressed in nanometers; the following abbreviations are used: Lyman (Ly- α), Balmer (Ba- α), Paschen (Pa- α), Brackett (Br- α), Pfund (Pf- α), and Humphreys (Hu- α).
 
-<center>
-(Source: images taken from the book *Les atomes* by Perrin.)
-</center>
-
-
-**Figure 7.2.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image).
-
-To carry out his experiments, Perrin first very carefully prepared particles of the same radius ($0.53 \times 10^{-6}$ m)and then he marked on the microscope reticule the successive positions of a chosen particle. Then he plotted those points on a paper, determined the corresponding displacements of the particle and calculated the mean square value of those displacements. 
-	
-It was estimated that the Brownian particle received the order of $10^{14}$ collisions per second from the water molecules in the surrounding media. By substituting his measurements in Einstein's equation, Perrin obtained the value of Avogadro's number ($N_A$). The following Table 7.1 contains the values obtained by Einstein and by Perrin; numerical values in the third column are multiplied by the factor $10^{23}$. 
-
-<p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.1.jpg?raw=true"> 
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=640 align=center>
 </p>
 
-
 <center>
-(Source: information obtained from Pais´ book.)
+(Images credit: CC Wikimedia Commons)
 </center>
 
-The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document Work describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
+**Figure 6.2.** Spectral series of the hydrogen atom in logarithmic scale.
+
+The manifest regularity of the values of the spectral lines that satisfied the Rydberg formula posed serious problems of theoretical interpretation in the first decades of the 20th century. New approaches were necessary regarding the atomic structure and the processes by which the spectral lines were produced. It is here where [Niels Henrik David Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962) makes his entrance.
+
+### Bohr's model.
+
+In 1913 Niels Bohr considered [Rutherford's atomic model](https://en.wikipedia.org/wiki/Rutherford_model) as a starting point for his interpretation of atomic spectra. According to such model, the atom	 is electrostatically neutral but not indivisible; it is composed of a heavy positively charged nucleus, surrounded by negative electrical charges, the electrons. Bohr assumed that under stable conditions the electron does not emit radiation even when it circulates in closed orbits around the nucleus. He connected the frequencies of the spectral lines with transitions between different electronic states and proposed a frequency condition: the difference in the energies of the orbits from an initial electronic state ($E_i$) to a final state ($E_f$) should be proportional to the frequency $ν_{if}$ of the photon of the quantized radiation emitted or absorbed. This means that $E_f - E_i = hν_{if}$, where $h$ is Planck's constant.
+
+In such circumstances, the emission lines will be due to transitions from a higher energy state to a lower energy state, while the absorption lines will be the reverse, from lower energy states to higher energy excited states. However, Rutherford's model presented a strong electromagnetic contradiction: if there is a Coulomb attractive force between the positive nucleus and the negative electrons, why don't the electrons rush towards the nucleus and the atom doesn't lose energy continuously?
+
+To avoid previous contradiction and explain atomic spectra, Bohr proposed two postulates:
+
+(1) the stability of atoms is due to the fact that the electron occupies stationary states and
+
+(2) the transitions between stationary states are accompanied by emission or absorption of a quantum of electromagnetic radiation (a photon).
 	
+According to Bohr the [angular momentum](https://en.wikipedia.org/wiki/Angular_momentum) ($L$) of the electron was quantized in such a way that $L = m_evr = nh/2π = nђ$, where $ђ = h/2π$ is Dirac's constant and $h$ is Planck's constant; $m_e$ is the mass of the electron, $v$ its speed, $r$ the radius of its orbit and $n$ an index with values 1, 2, 3...; this will be called the principal quantum number.
 
-WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin (1870-1942) maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
+Classically, the force by which the electron describes a circular orbit is $F = (m_ev^2)/r$ where $F$ is the Coulomb force of attraction $F= -κq^2/(r^2)$, with $κ$ a constant of proportionality that depends on the system of units. If we make $κ = 1$ we have that $(m_ev^2)/r = F = q^2/(r^2)$ therefore $(m_ev^2) = q^2/r$ and the kinetic energy is $E_c = ½m_ev^2 = q^2/(2r)$. The potential energy $E_p$ is such that $F = - dE_p/dr$, whence $E_p = - q^2/r$ and the total energy is $E = Ec + Ep = - q^2/(2r)$.
 
-MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
+By definition, the magnitude of the angular momentum is $L = m_evr$, whence $v = L/(m_er)$. Using the expression $(m_ev^2) = q^2/r$ it results $r = (L^2)/(m_eq^2)$ and applying the quantization condition $L_n = nђ$ it can be obtained  $r_n = (L_n)^2/(m_eq^2) = ((ђ^2)/(m_eq^2))(n^2) = a_0(n^2)$. The Bohr radius is defined as $a_0 = (ђ^2)/(m_eq^2) = 5.292 \times 10^{-11} m ≈ 0.53 Å$. This radio corresponds to the shortest distance an electron has in the first electronic orbit and measures almost half an Angstrom for the hydrogen atom ($1 Å = 10^{-10} m$, one tenth of a nanometer).  
 
-NOBEL LECTURE: *Discontinuous Structure of Matter* by Perrin. 
+If the quantized radius $r_n$ is considered in the value of the total energy $E = - q^2/(2r)$ then the quantized energy is $E_n = - q^2/(2r_n) = -((m_eq^4)/(2 ђ^2))(1/n^2)= - R_H/(n^2)$, where the Rydberg constant for the hydrogen atom is $R_H = [(m_eq^4)/(2ђ^2)]$.
 
-- Introduction
-- **The Brownian movement**
-- Law of the vertical distribution of an emulsion
-- Non-diluted emulsions
-- **Measurements of the Brownian movement**
-- The molecular reality
-- Monomolecular films
-- The discontinuous structure of the atom
+If the energy of the initial state $E_i$ characterized by the quantum number $m$ is $E_m = - R_H/(m^2)$ and the energy of the final state $E_f$ characterized by the quantum number $n$ is $E_n = - R_H/(n^2)$, then the energy of the transition from the initial state to the final state $E_f- E_i$ will be $hν_{if}$. (See Figure 6.3.).
 
-MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
+$hν_{if}= E_f- E_i = E_n- E_m = [\frac{-R_H}{n^2}]- [\frac{-R_H}{m^2}]=R_H [\frac{1}{m^2} - \frac{1}{n^2} ]$.
 
-In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Emission_of_Light_by_Hydrogen_%2801F8GFBF8YZEY6KY9WNRWEV1N2%29.png" width=480 align=center>
+	</p>
+
+<center>
+	(Images credit: CC Wikimedia Commons)
+	</center>
+
+**Figure 6.3.**  First spectral emission lines in the Balmer series.
+
+However, the intensities of the atomic spectral lines of elements heavier than hydrogen were different from those predicted by Bohr's theory. These deficiencies were corrected in 1916 by [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) (1868-1951), who considered that electrons moved at relativistic speeds (close to the value of the speed of light) and in quasi-elliptical orbits; he also incorporated the motion of the nucleus.
+
+[Quantum mechanics](https://en.wikipedia.org/wiki/Quantum_mechanics) was initially called wave mechanics because the movements of electrons, previously considered as tiny corpuscles with quantized mass but non quantized radii and energies, should be associated with matter waves and probabilistic descriptions. This was enough to calculate transitions between quantized energy levels. Later, a wave equation was proposed to describe the behavior of those matter waves and to calculate the behavior of electrons as quantum particles. By solving such equation, the expressions of the energies and quantized radii derived by Bohr were obtained.
+	
+The development of quantum mechanics lead to a completely quantized treatment of radiation and matter when radiation had discrete values expressed in terms of photons and matter was considered as made up of atoms containing electrons in states with quantized energies. An example where radiation and electronic levels are quantized is the laser (Light Amplification by Stimulated Emission of Radiation).
+
+### [Laser effect](https://en.wikipedia.org/wiki/Laser).
+
+According to [classical electromagnetism](https://en.wikipedia.org/wiki/Classical_electromagnetism), any accelerated charge emits electromagnetic radiation and the absorption of energy results from the work done on the charged particles by the force applied by an external electric field. However, the quantum point of view gives a very different explanation of emission and absorption processes: such processes are due to radiative transitions between electronic levels of different quantized energies. This was explained by Einstein in an article published in Phys. Zeitschr. 18, 121, 1917, where, in addition to considering spontaneous absorption and emission processes, he proposed the existence of [stimulated emission](https://en.wikipedia.org/wiki/Stimulated_emission) processes that years later will be used in the production of the laser.
+
+Transitions between electronic levels are radiative if the energy $hν$ of the absorbed or emitted photon is equal to the energy change $ΔE$ between an initial state whose principal quantum number is $n_i$ and a final state of different energy represented by $n_f$. Here Planck´s relation indicates that $hν = ΔE = En_f – En_i$. Since the electron experiences a Coulomb interaction with the proton in the nucleus, its negative energy corresponds to bound states and carries a negative sign. Remember that in the Bohr energy expression $E_n = -R_H/n^2$, with $n ≥ 1$.
+
+The quantum processes of radiative transitions are of two types: spontaneous when it is in the absence of external radiation and induced or stimulated by the presence of external photons. Spontaneous absorption occurs if $ΔE< 0$, when the electron rises to a level whose energy is less negative ($n_f > n_i$) and the final level is closer to the ionization energy at which $E_∞ = 0$. There is emission when $ΔE > 0$ and the electron passes to a more negative level ($n_f < n_i$), so that now the final level is closer to the ground state, where the expression $E_n = -R_H/n^2$ has the value $E_1 = - R_H$ when $n=1$.
+
+Consider an atom whose electrons occupy only two levels such that $n_2 > n_1$, with respective energies $E_2$ and $E_1$, where $E_2 > E_1$ corresponds to an excited state and $E_1$ to a ground state with the lowest possible energy. Under such conditions, $N_2$ and $N_1$ will indicate the numbers of atoms with electrons in each of the two levels of the system; these are the so-called occupation numbers of the corresponding electronic populations. Also, $g_2$ and $g_1$ are the respective degeneracies at those levels (the degeneracy is the number of electrons with the same energy). If the system is in thermodynamic equilibrium at a temperature $T$, the relative number of particles in such states is described by the [Boltzmann factor](https://en.wikipedia.org/wiki/Boltzmann_distribution) $exp[-(E_2 – E_1)/k_BT]$, where $k_B$ is Boltzmann's constant.
+
+For the atomic system described above, in spontaneous emission the electron goes from the excited state to the ground state and emits a photon of energy $hν = E_2 - E_1$. (The half-life of an excited state is usually of the order of $10^{-8}$ sec, while in the so-called metastable states it is of the order of $10^{-3}$ sec.) In spontaneous absorption the opposite occurs due to a transition of the electron from the ground state to the excited state; here the atom absorbs a photon of energy $hν_{ext}$ coming from an electromagnetic field external to the system.
+
+The stimulated emission is a completely quantum process that occurs when the electron is in the excited state $E_2$, the atom is in the presence of external photon of energy $hν_{ext}$ and a transition to the ground state $E_1$ is produced. This process is accompanied by the emission of a photon whose energy is $hν = E_2 - E_1 = hν_{ext}$. The incident external photon – a virtual photon- corresponds to the action of an effective electromagnetic field that is external to the atomic system. Virtual photons are generated by the quantum effect of [vacuum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation).
+
+In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
 
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.2.jpg?raw=true"> 
+    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig5.JPG?raw=true"> 
 </p>
 
+<center>
+	(Image credit: drawings made by the authors.)
+	</center>
 
-!!! quote "Box 7.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
+**Figure 6.4.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG){width="40"}) causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG){width="20"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG){width="40"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG){width="40"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG){width="40"}).
 
-	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
-	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
-	•	According to Avogadro’s hypothesis equal numbers of heavy or light molecules develop equal pressures at the same temperature and in equal volumes: When gaseous masses, at the same temperature and pressure, occupy equal volumes, they all contain the same number of molecules. <br>
-	•	Crystallography refers to laws of discontinuity of elementary cells which are repeated periodically along the three dimensions of the crystal lattice. <br>
-	•	The kinetic theory of gases indicates that matter is made of elastic molecules which are on the average fairly widely separated from one another so that, between two collisions, each molecule can move in a straight line, the duration of the collision being negligible in relation to that of the free path. <br>
-	•	As Clausius observed, the molecules are all the smaller as the mean free path. <br>
-	•	Brownian motion is observed when a microscopic particle placed in water (or any other liquid), instead of falling in a regular manner exhibits a continuous and perfectly irregular agitation. … The Brownian movement (an experimental fact) leads us to the hypothesis of the molecules. <br>
-	•	A stable emulsion is comparable to a solution. An emulsion is formed when a large number of identical particles (grains) are in suspension in a liquid. It will be assumed that Avogadro’s law applies to emulsions as it does to gases. <br>
-	•	The law of Van’t Hoff is an extension of Avogadro’s law to solutions: : “Equal numbers of molecules, regardless of the kind, in the gaseous state or dissolved, exert – at the same temperature and in equal volumes – equal pressures on the walls detaining them”. <br>
-	•	In a vertical column of a gas in equilibrium the density decreases as the altitude increases. <br>
-	•	A non-diluted emulsion is comparable to a compressed liquid of which the molecules would be visible. <br>
-	•	In a stable emulsion made of equal grains each one of them has an effective weight equal to its actual downward weight reduced by the upward push that according with Archimedes’ principle is equal to the weight of the liquid displaced by the volume of each grain. <br>
-	•	The equilibrium distribution of an emulsion is due to the Brownian movement…. In an emulsion the mean square of the horizontal displacement of a grain is proportional to the duration of each free rectilinear displacement. Such displacements are due to a great number of collisions of the surrounding molecules of the liquid with the grain molecules. <br>
-	•	There is a diffusion for the grains of an emulsion just as for the molecules of a solution. The steady state in a vertical column of emulsion is produced and maintained by the interplay of two opposing actions, gravity and the Brownian movement… At each level the flow through diffusion towards the poor regions is equal to that which gravity produces towards the rich regions. <br>
-	•	To calculate the flow produced by gravity, the mean velocity of fall of a grain animated by a Brownian movement is calculated by Stokes’ law, which applies to the uniform fall in a viscous liquid of a large sphere. <br>
-	•	There exists equality between the mean energy of translation and the mean energy of rotation. <br>
-	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
-	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
+Consider that the spectral density of electromagnetic radiation of frequency $ν$ is $ρ(ν)$; this function defines the time ratio of the transitions between the two quantized states under consideration. Let $R_{1—2}$ be the probability per unit time of a transition from the initial state $E_1$ to the final state $E_2$ (emission process) and $R_{2—1}$ the corresponding probability for the transition from the initial state $E_2$ to the final state $E_1$ (absorption process). For spontaneous emission and spontaneous absorption these probabilities will be proportional to the energy density $ρ(ν)$ of the radiation of energy $hν = E_2 - E_1$. The induced emission does not depend on the density $ρ(ν)$.
 
-!!! quote "Box 7.2. *Issues requiring explaining models in Perrin´s Lecture (2)*."
+In the two previous cases, proportionality coefficients are introduced, the so-called [Einstein coefficients](https://en.wikipedia.org/wiki/Einstein_coefficients), which will depend on the characteristic properties of the quantized states. The coefficient $B_{21}$ will correspond to the spontaneous emission of the photon of energy $hν$ for the transition from $E_2$ to $E_1$, while $B_{12}$ will refer to the absorption of a photon of the same energy hν for the transition between levels $E_1$ to $E_2$. For the absorption $R_{1-2} = B_{12}ρ(ν)$ and for the spontaneous emission $R_{2—1} = B_{21}ρ(ν)$.
 
-	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
-	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
-	•	Further contributions by Perrin to improve the knowledge of the manner in which matter is discontinuous: <br>
-	-- in 1895: indication that cathode rays have a negative electric charge and attempts to measure its relation charge to mass; <br>
-	-- in 1901: assumption that the atom has a structure like a solar system, revealing that the atom as well as the nucleus are discontinuous and have their own components; <br>
-	-- in 1920: consideration that atoms can be condensations of a whole number of hydrogen atoms, the small differences which exist are explained by the large variations of internal energy which may accompany their condensations; <br>
-	-- in 1920: indication that the loss of energy which must accompany the condensation of hydrogen into helium suffices alone to account for approximately one hundred milliard years of solar radiation at the present rate; <br>
-	-- in 1923: interpretation of Rutherford transmutations of elements not as being the effect of an explosive disintegration but on the contrary, as an integration (the helium nucleus combines with the nucleus that it has hit, to form a radioactive atom which soon expels a proton, and that there finally remains an atom which is three units heavier than the atom that has been hit).
+However, in the emission process, in addition to spontaneous emission, there is a contribution of the induced emission to which it is associated a third coefficient $A_{21}$ independent of the density $ρ(ν)$; therefore $R_{2—1}= A_{21} + B_{21}ρ(ν)$. This means that the variations over time of the populations between these levels correspond to:
 
+*(Rate of change of absorbed energy)* $≈ N_1 \times$ *[Probability of stimulated absorption]*
+
+*(Rate of change of emitted energy)* $≈ N_2 \times$ *[(Stimulated emission probability) + (Spontaneous emission probability)]*,
+
+In terms of Einstein coefficients, the above relationships are expressed as:
+
+$\frac{dN_{12}}{dt} = N_1 (R_{1—2} )= N_1 [ρ(ν)B_{12} ]$       y      $\frac{dN_{21}}{dt} = N_2 (R_{2—1} ) = N_2 [ρ(ν)B_{21}+ A_{21} ]$
+
+If the complete system is in thermodynamic equilibrium, each of the occupation numbers $N_1$ and $N_2$ are determined by a [Maxwell-Boltzmann distribution](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution) $N_i = N_0[exp(-βE_i)]$, for $i = 1$ and $2$. In this expression $N_0$ is a normalization constant and the factor $β = 1/(k_BT)$, with $k_B$ the Boltzmann constant and $T$ the temperature. Therefore, the quotient of the populations between the two levels will be $N_2/N_1 = [exp(-βE_2)]/[ exp(-βE_1)] = exp(-βhν)$.
+
+If the previous condition is fulfilled between $N_1$ and $N_2$ and that by microscopic reversibility  $\frac{dN_{12}}{dt}=  \frac{dN_{21}}{dt}$, we obtain $N_1 [ρ(ν)B_{12} ]= N_2 [ρ(ν)B_{21}+ A_{21} ]$, from which $\frac{N_2}{N_1} = \frac{ρ(ν)B_{12}}{ρ(ν)B_{21}+ A_{21}} = e^{-βhν}$. Solving last equation, it results that $ρ(ν)= \frac{A_{21}⁄B_{12}}{e^{βhν}-(B_{21}⁄B_{12})}$.
+
+On the other hand, according to the law of [black body radiation](https://en.wikipedia.org/wiki/Black-body_radiation) obtained by Planck, we have that $ρ(ν)=[\frac{8πhν^3}{c^3}][\frac{1}{e^{βhν}-1}]$. By equating the two previous expressions for $ρ(ν)$ the following condition must be satisfied $\frac{A_{21}⁄B_{12}}{e^{βhν}-(B_{21}⁄B_{12})}= [\frac{8πhν^3}{c^3}][\frac{1}{e^{βhν}-1}]$ which implies next two conditions $\frac{B_{21}}{B_{12}} =1$ and  $\frac{A_{21}}{B_{12}} =[\frac{8πhν^3}{c^3}]$.                                                             
+
+From the first condition it can be inferred that the coefficients of stimulated absorption and stimulated emission are the same. The second condition establishes that the spontaneous emission coefficient varies with frequency as $ν^3$, which means that if the difference between the two quantized states increases because the frequency $ν$ is quite high ($hν = E_2 – E_1$), the stimulated emission corresponding to $A_{21}$ will be much more likely than the spontaneous emission represented by $B_{12}$.
+
+From the condition $\frac{N_2}{N_1} =\frac{ρ(ν)B_{12}}{ρ(ν)B_{21}+ A_{21}} = e^{-βhν}$ it can be obtained that $ρ(ν)(\frac{B_{12}}{B_{21}}) =$ $[ρ(ν)(\frac{B_{21}}{B_{21}})+ (\frac{A_{21}}{B_{21}})]$ $(e^{-βhν} )$. By applying the condition $\frac{B_{21}}{B_{12}} =1$, it follows by dividing by $ρ(ν)$ that $1=$ $[1+ (\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} )]$ $(e^{-βhν} )$ and then $(\frac{A_{21}}{B_{21}} )(\frac{1}{ρ(ν)} ) = e^{βhν}-1$. In here $βhν=[hν⁄(k_B T)]$. If the value of $βhν$ is lower, equal or greater than 1, the stimulated emission will be dominant, equiparable or negligible when compared to the spontaneous emission.
+
+When $N_2 >> N_1$, that is, when the population of the excited state $E_2$ is much greater than the population of the state with the lowest energy $E_1$, the emission is much more frequent than the absorption and the amplification of the radiation characteristic of the laser effect occurs.
+
+For $N_2 >> N_1$ it is required to invert the population, which is produced by optical pumping. If under this condition, the radiation accumulates in a resonant cavity that has two mirrors at its ends, one fully reflective and the other semi-transparent, then the laser radiation is emitted.
+
+	
 ***
 
-[**Next: 7.2.  Statistical mechanical calculations of the specific heat in solids.**](./vol-II-chap-7-sect-2.md)
+[**Next: 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.**](./vol-II-chap-6-sect-2.md)

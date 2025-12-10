@@ -1,1843 +1,268 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 11.2 Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md) 
+[**Previous: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-III-chap-9-sect-2.md) 
 
 ***
 
-## 11.3. Phases in a learning and research process.
+## 9.3.  Communication forms for describing scientific texts.
 
-In this section we describe Geim´s Nobel Lecture *Random Walk to Graphene*: MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
+Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 9.2 for a description of these communication forms.
 
-We analyze this Lecture as a learning and research process that involves two structural phases:
-
-• The learning phase is for inquiring and exploring and comprehend the steps of motivation and problematization in connection with the acquisition of existing knowledge and the development of skills.  
-
-• The research phase is for evaluating and communicating and consists in the description of testing, discovery and publishing concerning the steps of experimentation and problematization for the development and application of new knowledge and the confrontation with external ideas, methods, and results. 
-
-In what follows we present a set of Tables describing the content of Geim´s Lecture. The title of each Table refers to the corresponding subtitle included in the original document.  The first column in the Table describes reported activities by directly quoting or summarizing what is written in each section of the Lecture. The next five columns of the Table refer to those steps that we consider mainly correspond to motivation (Motv), problematization (Prob), experimentation (Expm), testing (Tstn), or publication (Publ). We indicate with an X the steps that we estimate have been predominantly involved in each activity. For simplicity, we omit many names and simplify the descriptions of such  activities. These tables represent the trajectory of a learning and research process that started with a PhD dissertation and lead to a Nobel Prize.
-
-Geim starts his Nobel Lecture with this remark: “I hope that the reader will excuse me if on this occasion I recommend my own writings [1–3]. Instead of repeating myself here, I have chosen to describe my twisty scientific road that eventually led to the Nobel Prize. Most parts of this story are not described anywhere else, and its timeline covers the period from my PhD in 1987 to the moment when our 2004 paper, recognized by the Nobel Committee, was accepted for publication.”
-
-1. A. K. Geim, K. S. Novoselov. Nature Mater. 6, 183 (2007). 
-2. A. K. Geim, P. Kim. Sci. Am. 298, 90 (2008). 
-3. A. K. Geim. Science 324, 1530 (2009).
-
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.1. Zombie management.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-PhD dissertation in 1987: *Investigation of mechanisms of transport relaxation in metals by a helicon resonance method*.
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-    <tr>
-    <td>
-Work at the Institute of Microelectronics Technology on a personal project for fabricating a sandwich consisting of a thin metal film and a [superconductor](https://en.wikipedia.org/wiki/Superconductivity) separated by a thin insulator. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-    <tr>
-    <td>
-Experimental report on the introduction of a new experimental system concerning electron transport in a microscopically inhomogeneous field (1989).
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+ <p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3.png?raw=true"> 
+</p>
 
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-   Table 11.2. One man’s junk, another man’s gold.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Six month visiting fellowship to study devices readily available at a laboratory in Nottingham University in the United Kingdom; two publications in Physical Review Letters (1991, 1992).
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-    <tr>
-    <td>
-Work as postdoc in European universities during four years for studying mesoscopic systems and phenomena such as two-dimensional electron gases, quantum point contacts, resonant tunnelling, and [quantum Hall effect](https://en.wikipedia.org/wiki/Quantum_Hall_effect).
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Familiarization with heterostructures grown by molecular beam epitaxy and improvement of personal expertise in microfabrication and electron-beam lithography technologies.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+<center>
+(Table elaborated by the authors.)
+</center>
 
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.3. Dutch comfort.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Looking for a permanent academic position (1994).
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Associate professors at Nijmegen’s High Field Magnet Laboratory in the Netherlands.
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Studies of mesoscopic superconductivity and development of an original technique of ballistic Hall micromagnetometry (1997).
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-Publication of papers on paramagnetic Meissner effect, vortices carrying fractional flux, vortex configurations in confined geometries and so on. 
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+Next, we analyze how the four previous communication forms can be used to describe different aspects of the Physics Nobel Lectures concerning matter waves and electron diffraction as well as the correspondence and uncertainty principles. Appropriate references of those Nobel Lectures are given in MLA format.
+
+### (1). Flux DIAGRAM for obtaining de Broglie equation $𝑝= ℎ/𝜆$ (as described in Section 9.1 and explained in his Nobel Lecture).
 
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.4. A spell of levity.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Work on [magnetic water](https://en.wikipedia.org/wiki/Magnetic_water_treatment) (liquid magnetized under an applied magnetic field); looking for the physics behind these phenomena (diamagnetism ). 
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Production of balls of levitating water; experiments with a levitating frog and other objects floating inside a magnet; publication in Physics Today (1998).
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+<p align="center" width="100%">
+    <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-3-fig1.JPG?raw=true"> 
+</p>
+	
+
+### (2). Experimental DESIGNS explained by Davisson and by Thomson in their Nobel Lectures.
+
+Diffraction of electrons by crystals was independently observed by Davisson and Germer and by Thomson using quite different experimental settings. Both experiments demonstrated the physical existence of electron waves and therefore that electrons satisfy de Broglie’s equation  $p = h/λ$. They obtained equivalent experimental values: Davisson and Germer obtained $λ = 1.66 Å$ for the electron wavelength, and Thomson obtained $λ = 1.65 Å$.
+
+In Davisson-Germer experiment a gun produced an electron beam that was directed perpendicular onto the surface of a crystal that can be rotated about the beam axis. Afterwards, scattered waves were registered in a collector galvanometer (Figure 9.3a). Strong reflections were observed at an angle $θ = 50°$ when the accelerated voltage was 54 volts (Figure 9.3b). At this voltage the observed peak in the pattern of dispersed electrons was a qualitative demonstration of the validity of de Broglie´s hypothesis $p = h/λ$.
 
 
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-3-fig2.JPG?raw=true"> 
+</p>
+	
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.5. Friday night experiments.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Experimental exploratory detours: it requires lateral thinking and digging through irrelevant literature without any clear idea in sight to get a feeling of what could be interesting to explore. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Proof-of-concept experiments to make a material that mimicked the climbing ability of [geckos](https://en.wikipedia.org/wiki/Gecko) (their hairs are attached to the opposite surface of a glass due to a van der Waals attractive force).
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
+**Figure 9.3.** Davisson- Germer experiment: (a) experimental arrangement, (b) scattered intensity as a function of the angle $θ$ for two different values of the voltage V.
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.6. Better to be wrong than boring.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-A list of Friday night experiments performed in a period of nearly fifteen years contains failures like the interpretation of giant [diamagnetism](https://en.wikipedia.org/wiki/Diamagnetism) in alloys as a sign of high-T superconductivity or the detection of “heartbeats” of individual living cells. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-However, we succeed in topics such as [levitation](https://en.wikipedia.org/wiki/Levitation_(physics)), gecko tape and graphene. “When one dares to try, rewards are not guaranteed, but at least it is an adventure.”
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+Thomson experiments were different in two aspects: 
+
+•	The accelerated energy for the electrons was much higher (in between 10,000 - 40,000 eV instead of in between 30-600 eV) making possible that the electrons could pass through thin foils of solid materials and be observed by transmission rather than by reflection.
+
+•	The diffracting material was not a single crystal, but a microcrystalline aggregate composed by randomly oriented individual crystals. This fact resulted in diffraction patterns of concentric circles that were received in a photographic plate.
+
+It is interesting to note that in 1897 [Joseph John Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) (1856-1940), the father, discovered the electron and received the 1906 Physics Nobel Prize for showing that the electron is a particle, and that in 1927 George Paget Thomson (1892-1975), the son, discovered the diffraction of the electron and received the 1937 Physics Nobel Prize for showing that the electron is a wave.
+
+WORK: “The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms.”
+
+MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1906/thomson/facts/>
+
+NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
+
+- Introductory
+- Electric deflection of the rays
+- Determination of e/m
+- Corpuscles very widely distributed
+- Magnitude of the electric charge carried by the corpuscle
+	
+
+### (3). DIALOGUES between Bohr and Heisenberg about correspondence and uncertainty principles.
+
+This is a hypothetical dialogue between the two laureates that has been prepared by selecting and then quoting some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932 (Figure 9.4)
+
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3b.png?raw=true"> 
+</p>
+
+<center>
+(Image credit: CC Wikimedia Commons)
+</center>
+
+**Figure 9.4.** Werner Heisenberg and Niels Bohr in 1934.
+
+- Bohr´s Lecture *The Structure of the Atom* contains the section called *The correspondence principle.*
+	
+…..
+
+“According to the correspondence principle, it is assumed that every transition process between two stationary states can be co-ordinated with a corresponding harmonic vibration component in such a way that the probability of the occurrence of the transition is dependent on the amplitude of the vibration.”
+	
+…….
+	
+“ the case of the Stark effect, where, on the other hand, the classical theory was completely at a loss, the quantum theory explanation could be so extended with the help of the correspondence principle as to account for the polarization of the different components into which the lines are split, and also for the characteristic intensity distribution exhibited by the components.”
+	
+……
+	
+….. “Indeed, it was possible, with the aid of the correspondence principle, to account completely for the characteristic rules which govern the seemingly capricious occurrence of combination lines, and it is not too much to say that the quantum theory has not only provided a simple interpretation of the combination principle, but has further contributed materially to the clearing up of the mystery that has long rested over the application of this principle.”
+
+“The same viewpoints have also proved fruitful in the investigation of the so-called band spectra. These do not originate, as do series spectra, from individual atoms, but from molecules; and the fact that these spectra are so rich in lines is due to the complexity of the motion entailed by the vibrations of the atomic nuclei relative to each other and the rotations of the molecule as a whole.”
+
+……
+
+“It is true we no longer think that the rotation is reflected in the spectra in the way claimed by classical electrodynamics, but rather that the line components are due to transitions between stationary states which differ as regards rotational motion. That the phenomenon retains its essential feature, however, is a typical consequence of the correspondence principle.”
+
+- Heisenber´s Lecture *The Development of Quantum Mechanics* contains comments on the correspondence principle as well as explanations concerning the uncertainty principle.
+
+“Quantum mechanics, on which I am to speak here, arose, in its formal content, from the endeavour to expand Bohr’s principle of correspondence to a complete mathematical scheme by refining his assertions. The physically new viewpoints that distinguish quantum mechanics from classical physics were prepared by the researches of various investigators engaged in analyzing the difficulties posed in Bohr’s theory of atomic structure and in the radiation theory of light.”
+	
+…..
+	
+…. “Classical physics seemed the limiting case of visualization of a fundamentally unvisualizable microphysics, the more accurately realizable the more Planck’s constant vanishes relative to the parameters of the system. This view of classical mechanics as a limiting case of quantum mechanics also gave rise to Bohr’s principle of correspondence which, at least in qualitative terms, transferred a number of conclusions formulated in classical mechanics to quantum mechanics. In connection with the principle of correspondence there was also discussion whether the quantum-mechanical laws could in principle be of a statistical nature; the possibility became particularly apparent in Einstein’s derivation of Planck’s law of radiation.”
+	
+…..
+	
+“To each stationary state of an atom corresponds a whole complex of parameters which specify the probability of transition from this state to another. There is no direct relation between the radiation classically emitted by an orbiting electron and those parameters defining the probability of emission; nevertheless Bohr’s principle of correspondence enables a specific term of the Fourier expansion of the classical path to be assigned to each transition of the atom, and the probability for the particular transition follows qualitatively similar laws as the intensity of those Fourier components.” 
+
+…..
+	
+“It thus seemed consistent simply to adopt in quantum mechanics the equations of motion of classical physics, regarding them as a relation between the matrices representing the classical variables. The Bohr-Sommerfeld quantum conditions could also be re-interpreted in a relation between the matrices, and together with the equations of motion they were sufficient to define all matrices and hence the experimentally observable properties of the atom.”
+	
+……
+	
+….. “Closer examination of the formalism shows that between the accuracy with which the location of a particle can be ascertained and the accuracy with which its momentum can simultaneously be known, there is a relation according to which the product of the probable errors in the measurement of the location and momentum is invariably at least as large as Planck’s constant divided by 4π. In a very general form, therefore, we should have
+
+<center>
+$Δp Δq  ≥ h/4π$
+</center>
 
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.7. The Mancunian way.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Full professorship at the University of Manchester for him and lectureship for his wife Irina Grigorieva. A first grant of £500K is for acquiring essential equipment. Publication of papers in Nature, Nature Materials, and Physical Review Letters.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-    <tr>
-    <td>
-Creation of the Manchester Centre for Mesoscience and Nanotechnology as a fully functional laboratory and a microfabrication facility dedicated to the production of new structures and devices. The funding normally goes to researchers who work both efficiently and hard.  
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+where p and q are canonically conjugated variables. These uncertainty relations for the results of the measurement of classical variables form the necessary conditions for enabling the result of a measurement to be expressed in the formalism of the quantum theory. Bohr has shown in a series of examples how the perturbation necessarily associated with each observation indeed ensures that one cannot go below the limit set by the uncertainty relations. He contends that in the final analysis an uncertainty introduced by the concept of measurement itself is responsible for part of that perturbation remaining fundamentally unknown.” 
+	
+……
+	
+….. “The behaviour of the observer as well as his measuring apparatus must therefore be discussed according to the laws of classical physics, as otherwise there is no further physical problem whatsoever. Within the measuring apparatus, as emphasized by Bohr, all events in the sense of the classical theory will therefore be regarded as determined, this also being a necessary condition before one can, from a result of measurements, unequivocally conclude what has happened.”
+	
+….
+	
+….. “A visual description for the atomic events is possible only within certain limits of accuracy - but within these limits the laws of classical physics also still apply. Owing to these limits of accuracy as defined by the uncertainty relations, moreover, a visual picture of the atom free from ambiguity has not been determined. On the contrary the corpuscular and the wave concepts are equally serviceable as a basis for visual interpretation.”
+	
+…..
+	
+“For the clearest analysis of the conceptual principles of quantum mechanics we are indebted to Bohr who, in particular, applied the concept of complementarity to interpret the validity of the quantum-mechanical laws. The uncertainty relations alone afford an instance of how in quantum mechanics the exact knowledge of one variable can exclude the exact knowledge of another. This complementary relationship between different aspects of one and the same physical process is indeed characteristic for the whole structure of quantum mechanics. I had just mentioned that, for example, the determination of energetic relations excludes the detailed description of spacetime processes.” 
 
+### (4). DISCOURSE presented by de Broglie when he received the 1929 Physics Nobel Prize (excerpts from his Nobel Lecture *The Wave Nature of the Electron*).
 
-<table width="100%">
-<tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.8. Three little clouds.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Arrival of the first Manchester PhD student and suggestion of a new lateral experiment as research project:  to make films of graphite ‘as thin as possible’ and, if successful, to study their ‘mesoscopic’ properties (2002). 
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Appearance of three badly shaped thought clouds: concept of ‘metallic electronics”, [carbon nanotubes](https://en.wikipedia.org/wiki/Carbon_nanotube), and intercalated graphite compounds. The three thought clouds merged into the PhD project. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+…..
+	
+“For a long time physicists had been wondering whether light was composed of small, rapidly moving corpuscles. This idea was put forward by the philosophers of antiquity and upheld by Newton in the 18th century. After Thomas Young’s discovery of interference phenomena and following the admirable work of Augustin Fresnel, the hypothesis of a granular structure of light was entirely abandoned and the wave theory unanimously adopted.”…... “Experiment also yielded decisive proof in favour of an atomic constitution of electricity; the concept of the electricity corpuscle owes its appearance to Sir J. J. Thomson and you will all be familiar with H. A. Lorentz’s use of it in his theory of electrons.” 
 
+“Some thirty years ago, physics was hence divided into two: firstly the physics of matter based on the concept of corpuscles and atoms which were supposed to obey Newton’s classical laws of mechanics, and secondly radiation physics based on the concept of wave propagation in a hypothetical continuous medium, i.e. the light ether or electromagnetic ether.” … “By an intuition of his genius Planck realized the way of avoiding it: instead of assuming, in common with the classical wave theory, that a light source emits its radiation continuously, it had to be assumed on the contrary that it emits equal and finite quantities, quanta. The energy of each quantum has, moreover, a value proportional to the frequency v of the radiation. It is equal to $hv$, $h$ being a universal constant since referred to as Planck’s constant.”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.9. Legend of a Scotch tape.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-The student was asked to make thin graphite films in a tablet of pyrolytic graphite, which was several mm thick and an inch in diameter. The student was advised to employ a polishing machine and to use a finer polishing liquid. He will work with a high-density graphite instead of highly oriented pyrolytic graphite.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-Another collaborator started working on a piece of cellotape with graphite flakes attached to it. He has been using a fresh surface of graphite by removing a top layer with sticky tape. Geim observed in a microscope at the remnants of graphite and found pieces much thinner than those obtained with the polishing machine. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-Geim and a new collaborator decided to check out the electrical properties of the graphite flakes found on the cellotape and to transfer them onto [glass](https://en.wikipedia.org/wiki/Glass) slides by using tweezers. 
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Geim suggested the use of an oxidized Si wafers as substrates. Placing thin graphite fragments onto those wafers allowed to observe interference colours indicating that some of the fragments were optically transparent. Some of these fragments were just a few nm thick: this was a first real breakthrough.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Geim used to work in the lab preparing samples, doing measurements, and analyzing results; nevertheless, after 2006 he needed to focus on writing papers and analyzing data.
-        </td>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+“The success of Planck’s ideas entailed serious consequences. If light is emitted as quanta, ought it not, once emitted, to have a granular structure? The existence of radiation quanta thus implies the corpuscular concept of light. “…. “It must therefore be assumed that traditional dynamics, even as modified by Einstein’s theory of relativity, is incapable of accounting for motion on a very small scale.”
 
+“The existence of a granular structure of light and of other radiations was confirmed by the discovery of the photoelectric effect.” …. “Nevertheless, it was still necessary to adopt the wave theory to account for interference and diffraction phenomena and no way whatsoever of reconciling the wave theory with the existence of light corpuscles could be visualized.”  
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.10. Eureka moment.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-The research goal always was to find some exciting physics rather than just observing ultrathin films in a microscope. 
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-The Scotch tape technique was used for the isolation and identification of ultra-thin graphite films and graphene. Silver paint was employed to make electrical contacts to graphite platelets transferred from the Scotch tape. The prepared material resulted in higher conductivity and reasonably low resistance.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-Transfer of graphite crystal from the tape was made by using tweezers to make four closely spaced contacts required for the application of voltage; the fingers were used to apply silver paint with a toothpick. The crystal was nearly 20 nm thick and its lateral size comparable to the diameter of a human hair.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Detection of very small EFE (electric field effect) when a voltage was applied to the glass slides. After this discovery the project was oriented to improve procedures for cleaving, to find thinner and thinner crystals, and to make better and better devices. Crystal sizes went up from a few microns to nearly a millimeter.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Learning how to identify monolayers by using optical and [atomic force microscopy.](https://en.wikipedia.org/wiki/Atomic_force_microscopy) 
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-Concerning microfabrication, the electron-beam [lithography](https://en.wikipedia.org/wiki/Lithography) was used to define proper Hall bar devices and started making contacts by metal evaporation rather than silver painting.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-The move from multilayers to monolayers and from hand-made to lithography devices was conceptually simple but never straightforward.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Careful and complete electrical measurements were made to study more than 50 ultra-thin devices by working fourteen hours per day and no breaks for the weekends. We disregarded any curve, unless it was reproducible for many devices and, to avoid any premature conclusions.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-        <tr>
-    <td>
-By the end of 2003, we got a reliable experimental picture ready for publication. We submitted the paper in a high-profile journal. It was rejected twice and one of the referees considered that our report did “not constitute a sufficient scientific advance.” The paper was published in *Science* **306**, 666 (2004).
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+“As stated, Planck’s investigations cast doubts on the validity of very small scale mechanics.” …. “On the other hand Planck was led to assume that only certain preferred motions, quantized motions, are possible or at least stable, since energy can only assume values forming a discontinuous sequence.” ….
 
+…..
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.11. Defiant existence.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-According to our observations, the isolated atomic planes remained continuous and conductive under ambient conditions. There are four reasons to be surprised although they can be explained. 
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-(1)	Collective experience in studies of ultra-thin films have proved that continuous monolayers are practically impossible to make. A metal film a few nm in thickness coagulates into tiny islands when it evaporates.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-(2)	Theory unequivocally tells us that an isolated graphene sheet should be thermodynamically unstable. Larger graphene sheets are unstable with respect to scrolling.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-(3)	2D crystals cannot be grown in isolation, without an [epitaxial substrate](https://en.wikipedia.org/wiki/Epitaxial_wafer) that provides an additional atomic bonding. The density of thermal fluctuations for a 2D crystal in the 3D space diverges with temperature.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-(4)	Graphene remains stable under ambient conditions. Surfaces of materials can react with air and moisture, and monolayer graphene has not one but two surfaces, making it more reactive.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+“The necessity of assuming for light two contradictory theories-that of waves and that of corpuscles - and the inability to understand why, among the infinity of motions which an electron ought to be able to have in the atom according to classical concepts, only certain ones were possible: such were the enigmas confronting physicists at the time I resumed my studies of theoretical physics.” 
 
+“When I started to ponder these difficulties two things struck me in the main. Firstly the light-quantum theory cannot be regarded as satisfactory since it defines the energy of a light corpuscle by the relation $W = hv$ which contains a frequency $v$. Now a purely corpuscular theory does not contain any element permitting the definition of a frequency. This reason alone renders it necessary in the case of light to introduce simultaneously the corpuscle concept and the concept of periodicity.”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.12. Requiem for brilliant ideas.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Every idea is always based on previous knowledge and the odds are that someone somewhere had already thought of something similar before. Nevertheless, new technologies offer a reasonable chance that old, failed ideas may work unpredictably well the next time round.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-The 2004 paper demonstrated the experimental progress achieved to overcome the challenges of obtaining isolated [2D crystals](https://en.wikipedia.org/wiki/Single-layer_materials), their thermodynamic instability, the observation of nanoscrolls, and papers on epitaxial growth.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+“On the other hand the determination of the stable motions of the electrons in the atom involves whole numbers, and so far the only phenomena in which whole numbers were involved in physics were those of interference and of eigenvibrations. That suggested the idea to me that electrons themselves could not be represented as simple corpuscles either, but that a periodicity had also to be assigned to them too.”
 
+“I thus arrived at the following overall concept which guided my studies: for both matter and radiations, light in particular, it is necessary to introduce the corpuscle concept and the wave concept at the same time. In other words the existence of corpuscles accompanied by waves has to be assumed in all cases. However, since corpuscles and waves cannot be independent because, according to Bohr’s expression, they constitute two complementary forces of reality, it must be possible to establish a certain parallelism between the motion of a corpuscle and the propagation of the associated wave. The first objective to achieve had, therefore, to be to establish this correspondence.”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.13.  Graphene incarnations.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-The beginning of graphene history is the observation by the British chemist Benjamin Brodie (1783-1862) who in 1859 obtained what he called ‘[carbonic acid](https://en.wikipedia.org/wiki/Carbonic_acid)’ by exposing graphite to strong acids. What he observed was a suspension of tiny crystals of graphene oxide.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-During the last century the laminated structure of graphite oxide was described and a proof that the ‘carbonic acid’ consisted of floating atomic planes was presented.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-Creased flakes down to a few nm in thickness were observed by using [transmission electron microscopy](https://en.wikipedia.org/wiki/Transmission_electron_microscopy) (TEM).
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-By using TEM Geim and a collaborator failed to distinguish between monolayers and somewhat thicker flakes by using only their TEM contrast.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-In 1986 Hanns-Peter Boehm (1928-2022) and his colleagues introduced the term graphene: a combination of the word ‘graphite’ and the suffix that refers to polycyclic aromatic hydrocarbons.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-Ultra-thin graphitic films and, sometimes, even monolayers were grown on metal substrates, insulating carbides and graphite. Epitaxial growth on insulating substrates was first demonstrated in 1975.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-In 1984 and 1988 it was suggested in that graphene could provide a nice condensed-matter analogue of (2+1) dimensional quantum electrodynamics.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-It was reported in 1990 that ‘peeling optically thin layers with transparent tape’ (Scotch tape), were used to study carrier dynamics in graphite.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+“With that in view I started by considering the simplest case: that of an isolated corpuscle, i.e. a corpuscle free from all outside influence. We wish to associate a wave with it. Let us consider first of all a reference system ($x_0y_0z_0$) in which the corpuscle is immobile: this is the "intrinsic" system of the corpuscle in the sense of the relativity theory. In this system the wave will be stationary since the corpuscle is immobile: its phase will be the same at every point; it will be represented by an expression of the form $sin[2πν_0(t_0 - τ_0)]$;  $t_0$  being the intrinsic time of the corpuscle and  $τ_0$ a constant.”
 
+“In accordance with the principle of inertia in every Galilean system, the corpuscle will have a rectilinear and uniform motion. Let us consider such a Galilean system and let $v = βc$ be the velocity of the corpuscle in this system; we shall not restrict generality by taking the direction of the motion as the x-axis. In compliance with Lorentz’ transformation, the time t used by an observer of this new system will be associated with the intrinsic time $t_0$ by the relation:”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-    Table 11.14. Πλανητη Graphene.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Earlier experiments were observational; they observed ultra-thin graphitic films, and occasionally even [monolayers](https://en.wikipedia.org/wiki/Monolayer) without reporting any of graphene’s distinguishing properties; there were few electrical and optical measurements.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-The method of graphene isolation and identification described in the 2004 Science paper is straightforward and accessible. That paper reported the application of an ambipolar electric field effect in which resistivity changed by a factor of the order of 100. There the properties of graphene were altered by simply varying the gate voltage.
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-         <tr>
-    <td>
-Graphene was completely unprotected from the environment, as it was placed on a microscopically rough substrate and covered from both sides with adsorbates and a polymer residue. Still, electrons could travel submicron distances without scattering, flouting all the elements outside.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-In [semiconductor](https://en.wikipedia.org/wiki/Semiconductor) physics, electronic quality is described in terms of charge carrier mobility µ = 10,000 $cm^2/Vs$. In 2010 Geim´s group reported a value 10 and 100 times higher at room and low temperature, respectively.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-        <tr>
-    <td>
-Graphene history has something in common with that of solar planets. Ancient Greeks observed them and called them wandering stars. After the physics behind this wandering was discovered, people started perceiving planets quite differently. Similarly, during the last six years people discovered what graphene really is, which completely changed the earlier perception.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+$t_0=\frac{t-\frac{βx}{c}}{√(1-β^2 )}$
 
+“and hence for this observer the phase of the wave will be given by”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-   Table 11.15. Magic of flat Carbon.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-In 2005 we demonstrated that charge carriers in graphene are massless [fermions](https://en.wikipedia.org/wiki/Fermion) described by a Dirac-like equation rather than by the standard Schrödinger equation. 
-        </td>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-    <tr>
-    <td>
-We also found in 2010 that graphene remained metallic in the limit of no charge carriers, even when just a few electrons remained present in a micron-sized device.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-         <tr>
-    <td>
-In 2006 we suggested that the phenomenon of [Klein tunnelling](n.wikipedia.org/wiki/Klein_paradox), which was known in relativistic quantum physics for many decades but assumed non-observable, could be probed using graphene devices.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-         <tr>
-    <td>
-We have shown in 2007 that bilayer graphene was a tuneable-gap semiconductor and demonstrated in 2009 that graphene could be carved into devices on a true nm scale.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-        <tr>
-    <td>
-In 2009 and 2010 we made the first step into graphene chemistry by experimentally introducing its derivatives, graphane and stoichiometric fluorographene.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+$sin⁡[(\frac{ν_0}{√(1-β^2 )})(t-\frac{βx}{c}- τ_0)]$
+	
+“For him the wave will thus have a frequency:”
+	
+$ν = \frac{ν_0}{√(1-β^2)}$
 
+“and will propagate in the direction of the x-axis at the phase velocity:”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-   Table 11.16. Ode to one.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Despite the fact that graphite as graphene has many atomic layers stacked on top of each other, the following differences exist: 
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-    <tr>
-    <td>
-(1) Graphene exhibits record stiffness and mechanical strength.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-(2) Graphene chemistry is different depending on whether one or both surfaces of a monolayer are exposed,
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-         <tr>
-    <td>
-(3) An electric field is screened in graphite at distances of about the interlayer separation, and the electric screening becomes important even for a bilayer; however, for multilayer graphene the electric field can dope no more than a couple of near-surface atomic planes, leaving the bulk unaffected.
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-        <tr>
-    <td>
-(4) [Charge carriers](https://en.wikipedia.org/wiki/Charge_carrier) in a monolayer are massless Dirac fermions whereas they are massive in a graphene bilayer
-        </td>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        </tr>
-</table>
+$V=\frac{c}{β}=\frac{c^2}{v}$
 
+“By the elimination of  β between the two preceding formulae the following relation can readily be derived which defines the refractive index of the vacuum n for the waves considered:”
 
-<table width="100%">
-    <tr>
-    <th colspan="6" style="text-align: center">
-   Table 11.17. To colleagues and friends.
-        </th>
-     </tr>
-     <tr>
-    <th style="text-align: center">
-ACTIVITY
-        </th>
-        <th style="text-align: center">
-Motv
-        </th>
-        <th style="text-align: center">
-Prob
-        </th>
-        <th style="text-align: center">
-Expm
-        </th>
-        <th style="text-align: center">
-Tstn
-        </th>
-        <th style="text-align: center">
-Publ
-        </th>
-        </tr>
-          <tr>
-    <td>
-Recognitions and acknowledgements to collaborators.
-        </td>
-        <th>
-X
-        </th>
-        <th>
-X
-        </th>
-        <th>
--
-        </th>
-        <th>
--
-        </th>
-        <th>
-X
-        </th>
-        </tr>
-</table>
+$n= \frac{V}{v}=\frac{1}{1-(\frac{ν_0}{ν})^2}$
+	
+“A  «group velocity» corresponds to this «law of dispersion». You will be aware that the group velocity is the velocity of the resultant amplitude of a group of waves of very close frequencies. Lord Rayleigh showed that this velocity $U$ satisfies equation:”
 
+$\frac{1}{U}=  \frac{δ(nν)}{δν}$
+
+“Here $U = v$, that is to say that the group velocity of the waves in the system xyzt is equal to the velocity of the corpuscle in this system.” ..…
+
+“The corpuscle is thus defined in the system $xyzt$ by the frequency $ν$ and the phase velocity $V$ of its associated wave. To establish the parallelism of which we have spoken, we must seek to link these parameters to the mechanical parameters, energy and quantity of motion. Since the proportionality between energy and frequency is one of the most characteristic relations of the quantum theory, and since, moreover, the frequency and the energy transform in the same way when the Galilean reference system is changed, we may simply write” 
+
+$energy = h \times frequency$, or $W = hν$
+
+“where $h$ is Planck’s constant. This relation must apply in all Galilean systems and in the intrinsic system of the corpuscle where the energy of the corpuscle, according to Einstein, reduces to its internal energy $m_0c^2$ ($m_0$ being the rest mass) we have”
+
+$hν_0= m_0 c^2$
+	
+“This relation defines the frequency $ν_0$ as a function of the rest mass $m_0$, or inversely.”
+
+“The quantity of movement is a vector $p$ equal to”
+	
+$\frac{m_0v}{√(1-β^2)}$
+
+and we have
+
+$(p)=\frac{m_0v}{√(1-β^2)}= \frac{Wv}{c^2} = \frac{hν}{V}= \frac{h}{λ}$
+
+"The quantity $λ$ is the distance between two consecutive peaks of the wave, i.e. the "wavelength". Hence:”
+
+$λ= \frac{h}{p}$
+
+“The whole of the foregoing relates to the very simple case where there is no field of force at all acting on the corpuscles. I shall show you very briefly how to generalize the theory in the case of a corpuscle moving in a constant field of force deriving from a potential function $F(xyz)$.“……
+	
+…..
+
+“Here again it is demonstrated that the group velocity of the waves is equal to the velocity of the corpuscle. The parallelism thus established between the corpuscle and its wave enables us to identify Fermat’s principle for the waves and the principle of least action for the corpuscles (constant fields).” …..
+	
+……
+
+“These concepts lead to an interpretation of the conditions of stability introduced by the quantum theory. Actually, if we consider a closed trajectory C in a constant field, it is very natural to assume that the phase of the associated wave must be a uniform function along this trajectory. Hence we may write:”
+
+$∫_C \frac{dl}{λ} = ∫_C \frac{p}{h}dl=integer$
+
+“This is precisely Planck’s condition of stability for periodic atomic motions. The conditions of quantum stability thus emerge as analogous to resonance phenomena and the appearance of integers becomes as natural here as in the theory of vibrating cords and plates.”
+
+“The general formulae which establish the parallelism between waves and corpuscles may be applied to corpuscles of light on the assumption that here the rest mass $m_0$ is infinitely small. Actually, if for a given value of the energy $W$, $m_0$ is made to tend towards zero, $v$ and $V$ are both found to tend towards $c$ and at the limit the two fundamental formulae are obtained on which Einstein had based his light-quantum theory”
+
+$W=hν$ $p=\frac{hν}{c}$
+
+“Such are the main ideas which I developed in my initial studies. They showed clearly that it was possible to establish a correspondence between waves and corpuscles such that the laws of mechanics correspond to the laws of geometrical optics. In the wave theory, however, as you will know, geometrical optics is only an approximation: this approximation has its limits of validity and particularly when interference and diffraction phenomena are involved, it is quite inadequate. This prompted the thought that classical mechanics is also only an approximation relative to a vaster wave mechanics. I stated as much almost at the outset of my studies, i.e. "A new mechanics must be developed which is to classical mechanics what wave optics is to geometrical optics". This new mechanics has since been developed, thanks mainly to the fine work done by Schrödinger. It is based on wave propagation equations and strictly defines the evolution in time of the wave associated with a corpuscle.” ….
+	
+…..
+
+….. “The two mechanics, wave and quantum, are equivalent from the mathematical point of view. “
+
+“We shall content ourselves here by considering the general significance of the results obtained. To sum up the meaning of wave mechanics it can be stated that: "A wave must be associated with each corpuscle and only the study of the wave’s propagation will yield information to us on the successive positions of the corpuscle in space".” …. “I must restrict myself to the assertion that when an observation is carried out enabling the localization of the corpuscle, the observer is invariably induced to assign to the corpuscle a position in the interior of the wave and the probability of it being at a particular point M of the wave is proportional to the square of the amplitude, that is to say the intensity at M.”
+
+“This may be expressed in the following manner. If we consider a cloud of corpuscles associated with the same wave, the intensity of the wave at each point is proportional to the cloud density at that point (i.e. to the number of corpuscles per unit volume around that point). This hypothesis is necessary to explain how, in the case of light interferences, the light energy is concentrated at the points where the wave intensity is maximum: if in fact it is assumed that the light energy is carried by light corpuscles, photons, then the photon density in the wave must be proportional to the intensity.”
+
+“This rule in itself will enable us to understand how it was possible to verify the wave theory of the electron by experiment.” …..
+
+***
+	
+“Since the wavelength of the electron waves is of the order of that of X-rays, it must be expected that crystals can cause diffraction of these waves completely analogous to the Laue phenomenon.” …..
+
+……
+	
+“For X-rays the phenomenon of diffraction by crystals was a natural consequence of the idea that X-rays are waves analogous to light and differ from it only by having a smaller wavelength. For electrons nothing similar could be foreseen as long as the electron was regarded as a simple small corpuscle. However, if the electron is assumed to be associated with a wave and the density of an electron cloud is measured by the intensity of the associated wave, then a phenomenon analogous to the Laue phenomenon ought to be expected for electrons. …….”Since, according to our general principle, the intensity of the diffracted wave is a measure of the density of the cloud of diffracted electrons, we must expect to find a great many diffracted electrons in the directions of the maxima. If the phenomenon actually exists it should thus provide decisive experimental proof in favour of the existence of a wave associated with the electron with wavelength $h/mv$, and so the fundamental idea of wave mechanics will rest on firm experimental foundations. “
+
+“Now, experiment which is the final judge of theories, has shown that the phenomenon of electron diffraction by crystals actually exists and that it obeys exactly and quantitatively the laws of wave mechanics.” …..
+	
+…..
+
+“Thus to describe the properties of matter as well as those of light, waves and corpuscles have to be referred to at one and the same time. The electron can no longer be conceived as a single, small granule of electricity; it must be associated with a wave and this wave is no myth; its wavelength can be measured and its interferences predicted. It has thus been possible to predict a whole group of phenomena without their actually having been discovered. And it is on this concept of the duality of waves and corpuscles in Nature, expressed in a more or less abstract form, that the whole recent development of theoretical physics has been founded and that all future development of this science will apparently have to be founded.”
+	
 ***
 
 ### REFERENCES
 
-Physics and Chemistry Nobel Prizes
-
-MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. https://www.nobelprize.org/prizes/physics/1915/speedread/
-
-MLA style: Speed read: Crystal Patterns Made Plane and Simple. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/speedread/
-
-MLA style: Perspectives: Life through a Lens. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/perspectives/
-
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/press-release/
-
-MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. https://www.nobelprize.org/prizes/physics/2010/popular-information/
+FRENCH, A.P. TAYLOR, E.F. *Introduction to Quantum Physics*. The MIT Introductory Physics Series. New York, W.W. Norton, (1978)
 
 ***
 
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/chemistry/1996/press-release/
-
-MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/advanced-information/
-
-***
-
-[**Next: 12.1.	Boson condensation.**](./vol-III-chap-12-sect-1.md)
+[**10.1. The Michelson interferometer and the Michelson-Morley experiment.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-1/)

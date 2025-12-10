@@ -1,92 +1,180 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 7.3. Procedures to solve problems and explain solutions.**](./vol-II-chap-7-sect-3.md) 
+[**Previous: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md) 
 
 ***
 
-# 8. Conservation and transformation of energy.
+# 7.  Brownian motion and specific heats.
 
 
-*Why a metal generates electrons when it is radiated with light and a LED emits light when electrons flow through it?*
-  
-This chapter deals with the production, conservation, dissipation and saving of energy. One of the most important practical problems to be faced in our time is [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy) in any process in which coming out energy must be equal to coming in energy minus what is spent to make the process possible and what is lost. Some missing energy is dissipated  meaning entropy increases. 
+*Under what conditions is statistical mechanics necessary?*
 
-### Learning objectives of Chapter 8.
+Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num). When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic [model of the system](https://en.wikipedia.org/wiki/Systems_modeling), a [statistical](https://en.wikipedia.org/wiki/Statistics) procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
 
-After this Chapter you should be able to:
+### Learning objectives of Chapter 7.
 
-- Describe Hamilton's principle of least action and Noether's theorem; then consider the existence of conservation laws in connection with symmetries in physical systems.  
-- Analyze Einstein´s explanation of the photoelectric effect and describe the 2014 Physics Nobel Prize awarded for the invention of LEDs.
-- Explain some conceptual developments and technological applications on energy connected with the four anthropological spaces related to the Earth, the Territory, the Merchandises and the Knowledge. 
+After this Chapter you should be able to: 
 
-### Description of content of Chapter 8.
+- Explain the phenomena of [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) from both perspectives: the theoretical one based on Einstein´s interpretation and the experimental one derived from Perrin´s work.
+- Describe the calculations of the [specific heat in solids](https://en.wikipedia.org/wiki/Specific_heat_capacity) according to the models proposed by Dulong and Petit, by Einstein and by Debye.
+- Describe the problem-solving steps proposed by Langevin to obtain Einstein´s Brownian motion equation.
 
-Section 8.1. Conservation laws and the existence of symmetries.
+### Description of content of Chapter 7.
 
-We relate conservation laws to invariant properties of mathematical transformations associated to translation and rotations in space and translation in time. Furthermore, we describe Hamilton's principle of least action and relate Noether's theorem with conservation laws.
+Section 7.1. Experimental results concerning the Brownian motion.**
 
-Section 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
+We discuss two contributions to the study of Brownian motion: the theoretical calculation made by Einstein and the experimental procedures reported by Perrin. We also consider the 1926 Physics Nobel Lecture *Discontinuous Structure of Matter* by J.B. Perrin. 
 
-As a critical application of the conservation of energy we discuss theoretical and experimental aspects of the photoelectric effect. We also consider several documents related to the 2014 Physics Nobel Prize awarded to Isamu Akasaki (1929-2021), Hiroshi Amano (1960) and Shuji Nakamura (1954) “for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources".             
+Section 7.2. Statistical mechanical calculations of the specific heat in solids.**
 
-Section 8.3. Anthropological spaces for the development of collective intelligence.**
+We consider the calculations of the specific heat at constant volume in solids, according to three models: the classic model by Dulong and Petit where the solid is formed by independent classical harmonic oscillators, the quantum models by Einstein where the solid is composed by quantized harmonic oscillators all of them with the same frequency, and the quantum model by Deby where the solid is a continuous elastic body whose internal energy is due to quantized vibrational states of stationary elastic waves, the phonons.
 
-We explain the meaning of Anthropological spaces for the development of collective intelligence and then consider the main conceptual developments and technological applications on energy connected with four anthropological spaces: the Earth, the Territory, the Merchandises and the Knowledge. 
+Section 7.3. Procedure to solve problems and explain solutions.
 
-## 8.1. Conservation laws and the existence of symmetries.
+We apply the *Procedure to solve problems and explain solutions* in the description of the steps of [Langevin´s procedure](https://en.wikipedia.org/wiki/Langevin_equation) to obtain Einstein's equation of Brownian motion.
 
-Since ancient times it has been assumed that the [Newtonian space](https://en.wikipedia.org/wiki/Absolute_space_and_time) has the properties of being homogeneous, that is, it is the same in every region and there are no privileged reference points (the origin of the coordinate system can be anywhere). Furthermore, space is isotropic because there are no preferred orientations, all directions are equally appropriate. Time is also homogeneous, because there are no favorite moments for the description of the evolution of phenomena; every origin of time is equally valid.
+## 7.1. Experimental results concerning the Brownian motion.
 
-Each one of the previous properties of space and time implies that a physical property remains constant in the system because an invariant mathematical condition applies. What remains invariant in each case is the consequence of a symmetry with respect to a specific transformation in space or time. 
+To calculate average values of quantities related to physical observables, interpretation models and calculation procedures must be proposed and tested. The models describe with a certain level of approximation the probability distribution functions about the possible configurational states of the system or microstates. The procedures for counting and mathematically operating with the formal representations of these configurational states serve to calculate macroscopic quantities characterizing the physical system. 
 
-The previous connection between three types of symmetry properties with their respective [conservation laws](https://en.wikipedia.org/wiki/Conservation_law) is an example of the process of geometrization of mechanics. As an appropriate background to consider this connection, let us quote [Richard Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) (first two paragraphs of section 26-3 in his Volume I). He wrote the following in connection with *Fermat's principle of minimum time:*
+### Einstein´s procedures.
 
-"Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident."
+[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein) (1879-1955) carried out in 1905 one of the first [statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics) calculations to explain the Brownian movement. He assumed the existence of two types of molecules in the system under study: the Brownian particles (pollen) and the molecules of the liquid medium (water). In addition, he identified the root mean square displacement of the Brownian particle instead of its velocity as the appropriate observable characteristic and related the random motion of a particle to the [diffusion](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)) of many particles.
 
-"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle). His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**." (Figure 8.1).
+In the article *On the Motion Required by the Molecular Kinetic Theory of Heat of Particles Suspended in Fluids at Rest* Einstein stated the following: “In this article it will be shown that, according to the molecular-kinetic theory of heat, bodies of a microscopically visible size suspended in liquids must carry out, as a result of thermal molecular movements, movements of such a magnitude that they can be easily observed with a microscope”.
 
-<p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.1.jpg?raw=true" width=360 align=center>
+Einstein considered the fact that atoms have a real and not hypothetical existence and that therefore a fluid like water has an atomic structure. At that time, the real existence of the atom was questioned as a physical component of matter and not as an explanatory hypothesis, uncertain and perhaps unnecessary, useful for codifying certain regularities. Einstein assumed that a particle immersed in an aqueous solution will experience collisions and make erratic movements, as a consequence of a pressure similar to the osmotic pressure exerted by the atoms of the fluid on the dissolved particle.
+
+The expression $D = (RT)/(6πηaN_A)$ is called the [Stokes-Einstein equation](https://en.wikipedia.org/wiki/Einstein_relation_(kinetic_theory)), where the diffusion coefficient ($D$) is linear with temperature ($T$) and the constant of proportionality depends on the size ($a$) of the particle and the viscosity ($η$) of the fluid (viscosity is the resistance to flow). The equation contains also universal constants such as the universal gas constant ($R$) and Avogadro's number ($N_A$). (Avogadro's number is the number of molecules that contain equal volumes of gases at fixed temperatures and pressures.) 
+
+The diffusion of the particles can be seen as a probabilistic process where the variable is the displacement and not the velocity: the average displacement in the $X$-direction ($λ_x$) of the suspended particles depends on the diffusion coefficient ($D$) and on a time ($t$) of observation during which the displacement in $X$ occurs. That is to say $λ_x=\sqrt{〈x^2〉}=\sqrt{2Dt}$. 
+
+Einstein used the two previous equations that define $D$ and $λ_x$ and predicted that the root mean square deviation of the random displacements in an X direction had a linear behavior with respect to the temperature $T$ of the liquid and the time $t$ during which the Brownian particle suffers collisions with surrounding water molecules:
+
+<center>
+$<ΔX^2> =[(k_BT)/(3πηa)](t)$
+</center>
+
+In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
+	
+<p align="center" width="100%">
+    <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
 </p>
+
 
 <center>
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 8.1.** Refraction of light at point $P$ from a ray coming from an object point $A$ in air to an observation point $B$ in water. The Fermat's principle indicates that light takes a minimum time to travel the path $APB$ (distance $l_1 + l_2$).  
+**Figure 7.1.** Graph of the equation obtained by Einstein.
 
-### Hamilton's principle of least action and Noether's theorem.
+In Figure 7.1, the time t on the horizontal axis indicates two moments: before the collisions (segment O to N) when the Brownian particle is placed in the liquid and moves freely until the collisions begin, and during the collisions (segment N to M) when the trajectory of the Brownian particle changes randomly satisfying Einstein's linear equation. In section 7.3 we obtain this equation by following Langevin procedure.
 
-The relationship between the invariance with respect to certain mathematical transformations and mechanical conservation laws is derived from a combined application of the principle of least action formulated in 1834 by [William Rowan Hamilton](https://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805-1865) and one of the theorems established in 1918 by [Amalie Emmy Noether](https://en.wikipedia.org/wiki/Emmy_Noether). Before considering a very simplified description of such contributions, let us describe the notion of temporal evolution of a physical system in the configuration space.
+Einstein's theoretical work contributed to the following: (1) to demonstrate the discontinuous structure of matter and prove the existence of atoms; (2) to develop ideas and procedures of statistical mechanics, which lays the foundations of thermodynamics, and (3) to test experimentally ideas derived from statistical calculations that led to the exact measurement of quantities such as Avogadro's number and the mass of the hydrogen molecule.
 
-- [Hamilton's principle](https://en.wikipedia.org/wiki/Hamilton%27s_principle) resembles Fermat's principle; instead of minimizing the travel time of light, it considers trajectories in mechanical systems and minimizes the physical quantity called action, which is the product of the energy involved in a process multiplied by the duration of the process.
+### Observations and measurements of the Brownian motion.
 
-- The evolution in time of a mechanical system is determined when the equations of motion of the system are solved. This mathematical procedure requires the complete description as a function of time of the position of each one of the particles in the system. In the most advanced treatment of Newtonian mechanics, analytical mechanics, a physical system of N particles is described in the so-called [configuration phase space](https://en.wikipedia.org/wiki/Configuration_space_(physics)), This space is composed of 6N coordinates: 3N coordinates correspond to the components of positions $[(x_1,y_1,z_1,x_2,y_2…x_N,y_N,z_N )]$ and other 3N coordinates to the components of velocities $[(\dot{x_1},\dot{y_1},\dot{z_1},\dot{x_2},\dot{y_2}…\dot{x_N},\dot{y_N},\dot{z_N})]$. In this expression the following notation has been used $\dot{x_i}=v_{x_i}= \frac{dx_i}{dt}$ for $i=1,2,3,…,N$.
+The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1730-1799), who described the "erratic" motion of carbon particles on the surface of alcohol. In 1827, the botanist [Robert Brown](https://en.wikipedia.org/wiki/Robert_Brown_(botanist,_born_1773)) (1773-1858) observed under a microscope the random movements of pollen grains from the plant *Clarkia pulchell* suspended in water. He published his results in a book with the not so brief title of *A brief account of microscopical observations made in the months of June, July and August, 1827, on the particles contained in the pollen of plants; and on the general existence of active molecules in organic and inorganic bodies*.
+
+Many years later in 1910, [Jean Perrin](https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin) (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
+
+Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
 	
-- The description in the configuration space is more efficient when generalized coordinates $(q,\dot{q})$ are used instead of the cartesian coordinates $(x,v)$. The canonically conjugate variable of $q_k$ is  $(\dot{q}) = (δq_k)/δt$, like the velocity associated with the position  ${\dot{x}}_{i} = v_{x_{i}} = \frac{dx_{i}}{dt}$.
+<div style="text-align:center;">
+	<table cellspacing="0" cellpadding="0">
+	<tbody>
+	<tr>
+		<td>
+		<img width="120" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig5.jpg?raw=true"> 
+		</td>
+		<td>
+		<img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig6.jpg?raw=true"> 
+		</td>
+	</tr>
+	</tbody>
+	</table> 
+	</div> 
 
-- Within the framework of analytical mechanics, the [Lagrangian function](https://en.wikipedia.org/wiki/Lagrangian_mechanics) (L) is defined as the difference between the kinetic energy of the system ($E_c$) and its corresponding potential energy ($E_p$): $L = E_c – E_p$. This function depends on 6N generalized coordinates and of time $t$. In this context, the action function $S$ is defined as the time integral of the Lagrangian:
+<center>
+(Source: images taken from the book *Les atomes* by Perrin.)
+</center>
 
-	$S= ∫_{t_i}^{t_f} [L(q,\dot{q})dt]$, where $L(q,\dot{q})$ means $L[(q_1,q_2,q_3,… q_N),(\dot{q}_1, \dot{q}_2, \dot{q}_3,...\dot{q}_N);t]$
 
-- As the previous definition indicates, the integral corresponds to adding all possible trajectories that start at an initial time $t_i$ and end at a final time $t_f$. Under these conditions, Hamilton's principle of least action indicates that all the possible trajectories described in the configuration space makes the action variation null; that is to say that $δS = 0$.
+**Figure 7.2.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image).
 
-- Now, let us consider a generalized coordinate system where the Lagrangian L does not depend on a certain variable $q_k$. This variable is called ignorable or cyclic. In this case, the variation of L with respect to such variable is zero, which technically means that its partial derivative is zero: $\frac{δL}{δq_k} =0$.  
-
-- The previous variational condition is interpreted by saying that the absence or omission of an ignorable variable in the Lagrangian corresponds to a certain type of symmetry with respect to a transformation in space or in time. [Noether](https://en.wikipedia.org/wiki/Noether%27s_theorem) has shown that if a system has a specific type of symmetry concerning certain mathematical properties of space or time, then a physical conservation law exists when the Lagrangian remains invariant under one of those specific transformations that made invariant the description of the system.
+To carry out his experiments, Perrin first very carefully prepared particles of the same radius ($0.53 \times 10^{-6}$ m)and then he marked on the microscope reticule the successive positions of a chosen particle. Then he plotted those points on a paper, determined the corresponding displacements of the particle and calculated the mean square value of those displacements. 
 	
-Let's look at three application cases: 
+It was estimated that the Brownian particle received the order of $10^{14}$ collisions per second from the water molecules in the surrounding media. By substituting his measurements in Einstein's equation, Perrin obtained the value of Avogadro's number ($N_A$). The following Table 7.1 contains the values obtained by Einstein and by Perrin; numerical values in the third column are multiplied by the factor $10^{23}$. 
 
-1. If the [homogeneity](https://en.wikipedia.org/wiki/Homogeneity_%28physics%29) of time is considered, the Lagrangian does not depend on this variable, so $\frac{δL}{δt}=0$ and the system is invariant against translations in time. Since the variable conjugate to time is energy, there is a law of conservation of energy.
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.1.jpg?raw=true"> 
+</p>
 
-2. In the case of the homogeneity of space, the system is invariant against displacements in space because there are no privileged positions; this corresponds to the law of conservation of linear momentum.
 
-3. The [isotropy](https://en.wikipedia.org/wiki/Isotropy) of space indicates that there are no privileged orientations, so that the system is invariant against a rotation in space, which implies that there is a law of conservation of angular momentum.
+<center>
+(Source: information obtained from Pais´ book.)
+</center>
+
+The 1926 Physics Nobel Prize was awarded to Jean Baptiste Perrin (1870-1942) "for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium". In what follows, we quote the document Work describing the contributions made by Perrin and then we indicate the title of his Nobel Lecture and its corresponding subtitles. The complete texts of the sections with subtitles in boldface are included in Appendix 7.1. All the references of these documents in MLA format are given.
+	
+
+WORK: “During the 1880s atoms and molecules became important scientific concepts, but whether or not they actually had a physical existence was still a matter of dispute. Jean Perrin (1870-1942) maintained that if molecules were real, particles blended into a liquid should not all sink to the bottom but should distribute themselves throughout the liquid. In 1908 he could substantiate this through experimentation. He also substantiated Einstein’s theory that Brownian motion—the random movement of small particles in a liquid—was due to collisions between the particles and molecules in the liquid.”
+
+MLA style: Jean Baptiste Perrin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 24 Jan 2024. https://www.nobelprize.org/prizes/physics/1926/perrin/facts/
+
+NOBEL LECTURE: *Discontinuous Structure of Matter* by Perrin. 
+
+- Introduction
+- **The Brownian movement**
+- Law of the vertical distribution of an emulsion
+- Non-diluted emulsions
+- **Measurements of the Brownian movement**
+- The molecular reality
+- Monomolecular films
+- The discontinuous structure of the atom
+
+MLA style: Jean Baptiste Perrin – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 23 Jan 2023. https://www.nobelprize.org/prizes/physics/1926/perrin/lecture/
+
+In what follows, we include in three boxes information related to Brownian motion obtained from Perrin´s Nobel Lecture: the first box refers to key concepts most frequently employed in the Lecture; next two boxes describe the main issues considered in the Lecture that require physical and mathematical models for their representation and interpretation. Any complete quoted paragraph obtained from the Lecture is indicated in between quotation marks. 
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.2.jpg?raw=true"> 
+</p>
+
+
+!!! quote "Box 7.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
+
+	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
+	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
+	•	According to Avogadro’s hypothesis equal numbers of heavy or light molecules develop equal pressures at the same temperature and in equal volumes: When gaseous masses, at the same temperature and pressure, occupy equal volumes, they all contain the same number of molecules. <br>
+	•	Crystallography refers to laws of discontinuity of elementary cells which are repeated periodically along the three dimensions of the crystal lattice. <br>
+	•	The kinetic theory of gases indicates that matter is made of elastic molecules which are on the average fairly widely separated from one another so that, between two collisions, each molecule can move in a straight line, the duration of the collision being negligible in relation to that of the free path. <br>
+	•	As Clausius observed, the molecules are all the smaller as the mean free path. <br>
+	•	Brownian motion is observed when a microscopic particle placed in water (or any other liquid), instead of falling in a regular manner exhibits a continuous and perfectly irregular agitation. … The Brownian movement (an experimental fact) leads us to the hypothesis of the molecules. <br>
+	•	A stable emulsion is comparable to a solution. An emulsion is formed when a large number of identical particles (grains) are in suspension in a liquid. It will be assumed that Avogadro’s law applies to emulsions as it does to gases. <br>
+	•	The law of Van’t Hoff is an extension of Avogadro’s law to solutions: : “Equal numbers of molecules, regardless of the kind, in the gaseous state or dissolved, exert – at the same temperature and in equal volumes – equal pressures on the walls detaining them”. <br>
+	•	In a vertical column of a gas in equilibrium the density decreases as the altitude increases. <br>
+	•	A non-diluted emulsion is comparable to a compressed liquid of which the molecules would be visible. <br>
+	•	In a stable emulsion made of equal grains each one of them has an effective weight equal to its actual downward weight reduced by the upward push that according with Archimedes’ principle is equal to the weight of the liquid displaced by the volume of each grain. <br>
+	•	The equilibrium distribution of an emulsion is due to the Brownian movement…. In an emulsion the mean square of the horizontal displacement of a grain is proportional to the duration of each free rectilinear displacement. Such displacements are due to a great number of collisions of the surrounding molecules of the liquid with the grain molecules. <br>
+	•	There is a diffusion for the grains of an emulsion just as for the molecules of a solution. The steady state in a vertical column of emulsion is produced and maintained by the interplay of two opposing actions, gravity and the Brownian movement… At each level the flow through diffusion towards the poor regions is equal to that which gravity produces towards the rich regions. <br>
+	•	To calculate the flow produced by gravity, the mean velocity of fall of a grain animated by a Brownian movement is calculated by Stokes’ law, which applies to the uniform fall in a viscous liquid of a large sphere. <br>
+	•	There exists equality between the mean energy of translation and the mean energy of rotation. <br>
+	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
+	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
+
+!!! quote "Box 7.2. *Issues requiring explaining models in Perrin´s Lecture (2)*."
+
+	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
+	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
+	•	Further contributions by Perrin to improve the knowledge of the manner in which matter is discontinuous: <br>
+	-- in 1895: indication that cathode rays have a negative electric charge and attempts to measure its relation charge to mass; <br>
+	-- in 1901: assumption that the atom has a structure like a solar system, revealing that the atom as well as the nucleus are discontinuous and have their own components; <br>
+	-- in 1920: consideration that atoms can be condensations of a whole number of hydrogen atoms, the small differences which exist are explained by the large variations of internal energy which may accompany their condensations; <br>
+	-- in 1920: indication that the loss of energy which must accompany the condensation of hydrogen into helium suffices alone to account for approximately one hundred milliard years of solar radiation at the present rate; <br>
+	-- in 1923: interpretation of Rutherford transmutations of elements not as being the effect of an explosive disintegration but on the contrary, as an integration (the helium nucleus combines with the nucleus that it has hit, to form a radioactive atom which soon expels a proton, and that there finally remains an atom which is three units heavier than the atom that has been hit).
 
 ***
 
-[**Next: 8.2. Energy transformations in photocells and in Light Emitting Diodes.**](./vol-II-chap-8-sect-2.md)
-
-
-
+[**Next: 7.2.  Statistical mechanical calculations of the specific heat in solids.**](./vol-II-chap-7-sect-2.md)

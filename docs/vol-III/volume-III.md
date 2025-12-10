@@ -16,33 +16,33 @@ An appropriate mechanical description of the energy states of the electron and i
 
 In Volume III we deal with the following aspects of waves: the existence of matter waves and their implication in the development of quantum physics, the observation of interferences of electromagnetic waves and the detection of gravitational waves, the fabrication and explanation of new materials and the study of individual quantum systems, as well as the production of Bose-Einstein condensation, superfluidity, superconductivity and the Quantum Hall effects.
 
-## 9.   Matter waves and quantum mechanics principles.
-### 9.1 [From a theoretical proposition to an experimental demonstration](vol-III-chap-9-sect-1.md).
-### 9.2  [Correspondence and uncertainty principles in Quantum Physics](vol-III-chap-9-sect-2.md).
-### 9.3  [Communication forms for describing scientific texts.](vol-III-chap-9-sect-3.md)
+## 11.   Matter waves and quantum mechanics principles.
+### 11.1 [From a theoretical proposition to an experimental demonstration](vol-III-chap-9-sect-1.md).
+### 11.2  [Correspondence and uncertainty principles in Quantum Physics](vol-III-chap-9-sect-2.md).
+### 11.3  [Communication forms for describing scientific texts.](vol-III-chap-9-sect-3.md)
 
 The transmission of energy of electromagnetic radiation is usually considered in terms of waves, however the interactions of photons on matter shows that the quanta of energy present a corpuscle like behavior as in the photoelectric effect. Then, in a sort of symmetrical relationship, the transport of electrons is usually considered in terms of corpuscles, however the interactions of electrons with matter shows a diffraction pattern that corresponds to a wave like behavior as in the diffraction of electrons. The formulation of this new quantum mechanics of material waves and quantized states required new principles: the correspondence principle proposed by N.H. Bohr and the uncertainty principle proposed by W.K. Heisenberg. Physics Nobel Prizes were awarded to L. Broglie in recognition for his work on the existence of matter waves and to C.J. Davisson, and G.P. Thomson for the experimental demonstration of the diffraction of electrons. W.K. Heisenberg received a Physics Nobel Prize for his contributions to the creation of quantum mechanics.
 
-## 10. Interferences of electromagnetic waves and detection of gravitational waves.
-### 10.1  [The Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
-### 10.2  [Gravitational astronomy](vol-III-chap-10-sect-2.md).
-### 10.3  [Organization and evaluation of learning communities](vol-III-chap-10-sect-3.md).
+## 12. Interferences of electromagnetic waves and detection of gravitational waves.
+### 12.1  [The Michelson interferometer and the Michelson-Morley experiment](vol-III-chap-10-sect-1.md).
+### 12.2  [Gravitational astronomy](vol-III-chap-10-sect-2.md).
+### 12.3  [Organization and evaluation of learning communities](vol-III-chap-10-sect-3.md).
 
 The fact that no interferences of light waves were observed in the experiments of Michelson and Morley indicated that the electromagnetic ether did not exist as an absolute reference system. Nevertheless, the observation of interferences of electromagnetic signals in the Laser Interferometer Gravitational-Wave Observatory (LIGO) demonstrated the existence of gravitational waves. The organization and development of the LIGO Project is analyzed as a learning community characterized by four pedagogical-pragmatic principles: accessible knowledge, visible thought, mutual learning, and continuous learning. The Nobel Lectures presented by A. Michelson and by R. Weiss, B.C. Barish and K.S. Thorne are then considered.
        
-## 11.  Quantum waves in condensed matter physics.
-### 11.1  [Microscopic observation of solids](vol-III-chap-11-sect-1.md).
-### 11.2  [Production of new materials and study of individual quantum systems](vol-III-chap-11-sect-2.md).
-### 11.3  [Phases in learning and research processes](vol-III-chap-11-sect-3.md).
+## 13.  Quantum waves in condensed matter physics.
+### 13.1  [Microscopic observation of solids](vol-III-chap-11-sect-1.md).
+### 13.2  [Production of new materials and study of individual quantum systems](vol-III-chap-11-sect-2.md).
+### 13.3  [Phases in learning and research processes](vol-III-chap-11-sect-3.md).
 
 Better models of condensed matter have been developed because more powerful tools for observation were invented, for instance the X-ray, the electron and the scanning tunneling microscopes, as well as the neutron spectroscope. Furthermore, the performance of critical experiments served to create new materials like graphene and to introduce powerful methods for the individual control of photons or ions. Graphene is a virtually perfect two-dimensional lattice and one atom thick. For its discovery A. Geim and K. Novoselov received a Physics Nobel Prize. Geim´s Nobel Lecture *Random Walk to Graphene* is analyzed in terms of a learning and research process that involves two structural phases: the learning phase for inquiring and exploring and the research phase for evaluating and communicating. 
 
 Single particles are not easily isolated in the quantum domain because they lose their properties as soon as they interact with their surrounding environment. However, research groups leaded by S. Haroche and D.J. Wineland have independently observed, examined, controlled, and counted individual quantum particles without destroying them. They shared a Physics Nobel Prize. While S. Haroche controlled and measured trapped photons by sending atoms through a trap formed by a microwave cavity, D.J. Wineland trapped electrically charged atoms, or ions, controlling and measuring them with light, or photons.
         
-## 12.  Bosons or fermions in condensed matter.
-### 12.1 [Boson condensation](vol-III-chap-12-sect-1.md).
-### 12.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
-### 12.3  [Types of schools and learning trajectories](vol-III-chap-12-sect-3.md).
+## 14.  Bosons or fermions in condensed matter.
+### 14.1 [Boson condensation](vol-III-chap-12-sect-1.md).
+### 14.2  [Quantum Hall effects](vol-III-chap-12-sect-2.md).
+### 14.3  [Types of schools and learning trajectories](vol-III-chap-12-sect-3.md).
 
 Phonons are quantized sound waves that correspond to collective excitations representing quantized modes of vibration in lattices formed by elastic arrangement of atoms or molecules in condensed matter. Several condensates can be formed by bosons like pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation. According to Ginzburg, “superconductivity is the superfluidity of a charged liquid or, equivalently, superfluidity is the superconductivity of a noncharged liquid”. Einstein predicted the phenomena of condensation in a paper published in July 1924; nevertheless, the phenomena was experimentally discovered till 1994 by Cornell, Wieman and Ketterle. In connection with this prediction, it is worthwhile considering how prescriptive learning and emergent learning were present in Einstein´s life.
 
@@ -50,9 +50,11 @@ The Hall effect is produced when a magnetic field is applied perpendicularly to 
 
 In connection with previous reported contributions, Physics Nobel Prizes have been awarded to J. Bardeen, L. N. Cooper, J.R. Schrieffer, K. von Klitzing, D. M. Lee, D. D. Osheroff, R. C. Richardson, R.B. Laughlin, H.L. Störmer, D.C. Tsui, E.A. Cornell, W. Ketterle, and C,E. Wieman.
 
+## 15. Macroscopic quantum tunneling (2025 Physics Nobel Prize) - TBD
+
 ***
 
-Created: 2023-03-12; Updated: 2023-11-24 
+Created: 2023-03-12; Updated: 2025-12-10 
 
 Barojas-Weber, J.R., & Lizárraga-Celaya, C. (2023).
 _Modern Physics by Exploring Nobel Prizes._

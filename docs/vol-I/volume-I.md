@@ -65,9 +65,18 @@ Detection of motion by humans is very complicated; however, in here we just refe
 Any classic description of motion assumes that space and time are homogeneous and completely independent one of each other. Both coordinates have not privileged origins in their corresponding reference systems. However, descriptions of objects moving at speeds closer to the speed of light must be done according to a non-Euclidean geometry and following the approach of the theories of relativity. The theories explaining motion formulated by Kepler, Galileo, Newton, and Einstein are compared in terms of their different ways they satisfy the Aspects and Factors that distinguish a scientific theory. A. Einstein did not receive the Physics Nobel Prize for his works on relativity; they were considered pure speculations without the support of experimental evidence.
 
 
+## 5. Electron dynamics in matter (2023 Physics Nobel Prize) - TBD
+
+### 5.1. Motions at different time scales.
+### 5.2. Attosecond physics.
+### 5.3. Applications to study electronic motions in atoms and molecules.
+
+
+
+
 ***
 
-Created: 2023-03-12; Updated: 2024-04-15
+Created: 2023-03-12; Updated: 2025-12-10
 
 Barojas-Weber, J., & Lizárraga-Celaya, C. (2023).
 _Modern Physics by Exploring Nobel Prizes_.

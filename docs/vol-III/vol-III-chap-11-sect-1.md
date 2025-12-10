@@ -1,225 +1,139 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 10.3.	Organization and evaluation of learning communities.**](./vol-III-chap-10-sect-3.md) 
+[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-3/) 
 
 ***
 
-# 11.	Quantum waves in condensed matter physics.
+## 9.  Matter waves and quantum mechanics principles. 
 
-*What kind of waves characterize condensed matter?*
+*What is light made of?  Is it a wave or a corpuscle?*
 
-Three basic facts characterize quantization in condense matter: electrons and neutrons exhibit quantized wave like behaviors, photons are the quanta of electromagnetic radiations, and phonons are collective excitations representing quantized modes of vibration in lattices formed by atoms or molecules. 
+By following Maxwell's theory and the experimental confirmation made by Hertz, light is an electromagnetic radiation. It behaves like a wave when it propagates but interacts with matter as a quantum particle, the photon. Light behaves as a wave or as a corpuscle depending on the type of experiment where energy-matter is produced, detected, applied or transformed. 
 
-### Learning objectives of Chapter 11.
-	
+### Learning objectives of Chapter 9.
+
 After this Chapter you should be able to:
 
-- Describe the Physics Nobel Prizes awarded in 1915, 1986, 1944, and 1994 related to the use of microscopes and spectroscopes for the study of condensed matter.
-- Discuss the Physics Nobel Prizes awarded in 2010 and 2012 related to the production of a new  material (the graphene) and the application of methods for the individual control of photons and ions.
-- Analyze Geim´s Nobel Lecture in terms of learning and research activities.
+- Describe the origin and consequences of the de Broglie hypothesis and the experimental demonstration of the diffraction of electrons.
+- Analyze the content of the correspondence principle proposed by Bohr and the uncertainty principle proposed by Heisenberg.
+- Explain the content of the Nobel Lectures by L. de Broglie, C. J. Davisson, G. P. Thomson, N. Bohr, and W. Heisenberg.
 
-### Description of content of Chapter 11.
+### Description of content of Chapter 9.
 
-Section 11.1. Microscopic observation of solids.
+Section 9.1. From a theoretical proposition to an experimental demonstration.
 
-We deal with the Physics Nobel Prizes awarded in 1915 to [Sir William Henry Bragg](https://en.wikipedia.org/wiki/William_Henry_Bragg) (1862-1942) and [William Lawrence Bragg](https://en.wikipedia.org/wiki/Lawrence_Bragg) (1890-1971) “for their services in the analysis of crystal structure by means of X-rays”, in 1986 to [Ernst Ruska](https://en.wikipedia.org/wiki/Ernst_Ruska) (1906-1988) “for his fundamental work in electron optics, and for the design of the first electron microscope” and to [Gerds Binning](https://en.wikipedia.org/wiki/Gerd_Binnig) (1947) and [Heinrich Rohrer](https://en.wikipedia.org/wiki/Heinrich_Rohrer) (1933-2013) “for their design of the scanning tunneling microscope”, and in 1994 “for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter”, to [Bertram N. Brockhouse](https://en.wikipedia.org/wiki/Bertram_Brockhouse) (1918-2003) “for the development of neutron spectroscopy” and to [Clifford G. Shull](https://en.wikipedia.org/wiki/Clifford_Shull) (1915-2001) “for the development of the neutron diffraction technique”.
+We consider the existence of [matter waves](https://en.wikipedia.org/wiki/Matter_wave), first from a theoretical point of view by explaining the de Broglie's hypothesis (Physics Nobel Prize in 1929) and then from an experimental point of view by analyzing the observations of [electron diffraction](https://en.wikipedia.org/wiki/Electron_diffraction) by Davison and Thomson (Physics Nobel Prize in 1937).
 
-Section 11.2. Production of new materials and study of individual quantum systems.
+Section 9.2. Correspondence and uncertainty principles in Quantum Physics.
 
-We refer to the Physics Nobel Prize awarded in  2010 to [Andre Geim](https://en.wikipedia.org/wiki/Andre_Geim) (1958) and [Konstantin Novoselov](https://en.wikipedia.org/wiki/Konstantin_Novoselov) (1974) “for groundbreaking experiments regarding the two-dimensional material graphene”, and in 2012 to [Serge Haroche](https://en.wikipedia.org/wiki/Serge_Haroche) (1944) and [David J. Wineland](https://en.wikipedia.org/wiki/David_J._Wineland) (1944) “for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems”.
+We deal with the representation of the superposition of a sine waves packet, consider when light behaves as a wave or a corpuscle, and discuss the principles of correspondence and uncertainty. The formulation of the new mechanics of material waves and quantized states requires new principles: the [correspondence principle](https://en.wikipedia.org/wiki/Correspondence_principle) proposed by Niels Bohr (Physics Nobel Prize in 1922) and the [uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle) proposed by Werner Heisenberg (Physics Nobel Prize in 1932).
 
-Section 11.3. Phases in learning and research processes.
 
-We apply the document *Phases in a learning and research process* to the description of Geim´s Nobel Lecture *Random Walk to Graphen* according to two structural phases, one for learning and another for research.
+Section 9.3. Communication forms for describing scientific texts.
 
-## 11.1. Microscopic observation of solids.
+We apply the Communication forms for describing scientific texts to consider the organization of contents in terms of diagrams and designs as well as the application of procedures in terms of dialogues and discourses. Examples of these communication forms are described in terms of  in connection with Nobel Lectures related to matter waves, diffraction of electrons, and correspondence and uncertainty principles.
 
-[Water](https://en.wikipedia.org/wiki/Water) as vapor is a gas, as rain it is a liquid, and as ice it is a solid. Basically, the main differences in between these states of matter are the mobility of their components and their structural conformation. 
 
-The study of the macroscopic properties of matter that are observed, measured, and calculated, is based on the treatment of models associated with the description of the system at the microscopic level. The explanation and prediction of the structure and functioning of physical systems depend on understanding how their components are organized and what kind of interactions do they have, both within the system and with the surrounding environment. 
+## 9.1. From a theoretical proposition to an experimental demonstration. 
 
-Usually, the theoretical studies of the physical properties in condensed matter consist in the description of models about the [structure of crystals](https://en.wikipedia.org/wiki/Crystal_structure) and, not always in parallel, with applications of procedures for [testing](https://en.wikipedia.org/wiki/Test_method) calculations of statistical nature, be them classical or quantic. These calculations are then contrasted with experimental measurements.
+The quantization relationship $E = nhν$ connects the concept of energy ($E$), characteristic of particles, with frequency ($ν$) which is a typically wave property. The constant of proportionality is Planck's constant $h$, of the order of $10^{-27}$ erg.sec. The equation proposed by de Broglie $p = h/λ$ also connects a corpuscular property, the linear momentum (p), with a wave property, the wavelength (λ); again, the constant of proportionality is $h$. The equation $E = nhν$ refers to the quantization of energy and the equation $p = h/ λ$ concerns matter waves.
 
-We consider four kinds of experimental resources for observing the structure and detecting the dynamics in [condensed matter](https://en.wikipedia.org/wiki/Condensed_matter_physics):: X-ray radiations, beams of electrons, charged atoms that generates currents due to the tunneling effect, and beams of neutrons. The task these resources must accomplish is to overcome the optical limitations of the visible [electromagnetic radiations](https://en.wikipedia.org/wiki/Electromagnetic_radiation) whose wavelengths are much bigger than the size of the object to be observed. The criteria for judging the efficiency in accomplishing such task is how much the resolution power of the instrument is improved, meaning that the distances between objects and the lengths of their displacements are well observed and measured by using radiations of adequate wavelengths. At least, the wavelength of the radiation needs to be of the order of magnitude of the size of the objects to be seen.
 
-One of the first steps in classifying structures in solids was the description of the [Bravais lattices](https://en.wikipedia.org/wiki/Bravais_lattice). In 1848 Auguste Bravais (1811-1863) defined 14 unique regular three-dimensional arrangements in crystals; their interatomic distances were of the order of $10^{-9}$ m. 
+### The de Broglie hypothesis.
 
-Several Nobel Prizes have been awarded specifically connected with [X-rays](https://en.wikipedia.org/wiki/X-ray): In Physics in 1901 to [Wilhelm Röntgen](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) (1845 – 1923) “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”, in 1914 to [Max von Laue](https://en.wikipedia.org/wiki/Max_von_Laue) (1879-1960) “for his discovery of the diffraction of X-rays by crystals”, and in 1915 to [father](https://en.wikipedia.org/wiki/William_Henry_Bragg) and son Braggs “for their services in the analysis of crystal structure by means of X-rays”. In Chemistry in 1964 to [Dorothy Crowfoot Hodgkin](https://en.wikipedia.org/wiki/Dorothy_Hodgkin) (1910-1994)” for her determinations by X-ray techniques of the structures of important biochemical substances”. In Medicine in 1946 to [Hermann Joseph Muller](https://en.wikipedia.org/wiki/Hermann_Joseph_Muller) (1890-1967) “for the discovery of the production of mutations by means of X-ray irradiation” and in 1962 to [Francis Harry Compton Crick](https://en.wikipedia.org/wiki/Francis_Crick) (1916-2004), [James Dewey Watson](https://en.wikipedia.org/wiki/James_Watson) (1928-2016), and [Maurice Hugh Frederick Wilkins](https://en.wikipedia.org/wiki/Maurice_Wilkins) (1916-2004) “for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material”. 
+In 1924, [Louis de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) presented his doctoral thesis *Investigations on the theory of quantum* where he proposed that material particles had wave properties; there he combined classical concepts of mechanics and optics with modern ideas of relativity and quantum treatments.
 
-In this section we deal with Physics Nobel Prizes that refer to three kinds of microscopies: X-ray, Electron and Scanning tunneling. We also refer to Neutron spectroscopy. We quote, summarize, or comment documents available in the Nobel web page such as Press release, Facts (WORK), Popular information, Advanced information, and each one of the corresponding Nobel Lectures. Appropriate references in MLA format are given at the end of the chapter.
+Following Einstein $E = mc^2$ and Planck $E = hν$ when $n = 1$. We also have the velocity of light $c = λν$, then $m = E/(c^2) = hν/(c^2) = hν/(cλν) = h/(cλ)$ then $λ = h/(mc)$. This relationship applies to photons where $p = mc$, but de Broglie generalized it for every particle of mass $m$, velocity $v$, and linear momentum $p = mv$; that is, $λ = h/(mv) = h/p$ and therefore $p = h/λ$. Particles satisfying this condition implies the existence of matter waves. The following relativistic considerations were used to obtain de Broglie’s equation $p = h/ λ$.
 
-### X-ray microscopy.
+1) According to the [theory of special relativity](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence), the relation $E = hν$ applies to a photon observed in a fixed reference frame. Therefore, de Broglie assumed that a similar equation can be written for the same photon but observed from its own reference system. If in such a reference system the characteristic frequency of the photon is $ν_0$, then $hν_0 = E = m_0c^2$. 
 
-Starting in 1912 Max von Laue and his assistants obtained photographs showing interference patterns produced by the incidence of white radiation on the surface of crystals. Afterwards, the father Bragg designed a X-ray spectrometer and the son Bragg proposed the equation that now is known as [Bragg´s law](https://en.wikipedia.org/wiki/Bragg%27s_law) $n λ = 2dsin(θ)$. In such equation $n$ is an integer, $λ$ is the wavelength of the radiation, $d$ is the distance between two successive planes of the crystal, and $θ$ is the angle of reflection between the incident X-rays and the planes where the crystal atoms are located. We have considered this law in Section 9.1.
+The term $hν_0$ is an indication that a vibrational wave could be represented by the sinusoidal function $A_0 ≈ sin(2πν_0t_0)$ where $A_0$ is the amplitude and $t_0$ is the time measured in the reference system at rest.
 
-Bragg´s law relates the observed X-ray diffraction pattern to the arrangement of atoms in the crystal that produces the pattern. The experiments made by the Braggs proved the wave-like nature of X-rays and demonstrated that crystals are made of three-dimensional regular, repeating geometrical patterns of atoms, forming natural diffraction gratings. 
+2) The [Lorentz transformations](https://en.wikipedia.org/wiki/Lorentz_transformation) that relates the time $t_0$ to the time $t$ measured in a reference frame that moves with velocity $v$ in the $x$ direction with respect to the frame of the photon is $t_0= γ[t-\frac{νx}{c^2} ]$ where the relativistic parameter $γ=[ 1 - β^2 ]^{(-1⁄2)}$ with $β= \frac{v}{c}$.
 
-WORK: “Max von Laue's discovery that diffraction patterns occur when X-rays pass through crystals inspired William and Lawrence Bragg to conduct their own studies in the area. Their contributions included establishing the relationship between the wavelength of the X-ray, its angle of incidence, and the distance between the atomic layers inside the crystal. This provided a powerful tool for studying crystals' structures. Using diffraction pattern methods, it now also became possible to calculate the positions of atoms in crystalline structures.”
+In accordance with the above, the sinusoidal function in the system at rest can be written as $A(x,t)≈sin[2πν_0 γ(t-\frac{νx}{c^2} )]$, while for the moving system we will have $A(x,t)≈sin[2πν(t-\frac{x}{w})]$. This second equation represents a wave of frequency $ν$ and phase velocity $w =λν$, where $ν= γν_0$ and $w=  \frac{c^2}{v}$.
 
-MLA style: William Bragg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1915/wh-bragg/facts/
+3) For the photon in the laboratory reference system $E = mc^2 = hν$. Substituting in this equation the relation $ν= γν_0$ we obtain $E = hν=hγν_0$.  Besides, using the relativistic relation $m = γm_0$ it results $E =mc^2= γm_0 c^2$. From $E = hγν_0 = γm_0 c^2w$ it can be obtained  $hν_0=m_0 c^2$.
 
-NOBEL LECTURE: *The Diffraction of X-Rays by Crystals* by Bragg.
+4) Using the relationships $w= λν$, $w= \frac{c^2}{v}$, $ν= γν_0$, $m =γm_0$ and $hν_0=m_0 c^2$ it results
 
-….. "Prof. von Laue had made some of his earliest experiments with a crystal of zinc sulphide, and had obtained results which proved that the diffracted pencils showed the symmetry of the underlying crystal structure, which in this case was cubic". …. "I"n studying his work, it occurred to me that perhaps we ought to look for the origin of this selection of certain directions of diffraction in the peculiarities of the crystal structure, and not in the constitution of the X-ray beam…"
+$λ=  \frac{w}{ν}=  \frac{c^2⁄v}{ν}= \frac{c^2}{v(γν_0 )}   = (\frac{hc^2}{v})(\frac{1}{hγν_0})= (\frac{hc^2}{v})(\frac{1}{γm_0 c^2})= \frac{h}{mv}= \frac{h}{p}$
 
-……
+In his article *A tentative theory of light quanta*, published in Phil. Mag. 47, 446 (1924), de Broglie wrote: "We are inclined to suppose that everybody in motion can be accompanied by a wave and that it is impossible to separate the motion of the body from the propagation of the wave."
 
-….. “The points of a space lattice may be arranged in series of planes, parallel and equidistant from each other. As a pulse passes over each diffracting point, it scatters a wave, and if a number of points are arranged on a plane the diffracted wavelets will combine together to form a reflected wave front, according to the well-known Huygens construction.”
+To have an idea of the order of magnitude of the wavelength assigned by de Broglie to particles previously considered as corpuscles, see the following table Table 9.1. The second column shows the values of $λ$ measured in Ångstroms ($1Å = 10^{-10} m$) or in Fermis ($1F = 10^{-5}Å = 10^{-15} m$). Last column indicates the value of the energy with which the electrons are accelerated, expressed in electron-volts (eV) or in the corresponding temperature in Kelvin degrees (K).
 
-…..
+ <p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/9.1.jpg?raw=true"> 
+</p>
 
-“Although it seemed certain that the von Laue effect was due to the diffraction of very short waves, there remained the possibility that there might not be the X-rays.” …..
+
+<center>
+(Source: taken from Table 2.1 (p. 65) in French and Taylor (1978).)
+</center>
+
+WORK: “In the beginning of the 20th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. In 1924 Louis de Broglie introduced the idea that particles, such as electrons, could be described not only as particles but also as waves. This was substantiated by the way streams of electrons were reflected against crystals and spread through thin metal foils. The idea had great significance for the continued evolution of quantum mechanics.”
+
+MLA style: Louis de Broglie – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1929/broglie/facts/>
+
+NOBEL LECTURE: *The Wave Nature of the Electron* by Broglie. 
+
+MLA style: Louis de Broglie – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1929/broglie/lecture/
+
+
+### Electron diffraction.
+
+For an atom of mass $m$, radius $r$ and velocity $v$, its linear momentum is $p = mv$, the magnitude of its quantized angular momentum is $L = rp = nh/(2π)$. For $n = 1$, $p = h/(2πr)$. If $r = a_0$ is the Bohr radius, wich means $p = h/(2πa_0)$ and the de Broglie relation $λ = h/p = h/[h/(2πa_0)] = 2πa_0$. Therefore, the wavelength associated to the electron is of the order of the Bohr radius <br> ($λ ≈ a_0 = 0.529 Å$).
+
+The previous condition implies the possibility of obtaining diffraction patterns of matter waves if a beam of electrons passes through a [double slit](https://en.wikipedia.org/wiki/Double-slit_experiment) of the size of $a_0$. This would resemble the light wave diffraction experiment performed in 1801 by [Thomas Young](https://en.wikipedia.org/wiki/Thomas_Young_(scientist)) (1773 – 1829). Nevertheless, the first experiments to detect matter waves were carried out around 1927, in an industrial laboratory in the United States by [Clinton Davisson](https://en.wikipedia.org/wiki/Clinton_Davisson) (1881 - 1958) and [Lester Germer](https://en.wikipedia.org/wiki/Lester_Germer) (1896 -1971) and in a university laboratory in England by [George Paget Thomson](https://en.wikipedia.org/wiki/George_Paget_Thomson) (1892 - 1975).
 	
-….
-    
-“In examining the effect for varying angles of incidence my father discovered that a very strong reflection appeared when a given crystal face was set at certain definite angles.” …
+If an electron acquires its velocity $v$ due to the action of a potential difference $V$, in the case that $v << c$ we have that $½m_ev^2 = q_eV$, where $m_e$ and $q_e$ are, respectively, the mass and charge of the electron. Therefore $p^2 = (m_ev)^2= 2m_eq_eV$. Thus, de Broglie's hypothesis is represented by the straight line $λ= \frac{h}{p}= (\frac{h}{(2m_e q_e )^{½}})(\frac{1}{\sqrt{V}})$ with slope $[h/(2m_eq_e)^{½}]$ (see Figure 9.1).
 
-“The results obtained with the spectrometer gave the frequency of these radiations, and my father was able to show that the product of the frequency and Planck’s constant h was equal to the cathode-ray energy required to excite the rays; this was a first proof of the quantum law as applied to X-rays.”
+
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-1-fig2.JPG?raw=true"> 
+</p>
+   
+
+Source: Figure 4 from Davisson's Nobel Lecture *The Discovery of Electron Waves*: MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/ 
 	
-…..
-    
-“The examination of crystal structure, with the aid of X-rays has given us for the first time an insight into the actual arrangement of the atoms in solid bodies. The study of structure by means of a microscope is limited by the coarseness of the light which illuminates the object, for we can never hope to see details smaller than the wavelength of the light. By using X-rays with their very short wavelengths, this limit of minuteness has at one step been decreased ten thousand times, for the wavelength of the X-rays is of a smaller order than the dimensions of the atomic structure. We are actually looking into the interior of the molecule and the atom with this fine-grained form of light.”
+**Figure 9.1.** Graph of the equation $λ= (\frac{h}{\sqrt{2m_e q_e}})(\frac{1}{\sqrt{V}})$ reported by Davisson.
+
+Davisson and Germer obtained $λ =1.66 Å$ for the diffraction of electrons when they used the values of the charge and mass of the electron and the experimental data for the voltage $V = 54$ volts. Their calculation was $λ=(\frac{h}{\sqrt{2m_e q_e}})(V^{-½})=\frac{12.25}{7.35}=1.66$ with $[V^{½}= 7.35]$. 
+
+The result observed in the diffraction of electrons coincides with the corresponding values of $λ$ measured from the diffraction patterns obtained when X-rays hit upon crystals. According to the well-known [Bragg formula](https://en.wikipedia.org/wiki/Bragg%27s_law), proposed in the years 1913-1914 by [William Henry Bragg](https://en.wikipedia.org/wiki/William_Henry_Bragg) (1862 - 1942) and his son [William Lawrence Bragg](https://en.wikipedia.org/wiki/Lawrence_Bragg) (1890 - 1971), the diffracted wavelength for X-rays is $nλ = 2dsinθ$. In this equation $d$ is the distance between the planes of the crystal atoms and $θ$ is the scattering angle formed between the direction of the incident radiation and the dispersion planes of the crystal lattice. The index $n = 1, 2, 3…$ indicates the order of diffraction (Figure 9.2).
+
+
+<p align="center" width="100%">
+    <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-9-sect-1-fig3.JPG?raw=true"> 
+</p>
 	
-…..
 
-….. “We find the angle at which a monochromatic beam of X-rays of known wavelength is reflected by the various faces of the crystal. Reflection takes place only when the relation $nλ = 2dsin(θ)$ is satisfied, and so the spacing $d$ of the planes parallel to any face under examination can be found by measuring the angle $θ$.” ….
+<center>
+Source: adapted from  https://es.wikipedia.org/wiki/Archivo:Difraccion.png
+</center>
 
-…..
-    
-“In our early work we made certain assumptions in order to unravel the complex tangle which the reflexions from some crystals represented. We supposed that the diffraction took place at the centre of each atom, as if the whole effect were localized there. Further, we supposed that the effect of an atom was proportional to its atomic weight.” ….
-	
-…..
-    
-“There seems to be hardly any type of matter in the condition of a true solid which we cannot attempt to analyze by means of X-rays. For the first time the exact arrangement of the atoms in solids has become known; we can see how far the atoms are apart and how they are grouped. The importance of this consists in the light it throws on chemical composition.” …
+**Figure 9.2.** Diagram to obtain the Bragg formula $nλ = 2dsinθ$.
 
-…..
-    
-“Finally, there is a still deeper application of the X-ray analysis, to the structure of the atom itself. Since the wavelength of the X-rays is less than the "atomic diameter", as it is somewhat vaguely termed, and since the rays are presumably diffracted by the electrons in the atom, we ought to be able to get some idea of the distribution of these electrons in the same way that we draw conclusions as to the grouping of the atoms.” ….
+Bragg formula indicates that the diffraction of the incident radiation of wavelength (λ) is produced when the fronts of the incident waves are reflected by the crystal atoms. Previous figure shows that the distance $S = FG + GH$ corresponds to the difference in the paths traveled by the wave reflected in the upper plane with respect to the wave reflected in the lower plane. Figure 9.2 shows that $FG = GH = dsinθ$ because these distances are the hypotenuses of right triangles $FGO$ and $HGO$ (corresponding vertices are shown in blue). Bragg's formula implies that the total distance $S$ is equal to an integer multiple of $λ$, that is $S = 2dsinθ = nλ$.
 
-For more information consult the document *Speed read: Crystal Patterns Made Plane and Simple*. 
-
-MLA style: Lawrence Bragg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 24 May 2023. https://www.nobelprize.org/prizes/physics/1915/wl-bragg/lecture/
-
-### Electron microscopy.
-
-Conventional [optical microscopes](https://en.wikipedia.org/wiki/Optical_microscope), as extensions of the human eye, give direct images of small objects by using visible light and a system of lenses. Nevertheless, with light waves it is impossible to distinguish details smaller than the wavelength of the light and different optical principles need to be taken into account. 
-
-Light waves are diffracted when they pass through the spaces inside the material to be seen. The greater the number of diffracted waves that reach the object lens in a microscope the better resolved the image is, however, there is no diffraction if such spaces are smaller than the incident wavelength. This fact limits the possibility of observing very small objects with light waves. Next we refer to one of the laureates of the 1986 Physics Nobel Prize.
-
-The contributions made by Ernst Ruska to the development of [electron microscopy](https://en.wikipedia.org/wiki/Electron_microscope) are now considered in two parts: (1) by including a short description of his works, and (2) by including excerpts from his Nobel Lecture.
-
-WORK: “Very small objects can be studied in a microscope, but when objects become as small as the wavelength of light, an image no longer is produced. The discovery that beams of electrons behave as waves with wavelengths shorter than visible light opened up new opportunities. Ernst Ruska discovered that a magnetic coil could be used as a lens for electron beams and developed the first electron microscope in 1933. It captures images of extremely small objects by means of electron beams that are directed towards an object and captured on a screen.”
-
-MLA style: Ernst Ruska – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/ruska/facts/
-
-NOBEL LECTURE: *The Development of the Electron Microscope and of Electron Microscopy* by Ruska.
-
-- Parents’ house, family
-- School, vocational choice
-- The cathode-ray oscillograph and the short coil
-	
-…..
-    
-“Therefore, Hans Busch at Jena calculated the electron trajectories in such an electron ray bundle and found that the magnetic field of the short coil has the same effect on the electron bundle as has the convex glass lens with a defined focal length on a light bundle.” ……
-
-- Why I pursued the magnetic electron lens for the electron microscope
-- The invention of the electron microscope
-
-“The first proof had thus been given that-apart from light and glass lenses images of irradiated specimens could be obtained also by electron beams and magnetic fields, and this in even more than one imaging stage.” …. “I was immediately heartened, though, when with the aid of the de Broglie equation I became satisfied that these waves must be around five orders of magnitude shorter in length than light waves. Thus, there was no reason to abandon the aim of electron microscopy surpassing the resolution of light microscopy.”
-
-…..
-
-… “Even very thin specimens yielded sufficient contrast, yet no longer by absorption but solely by diffraction of the electrons, whereby - as is known - the specimens are heated up considerably less.”
-
-- How the industrial production of electron microscopes came to be
-	
-……
-
-…. “The instrument No 26 was, by the way, delivered to Professor Arne Tiselius in Uppsala in autumn 1943. By February 1945 more than 30 electron microscopes had been built in Berlin and delivered.” ….
-
-….
-
-- Development of electron microscopy after 1945
-	
-……
-
-….. “The development of these new ultramicrotomes considerably reduced the limitation in the choice of specimens for electron microscopy. For 25 years now, almost all disciplines furthered by light microscopy have also been able to benefit from electron microscopy.” …
-
-…..
-
-…. “The development of the electron microscopy of today was mainly a battle against the undesired consequences of the same properties of electron rays which paved the way for sub-light-microscopical resolution. Thus, for instance, the short material wavelength-prerequisite for good resolution - is coupled with the undesired high electron energy which causes specimen damage.” ….
-
-MLA style: Ernst Ruska – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 25 May 2023. https://www.nobelprize.org/prizes/physics/1986/ruska/lecture/
-
-### Scanning tunneling microscopy.
-
-In 1981 Gerd Binnig and Heinrich Rohrer built a [scanning tunneling microscope](https://en.wikipedia.org/wiki/Scanning_tunneling_microscope) to study the structure of surfaces. They applied an electric potential between an extremely thin point (stylus) and a surface at a very close distance but without any mechanical contact; then an electric current was produced by quantum tunnel effect. The vertical movement of the stylus revealed changes in the surface and in the population of the electronic states of the material. As the intensity of the current depended on the separation distance between the stylus and the surface, the structure of the surface could be observed atom by atom. 
-
-Nevertheless, Binnig and Rohrer needed to solve difficult technical problems, for instance: the production of extremely fine stylus so that the tip contained only a few atoms, and the elimination of environment vibrations by placing the microscope upon a heavy permanent magnet floating freely in a dish of superconducting lead.
-
-WORK: “In optical microscopes the size of objects that can be observed is limited by the wavelength of light. In 1981 Gerd Binnig and Heinrich Rohrer developed the scanning tunneling microscope, which transcends this limit. The instrument is based on an extremely thin point that passes very close to a surface. A low electrical charge is positioned between the point and the surface, and through a quantum mechanical effect, the tunnel effect, a current arises that varies with the distance from the surface. The current is registered and allows the creation of an image in which objects as small as individual atoms can be distinguished.”
-
-MLA style: Gerd Binnig – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1986/binnig/facts/
-
-NOBEL LECTURE: *Scanning Tunneling Microscopy – From Birth to Adolescence* by Binning and Rohrer.
-
-The Lecture is just a detailed narrative of the historical developments of their research. As the laureates mention it “simply reflects what we thought, how we acted and what we felt.” 
-
-For a review of the physical and technical aspects of the Prize, the authors recommend their publication:  Binnig, G., and Rohrer, H. (1986), *Scanning tunneling microscopy*, IBM J. Res. Develop. 30, 355.
-
-MLA style: Heinrich Rohrer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Fri. 26 May 2023. https://www.nobelprize.org/prizes/physics/1986/rohrer/lecture/
-
-### Neutron spectroscopy.
-
-Neutrons are elementary particles that behave both as particles and as waves, have no electric charge and its mass is about the same as a proton. [Neutrons](https://en.wikipedia.org/wiki/Neutron) are basic building blocks of the atomic nucleus and as free particles participate in many nuclear reactions. They were discovered in 1932 by [James Chadwick](https://en.wikipedia.org/wiki/James_Chadwick) (1891-1974) when he observed a penetrating form of radiation emanating from beryllium metal activated by alpha-particles coming from a radium source. For more details, see Chadwick´s 1935 Nobel Lecture: *The Neutron and Its Properties* and the 1938 Nobel Lecture by [Enrico Fermi](https://en.wikipedia.org/wiki/Enrico_Fermi) (1901-1954): *Artificial Radioactivity Produced by Neutron Bombardment*.
+If in the Bragg formula the distance between the crystal planes $d$ is replaced by the distance $D$ between nearby atoms in a shell of the crystal $d = Dsin(α)$, with $α$ the angle between the crystal planes and the direction of incidence of radiation. From Figure 9.2 $θ = (π/2 – α)$ and therefore $nλ =2dsinθ = 2[Dsin(α)][sin(π/2 - α)]$. Using the trigonometric relations $sin(π/2 - α) = cos(α)$ and $2cos(α)sin(α) = sin(2α)$, we  obtain  $nλ = Dsin(2α)$. For $D = 2.15 Å$ and an angle $α = 50º$, for $n = 1$ Thomson obtained $λ =1.65 Å$, comparable with the value reported by Davisson and Germer:  $λ =1.66 Å$.
 
 
-MLA style: James Chadwick – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024.  <https://www.nobelprize.org/prizes/physics/1935/chadwick/lecture/>
+WORK: “In the beginning of the 19th century, quantum physics evolved from the idea that energy is conveyed in only certain fixed amounts. An early finding indicated that light can be regarded as both waves and particles. Later it was proposed that matter, such as electrons, also can be described as both waves and particles. In 1927 Clinton Davisson and G.P. Thomson demonstrated, independently of one another, that electrons could be described as waves. When an electron beam passed through a nickel crystal, diffraction patterns appeared.”
 
-MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. <https://www.nobelprize.org/prizes/physics/1938/fermi/lecture/>
+MLA style: Clinton Davisson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1937/davisson/facts/>
 
+NOBEL LECTURE: *The Discovery of Electron Waves* by Davisson.
 
-Initially neutrons were used to split atomic nuclei and produce atomic bombs. Later, fluxes of neutrons coming out from nuclear reactors served to study the effects of collisions atom-neutron on the structural and dynamical properties of condensed matter. The structural properties defined by the positions of atoms were determined by registering changes in the directions of scattered neutrons. The neutron velocities were related to the dynamical properties of the individual or collective oscillations of the atoms.  
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
-The following  information has been obtained from the document Press release *The structure and dynamics of matter revealed.*
+NOBEL LECTURE: *Electronic Waves* by Thomson.
 
-MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/press-release/
+MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/thomson/lecture/
 
-
-Neutrons have interesting scattering properties because their energy is of the same order of magnitude as that of the phonons in solid and fluid matter. [Neutron diffraction](https://en.wikipedia.org/wiki/Neutron_diffraction) has served to study the relative orientations of small atomic materials. …. “neutrons have been used to an increasing extent for studying the structure (arrangement) and dynamics (movement) of solid and fluid matter.”
-
-Shull developed neutron scattering techniques based on the diffraction of elastically scattered neutrons (there is no energy change) and the wavelength of neutrons leaving out from a reactor are roughly equal to the distance between the atoms in a solid body or a liquid. By following the directions of the scattered neutrons, the structure in which the atoms are arranged can be determined. Furthermore, as protons are very efficient neutron scattering centers their positions can be determined with neutron diffraction. 
-
-WORK: “Atomic nuclei are composed of protons and neutrons. Clifford Shull and Bertram Brockhouse developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. According to principles of quantum mechanics, neutrons and other particles can be described as a wave movement, and neutron radiation that passes a regular atomic structure gives rise to diffraction patterns. In 1946 Shull developed methods to make use of this to determine the structure of different molecules and materials.”
-
-MLA style: Clifford G. Shull – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/shull/facts/
-
-NOBEL LECTURE: *Early Development of Neutron Scattering* by Shull.
-
-Shull´s lecture is a narrative of the historical projects for building nuclear reactors and neutron spectrometers. It includes improvements in the instrumentation and in the registration, interpretation, and classification of data on diffraction patterns, as well as studies on hydrogen-containing crystals and the determination of coherent scattering amplitudes for hydrogen and deuterium.  
-
-MLA style: Clifford G. Shull – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/shull/lecture/
-
-WORK: “Atomic nuclei are composed of protons and neutrons. Bertram Brockhouse and Clifford Shull developed methods for investigating different materials with beams of neutrons created in a nuclear reactor. When neutron beams come in contact with a material, some of the neutron’s energy is converted into vibrations. The vibrations, known as phonons, correspond to fixed energy levels that form a spectrum. During the 1950s Bertram Brockhouse developed methods for using these spectrums to chart properties of different molecules and materials.”
-
-Brockhouse´s Lecture presents different developments of neutron spectrometers, descriptions of experiments (in particular with light and heavy water and other liquids like helium), obtention of dispersion curves for phonons in metals and alloys, studies about the spin waves (magnons), calculations of distribution functions and of correlation functions, phonon-electron interactions in metals, interatomic force systems of long range and great complexity, neutron spectroscopies in crystals, applications of digital computers, comparisons of models, analysis of published results, and discussions of theories of condensed matter. We include the subtitles as in the original.
-
-MLA style: Bertram N. Brockhouse – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/1994/brockhouse/facts/
-
-NOBEL LECTURE: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical World* by Brockhouse.
-
-- The NEUTRON and its APPLICATIONS<br>
-- The GRAND ATLAS<br>
-- SLOW NEUTRON SPECTROMETRY<br>
-- Absorption Methods<br>
-- The Triple-Axis Spectrometer<br>
-- Developments in Apparatus and Methods<br>
-- Phonons, Dispersion Curves and Interatomic Forces<br>
-- Nature, Neutron Spectroscopy and the Grand Atlas
-
-MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/
 
 ***
 
-[**Next: 11.2. Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md)
+[**Next: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-III-chap-9-sect-2.md)

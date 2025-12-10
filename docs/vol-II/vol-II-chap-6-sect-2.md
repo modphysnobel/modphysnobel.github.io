@@ -1,95 +1,165 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 6.1. Electronic energy levels according to atomic models.**](./vol-II-chap-6-sect-1.md) 
+[**Previous: 5.1.  Kinetic theory of gases and Thermodynamics.**](./vol-II-chap-5-sect-1.md) 
 
 ***
 
-## 6.2 Splitting of degenerated electronic energy levels in the hydrogen atom.  
+## 5.2.  The photon as a quantum of energy.
 
-The first example of a solution of the [Schrodinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) to the Bohr atom model indicated that the quantization of the energy levels $E_n = -R/n^2$, where n is the principal quantum number and $R = (m_e)(q_e^4)/[2(ђ^2)] = 13.6 eV$ is the Rydberg constant for the hydrogen atom. However, when the Dirac equation was considered, the expression for the electronic levels of the hydrogen atom was $E_{nj}= -(\frac{R}{n^2})[1+(\frac{α^2}{n^2})(\frac{n}{j+½}- \frac{3}{4})]$, where $R$ is the Rydberg constant and the fine structure constant $α= \frac{q_e^2}{ђc}=7.297 \times 10^{-3}≈\frac{1}{137}$. The quantum number $j = l + s = l ± ½$. Note that the first term is the Bohr energy and the next term is proportional to $α^2$, which is a very small quantity but not zero.
+### Quantization in classical Physics.
 
-In the usual spectroscopic notation the first levels of the [fine structure](https://en.wikipedia.org/wiki/Fine_structure) in the hydrogen atom are designated as follows: the ground state is the first level and corresponds to $1S_{1/2}$ ($n = 1$, $l = 0$, $j =1/2$). According to the Dirac solution given above for $E_{nj}$ the next two levels are degenerate states: the levels $2S_{1/2}$ ($n = 2$, $l = 0$, $j = ½$, when $s = +½$ ) and $2P_{1/2}$ ($n = 2$, $l = 1$, $j = ½$, when  $s = -½$). Then comes the level $2P_{3/2}$ ($n = 2$, $l = 1$, $j = 3/2$) which is followed again by two degenerate states $3S_{1/2}$ ($n = 3$, $l = 0$, $j = ½$) and $3P_{1/2}$ ($n = 3$, $l = 1$, $j = 3/2$), and so on. The following energies measured in eV have been calculated for the first four levels:
+In classical physics, the spectrum of values of the variables that are measured generally corresponds to a continuum. For instance, when we are walking in a ramp there are no forbidden places for the feet (there is no restriction on the height h), unlike when we are walking in a staircase the foot can only be placed on the steps (Figure 5.2)
 
-For $n = 1$ and $j =1/2$, level $1S_{1/2}$:  $E =-(\frac{R}{1})[1+(\frac{α^2}{1}) (\frac{1}{½+½}- \frac{3}{4})]=$ $-(13.6)[1+(\frac{α^2}{1})(\frac{1}{4})]  ≈13.6$
-
-For $n = 2$ and $j =1/2$, level $2S_{1/2}$:  $E =-(\frac{R}{4})[1+(\frac{α^2}{4}) (\frac{2}{½+½}- \frac{3}{4})]=$ $-(\frac{13.6}{4})[1+(\frac{α^2}{4})(\frac{5}{4})]  ≈3.4$
-
-For $n = 2$ and $j =1/2$, level $2P_{1/2}$:  $E =-(\frac{R}{4})[1+(\frac{α^2}{4}) (\frac{2}{½+½}- \frac{3}{4})]=$ $-(\frac{13.6}{4})[1+(\frac{α^2}{4})(\frac{5}{4})]  ≈3.4$
-
-For $n = 3$ and $j = 3/2$, level $2P_{3/2}$:  $E =-(\frac{R}{9})[1+(\frac{α^2}{9}) (\frac{3}{2}- \frac{3}{4})]=$ $-(\frac{13.6}{9})[1+(\frac{α^2}{9})(\frac{3}{4})]  ≈1.5$
-
-Considering previous data, we obtain the following spacings between neighboring levels: between $1S_{1/2}$ and $2S_{1/2}$: 13.6 – 3.4 = 10.2, while between $2S_{1/2}$ and $2P_{1/2}$: 3.4 – 3.4 = 0 (degenerate levels according to Dirac) and between $2P_{1/2}$ and $2P_{3/2}$: 3.4 – 1.5 = 1.9. The null separation between the energies of the $2S_{1/2}$ and $2P_{1/2}$ states was a consequence of having assumed that the only interaction between the electron and the proton of the nucleus was due to a Coulombian potential between such charges. (See figure 6.5).
-
-<figure markdown>
-![Fig 4](./figs/chap-6-sect-2-fig1.JPG){width="480"}
-<figcaption> (Image credit: elaborated by the authors.)
-</figcaption>
-</figure>
-
-Source: diagram elaborated by the authors.
-
-**Figure 6.5.** First electronic levels of the hydrogen atom. 
-
-### [Lamb shift](https://en.wikipedia.org/wiki/Lamb_shift) measurements.
-
-Beginning in 1947, [Lamb and Retherford](https://en.wikipedia.org/wiki/Lamb_shift) measured with an accuracy of one part in ten thousand the transitions between the $2S_{1/2}$ and $2P_{1/2}$ levels. According to Dirac's theory, these levels should have the same energy (degenerate states) and there could be no radiative transitions between them. These states have the same quantum numbers $n$ and $j$: the radial number $n = 2$ and the total angular momentum number $j = ½$. However, the orbital angular momentum quantum numbers are different: $l = 0$ for the $2S_{1/2}$ state and $l = 1$ for the $2P_{1/2}$ state.
-
-Lamb and Retherford confirmed that the $2S_{1/2}$ level was above the $2P_{1/2}$ level and that the separation was 0.033 $cm^{-1}$ (about the order of 1000 MHz). The first measured value was 1060 MHz and later on the value of 1,057.845 MHz was obtained. The theoretical calculation made by Bethe in 1947 was 1040 MHz; afterwards the value of 1,057.853 MHz was reported.
-
-In their experiment Lamb and Retherford took advantage of two facts: 
-
-(1) the observed separation between the $2S_{1/2}$ and $2P_{1/2}$ levels turned out to be of the order of microwave frequencies, which fluctuate between $10^{-5}$ eV and $10^{-3}$ eV (the first experimentally measured value was $4.4 \times 10^{-4} eV$), and 
-
-(2) the $2S_{1/2}$ state is a metastable state with a half-life relatively long and does not decay rapidly to the $1S_{1/2}$ ground state, whereas the $2P_{1/2}$ state has a much shorter half-life. When a transition corresponding to a radio frequency is induced from the $2P_{1/2}$ or $2P_{3/2}$ levels, the atom loses its metastability and in $10^{-9}$ seconds it decays to the ground state without emitting radiation.
-
-The experimental design consisted of four regions for the following purposes: dissociation of the molecular hydrogen ($R_{dis}$), bombardment of the electrons ($R_b$), application of an external radiofrequency ($R_{rf}$), and detection ($R_{det}$). Different actions were carried out in each region, which are described below according to the following stages:
-
-STAGE 1: *Production of atomic hydrogen in the* $R_{dis}$ *region*. The $H_2$ molecules are heated up to 2500º C in an oven where the atoms dissociate in a percentage of the order of 64%; then the atoms pass through a double slit and hit a diode in a vacuum.
-
-STAGE 2: *Excitation of atoms at the* $2S_{1/2}$ *level in the* $R_b$ *region*. Inside the diode a current of electrons are emitted at the cathode and directed towards the anode. Along the way, these electrons bombard the hydrogen atoms coming from the oven and produce excited atomic states, among which is the $2S_{1/2}$ state, which is metastable. The $2S_{1/2}$ states cannot decay to the $1S_{1/2}$ ground state because there is a selection rule indicating that transitions only occur if there is a change in the quantum number $l$, which is zero for both states.
-
-After a small recoil deflection, the excited atoms move on to a metal surface from which they can eject electrons and so be detected. Between the bombardment region ($R_b$) and the detection region ($R_{det}$) it passes through the region ($R_{rf}$) where a radiofrequency field is applied.
-
-STAGE 3: *Application of a microwave field to the excited atoms in the* $R_{rf}$ *region*. The excited atoms are directed to a metallic surface where they produce an output signal of electrons that can be detected. If the frequency of the external oscillating field is zero, the atoms in the metastable state have time to cross the radio frequency region ($R_{rf}$) before de-exciting. However, if that frequency corresponds precisely to the difference in energies between the $2S_{1/2}$ state and the closest state in energy, such as the $2P_{1/2}$ level, then the atoms in the metastable state will no longer be in that state and therefore fewer atoms will reach a tungsten metallic plate placed after the $R_{rf}$ region.
-
-The half-life for the $2S_{1/2}$ state is 1/7 seconds while for the $2P_{1/2}$ state it is $1.6 \times 10^{-9}$ seconds. Before de-exciting, the atoms in the first state (the metastable) can travel a distance of the order of 10 cm, while the atoms in the second state only manage to travel $1.3 \times 10^{-3}$ cm and therefore do not reach the metallic plate and will no longer be detected in the next stage $E_4$.
-
-STAGE 4: *Detection of atoms in metastable state after passing through the* $R_{rf}$ *region*. The atoms that remained in the $2S_{1/2}$ state and managed to cross the $R_{rf}$ region have a long half-life; therefore, they have time to reach the tungsten plate which is sensitive only to atoms in the metastable state. The following sequence of three processes occurred on this plate: 
-	
-(1) the hydrogen atoms are de-excited when they collide with the atoms of the plate, causing the release of electrons from this plate;
-
-(2) the electrons are collected and form an electrical current that is amplified and
-
-(3) the amplified current is sent to a galvanometer for recording and measurement; when decreases in this current are observed in percentages that vary between 30% and 80%, it means that a transition is induced from the metastable state to another that was no longer metastable and therefore the electron does not reach the metal plate.
-
-STAGE 5: *Application of an external magnetic field to the* $R_{rf}$ *region*. In practice it was difficult to adjust the frequency of the oscillating field to induce the transition to the $2P_{1/2}$ level, while keeping the intensity of the microwave field constant. To solve this difficulty, an external magnetic field was applied in the $R_F$ region, which produced an extra doubling of the fine structure levels. Under these conditions, the frequency of the oscillating field was fixed and the intensity of the magnetic field was varied. The minima in the readings of the galvanometer indicated the presence of induced transitions from the metastable state to other short life expectancy states, such as the $2P_{1/2}$ and $2P_{3/2}$ states. 
-
-STAGE 6: *Graphing of readings and extrapolation to the null field of the* $R_{det}$ *region*. For a fixed oscillation frequency of the microwave field, a minimum in the current registered in the galvanometer indicated a decrease in the number of atoms in a metastable state arriving at the metal plate. Afterwards, the points with coordinates defined by the oscillation frequency (R) and the external magnetic field (B) were graphed and the value extrapolated to the null field was read on the graph to obtain the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels. Thus, the Lamb shift was determined indirectly as the separation energy $ΔL$ between two supposedly degenerate levels (Figure. 6.6).
 
 <p align="center" width="100%">
-    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-2-fig2.JPG?raw=true"> 
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig1.png?raw=true"> 
 </p>
 
+<center>
+(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+</center>
+
+
+**Figure 5.2.** Some positions of the feet are forbidden in a staircase but not in a ramp.
+
+However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure 5.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
+
+<p align="center" width="100%">
+    <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig2.JPG?raw=true"> 
+</p>
 	
-**Figure 6.6.**  Lamb shift measurement: graph of the measured values of Radio Frequency (R) as a function of the applied magnetic field (B). The lines in blue correspond to the $2P_{3/2}$ level, in red to the $2S_{1/2}$ level and in green to the $2P_{1/2}$ level; $ΔL$ indicates the separation between the supposedly degenerate levels for a null external magnetic field.
+<center>
+(Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
+</center>
 
-After having analyzed how the Lamb-Retherford experiment allowed to measure the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels, let us consider what the treatment of [quantum electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics) consists of, and qualitatively explain such a shift in the previously considered degenerated energy states of the electron in the hydrogen atom. 
+**Figure 5.3.** First four modes of vibration of a standing wave.
 
-The type of interaction in which an electron emits and absorbs a virtual photon is called self-energy. This implies that a charged particle such as an electron suffers the effects of the field it generates: an electron is itself an electric charge dressed by its own self-champ. Therefore, any electron not only suffers the effect of external electromagnetic fields but is also a source of its own field that produces effects such as the change in the value (renormalization) of it mass and charge. The breaking of this experimentally observed degeneracy of levels was due to an extra perturbation caused by the interaction of the electron field with itself that creates and destroys a virtual photon.
+When the wave reaches one of the fixed ends, it is reflected and returns reversing the direction of its propagation and the direction of vibration in the vertical sense, which is perpendicular to the direction of propagation of the wave. Consequently, interference occurs between the incident wave and the reflected wave. If, after each reflection, the interference between the incident and reflected waves is constructive, it is because the crests of the wave add to each other and the same occurs with the troughs. 
 
-Quantum electrodynamics considers in a quantized way both, the energy levels of the electron and the electromagnetic radiation field that includes real photons (those due to external fields) as well as virtual photons (those that exist due to vacuum fluctuations). For example, Figure 6.7 represents an interaction between two electrons (e-) in which the exchange of a virtual photon (γ) occurs.  
+Previous pattern of vibration does not change with time if the following condition is satisfied: the distance between the fixed ends of the string (L) is a half-integer multiple of the corresponding wavelength (λ). This means that $L = n (λ/2)$, where n is a positive integer. The existence of a quantum number n determines the conditions for the production of the standing wave whose vibration modes are quantized because such a quantum number n can have only discrete values.
 
+### Quantization of energy in the black body radiation.
+
+The conceptual and experimental discrepancy between continuous and discrete values of physical variables started in modern times when modern physics was born on December 14, 1900. That day Max Planck presented to the German Physical Society a work describing his hypothesis of the quantization of energy and introduced the constant $h = 6.63 \times 10^{-34}$ J.s, which is measured in units of action (energy per time) and which now bears his name. Below, we present in four stages an elementary analysis of Planck's revolutionary contribution to solve a critical problem: energy quantization in the black body radiation.
+
+STAGE 1: *Description in a common daily language of the basic notions and conceptual relationships required to interpret and solve a given problem. Main antecedents of the problem are described, and its difficulties are considered.*
+
+A black body is a physical object that does not lose energy by reflection or transmission, only by emission; that is, it absorbs all the energy that falls on it. Since it does not reflect the incident light, it appears to the observer as something dark (black). Depending on the temperatures of the physical objects, they emit radiation visible to the human eye (the color of the object) or in other regions of the electromagnetic spectrum such as infrared when the object has been heated. 
+
+A hollow opaque object functions as a blackbody when its interior walls are painted black and a small hole is drilled into it. All radiation that enters through the hole is absorbed and hardly leaves it. If this hollow cavity is placed inside an oven with controllable temperature, the intensity of the electromagnetic radiation emitted when the cavity is heated can be measured by an external optical device. In this case, for different furnace temperatures the intensity of the radiation measured with a spectrometer is a function of its wavelength, (Figure 5.4).
+
+<div style="text-align:center;">
+	<table width="100%">
+	<tr>
+		<th width="50%">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Radiaci%C3%B3n_y_efecto_fotoel%C3%A9ctrico_1.jpg" width=300 align=center> 
+		</th>
+		<th width="50%">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Black-body_radiation_vs_wavelength.png" width=300 align=center> 
+		</th>
+	</tr>
+	</table>
+	</div> 
+
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
+
+**Figure 5.4.** Diagram of a black body (left) and intensity of the experimental spectrum as a function of the wavelength, at different temperatures (right).
+
+In 1879 [Josef Stefan](https://en.wikipedia.org/wiki/Josef_Stefan) (1835-1893) inferred from his observations that the rate at which energy is radiated from a heating body should be proportional to the fourth power of its absolute temperature. Later, in 1884, an assistant of Stefan's at the University of Vienna, Ludwig Edward Boltzmann (1844-1906), calculated the speed of the particles of a gas to obtain the radiation pressure exerted by a piston on the molecules of the gas contained inside a cylinder. From these two contributions, an inference from experimental data and a theoretical derivation, the Stefan-Boltzmann law resulted: when the contributions of all wavelengths are added the total power radiated per unit area of the cavity opening is $I(T) = σT^4$, where σ is Stefan's constant.
+
+***
+
+STAGE 2: *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
+
+According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by [Wilhelm Carl Werner Otto Fritz Franz Wien](https://en.wikipedia.org/wiki/Wilhelm_Wien) (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
+	
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Feynmandiagram.svg" width=300 align=center>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Blackbody_Spectrum.PNG" width=480 align=center>
 	</p>
 
 <center>
-	(Images credit: CC Wikimedia Commons)
+(Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 6.7.** Feynman diagram showing how a photon is emitted by one electron (the left one) and then absorbed by the second electron (the right one).
+**Figure 5.5.** Wien's displacement law that shows how the color of the radiation changes with the temperature of the emitting source for different wavelengths (λ).
+
+Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law and is considered in Wien´s Physics Nobel Lecture (section 5.3 and Appendix 5.1). 
+
+
+WORK: “When a completely dark body is heated, it emits visible light and other electromagnetic radiation. The spectrum of the radiation is entirely dependent on the temperature of the body and not its composition. In 1893 Wilhelm Wien (1864-1928) formulated his displacement law, which indicates at which wavelength the radiation is most intense at a certain temperature. He subsequently also formulated a law indicating how the radiation spectrum varies as temperature changes. However, this does not apply to long wavelengths, and in 1900 Max Planck formulated a law that conforms better.”
+
+MLA style: Wilhelm Wien – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 16 Jan 2024. https://www.nobelprize.org/prizes/physics/1911/wien/facts/
+
+NOBEL LECTURE: *On the Laws of Thermal Radiation* by Wien.
+
+MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 24 Sep 2023. https://www.nobelprize.org/prizes/physics/1911/wien/lecture/	
+
+Meanwhile, the British physicist [John William Strutt, third Baron Rayleigh](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh) (1842 – 1919), obtained in June 1900 a formula to calculate the number of free electromagnetic vibration modes per unit volume in the cavity and per unit wavelength. Later, the British astronomer [Sir James Hopwood Jeans](https://en.wikipedia.org/wiki/James_Jeans) (1877 – 1946) made some corrections, obtaining the expression $uλ=8πkT/λ$ for the energy density per unit interval of wavelength, later called the Rayleigh – Jeans law. This law was consistent with experiments for low infrared frequencies, where Wien's law failed, but for short wavelengths or high frequencies it predicted infinite emission in the ultraviolet, termed the “ultraviolet catastrophe”. 
+
+Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and Prigshein proposed in the early 1900s a general equation in terms of constants and the parameters $μ$ and $η$; Wien's law was obtained for $μ = 5$ and $η = 1$, while Rayleigh-Jeans law resulted when $μ = 4$, $η = 1$ and $b = 0$. Table I summarizes the expressions of the three laws described above, as well as the expression proposed by Thiesen, Lummer, Jahnke and Prigshein as a function of the parameters $μ$, $η$ and $b$. This Table also includes Planck's law which solve the problem (Figure 5.6).
+
+<p align="center" width="100%">
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/5.1.jpg?raw=true"> 
+</p>
+
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/RWP-comparison.svg" width=480 align=center>
+	</p>
+
+<center>
+(Images credit: CC Wikimedia Commons)
+</center>
+
+**Figure 5.6.** Radiation intensity as a function of frequency; comparison on logarithmic scales between the predictions of the Rayleigh-Jeans (red), Wien (blue) and Planck (green) laws.
+
+In the limit of $λ→0$ Planck's law leads to Wien's law when $exp(hc/(kTλ)) >> 1$; while on the limit $λ→∞$ the Rayleigh-Jeans law is obtained when $hc/(kTλ) << 1$ and we use the approximation $exp(x) = 1 + x$.
 
 ***
 
-[**Next: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md)
+STAGE 3: *Description in a formal language corresponding to the reasoning process that leads to the solution The use of diagrams, schemes and other iconic elements is proposed.* 
+
+The possible reasoning followed by [Planck](https://en.wikipedia.org/wiki/Max_Planck) is described below:
+
+**1. Incompatibility between experiments and theories:** Consider how the experimental values obtained by spectroscopists are compatible with theoretical predictions only at low frequencies (Wien's law) and at high frequencies ([Rayleigh-Jeans law](https://en.wikipedia.org/wiki/Rayleigh%E2%80%93Jeans_law)).
+
+**2. Model of the black body:** For each value of the wavelength the intensity of the radiation emitted by the black body only depends on the temperature and is independent of the material of the cavity. Remember that at the beginning of the last century the physical existence of the atom was not yet accepted, nor was there a model of its structure.
+
+**3. Model of the interaction between the radiation and the walls of the black body cavity:** Assumption that the cavity is constituted by a set of oscillators, represented by their characteristic frequency $f$, all of which are in interaction with the electromagnetic radiation that reaches the cavity.
+
+**4. Quantum structure of the oscillators:** If the oscillators are oscillating electric dipoles, classically their vibration frequencies can correspond to emissions or absorptions in a continuum of frequencies. This imperative of classical physics will have to be radically modified when the energy quantum hypothesis is introduced.
+
+**5. Boltzmann calculation:** The set of oscillators represents parts of the cavity in thermal equilibrium with the electromagnetic radiation contained in the cavity. To account for the energy of these oscillators, the statistical method followed by Boltzmann is applied. He calculated the behavior of an ideal gas composed of many molecules moving rapidly and disorderly inside a container, frequently colliding with each other and with the walls of the container.
+
+**6. Discrete exchange of energy:** The exchange of energies between the oscillators that constitute the cavity and the electromagnetic radiation contained in it does **NOT** correspond to a continuum of values, but rather, were consistent with Planck hypothesis ($E = nhf$): the quantum of radiation must be an integer multiple ($n$) of the frequency ($f$).
+
+***
+
+STAGE 4: Consideration of the changes introduced by Planck's solution according to what characterizes [scientific revolutions](https://en.wikipedia.org/wiki/Scientific_Revolution) (Kuhn, 1962):
+	
+(1)	*Changes in meanings of basic terms and the way words and phrases relate to nature.*
+
+In his initial proposal, Planck spoke of "resonators", later he would speak of oscillators. At that time, resonators were mainly identified with acoustics, since electromagnetic resonators had not yet been found. While resonators respond to a single frequency, oscillators can have multi-frequencies and graded excitations. On the other hand, he also changed the term “action energy” that corresponded to an energy interval by the concept of “energy quantum”. 
+
+(2)	*Changes in taxonomic categories used for scientific descriptions and generalizations*.
+
+Regarding taxonomic categories, the atomic theory was little accepted at that time; furthermore, matter and energy were only conceived to be continuous. It was necessary to obtain experimental evidence for the existence of the atom; only then it became appropriate to think of discrete distributions of matter. For Planck the quantization was a property of the interaction between the oscillators of the cavity with the radiation within it, while for Einstein quantization became a property of electromagnetic radiation in such a way that the photons become the energy quanta of the electromagnetic field. As will be seen in chapter 8 Einstein generalized the concept of a quantum of energy that later on will be called a photon. 
+	
+(3)	*Changes in metaphors, analogies or explanatory models*.
+
+Planck solved the blackbody radiation problem by treating it in a similar way to the probabilistic problem Boltzmann addressed. However, Planck started from different premises; his hypothesis of the quantum of energy has no analogue in classical physics. (See section 5.3 and Appendix 5.2).
+
+
+WORK: “When a black body is heated, electromagnetic radiation is emitted with a spectrum corresponding to the temperature of the body, and not to its composition. Calculating the form of the spectrum using then-known physical laws gave an unreasonable result; the radiation in the high-frequency area of the spectrum became infinite. Max Planck solved this problem in 1900 by introducing the theory of “quanta”, that is, that radiation consists of quanta with specific energies determined by a new fundamental constant, thereafter called Planck’s constant.”
+
+MLA style: Max Planck – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 17 Jan 2024. https://www.nobelprize.org/prizes/physics/1918/planck/facts/
+
+NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theory* by Planck.
+
+MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
+
+***
+
+[**Next: 5.3. Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md)

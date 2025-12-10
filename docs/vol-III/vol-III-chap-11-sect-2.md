@@ -1,177 +1,106 @@
+
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 11.1. Microscopic observation of solids.**](./vol-III-chap-11-sect-1.md) 
+[**Previous: 9.1. From a theoretical proposition to an experimental demonstration.**](./vol-III-chap-9-sect-1.md) 
 
 ***
 
-## 11.2 Production of new materials and study of individual quantum systems.
+## 9.2. Correspondence and uncertainty principles in Quantum Physics.
 
-This section deals with two issues that have been innovative and important in connection with the performance of critical experiments: materials describing what to study (the [graphene](https://en.wikipedia.org/wiki/Graphene)) and methods explaining how to proceed (control of [photons](https://en.wikipedia.org/wiki/Photon) and [ions](https://en.wikipedia.org/wiki/Ion)). 
+The mathematical treatment of the concept of matter wave proposed by de Broglie requires that the motion of a quantum particle at a point $\vec{r}$ and at time $t$ must be described by a function of wave nature, the so-called wave function, which is represented as $ψ(\vec{r},t)$. This wave function has no physical meaning. It is the square of its absolute value, the probability density $P = │ψ(\vec{r},t)│^2$, that determines experimentally when and where the particle described by the wave function $ψ(\vec{r},t)$ is at position $\vec{r}(t)$ at time $t$.
 
-### Production and applications of graphene.
+According to Newtonian mechanics, the equation of motion for classical particles of mass $m$ and velocity $\vec{v}$ is $\vec{F} = d\vec{p}/dt$, where $\vec{p} = m\vec{v}$ is its linear momentum. Will this classical mechanics be appropriate to describe the movement of matter waves proposed by de Broglie? Let us see and suppose that $\vec{u}$ is the velocity with which such a wave propagates; this will corresponds to the velocity $v$ with which the particle described by the wave function $ψ(\vec{r},t)$ moves. If this movement is in the direction of the X-axis, the wave function will be $ψ(x,t)$.
 
-In what follows we include information taken from the document *Information for the Public: Graphene-the perfect atomic lattice*.
+As in any wave description, the propagation velocity of the wave is $u = λν$, where $ν$ is its frequency and $λ$ its wavelength. According to Planck $E = hν$; however, de Broglie proposed that  $p = mv = h/λ$ and Einstein  that $E = mc^2$. Therefore $ν = E/h = mc^2/h$ and since $λ = h/mv$, $u = λν = (h/mv)(mc^2/h) = c^2/v$, implies that $u >>c$, which is contrary to Einstein's special theory of relativity.       
 
-Graphene is a virtually perfect two-dimensional lattice and one atom thick. It consists of a hexagonal lattice of carbon atoms flooded with delocalized electrons. It is a two-dimensional electronic system of very high quality. In a millimeter of graphite, like that which exists in pencils, there are three million layers of graphene, one on top of the other. 
+According to the above we must have $u ≠ v$, therefore the matter wave represented by a pure sinusoidal function $ψ(x,t)$, which is not located at any point in space, cannot be used to describe a probability density $│ψ (x,t)│^2$ that makes possible the localization of the particle in some defined place at a given time. 
 
-Using normal Scotch tape and working at room temperature, in 2004 Geim and Novoselov managed to detach a layer of graphene from a piece of graphite. They obtained a two-dimensional material, with only length and width. It is a monolayer with two surfaces, one above and one below, separated by a layer the thickness of an atom. When that very thin layer of graphene is rolled up, carbon nanotubes are formed; when it is folded like a football fullerene is obtained (see the 1996 Chemistry Nobel Prize awarded jointly to Robert F. Curl Jr., Sir Harold W. Kroto, and Richard E. Smalley "for their discovery of fullerenes").
+To correct previous situation, it will be convenient to superimpose several sine waves to form a packet of waves with different frequencies, so that the packet can be localized and propagate over a finite region of space. Let us consider two waves of equal amplitude $A$ that differ slightly in the value of the wave number by an infinitesimal quantity $Δk$ and in the value of the angular frequency by $Δω$. If $y_1 = Asin(kx - ωt)$ and $y_2 = Asin[(k+Δk)x – (ω+Δω)t]$; their superposition will be $y = y_1 + y_2 = Asin(kx - ωt) + Asin[(k+Δk)x – (ω+Δω)t]$. 	       	   
 
-The crystallographic structure of graphene resembles that of [graphite](https://en.wikipedia.org/wiki/Graphite), determined by means of X-rays in 1924 by John Desmond Bernal (1901-1971). Since the geometry of graphene corresponds to that of a two-dimensional surface, it shows surprising properties: 
+The pulse or packet composed by the superposition of these two waves ($y = y_1 + y_2$) travels with a velocity, the group velocity ($v_g$) defined as the limit of $Δω/Δk$, such that $v_g = dω/dk$. Group velocity is different from the characteristic velocities of each one of the component waves of the packet. These are the called phase velocity $v_f = ω/k$, defined in terms of the angular velocity $ω$ and the wave number $k = 2π/λ$. Thus, for each of the waves in the packet, $v_{f1} = ω/k$ and $v_{f2} = (ω+Δω)/(k+Δk)$. Since it has been assumed that $Δω << ω$ and that also $Δk << k$, both phase velocities are almost equal; that is, $v_{f1} ≈ v_{f2}$. 
+                  
+If $C = (kx-ωt)$ and $D = [(k+Δk)x - (ω+Δω)t]$, the packet representing the superposition of waves $y_1$ and $y_2$ is expressed as $y =  A[sinC + sinD]$. Considering the trigonometric identity $sinC + sinD = 2sin[½(C+D)]cos[½(C-D)]$, we have the following relationships $C + D = [(2k+Δk)x - (2ω+Δω)t ]$ and $C - D = [(-Δk)x - (-Δω)t] = - [(Δk)x - (Δω)t]$. Since $cos(-θ) = cos(θ)$, then $y = 2Asin[(k+½Δk)x - (ω+½Δω)t]cos[(½Δk)x - (½Δω)t]$.
 
-- “It is one of the thinnest materials and at the same time the most resistant.
-- It is as good a conductor of electricity as copper. 
-- It is a better conductor of heat than silver or copper.
-- It is almost completely transparent (up to 98%); however, even a very light gas like helium cannot pass through it. 
-- It is very light and at the same time very resistant: if a hammock of one square meter were built with this material, it would weigh 0.77 mg and could support without breaking objects up to 4 kg, such as a cat for example.
-- Electrons travels in graphene as having no mass and at a constant speed of one million meters per second (light velocity is 300 million meters per second).
-- It can be used as an extremely sensitive sensor that could register even the smallest levels of pollution.
-- The material remains stable at room temperature and does not oxidize in contact with air.
-- The electric charge carriers in graphene monolayers behave as massless fermions, while in graphene double layers such charge carriers do manifest mass.”
+If we consider that $Δk << k$ and $Δω << ω$, then the superposition of two waves will be $y = 2Asin[kx – ωt]cos[(½Δk)x – (½Δω)t]$. This package represents a sine wave of the type of $y_1$, with double amplitude and also modulated by the factor $cos[(½Δk)x - (½Δω)t]$.
 
-WORK: “Carbon exists in several different natural forms. A material consisting of carbon atoms arranged in a hexagonal lattice and only one atom thick was long considered a purely theoretical construction. In 2004 Andre Geim and Konstantin Novoselov successfully produced this material, graphene, and mapped its properties: incredibly thin but still incredibly strong, good heat and electrical conductivity, almost entirely transparent yet very dense. Graphene creates new possibilities within materials technology and electronics.”
+In view of the previous results, it is convenient to review how group and phase velocities are now compared in the case of de Broglie matter waves and consider what happens with a packet formed by the superposition of matter waves.
 
-MLA style: Andre Geim – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2010/geim/facts/
+In Section 9.1 we have considered that the sinusoidal function $A(x,t)≈sin[2πν(t- x/w)]$ represents a wave with frequency $ν$, wavelength $λ$ and phase velocity $w = λν$. The following relations were obtained $ν= γν_0$ and $w=  c^2/v$.
 
-We deal with Geim´s Nobel Lecture Random Walk to Graphen in next section 11.3.
+From $E = hν = mc^2 = γm_0c^2 = γhν_0$ it follows that $w = 2πν = 2π(γν_0) = γω_0$. As  $w=  \frac{c^2}{v}$ and $λ = w/ ν = (\frac{c^2}{v})(\frac{1}{γν_0})$, then $k= \frac{2π}{λ}= 2π(\frac{v(γν_0 )}{c^2})=(\frac{γ}{c})(\frac{v}{c})(2πν_0 )= (\frac{β}{c})(γw_0 )$, where $β= \frac{v}{c}$  and $γ=\frac{1}{\sqrt{(1- β^2 )}}$.
 
-NOBEL LECTURE: *Graphene: Materials in the Flatlan* by Novoselov.
+According to the definition of the phase velocity $v_f= \frac{w}{k}=\frac{γw_0}{(\frac{β}{c})(γw_0 )} = \frac{c}{β}= \frac{c^2}{v}$. 
 
-- Graphene and its unusual properties
-- Two-dimensional crystals <br>
-        Stability of 2D crystals <br>
-        Graphene creation <br>
-        Other 2D crystals <br>
-        Out to Spaceland: 2D-based heterostructures
-- Chiral quasiparticles and the electronic properties of graphene <br>
-        Linear dispersion relation and chirality <br>
-        The Klein paradox <br>
-        Half-integer quantum Hall effect <br>
-        Effect of mechanical deformation <br>
-        Graphene optics <br>
-        Bilayer graphene
-- Graphene applications <br>
-        Graphene support <br>
-        Transparent conductive coating <br>
-        Graphene transistors <br>
-        Graphene composites <br>
-        Other applications
+On the other hand, the group velocity is $v_g = dω/dk = (dω/dβ)/(dk/dβ)$.
+
+$\frac{dω}{dβ}=\frac{d(γω_0 )}{dβ}= (ω_0)\frac{d(γ)}{dβ}$; $\frac{dγ}{dβ}= (-½)(-2β)[1- β^2 ]^{-3/2}=βγ^3$  then  $\frac{dω}{dβ}  = (ω_0)(βγ^3)$ 
+
+$\frac{dk}{dβ}=\frac{d(βγω_0/c)}{dβ}=(\frac{ω_0}{c})  \frac{d(βγ)}{dβ}= (\frac{ω_0}{c})[β \frac{d(γ)}{dβ}+ γ \frac{d(β)}{dβ}]= (\frac{ω_0}{c})[β(βγ^3)+ γ]=(\frac{γω_0}{c})[β^2 γ^2+ 1]$
+
+$[β^2 γ^2+ 1]=  \frac{β^2}{1- β^2}+ 1=  \frac{(β^2+ 1- β^2 )}{1- β^2 }  =  \frac{1}{1- β^2 }= γ^2$,  hence $\frac{dk}{dβ}= (\frac{γω_0}{c})(γ^2 )=  \frac{γ^3 ω_0}{c}$.  
+
+Summarizing $v_g=  \frac{dω}{dk}=  \frac{(\frac{dω}{dβ})}{(\frac{dk}{dβ}) }  =  \frac{(ω_0)(βγ^3)}{(\frac{γ^3 ω_0}{c} )}=βc= (\frac{v}{c})(c)=v$. This means that the velocity of the group ($v_g$) is equal to the velocity of the particle $v$ and that the superposition of a packet of sine waves is an appropriate representation of the matter wave. It represents the localization amplitude of the particle; their corresponding localization probability is the square of that amplitude, which makes physical sense.
+
+Classically, the concepts of corpuscle and wave are well defined; they are represented mathematically in precise ways. A corpuscle has a shape circumscribed to a finite and small region of space where its position at any time can be located, so that its trajectory is observable and measurable. This does not happen with photons.
+
+Classically a wave is a continuous disturbance "scattered" in a certain region of space. In fact, a pure sine wave propagates occupying all space: it comes from minus infinity and goes towards plus infinity. Such a wave propagates with a certain velocity in a medium that is material for mechanical waves but that does not require ether for electromagnetic waves. Such propagations are described in terms of wave equations and their solutions allow us to explain interference and diffraction. This does not happen when electrons are considered as punctual corpuscles. Nevertheless, their matter waves are diffracted. Furthermore, an appropriate representation of matter waves requires to superimpose several sine waves to form a packet of waves with different frequencies.
+
+By accepting that in quantum physics there is no sharp separation between the classical conceptualizations of waves and corpuscles, we are faced with two disturbing circumstances: (1) when light interacts with matter it loses its wave characteristics related to its propagation and quantized impact and (2) when different components of matter (like particles) interact with radiation, they lose their corpuscular properties and show diffraction. Therefore, what kind of motion equation will satisfy the matter waves proposed by de Broglie?
 
 
-MLA style: Konstantin Novoselov – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2010/novoselov/lecture/
+### Does light behave as a wave or a corpuscle?
 
+By considering only the magnitude of vectors, the motion of a particle with linear momentum $p = mv$ is described by Newton's second law $F = dp/dt$ and if the mass $m$ is constant, $F = m[d^2r(t)/dt^2]$. When the expression of the law of the force $F$ acting on the particle is known, solving the equation of motion will indicate how the position evolves in time $r(t)$ and what kind of trajectory is obtained. Furthermore, the sinusoidal function $y(x,t) = Asin(kx – ωt)$ is a solution of the equation of motion of a harmonic oscillator with frequency $ω = 2πν$, this function satisfies the corresponding wave equation $d^2y/dt^2 = - (ω^2)y$. 
 
-### Methods for individual control of photons and ions.
+Judging by the differences in the mathematical form of the two previous equations of motion, their respective solutions will represent quite different physical entities. Under such conditions, will it be possible to derive the dynamics of quantum particles from the laws of wave propagation? What must be the appropriate equation of motion of matter waves characterized by the wave functions $ψ(r,t)$ ? 
 
-In what follows we refer to the document *Information for the Public: Particle control in a quantum world*, published by The Royal Swedish Academy of Sciences:
+The answer to the last question was given in 1926 by [Erwin Rudolf Josef Alexander Schrödinger](https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger) (1887 - 1961). To get an idea of what Schrödinger's equation means, it is convenient to refer to Fermat's and Hamilton's principles (see Section 8.1).
 
-Single particles are not easily isolated in the quantum domain because they lose their properties as soon as they interact with their surrounding environment. However, research groups leaded by Haroche and Wineland have independently observed, examined, controlled, and counted individual quantum particles without destroying them. While Haroche controlled and measured trapped photons by sending atoms through a trap formed by a microwave cavity, Wineland trapped electrically charged atoms, or ions, controlling and measuring them with light, or photons.  
+The principle of minimum time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle) indicates that: "of all the possible paths that light can take to get from one point to another, it takes the path that requires *the shortest time*." [Pierre de Fermat](https://en.wikipedia.org/wiki/Pierre_de_Fermat) (1601 - 1665) developed this principle around 1650 to explain light propagation as well as reflection and refraction phenomena. He considered that the front of a light wave spends a minimum time to move in different media. About 1744 [Louis Moreau de Maupertuis](https://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis) (1698 - 1759) formulated a variational principle of least action and indicated that the perfection of the universe required a principle of economic operation to avoid unnecessary expenditure of energy.
 
-Next we discuss each one of these experiments and then consider the quantum paradox associated with Schrödinger’s cat and the critical experimental processes to build super-fast computers and extremely precise clocks.
+Years later, [William Rowan Hamilton](https://en.wikipedia.org/wiki/William_Rowan_Hamilton) (1805 - 1865) proposed that the path followed by a traveling ray of light is minimal with respect to time for wave theory of light or with respect to action for the corpuscular theory. Hamilton demonstrated in 1826 that the study about optical rays can be made in terms of a characteristic function, the action, satisfying a [principle of least action](https://en.wikipedia.org/wiki/Action_principles). For conservative systems such principle corresponds to Newton's second law. (A more formal discussion of Fermat's and Hamilton's principles has been considered in Section 8.1.)
 
-*Haroche´s experiments.* The experimental procedure for controlling single photons in a trap consist in three steps: (1) Rydberg atoms  are specially prepared in a cavity in vacuum and at a temperature of almost absolute zero;  (2) the Rydberg atoms interact with microwave photons inside a small cavity between two superconducting mirrors, and (3) the microwave photons trapped inside the cavity bounce back and forth for almost a tenth of a second before they are lost or absorbed. 
+To develop his wave equation, Schrödinger considered that if wave optics tends as a limiting case to geometric optics, which can be derived from the application of the variational principle of minimum time (Fermat´s principle), in the new wave mechanics Hamilton's principle of least action would be the analogue of a "geometric mechanics" describing the motion of quantum particles like electrons. 
 
-A Rydberg atom has electronically excited states quite close to ionization energy of the atom; this is the energy required to completely liberate an electron from the ionic core of an atom. When the Rydberg atom traverses the cavity, it interacts with the microwave photon and consequently the atom changes the phase of its quantum state. This phase shift can be measured when the atom exits the cavity, thereby revealing the presence or absence of an interaction with one photon inside the cavity. With no photon there is no phase shift. Many quantum manipulations can be performed with the trapped photons due to its long lifetime. (See Figure 11.1).
+Remember that matter waves associated to electrons have wave wavelengths of the order of the Bohr´s radio $λ≈ a_0  = 10^{-10}  m=1 Å$. Then, why a truck does not diffract as a quantum particle? Because their corresponding wavelength  $λ_{truck}≪a_0$. If a truck has a mass $m=3,600 kg$ and a velocity $v=100 km/hr$, then its linear momentum $p=mv=$(3,600 kg)(100 km/hr)$= 10^5$ kg m/s; the corresponding wavelength  $λ=  \frac{h}{p}=  \frac{6.63 \times 10^{-34}  J.s}{10^5 kg m/s}= 6.63 \times 10^{-39} m$, which is practically null and undetectable by conventional physical media. 
 
-<p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-11-sect-2-fig1.jpg?raw=true" width=640 align=center>
-</p>
+### Principles of correspondence and uncertainty.
 
-(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
+In the quantum world, a wave-particle duality is manifested, causality is not strict, nor determinism is absolute. The representations and interpretations of microscopic entities contrast strongly with what is proposed in classical physics. In the quantum world, new principles apply, such as the Bohr´s correspondence principle and Heisenberg's uncertainty principle. 
 
-**Figure 11.1.** Experimental setting for trapping individual photons. Reproduced from Figure 3 in *Information for the Public: Particle control in a quantum world*: 
+Correspondence principle indicates that classical results are limiting cases of quantum results when the value of [Planck´s constant](https://en.wikipedia.org/wiki/Planck_constant) is strictly negligeable. Indeterminacy or uncertainty principle refers to an inequality satisfied when the product of the uncertainties of two physical quantities is equal or lesser than *h*. For instance: the lack of precision in the measurement of the position of a moving particle multiplied by the lack of precision in the measurement of the component of the linear momentum in the same direction of the displacement must be equal or lesser than *h*. Both measurements must simultaneously be made on the same particle, in the same place and at the same time.
+	
+As a sort of reconciliation between classical physics and the revolutionary changes of the new physics, in 1923 [Niels Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) proposed a coherent framework for the objective description of nature, his **correspondence principle:** *"Any new theory in physics must be reduced to the corresponding classical theory, when the new theory is applied to the special situation in which the classical theory is valid”*.
 
-“**Figure 3.** In the Serge Haroche laboratory in Paris, in vacuum and at a temperature of almost absolute zero, the microwave photons bounce back and forth inside a small cavity between two mirrors. The mirrors are so reflective that a single photon stays for more than a tenth of a second before it is lost. During its long life time, many quantum manipulations can be performed with the trapped photon without destroying it. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
+In the quantum world, the value of Planck's constant is significant; however, when quantum approaches and results are extrapolated when *h* tends towards zero, the predictions of classical physics must be recovered. For example, if we apply the Bohr shell model and calculate the value of the transition frequency between stationary orbits for very large values of the principal quantum number n, the frequency predicted by Bohr should correspond to the radiation frequency of electromagnetic waves as predicted by classical electromagnetism.
 
-*Wineland´s experiments.* The experimental procedure for controlling single ions in a trap consist in the following: (1) electrically charged atoms (ions) were trapped by electric fields produced by electrodes, and (2) a laser suppressed the ion’s thermal motion in the trap and generated a coherent quantum superposition of two ion’s energy states: one state is in a lowest energy level and the other one is in a higher energy level excited by a laser pulse. (See Figure 11.2).
+Let us consider an electron of charge $-q$ in a circular orbit of radius $r$ around a proton of charge $+q$. Their Coulomb interaction is $F_C = k/r^2$, with potential energy $E_p = -k/r$, $k = q^2$. The electronic orbital movement is due to the action of a mechanical force $F_M = (mv^2)/r$, where $v$ is the velocity of the electron. If the magnitudes of these forces are equal $F_C = F_M$, then $k/r^2 = (mv^2)/r$,  $E_c = ½mv^2 = ½k/r$ and $E = E_c + E_p = ½k/r -k/r = -½k/r$. As the angular velocity $ω = 2πν$ and $v = ωr$, then $E_c = ½mv^2 = ½m(ωr)^2 = ½(m)(2 π ν)^2[r^2]$. Nevertheless $E_C = ½k/r$, then the frequency of oscillation is $ν = (1/2π)[k/(mr^3)]^{½}$.
 
-“A trapped ion has an oscillating movement, which is quantized at low temperature. An ion therefore has two sets of quantized levels: vibrational modes that characterize the motion in the trap (also called external states) and electronic levels that describe the internal quantum state of the ion. Individual ions can now be manipulated and observed in situ by using photons with only minimal interaction with the environment.”
+Up to now everything has been a classic treatment. Using the value obtained by Bohr $r = a_0(n^2)$, where $a_0 = [(ђ^2)/(mk)]$, then the frequency of an electronic orbit will be $ν_{class} = (1/2π)[k/m]^{½}[r^3]^{-½} = (1/2π)[k/m]^{½}[(a_0^3)(n^6)]^{-½} = (1/2π)[k/m]^{1/2} [(mk / ђ^2)]^{3/2} (n^{-3}) = (1/2π)[(mk^2)/(ђ)^3](n^{-3})$.	
 
-<p align="center">
-<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-11-sect-2-fig2.jpg?raw=true" width=640 align=center>
-</p>
+Besides, according to Bohr the energy of a stationary state is $E_n = -R/(n^2)$, where the Rydberg constant is $R = (mk^2)/[2(ђ)^2]$. Furthermore, the transition between the states $E_i$ and $E_f$ is $hν = E_i – E_f = R[1/(n_f)^2 - 1/(n_i)^2]$. If such states are highly excited then $n_i - n_f = Δn$ and it can be approximated that $n_i + n_f = n_i + (n_i - Δn) = 2n_i – Δn ≈ 2n$.  Considering that $n_i ≈ n_f ≈ n$ then $[1/(n_f)^2 – 1/(n_i)^2] = [(n_i)^2 -(n_f)^2]/[(n_i)^2(n_f)^2]  = [(n_i -n_f)(n_i +n_f)]/[n^4]  ≈ (2Δn)/(n^3)$. If now such states correspond to neighboring levels where $Δn = 1$, for very large values of $n$ Bohr's theory prediction for the quantized energies of the radiation is $hν = R[1/(n_f)^2 - 1/(n_i)^2]$ which corresponds to $hν = ((mk^2)/[2(ђ)^2])((2Δn)/(n^3))$. When $Δn = 1$ the frequency for the quantum conditions is $ν_{quant} = [(mk^2)]/[h(ђ)^2][n^{-3}]$. Considering $ђ = h/(2π)$ the expressions for $ν_{class}$ and $ν_{quant}$ exactly coincide.
 
+The uncertainty principle is incompatible to classical physics because in that world there is no impediment to simultaneously describe the position and velocity of a particle. However, in the quantum world, the representation of waves that occupy large regions in space does not coincide with the representation that corresponds to well-located corpuscles in space. Suppose that $Δx$ and $Δp_x$ designate, respectively, the indeterminacies in the measurements of the position and of the component of the linear momentum ($p_x = mv_x$) of a particle in the direction of the X axis. Both measurements are made at the same time and for the same particle. Classically, the value of $Δx$ does not depend at all on that of $Δp_x$, but quantumly the so-called Heisenberg **indeterminacy or uncertainty principle** proposed by [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) must be satisfied. This principle establishes that the product of such uncertainties is of the order of Planck's constant ($h ≈ 6.6 \times 10^{-34} Js$). This principle can be represented as follows: $Δx Δp_x  ≥ h/(2π)$.
 
-(Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
+Next section 9.3 includes a hypothetical dialogue between Bohr and Heisenberg about correspondence and uncertainty principles; it has been prepared by selecting some excerpts of their respective Nobel Lectures.
 
-**Figure 11.2.** Experimental setting for trapping individual ions. Reproduced from Figure 2 in *Information for the Public: Particle control in a quantum world*: 
+WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
 
-“**Figure 2.** In David Wineland’s laboratory in Boulder, Colorado, electrically charged atoms or ions are kept inside a trap by surrounding electric fields. One of the secrets behind Wineland’s breakthrough is mastery of the art of using laser beams and creating laser pulses. A laser is used to put the ion in its lowest energy state and thus enabling the study of quantum phenomena with the trapped ion. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
+MLA style: Niels Bohr – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1922/bohr/facts/>
 
-In previous experiments quantum states were observed through quantum non-demolition measurements where two-level systems were coupled to a quantized harmonic oscillator.  In Haroche case it was a highly excited atom with two Rydberg levels coupled by a microwave field. In Wineland case the two-level system consisted of an ion in two levels coupled by laser light. The quantized harmonic oscillator described the microwave field in the cavity or the ion’s motion in the trap. Next we quote some excerpts taken from *Information for the Public: Particle control in a quantum world.*
+NOBEL LECTURE: *The Structure of the Atom* by Bohr.
 
-### Paradoxes of quantum mechanics.
+MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/
 
-“Quantum mechanics describes a microscopic world invisible to the naked eye, where events occur contrary to our expectations and experiences with physical phenomena in the macroscopic, classical world. Physics in the quantum world has some inherent uncertainty or randomness to it. One example of this contrary behaviour is superposition, where a quantum particle can be in several different states simultaneously.” …..
+WORK: “In Niels Bohr’s theory of the atom, electrons absorb and emit radiation of fixed wavelengths when jumping between fixed orbits around a nucleus. The theory provided a good description of the spectrum created by the hydrogen atom, but needed to be developed to suit more complicated atoms and molecules. In 1925, Werner Heisenberg formulated a type of quantum mechanics based on matrices. In 1927 he proposed the “uncertainty relation”, setting limits for how precisely the position and velocity of a particle can be simultaneously determined.”
 
-……
+MLA style: Werner Heisenberg – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Wed. 5 Jun 2024. <https://www.nobelprize.org/prizes/physics/1932/heisenberg/facts/>
 
-…. In 1952, Erwin Schrödinger (1887-1961) wrote: “We never experiment with just one electron or atom or (small) molecule. In thought-experiments we sometimes assume that we do; this invariably entails ridiculous consequences...”. 
-
-“In order to illustrate the absurd consequences of moving between the micro-world of quantum physics and our every-day macro-world, Schrödinger described a thought experiment with a cat: [Schrödinger’s cat](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat) is completely isolated from the outside world inside a box. The box also contains a bottle of deadly cyanide which is released only after the decay of some radioactive atom, also inside the box.”
-
-…..
-
-“The radioactive decay is governed by the laws of quantum mechanics, according to which the radioactive material is in a superposition state of both having decayed and not yet decayed. Therefore the cat must also be in a superposition state of being both dead and alive. Now, if you peek inside the box, you risk killing the cat because the quantum superposition is so sensitive to interaction with the environment that the slightest attempt to observe the cat would immediately ‘collapse’ the ‘cat-state’ to one of the two possible outcomes – dead or alive.” ….
-
-….
-
-“Both Nobel Laureates of 2012 have been able to map the quantum cat-state when it encounters outside world. They have devised creative experiments and managed to show in great detail how the act of measuring actually causes the quantum state to collapse and loose its superposition character. Instead of Schrödinger’s cat, Haroche and Wineland trap quantum particles and put them in cat-like superposition states. These quantum objects are not really macroscopic as a cat, but they are still quite large by quantum standards.”
-
-“Inside Haroche’s cavity microwave photons are put in cat-like states with opposite phases at the same time, like a stopwatch with a needle that spins both clockwise and counterclockwise simultaneously. The microwave field inside the cavity is then probed with [Rydberg atoms](https://en.wikipedia.org/wiki/Rydberg_atom). The result is another unintelligible quantum effect called [entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement). Entanglement has also been described by Erwin Schrödinger and can occur between two or more quantum particles that have no direct contact but still can read and affect the properties of each other. Entanglement of the microwave field and Rydberg atoms allowed Haroche to map the life and death of the cat-like state inside his cavity, following it step by step, atom by atom, as it underwent a transition from the quantum superposition of states to a well defined state of classical physics.”
-
-### On the verge of a new computer revolution.
-
-“A possible application of ion traps that many scientists dream of is the [quantum computer](https://en.wikipedia.org/wiki/Quantum_computing). In present-day classical computers the smallest unit of information is a bit that takes the value of either 1 or 0. In a quantum computer, however, the basic unit of information – a quantum bit or qubit – can be 1 and 0 at the same time. Two quantum bits can simultaneously take on four values – 00, 01, 10 and 11 – and each additional qubit doubles the amount of possible states. For n quantum bits there are $2^n$ possible states, and a quantum computer of only 300 qubits could hold $2^{300}$ values simultaneously, more than the number of atoms in the universe.”
-
-“Wineland’s group was the first in the world to demonstrate a quantum operation with two quantum bits. Since control operations have already been achieved with a few qubits, there is in principle no reason to believe that it should not be possible to achieve such operations with many more qubits. However, to build such a quantum computer is an enormous practical challenge. One has to satisfy two opposing requirements: the qubits need to be adequately isolated from their environment in order not to destroy their quantum properties, yet they must also be able to communicate with the outside world in order to pass on the results of their calculations.” ….
-
-### New clocks.
-
-“David Wineland and his team of researchers have also used ions in a trap to build a clock that is a hundred times more precise than the caesium-based atomic clocks which are currently the standard for our measurement of time. Time is kept by setting, or synchronizing all clocks against one standard. Caesium clocks operate in the microwave range whereas Wineland’s ion clocks use visible light – hence their name: optical clocks. An optical clock can consist of just one ion or two ions in a trap. With two ions, one is used as the clock and the other is used to read the clock without destroying its state, or causing it to miss a tick. The precision of an optical clock is better than one part in $10^{17}$, which means that if one had started to measure time at the beginning of the universe in the [Big Bang](https://en.wikipedia.org/wiki/Big_Bang) about 14 billion years ago, the optical clock would only have been off by about five seconds today.”
-
-For more advanced explanations consult Scientific background: *Measuring and manipulating individual quantum systems.*
-
-Next, for each laureate we quote the section Work and the title and subtitles of their lectures.
-
-WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the 1980s, Serge Haroche has designed ingenious experiments to study quantum phenomena when matter and light interact. Haroche has been able to capture photons using another kind of trap–two mirrors which they can bounce between. This device allowed Haroche to study the photons by passing atoms through the trap.”
-
-MLA style: Serge Haroche – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/haroche/facts/
-
-NOBEL LECTURE: *Controlling Photons in a Box and Exploring the Quantum to Classical Boundary* by Haroche.
-
-- Control of single particles in a quantum world
-- A personal account of the early days of cavity quantum electrodynamics
-- Counting photons without destroying them: a new photon box and circular rydberg atoms
-- Quantum feedback
-- Field state reconstruction
-- Schrödinger cat states of light and decoherence studies
-- Quantum information in cavity qed
-- Perspectives for the work of ens
-- Relation to other domains in quantum information science
-- Acknowledgments
-
-MLA style: Serge Haroche – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/haroche/lecture/
-
-WORK: “When it comes to the smallest components of our universe, our usual understanding of how the world works ceases to apply. We have entered the realm of quantum physics. For a long time, many quantum phenomena could only be examined theoretically. Starting in the late 1970s, David Wineland has designed ingenious experiments to study quantum phenomena when matter and light interact. Using electric fields, Wineland has successfully captured electrically charged atoms, or ions, in a kind of trap and studied them with the help of small packets of light, or photons.”
-
-MLA style: David J. Wineland – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 5 Feb 2024. https://www.nobelprize.org/prizes/physics/2012/wineland/facts/
-
-NOBEL LECTURE: *Superposition, Entanglement, and Raising Schrödinger’s Cat* by Wineland.
-
-- Introduction
-- Some early steps towards quantum control
-- Controlling the quantum levels of individual trapped ions
-- Manipulating ion motion at the quantum level
-- Schrödinger’s cat
-- Enter quantum information<br>
-    Quantum simulation<br>
-    Spectroscopy and quantum metrology
-- Summary
-- Acknowledgements
-
-MLA style: David J. Wineland – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023. https://www.nobelprize.org/prizes/physics/2012/wineland/lecture/
+NOBEL LECTURE: *The Development of Quantum Mechanics* by Heisenberg.
+    
+MLA style: Werner Heisenberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 21 Feb 2023. https://www.nobelprize.org/prizes/physics/1932/heisenberg/lecture/
 
 
 ***
 
-[**Next: 11.3. Phases in a learning and research process.**](./vol-III-chap-11-sect-3.md)
+[**Next: 9.3.  Communication forms for describing scientific texts.**](./vol-III-chap-9-sect-3.md)
