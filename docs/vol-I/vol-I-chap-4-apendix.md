@@ -116,4 +116,4 @@ For a body of mass $m$ and velocity $\vec{v}$ the linear momentum is $\vec{p}=m\
 
 ***
 
-[**Next: 5.1.  Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-sect-1/)
+[**Next: 6.1.  Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-II/vol-II-chap-6-sect-1/)
