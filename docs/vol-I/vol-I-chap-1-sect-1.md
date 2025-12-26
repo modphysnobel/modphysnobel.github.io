@@ -35,7 +35,7 @@ We apply the procedure *Context learning for conceptualizing cognitive spaces* t
 
 ## **1.1.	Mathematics and science in ancient Greece.**
 
-According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure 1.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
+According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954): *“modern science comes directly from Greeks science; they provided a scheme, a method and a language”.* Some of the most significative protagonists are indicated in Figure I.1 and relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC).
 
 <table width="100%">
 <tbody>
