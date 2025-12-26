@@ -93,7 +93,7 @@ According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954)
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 1.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
+**Figure I.1.** Six important builders of mathematics, philosophy and politics in ancient Greece. 
 
 Principal social and cultural events as well as relevant contributions to mathematics, astronomy and physics are described in Table 1.1 (all dates are BC). Information has been obtained from Durant (1966) and Hellemans and Bunch (1988).
 
@@ -129,7 +129,7 @@ According to Durant (1966), the ten Archimedes´ books that survived had the fol
 
 To calculate Archimedes made a kind of mental experiments ([thought_experiments](https://en.wikipedia.org/wiki/Thought_experiment)) by thinking about geometrical figures as physical objects made of very small components in equilibrium. He wrote a treatise on Statics where he explained the working principles of the balance and the lever. According to Durant (1966), in Proposition VI of this treatise Archimedes wrote that *“Commensurable magnitudes will balance at distances inversely proportional to their gravities”*.
 
-Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure 1.2).
+Archimedes had great mechanical skills for designing and building machines while he tried to understand their functioning by making possible different energy transformations. Archimedes created a hydraulic screw to pump water, built a catapult for handling up to 80 kilos stones and prepared a pulley system to pull up ships with a hook and crush them against the walls of the city. He also organized an optical concave system with soldiers’ metallic shields to concentrate sun rays and burn enemy ships. (Figure I.2).
 
 	
 <p align="center">
@@ -141,7 +141,7 @@ Archimedes had great mechanical skills for designing and building machines while
 </center>
 
 	
-**Figure 1.2.**  An artistic representation of contributions made by Archimedes combining mathematics and physics. How Archimedes used sun light to burn enemy ships.
+**Figure I.2.**  An artistic representation of contributions made by Archimedes combining mathematics and physics. How Archimedes used sun light to burn enemy ships.
 
 ### **Dictatorial and democratic approaches in mathematical reasoning.**
 
