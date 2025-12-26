@@ -28,7 +28,7 @@ Context learning is important in organizing knowledge for what is thought and le
 
 - **Learning and evaluation** activities were those decisions and actions that were undertaken by Archimedes to solve the problem asked by King Heron.
 
-The legend says that Archimedes shouted Eureka! when he understood the nowadays called principle of flotation: an object immersed in a liquid is pushed up by a buoyant force equal to the weight of the volume of the liquid displaced by the object. This means that any object submerged in a liquid experiment two forces: its downward weight and the upward push corresponding to the weight of the amount of water equivalent to the submerged volume of the object (the buoyant force). (Figure 1.3). 
+The legend says that Archimedes shouted Eureka! when he understood the nowadays called principle of flotation: an object immersed in a liquid is pushed up by a buoyant force equal to the weight of the volume of the liquid displaced by the object. This means that any object submerged in a liquid experiment two forces: its downward weight and the upward push corresponding to the weight of the amount of water equivalent to the submerged volume of the object (the buoyant force). (Figure I.3). 
 	
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Buoyancy.jpg" width=300 align=center> 
@@ -38,7 +38,7 @@ The legend says that Archimedes shouted Eureka! when he understood the nowadays 
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 1.3.** Two forces work in buoyancy: the upward force of buoyancy and the downward force of gravity.  
+**Figure I.3.** Two forces work in buoyancy: the upward force of buoyancy and the downward force of gravity.  
 
 Archimedes experimental procedures could be considered as being democratic if he did focus on the universal definition of density as the quotient of mass divided by volume, because this definition applies to all bodies in the same manner. Furthermore, all submerged material must obey the floating principle.
 
