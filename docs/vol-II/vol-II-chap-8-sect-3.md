@@ -173,7 +173,7 @@ Using separation of variables and integrating both sides we get,
 
 (26) $〈x^2〉 =(\frac{k_BT}{3πηa})t$
 
-This corresponds exactly to the equation obtained by Einstein $(λ_x)^2 = 〈ΔX^2〉 = bt$, where the slope of the straight-line was $b = (k_BT)/(3πηa)$. The graphical interpretation of this equation was already presented in Figure 7.1.
+This corresponds exactly to the equation obtained by Einstein $(λ_x)^2 = 〈ΔX^2〉 = bt$, where the slope of the straight-line was $b = (k_BT)/(3πηa)$. The graphical interpretation of this equation was already presented in Figure II.15.
 
 **REVIEW.**
 
