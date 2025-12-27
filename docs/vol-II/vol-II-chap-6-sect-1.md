@@ -65,7 +65,7 @@ The name Thermodynamics means: Thermo (heat) and dynamics: the dynamic of heat (
 
 **3rd Law:** if the temperature of a system approaches absolute zero, the entropy tends to a minimum value (absolute zero is unreachable in a finite number of processes). 
 
-The founding fathers of Thermodynamics are shown in next Figure 5.1.
+The founding fathers of Thermodynamics are shown in next Figure II.1.
 
 <div style="text-align:center;">
 	<table>
@@ -100,7 +100,7 @@ The founding fathers of Thermodynamics are shown in next Figure 5.1.
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 5.1.** The founding fathers of Thermodynamics: Joule, Mayer and Carnot in the first row; Clausius, Thomson and Nernst in the second row.
+**Figure II.1.** The founding fathers of Thermodynamics: Joule, Mayer and Carnot in the first row; Clausius, Thomson and Nernst in the second row.
 
 Independently and practically simultaneously [James Prescott Joule](https://en.wikipedia.org/wiki/James_Prescott_Joule) (1818-1889) and [Julius Robert Mayer](https://en.wikipedia.org/wiki/Julius_von_Mayer) (1814-1878) verified the transformation of mechanical work into heat and vice versa. Nearby 1840 they established a quantitative connection between heat and mechanical energy. In 1849, Joule published his experimental results showing that heat is a form of energy and measured the mechanical equivalent of heat. In 1846 Mayer published *Organic Motion*, a study of electrical and biological phenomena. In that publication Mayer presented what would later become known as the principle of conservation of energy. Years later, in 1851, Mayer published *Notes on the mechanical equivalent of heat*.
 
