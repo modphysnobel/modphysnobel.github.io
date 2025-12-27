@@ -54,7 +54,7 @@ In 1881 Albert Abraham Michelson designed an interferometer to measure the relat
 
 Michelson designed the interferometer and assumed that the direction of the "ether wind" with respect to the position of the Sun would vary when measured from Earth, depending on the direction of Earth in its orbit around the Sun. The detection of such ether wind would demonstrate the existence of a state of absolute rest and therefore the ether could be considered as an absolute [reference system](https://en.wikipedia.org/wiki/Spatial_reference_system). Furthermore, according to the superposition of velocities implied by the [Galilean principle of relativity](https://en.wikipedia.org/wiki/Galilean_invariance), the speed of light will be different if measured in two different reference frames. It is not worth the same if light travels or not in a direction parallel to the movement of the Earth through the ether. 
 
-The experiments with the [Michelson-Morley interferometer](https://en.wikipedia.org/wiki/Michelson_interferometer) (Figure 10.1) consisted of a light beam that leaves a point $A$ and then in $B$ is divided by means of a semitransparent mirror into two perpendicular beams. These beams were then reflected in two mirrors ($C$) to rejoin in ($D$) after traveling equal distances but in different directions when they were decomposed in the mirror $B$:  one ray always traveled in the vertical direction, while the other ray traveled part in the vertical direction and part then in the horizontal one.
+The experiments with the [Michelson-Morley interferometer](https://en.wikipedia.org/wiki/Michelson_interferometer) (Figure III.5) consisted of a light beam that leaves a point $A$ and then in $B$ is divided by means of a semitransparent mirror into two perpendicular beams. These beams were then reflected in two mirrors ($C$) to rejoin in ($D$) after traveling equal distances but in different directions when they were decomposed in the mirror $B$:  one ray always traveled in the vertical direction, while the other ray traveled part in the vertical direction and part then in the horizontal one.
 
 <div style="text-align:center;">
 <table cellspacing="0" cellpadding="0">
@@ -78,7 +78,7 @@ The experiments with the [Michelson-Morley interferometer](https://en.wikipedia.
 </center>
 
 
-**Figure 10.1.** Michelson and Morley interferometer: components in the left image:  monochromatic light source ($A$); semi-reflective mirror ($B$); mirrors ($C$) and observation of optical path difference ($D$). A typical interference pattern is shown in the right image.
+**Figure III.5.** Michelson and Morley interferometer: components in the left image:  monochromatic light source ($A$); semi-reflective mirror ($B$); mirrors ($C$) and observation of optical path difference ($D$). A typical interference pattern is shown in the right image.
 
 In what follows we refer to the document called Work describing the 1907 Physics Nobel Prize awarded to Michelson. Afterwards, we reproduce an image of his microscope and quote the corresponding explanation given by him, both taken from his Nobel Lecture: *Recent Advances in Spectroscopy*.
 
