@@ -22,7 +22,7 @@ The description of the Nobel Prize contributions is the same as in Section 13.1.
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.6.** K meson decay observed in 1949. 
+**Figure IV.6.** K meson decay observed in 1949. 
 
 **Ch1908** to [Ernest Rutherford](https://en.wikipedia.org/wiki/Ernest_Rutherford) “for his investigations into the disintegration of the elements, and the chemistry of radioactive substances”.
 
@@ -76,7 +76,7 @@ MLA style: Roger Penrose – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.7.** Scheme showing matter and antimatter species related to charge (C), parity (P) and time (T) reversal symmetries.
+**Figure IV.7.** Scheme showing matter and antimatter species related to charge (C), parity (P) and time (T) reversal symmetries.
 
 
 **Ph1929** to [Prince Louis-Victor Pierre Raymond de Broglie](https://en.wikipedia.org/wiki/Louis_de_Broglie) “for his discovery of the wave nature of electrons”.
@@ -165,7 +165,7 @@ MLA style: James Rainwater – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.8.** Classification of particles according to Standard model.
+**Figure IV.8.** Classification of particles according to Standard model.
 
 **Ph1965** to  [Shinichiro Tomonaga](https://en.wikipedia.org/wiki/Shin%27ichir%C5%8D_Tomonaga), [Julian Schwinger](https://en.wikipedia.org/wiki/Julian_Schwinger) and [Richard P. Feynman](https://en.wikipedia.org/wiki/Richard_Feynman) “for their fundamental work in quantum electrodynamics, with deep-ploughing consequences for the physics of elementary particles”.
 
