@@ -19,7 +19,7 @@ For $n = 2$ and $j =1/2$, level $2P_{1/2}$:  $E =-(\frac{R}{4})[1+(\frac{α^2}{4
 
 For $n = 3$ and $j = 3/2$, level $2P_{3/2}$:  $E =-(\frac{R}{9})[1+(\frac{α^2}{9}) (\frac{3}{2}- \frac{3}{4})]=$ $-(\frac{13.6}{9})[1+(\frac{α^2}{9})(\frac{3}{4})]  ≈1.5$
 
-Considering previous data, we obtain the following spacings between neighboring levels: between $1S_{1/2}$ and $2S_{1/2}$: 13.6 – 3.4 = 10.2, while between $2S_{1/2}$ and $2P_{1/2}$: 3.4 – 3.4 = 0 (degenerate levels according to Dirac) and between $2P_{1/2}$ and $2P_{3/2}$: 3.4 – 1.5 = 1.9. The null separation between the energies of the $2S_{1/2}$ and $2P_{1/2}$ states was a consequence of having assumed that the only interaction between the electron and the proton of the nucleus was due to a Coulombian potential between such charges. (See figure 6.5).
+Considering previous data, we obtain the following spacings between neighboring levels: between $1S_{1/2}$ and $2S_{1/2}$: 13.6 – 3.4 = 10.2, while between $2S_{1/2}$ and $2P_{1/2}$: 3.4 – 3.4 = 0 (degenerate levels according to Dirac) and between $2P_{1/2}$ and $2P_{3/2}$: 3.4 – 1.5 = 1.9. The null separation between the energies of the $2S_{1/2}$ and $2P_{1/2}$ states was a consequence of having assumed that the only interaction between the electron and the proton of the nucleus was due to a Coulombian potential between such charges. (See figure II.12).
 
 <figure markdown>
 ![Fig 4](./figs/chap-6-sect-2-fig1.JPG){width="480"}
@@ -29,7 +29,7 @@ Considering previous data, we obtain the following spacings between neighboring 
 
 Source: diagram elaborated by the authors.
 
-**Figure 6.5.** First electronic levels of the hydrogen atom. 
+**Figure II.12.** First electronic levels of the hydrogen atom. 
 
 ### [Lamb shift](https://en.wikipedia.org/wiki/Lamb_shift) measurements.
 
@@ -65,20 +65,20 @@ STAGE 4: *Detection of atoms in metastable state after passing through the* $R_{
 
 STAGE 5: *Application of an external magnetic field to the* $R_{rf}$ *region*. In practice it was difficult to adjust the frequency of the oscillating field to induce the transition to the $2P_{1/2}$ level, while keeping the intensity of the microwave field constant. To solve this difficulty, an external magnetic field was applied in the $R_F$ region, which produced an extra doubling of the fine structure levels. Under these conditions, the frequency of the oscillating field was fixed and the intensity of the magnetic field was varied. The minima in the readings of the galvanometer indicated the presence of induced transitions from the metastable state to other short life expectancy states, such as the $2P_{1/2}$ and $2P_{3/2}$ states. 
 
-STAGE 6: *Graphing of readings and extrapolation to the null field of the* $R_{det}$ *region*. For a fixed oscillation frequency of the microwave field, a minimum in the current registered in the galvanometer indicated a decrease in the number of atoms in a metastable state arriving at the metal plate. Afterwards, the points with coordinates defined by the oscillation frequency (R) and the external magnetic field (B) were graphed and the value extrapolated to the null field was read on the graph to obtain the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels. Thus, the Lamb shift was determined indirectly as the separation energy $ΔL$ between two supposedly degenerate levels (Figure. 6.6).
+STAGE 6: *Graphing of readings and extrapolation to the null field of the* $R_{det}$ *region*. For a fixed oscillation frequency of the microwave field, a minimum in the current registered in the galvanometer indicated a decrease in the number of atoms in a metastable state arriving at the metal plate. Afterwards, the points with coordinates defined by the oscillation frequency (R) and the external magnetic field (B) were graphed and the value extrapolated to the null field was read on the graph to obtain the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels. Thus, the Lamb shift was determined indirectly as the separation energy $ΔL$ between two supposedly degenerate levels (Figure. II.13).
 
 <p align="center" width="100%">
     <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-2-fig2.JPG?raw=true"> 
 </p>
 
 	
-**Figure 6.6.**  Lamb shift measurement: graph of the measured values of Radio Frequency (R) as a function of the applied magnetic field (B). The lines in blue correspond to the $2P_{3/2}$ level, in red to the $2S_{1/2}$ level and in green to the $2P_{1/2}$ level; $ΔL$ indicates the separation between the supposedly degenerate levels for a null external magnetic field.
+**Figure II.13.**  Lamb shift measurement: graph of the measured values of Radio Frequency (R) as a function of the applied magnetic field (B). The lines in blue correspond to the $2P_{3/2}$ level, in red to the $2S_{1/2}$ level and in green to the $2P_{1/2}$ level; $ΔL$ indicates the separation between the supposedly degenerate levels for a null external magnetic field.
 
 After having analyzed how the Lamb-Retherford experiment allowed to measure the separation between the $2S_{1/2}$ and $2P_{1/2}$ levels, let us consider what the treatment of [quantum electrodynamics](https://en.wikipedia.org/wiki/Quantum_electrodynamics) consists of, and qualitatively explain such a shift in the previously considered degenerated energy states of the electron in the hydrogen atom. 
 
 The type of interaction in which an electron emits and absorbs a virtual photon is called self-energy. This implies that a charged particle such as an electron suffers the effects of the field it generates: an electron is itself an electric charge dressed by its own self-champ. Therefore, any electron not only suffers the effect of external electromagnetic fields but is also a source of its own field that produces effects such as the change in the value (renormalization) of it mass and charge. The breaking of this experimentally observed degeneracy of levels was due to an extra perturbation caused by the interaction of the electron field with itself that creates and destroys a virtual photon.
 
-Quantum electrodynamics considers in a quantized way both, the energy levels of the electron and the electromagnetic radiation field that includes real photons (those due to external fields) as well as virtual photons (those that exist due to vacuum fluctuations). For example, Figure 6.7 represents an interaction between two electrons (e-) in which the exchange of a virtual photon (γ) occurs.  
+Quantum electrodynamics considers in a quantized way both, the energy levels of the electron and the electromagnetic radiation field that includes real photons (those due to external fields) as well as virtual photons (those that exist due to vacuum fluctuations). For example, Figure II.14 represents an interaction between two electrons (e-) in which the exchange of a virtual photon (γ) occurs.  
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Feynmandiagram.svg" width=300 align=center>
@@ -88,7 +88,7 @@ Quantum electrodynamics considers in a quantized way both, the energy levels of 
 	(Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 6.7.** Feynman diagram showing how a photon is emitted by one electron (the left one) and then absorbed by the second electron (the right one).
+**Figure II.14.** Feynman diagram showing how a photon is emitted by one electron (the left one) and then absorbed by the second electron (the right one).
 
 ***
 
