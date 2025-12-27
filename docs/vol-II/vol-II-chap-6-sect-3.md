@@ -7,7 +7,7 @@
 
 ## 5.3.  Components of the explanation of scientific theories.
 
-In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure 5.7). 
+In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure II.7). 
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-3-fig2.PNG?raw=true.PNG"> 
@@ -17,7 +17,7 @@ In this section we apply the components of the explanation of scientific theorie
 (Image elaborated by the authors)
 </center>
 
-**Figure 5.7.** Components of the explanation of scientific theories.
+**Figure II.7.** Components of the explanation of scientific theories.
 
 In the following, for explanatory purposes, we arbitrarily divide the content of the Nobel lectures by Wien and by Planck into the previous six components of the explanation of a scientific theory. Next, the main ideas contained in each component are described. The full contents of both Lectures are included in Appendices 5.1 and 5.2.
 
