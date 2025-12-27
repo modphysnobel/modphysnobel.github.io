@@ -23,7 +23,7 @@ The description of the Nobel Prize contributions is the same as in Section 13.1.
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.3.** Original plate obtained by Becquerel and table showing the main differences between natural and artificial radioactivity.
+**Figure IV.3.** Original plate obtained by Becquerel and table showing the main differences between natural and artificial radioactivity.
 
 **Ph1903** to [Antoine Henri Becquerel](https://en.wikipedia.org/wiki/Henri_Becquerel) “in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity” and to [Pierre Curie](https://en.wikipedia.org/wiki/Pierre_Curie) and [Marie Curie](https://en.wikipedia.org/wiki/Marie_Curie), née Sklodowska “in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel”.
 
@@ -105,7 +105,7 @@ MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.4a.**  A photon coming from the left interacts with a virtual photon in an atom and produces a pair of one electron (in green) and a positron (in red).
+**Figure IV.4a.**  A photon coming from the left interacts with a virtual photon in an atom and produces a pair of one electron (in green) and a positron (in red).
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-IV/figs/imagen%2013.5.PNG?raw=true"> 
@@ -115,7 +115,7 @@ MLA style: Enrico Fermi – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.4b.** First experimental observation of a neutrino: an invisible neutrino collides with a proton, producing a muon and a pion. 
+**Figure IV.4b.** First experimental observation of a neutrino: an invisible neutrino collides with a proton, producing a muon and a pion. 
 
 
 **Ph1906** to [Joseph John Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”.
@@ -238,7 +238,7 @@ MLA style: Frederick Reines – Nobel Lecture. NobelPrize.org. Nobel Prize Outre
 (Source: Wikipedia commons)
 </p>
 
-**Figure 13.5.** Radio image of a black hole in the center of galaxy Messier 87.
+**Figure IV.5.** Radio image of a black hole in the center of galaxy Messier 87.
 
 **Ch1922** to [Francis William Aston](https://en.wikipedia.org/wiki/Francis_William_Aston) “for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule”.
 
