@@ -56,7 +56,7 @@ The following Table 7.3 indicates in the first column the materials studied, in 
 	(Source: article published by Dulong and Petit (1819).)
 	</center>
 
-However, more precise and recent measurements have shown that the results obtained by Dulong and Petit are only valid at very high temperatures, where the value of the constant $3R ≈ 25 J K^{-1} mol^{-1}$ corresponds to the upper limit of the scale of the ordinates. In no way this value represents the behavior at low temperatures where, moreover, the experimental curves are different for different materials. Observe in Figure 7.3 how for different materials the values close to 300 K differ from the constant $3R ≈ 25 J K^{-1} mol^{-1}$, although for the first two materials, Lead (Pb) and Copper (Cu), the graphed values are much closer to that constant.
+However, more precise and recent measurements have shown that the results obtained by Dulong and Petit are only valid at very high temperatures, where the value of the constant $3R ≈ 25 J K^{-1} mol^{-1}$ corresponds to the upper limit of the scale of the ordinates. In no way this value represents the behavior at low temperatures where, moreover, the experimental curves are different for different materials. Observe in Figure II.17 how for different materials the values close to 300 K differ from the constant $3R ≈ 25 J K^{-1} mol^{-1}$, although for the first two materials, Lead (Pb) and Copper (Cu), the graphed values are much closer to that constant.
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Moglft0304_calor_solidos.jpg" width=480 align=center>
@@ -67,7 +67,7 @@ However, more precise and recent measurements have shown that the results obtain
 	</center>
 	
 
-**Figure 7.3.** Experimental values of specific heat at constant volume.
+**Figure II.17.** Experimental values of specific heat at constant volume.
 
 ### [Einstein's quantum model.](https://en.wikipedia.org/wiki/Einstein_solid)
 
@@ -121,7 +121,7 @@ Defining the variable $x= \frac{hν}{k_B T}$ and the Debye temperature $θ= \fra
 
 $C_V= (9R)[(\frac{4T^3}{θ^3}) ∫_0^{x_m}(\frac{x^3}{e^x- 1})  dx- (\frac{θ}{T})(\frac{1}{e^{θ/T}- 1})]$
 
-Figure 7.4 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
+Figure II.18 shows how Debye's result is better than Einstein's result near the origin and tends to a constant value for high temperatures.
 	
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-2-fig2.JPG?raw=true"> 
@@ -132,7 +132,7 @@ Figure 7.4 shows how Debye's result is better than Einstein's result near the or
 	(Image credit: CC Wikimedia Commons)
 	</center>
 	
-**Figure 7.4.** Comparison in dimensionless units of the results of the three models of a solid.
+**Figure II.18.** Comparison in dimensionless units of the results of the three models of a solid.
 
 Again, it is worth to consider two limiting cases. For high temperatures $\frac{θ}{T}≪1$ the second term is negligible and the integral can be calculated. Then, the Dulong and Petit law is obtained again
 
