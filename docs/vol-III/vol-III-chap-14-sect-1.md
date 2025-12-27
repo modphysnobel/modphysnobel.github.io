@@ -63,7 +63,7 @@ Bose-Einstein condensation is a new state of matter, a state of microscopic [qua
 	
 At the time of the publication of Bose and Einstein papers the possibility of observing boson condensation was considered as having “a purely imaginary character”, also with no possible connections with unknown effects like superconductivity or superfluidity. These effects were experimentally discovered before their satisfactory theoretical explanations were available. Let us follow the sequence in time of this conceptual trajectory whose main steps are the condensates formed by bosons in these conditions: pairs of electrons in superconductivity, pair of atoms of He-3 in superfluidity and atoms of alkali gases like rubidium and sodium in Bose-Einstein condensation.
 	
-In 1908 [Heike Kamerlingh Onnes](https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes) (1853-1926) obtained liquid helium for the first time; afterwards it will be used as refrigerant. In 1911 he discovered superconductivity when he observed the sudden nullification of the electrical resistance of mercury at 4.2° K. (see Figure 12.1). 
+In 1908 [Heike Kamerlingh Onnes](https://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes) (1853-1926) obtained liquid helium for the first time; afterwards it will be used as refrigerant. In 1911 he discovered superconductivity when he observed the sudden nullification of the electrical resistance of mercury at 4.2° K. (see Figure III.9). 
 
 WORK: “When different substances are cooled to very low temperatures, their properties change. In 1908 Heike Kamerlingh Onnes used an ingenious apparatus to cool helium to liquid form. Fluid helium was carefully studied and also became an important aid for the cooling of different substances and charting their properties at low temperatures. In 1911 Kamerlingh Onnes discovered that the electrical resistance of mercury completely disappeared at temperatures a few degrees above absolute zero. The phenomenon became known as superconductivity.”
 
@@ -84,7 +84,7 @@ To make clear the experimental conditions of the measurements of the [electrical
 (Source: taken from Kammerling Onnes´s Nobel Lecture *Investigations into the properties of substances at low temperatures, which have led, amongst other things, to the preparation of liquid helium*.)
 
 
-**Figure 12.1.** Experimental demonstration of superconductivity in mercury.
+**Figure III.9.** Experimental demonstration of superconductivity in mercury.
 
 In 1926 [Willem Keesom](https://en.wikipedia.org/wiki/Willem_Hendrik_Keesom) (1876-1956), a student of Kamerlingh Onnes, invented a method to freeze liquid helium and years later he discovered a [phase transition](https://en.wikipedia.org/wiki/Phase_transition) in Helium at 2.19° K. 
 
@@ -132,7 +132,7 @@ In 1952 Alexei Abrikosov formulated a theory for the second type of superconduct
 
 In 1957 a microscopic theory of superconductivity was proposed by Bardeen, Cooper and Schrieffer (BCS). In this theory the superconducting current is considered as a superfluid of Cooper pairs of electrons that interact through the exchange of phonons, the quantized vibrations of the crystal lattice. 
 
-Although in metals individual electrons behave as fermions, the strong coupling between the [Cooper-pairs](https://en.wikipedia.org/wiki/Cooper_pair) produces a collective pattern characterized by the absence of electric resistance (see Figure 12.2). 
+Although in metals individual electrons behave as fermions, the strong coupling between the [Cooper-pairs](https://en.wikipedia.org/wiki/Cooper_pair) produces a collective pattern characterized by the absence of electric resistance (see Figure III.10). 
 
 MLA style: Leon N. Cooper – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1972/cooper/lecture/
 
@@ -142,7 +142,7 @@ MLA style: Leon N. Cooper – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 
 (Source; taken from Cooper´s Nobel Lecture *Microscopic Quantum Interference Effects in the Theory of Superconductivity.*)
 	
-**Figure 12.2.** The concept of Cooper pairs.
+**Figure III.10.** The concept of Cooper pairs.
 
 For detailed explanations see also the other 1972 Nobel Lectures: *Electron-Phonon Interactions and Superconductivity* by Bardeen, and *Macroscopic Quantum Phenomena from Pairing in Superconductors* by Schrieffer.
 
@@ -166,7 +166,7 @@ In 1966 Anthony Legett considered that a two-band superconductor should show a s
 
 In 1970 Lee, Osheroff and Richardson discovered superfluidity in He-3. In the superfluid phase of He-3 the atoms themselves present a coupling pairing interaction which is mediated by quantum spin fluctuations rather than by the exchange of the vibratory energy corresponding to phonons as in superconductors. 
 
-When two atoms with odd numbers of nucleons pair up with each other, they collectively possess an even number of nucleons and behave like bosons, condensing together into a superfluid state. Fermions such as atomic He-3 do not condensate, therefore it is not possible that they present superfluidity like the boson atomic He-4. However, fermions in liquid He-3 form boson pairs and behave as a superfluid. Other experiments reported in Lee´s Lecture show that the specific heat measurements in superfluid He-3 present a discontinuity at the transition temperature like the one that characterizes phase transitions in superconductors (see Figure 12.3).
+When two atoms with odd numbers of nucleons pair up with each other, they collectively possess an even number of nucleons and behave like bosons, condensing together into a superfluid state. Fermions such as atomic He-3 do not condensate, therefore it is not possible that they present superfluidity like the boson atomic He-4. However, fermions in liquid He-3 form boson pairs and behave as a superfluid. Other experiments reported in Lee´s Lecture show that the specific heat measurements in superfluid He-3 present a discontinuity at the transition temperature like the one that characterizes phase transitions in superconductors (see Figure III.11).
 
 MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1996/lee/lecture/>
 
@@ -179,13 +179,13 @@ MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 (Source: MLA style: David M. Lee – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1996/lee/lecture/>)
 
-**Figure 12.3.** Experimental behavior in superfluid He-3 near the critical temperature.
+**Figure III.11.** Experimental behavior in superfluid He-3 near the critical temperature.
 
 WORK: “When certain substances are cooled to extremely low temperatures, they become superfluid, flowing without any friction. This applies to helium-4, the most common form of helium, but for a long time the superfluidity of helium-3 was in dispute. The different types of helium are described by different quantum mechanical rules and equations under which helium-4 has a whole-number spin while helium-3 has a half-number spin. In 1972 David Lee, Douglas Osheroff, and Robert Richardson verified that helium-3 also becomes superfluid at extremely low temperatures.”
 
 MLA style: David M. Lee – Facts. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 8 Jun 2024. <https://www.nobelprize.org/prizes/physics/1996/lee/facts/>
 
-In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered superconductivity in [ceramic materials](https://en.wikipedia.org/wiki/Ceramic) at temperatures above 77°K (−196.2 °C; −321.1 °F). See their joint 1987 Nobel Lecture *Perovskite-Type Oxides – The New Approach to High*- $T_c$ *Superconductivity*. (See Figure 12.4).
+In 1986 J. Georg Bednorz (1950) and K. Alexander Müller (1927-2023) discovered superconductivity in [ceramic materials](https://en.wikipedia.org/wiki/Ceramic) at temperatures above 77°K (−196.2 °C; −321.1 °F). See their joint 1987 Nobel Lecture *Perovskite-Type Oxides – The New Approach to High*- $T_c$ *Superconductivity*. (See Figure III.12).
 
 MLA style: J. Georg Bednorz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. https://www.nobelprize.org/prizes/physics/1987/bednorz/lecture/
 
@@ -200,7 +200,7 @@ MLA style: J. Georg Bednorz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2
 
 (Source: MLA style: J. Georg Bednorz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 18 Jun 2023. <https://www.nobelprize.org/prizes/physics/1987/bednorz/lecture/>)
 
-**Figure 12.4.** Increasing values of the superconducting transition temperatures.
+**Figure III.12.** Increasing values of the superconducting transition temperatures.
 
 In 1995 Eric Cornell and Carl Wieman Cornell produced a pure condensate of about 2,000 rubidium atoms at 20 nK ($2 \times 10^{-8}$ degrees above absolute zero). Independently, Ketterle performed experiments with sodium atoms.
 
@@ -228,7 +228,7 @@ MLA style: Wolfgang Ketterle – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 Note: *the reduced Planck constant or Dirac constant is* $ħ =h⁄(2π)$.
 	
-Next three Figures 12.5, 12.6 and 12.7 come from Ketterle´s Nobel Lecture: *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
+Next three Figures III.13, III.14 and III.15 come from Ketterle´s Nobel Lecture: *When Atoms Behave as Waves: Bose-Einstein Condensation and the Atom Laser*
 
 Formato MLA 
 
@@ -236,19 +236,19 @@ Formato MLA
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig6.JPG?raw=true" width=480 align=center>
 	</p>
 
-**Figure 12.5.** Conditions for obtaining Bose-Einstein condensation.
+**Figure III.13.** Conditions for obtaining Bose-Einstein condensation.
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig7.JPG?raw=true" width=480 align=center>
 	</p>
 
-**Figure 12.6.** Experimental setup for producing Bose-Einstein condensate.
+**Figure III.14.** Experimental setup for producing Bose-Einstein condensate.
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-1-fig8.JPG?raw=true" width=480 align=center>
 	</p>
 
-**Figure 12.7.** Observation of Bose-Einstein condensate.
+**Figure III.15.** Observation of Bose-Einstein condensate.
 
 For more details see the Nobel Lecture: *Bose-Einstein Condensation in a Dilute Gas; The First 70 Years and Some Recent Experiments* by E.A. Cornell and C.E Wieman. 
 
