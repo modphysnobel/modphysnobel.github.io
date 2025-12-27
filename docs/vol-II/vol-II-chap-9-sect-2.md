@@ -28,7 +28,7 @@ In a famous paper *On a heuristic point of view concerning the generation and co
 
 The photoelectric effect consists of the emission of electrons in certain metals due to the incidence of light radiation of certain frequencies; an electric current is generated as a consequence of the release of electrons that were trapped inside the metal. In metals there are electrons that move more or less freely through the crystal lattice; however, they will remain inside the metal surface unless they receive enough energy from the outside to overcome the metal work function (φ).
 
-The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure 8.2. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal. This is Einstein´s equation explaining the photoelectric effect: $E_c = ½mv^2=eV_0=hf-φ$.  
+The emission of the photoelectrons can be detected in an experimental setup using an ammeter (A) like the one shown in Figure II.20. The stopping potential ($V_0$) is the potential difference required to stop the fastest electrons, such that the photoelectric current is zero. The quantity $eV_0$ measures the kinetic energy $E_c = ½mv^2$ of the most energetic photoelectrons. This energy is equal to the difference between the energy (hf) of the incident electromagnetic radiation and the energy that the electrons need to be released from the metal which corresponds to the work function (φ) characteristic of the metal. This is Einstein´s equation explaining the photoelectric effect: $E_c = ½mv^2=eV_0=hf-φ$.  
 
 
 
@@ -52,7 +52,7 @@ The emission of the photoelectrons can be detected in an experimental setup usin
 (Image credit: CC Wikimedia Commons)
 </center>	
 
-**Figure 8.2.** Experimental device to detect the photoelectric effect (upper left part) and the braking potential as a function of frequency (graph at the right), where the red dots are experimental values. The box indicates the meaning of the physical quantities.
+**Figure II.20.** Experimental device to detect the photoelectric effect (upper left part) and the braking potential as a function of frequency (graph at the right), where the red dots are experimental values. The box indicates the meaning of the physical quantities.
 
 The [classical electromagnetic theory](https://en.wikipedia.org/wiki/Classical_electromagnetism) was formulated by Maxwell between 1864 and 1873. This theory summarizes all the existing knowledge about electricity and magnetism in four mathematical formulas and predicts that the electromagnetic field is a wave traveling at the speed of light $c=1⁄\sqrt{ε_0 μ_0}$. Its value is $3 \times 10^8$ m/s, where $ε_0$ is the electrical permittivity and $μ_0$ the magnetic permeability, both in vacuum. This fact was verified experimentally by Heinrich Hertz (1857-1894). In 1887 he showed that light is an electromagnetic wave and discovered the photoelectric effect.
 
@@ -70,11 +70,11 @@ In 1899 [Joseph John Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) (1856
 
 (3) The stopping potential $V_0$ measures the kinetic energy of the fastest photoelectrons ($v_{max}$) such that $½m(v_{max})^2 = eV_0$. The maximum of this kinetic energy was independent of light incoming intensity and for certain voltages the magnitude of the photoelectron current reached a saturation limit.
 
-Since 1916 [Robert Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) (1868-1953) carried out experiments for analyzing the linear relationship between the variables $V_0$ and $f$ in Einstein's equation $E_c = ½mv^2 = eV_0 = hf – φ$. After much testing he derived three consequences (see the graph shown earlier in Figure 8.2):
+Since 1916 [Robert Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) (1868-1953) carried out experiments for analyzing the linear relationship between the variables $V_0$ and $f$ in Einstein's equation $E_c = ½mv^2 = eV_0 = hf – φ$. After much testing he derived three consequences (see the graph shown earlier in Figure II.20):
 
 1) The ordinate at the origin ($f = 0$) implies that $eV_0 = – φ$; therefore $φ/e$ measures the starting energy in electron-volts.
 
-2) The straight line $V_0 = (hf – φ)/e$ has a slope equal to $h/e$. Taking into account that the charge of the electron is $e = 1.6 \times 10^{-19}$ coulombs, the value of Planck's constant can be obtained by measuring the slope of the straight line formed by experimental data (red dots in Figure 8.2)
+2) The straight line $V_0 = (hf – φ)/e$ has a slope equal to $h/e$. Taking into account that the charge of the electron is $e = 1.6 \times 10^{-19}$ coulombs, the value of Planck's constant can be obtained by measuring the slope of the straight line formed by experimental data (red dots in Figure II.20)
 
 3) The point of intersection with the horizontal axis ($V_0 = 0$) determines the threshold frequency ($f_0 = φ/h$) below which there is no emission of photoelectrons.
 
@@ -116,7 +116,7 @@ A [diode](https://en.wikipedia.org/wiki/Diode) is an electronic component with t
 
 The n-region of the semiconductor has free electrons (excess electrons) and the p-region has free holes (absence or lack of electrons). When a positive voltage is applied to the p-region and a negative one to the n-region, the electrons on the n-region are pushed to the p-region and the electrons flow through the p material beyond the semiconductor boundaries.
 
-A [Light Emitting Diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED) is a semiconductor diode that generates light when it is traversed by an electric current. As a photocell generates a current when a radiation impacts on a metal, in a sort of inverse photoelectric effect a LED generates light when a current traverse a semiconductor. Depending on the material of the semiconductor the emitted light will be of different frequency corresponding to red, green, yellow, amber, or infrared colors. (Figure 8.3).
+A [Light Emitting Diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LED) is a semiconductor diode that generates light when it is traversed by an electric current. As a photocell generates a current when a radiation impacts on a metal, in a sort of inverse photoelectric effect a LED generates light when a current traverse a semiconductor. Depending on the material of the semiconductor the emitted light will be of different frequency corresponding to red, green, yellow, amber, or infrared colors. (Figure II.21).
 
 <p align="center">
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.2.jpg?raw=true" width=360 align=center>
@@ -126,7 +126,7 @@ A [Light Emitting Diode](https://en.wikipedia.org/wiki/Light-emitting_diode) (LE
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 8.3.** Parts of a conventional LED.
+**Figure II.21.** Parts of a conventional LED.
 
 In what follows we include some excerpts of the document *Popular information: Blue LEDs – Filling the world with new light*. Afterwards, we quote the document called WORK describing the main contributions of the three laureates. Finally, for each one of the laureates we include the title and the subtitles describing the content of their Nobel Lectures. All the references are in MLA format.
 
