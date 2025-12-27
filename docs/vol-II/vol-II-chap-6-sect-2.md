@@ -9,7 +9,7 @@
 
 ### Quantization in classical Physics.
 
-In classical physics, the spectrum of values of the variables that are measured generally corresponds to a continuum. For instance, when we are walking in a ramp there are no forbidden places for the feet (there is no restriction on the height h), unlike when we are walking in a staircase the foot can only be placed on the steps (Figure 5.2)
+In classical physics, the spectrum of values of the variables that are measured generally corresponds to a continuum. For instance, when we are walking in a ramp there are no forbidden places for the feet (there is no restriction on the height h), unlike when we are walking in a staircase the foot can only be placed on the steps (Figure II.2)
 
 
 <p align="center" width="100%">
@@ -21,9 +21,9 @@ In classical physics, the spectrum of values of the variables that are measured 
 </center>
 
 
-**Figure 5.2.** Some positions of the feet are forbidden in a staircase but not in a ramp.
+**Figure II.2.** Some positions of the feet are forbidden in a staircase but not in a ramp.
 
-However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure 5.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
+However, an important case where quantization does occur is that of the standing waves that are observed when a string of length L fixed at its ends is made to vibrate (Figure II.3). Under these conditions, certain modes of vibration of the string are produced that do not change with time, that is, they remain stationary.
 
 <p align="center" width="100%">
     <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-5-sect-2-fig2.JPG?raw=true"> 
@@ -33,7 +33,7 @@ However, an important case where quantization does occur is that of the standing
 (Images credit: adaptation by the authors of the image taken from CC Wikimedia Commons.)
 </center>
 
-**Figure 5.3.** First four modes of vibration of a standing wave.
+**Figure II.3.** First four modes of vibration of a standing wave.
 
 When the wave reaches one of the fixed ends, it is reflected and returns reversing the direction of its propagation and the direction of vibration in the vertical sense, which is perpendicular to the direction of propagation of the wave. Consequently, interference occurs between the incident wave and the reflected wave. If, after each reflection, the interference between the incident and reflected waves is constructive, it is because the crests of the wave add to each other and the same occurs with the troughs. 
 
@@ -47,7 +47,7 @@ STAGE 1: *Description in a common daily language of the basic notions and concep
 
 A black body is a physical object that does not lose energy by reflection or transmission, only by emission; that is, it absorbs all the energy that falls on it. Since it does not reflect the incident light, it appears to the observer as something dark (black). Depending on the temperatures of the physical objects, they emit radiation visible to the human eye (the color of the object) or in other regions of the electromagnetic spectrum such as infrared when the object has been heated. 
 
-A hollow opaque object functions as a blackbody when its interior walls are painted black and a small hole is drilled into it. All radiation that enters through the hole is absorbed and hardly leaves it. If this hollow cavity is placed inside an oven with controllable temperature, the intensity of the electromagnetic radiation emitted when the cavity is heated can be measured by an external optical device. In this case, for different furnace temperatures the intensity of the radiation measured with a spectrometer is a function of its wavelength, (Figure 5.4).
+A hollow opaque object functions as a blackbody when its interior walls are painted black and a small hole is drilled into it. All radiation that enters through the hole is absorbed and hardly leaves it. If this hollow cavity is placed inside an oven with controllable temperature, the intensity of the electromagnetic radiation emitted when the cavity is heated can be measured by an external optical device. In this case, for different furnace temperatures the intensity of the radiation measured with a spectrometer is a function of its wavelength, (Figure II.4).
 
 <div style="text-align:center;">
 	<table width="100%">
@@ -66,7 +66,7 @@ A hollow opaque object functions as a blackbody when its interior walls are pain
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 5.4.** Diagram of a black body (left) and intensity of the experimental spectrum as a function of the wavelength, at different temperatures (right).
+**Figure II.4.** Diagram of a black body (left) and intensity of the experimental spectrum as a function of the wavelength, at different temperatures (right).
 
 In 1879 [Josef Stefan](https://en.wikipedia.org/wiki/Josef_Stefan) (1835-1893) inferred from his observations that the rate at which energy is radiated from a heating body should be proportional to the fourth power of its absolute temperature. Later, in 1884, an assistant of Stefan's at the University of Vienna, Ludwig Edward Boltzmann (1844-1906), calculated the speed of the particles of a gas to obtain the radiation pressure exerted by a piston on the molecules of the gas contained inside a cylinder. From these two contributions, an inference from experimental data and a theoretical derivation, the Stefan-Boltzmann law resulted: when the contributions of all wavelengths are added the total power radiated per unit area of the cavity opening is $I(T) = σT^4$, where σ is Stefan's constant.
 
@@ -74,7 +74,7 @@ In 1879 [Josef Stefan](https://en.wikipedia.org/wiki/Josef_Stefan) (1835-1893) i
 
 STAGE 2: *Contextualized explanation in a technical language of the assumptions and approximations required to characterize the scenario, the objects and the agents that are described in the problem statement. An idea of what the solution to the problem should be is included.*
 
-According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by [Wilhelm Carl Werner Otto Fritz Franz Wien](https://en.wikipedia.org/wiki/Wilhelm_Wien) (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure 5.5). 
+According to experimental results, the maximum intensity of the radiation emitted by the black body occurs for a $λ_{max}$ and its position shifts to the left (towards blue) as the temperature increases. This was specified by [Wilhelm Carl Werner Otto Fritz Franz Wien](https://en.wikipedia.org/wiki/Wilhelm_Wien) (1864-1928) when in 1893 he proposed the relation $λ_{max}T = a$, where $a$ is a constant. This relationship is known as Wien's displacement law (Figure II.5). 
 	
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Blackbody_Spectrum.PNG" width=480 align=center>
@@ -84,7 +84,7 @@ According to experimental results, the maximum intensity of the radiation emitte
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 5.5.** Wien's displacement law that shows how the color of the radiation changes with the temperature of the emitting source for different wavelengths (λ).
+**Figure II.5.** Wien's displacement law that shows how the color of the radiation changes with the temperature of the emitting source for different wavelengths (λ).
 
 Wien also proposed a function to describe the spectral energy density (u), or energy per unit of volume per unit of frequency of radiation within the blackbody cavity: $u(f,T) = α[(f)^3exp(-βf/T)]$, where f is the frequency, T is the temperature, and α and β are constants. This result is called Wien's power law and is considered in Wien´s Physics Nobel Lecture (section 5.3 and Appendix 5.1). 
 
@@ -99,7 +99,7 @@ MLA style: Wilhelm Wien – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 Meanwhile, the British physicist [John William Strutt, third Baron Rayleigh](https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh) (1842 – 1919), obtained in June 1900 a formula to calculate the number of free electromagnetic vibration modes per unit volume in the cavity and per unit wavelength. Later, the British astronomer [Sir James Hopwood Jeans](https://en.wikipedia.org/wiki/James_Jeans) (1877 – 1946) made some corrections, obtaining the expression $uλ=8πkT/λ$ for the energy density per unit interval of wavelength, later called the Rayleigh – Jeans law. This law was consistent with experiments for low infrared frequencies, where Wien's law failed, but for short wavelengths or high frequencies it predicted infinite emission in the ultraviolet, termed the “ultraviolet catastrophe”. 
 
-Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and Prigshein proposed in the early 1900s a general equation in terms of constants and the parameters $μ$ and $η$; Wien's law was obtained for $μ = 5$ and $η = 1$, while Rayleigh-Jeans law resulted when $μ = 4$, $η = 1$ and $b = 0$. Table I summarizes the expressions of the three laws described above, as well as the expression proposed by Thiesen, Lummer, Jahnke and Prigshein as a function of the parameters $μ$, $η$ and $b$. This Table also includes Planck's law which solve the problem (Figure 5.6).
+Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and Prigshein proposed in the early 1900s a general equation in terms of constants and the parameters $μ$ and $η$; Wien's law was obtained for $μ = 5$ and $η = 1$, while Rayleigh-Jeans law resulted when $μ = 4$, $η = 1$ and $b = 0$. Table I summarizes the expressions of the three laws described above, as well as the expression proposed by Thiesen, Lummer, Jahnke and Prigshein as a function of the parameters $μ$, $η$ and $b$. This Table also includes Planck's law which solve the problem (Figure II.6).
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/5.1.jpg?raw=true"> 
@@ -113,7 +113,7 @@ Later, in an attempt to obtain a general equation, Thiesen, Lummer, Jahnke and P
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 5.6.** Radiation intensity as a function of frequency; comparison on logarithmic scales between the predictions of the Rayleigh-Jeans (red), Wien (blue) and Planck (green) laws.
+**Figure II.6.** Radiation intensity as a function of frequency; comparison on logarithmic scales between the predictions of the Rayleigh-Jeans (red), Wien (blue) and Planck (green) laws.
 
 In the limit of $λ→0$ Planck's law leads to Wien's law when $exp(hc/(kTλ)) >> 1$; while on the limit $λ→∞$ the Rayleigh-Jeans law is obtained when $hc/(kTλ) << 1$ and we use the approximation $exp(x) = 1 + x$.
 
