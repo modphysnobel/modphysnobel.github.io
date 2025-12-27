@@ -44,7 +44,7 @@ The previous connection between three types of symmetry properties with their re
 
 "Now, in the further development of science we want more than a formula. First we have an observation, then numbers that we measure, then we have a law that sums up all the numbers. But the real glory of science is that we can find a way of thinking in such a way that the law is self-evident."
 
-"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle). His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**." (Figure 8.1).
+"The first way of thinking that made the law of light behavior evident was discovered by Fermat around 1650 and is called the principle of least time or [Fermat's principle](https://en.wikipedia.org/wiki/Fermat%27s_principle). His idea is that of all the possible paths it can take to get from one point to another, light takes the path that requires the **shortest time**." (Figure II.19).
 
 <p align="center">
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo8.1.jpg?raw=true" width=360 align=center>
@@ -54,7 +54,7 @@ The previous connection between three types of symmetry properties with their re
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 8.1.** Refraction of light at point $P$ from a ray coming from an object point $A$ in air to an observation point $B$ in water. The Fermat's principle indicates that light takes a minimum time to travel the path $APB$ (distance $l_1 + l_2$).  
+**Figure II.19.** Refraction of light at point $P$ from a ray coming from an object point $A$ in air to an observation point $B$ in water. The Fermat's principle indicates that light takes a minimum time to travel the path $APB$ (distance $l_1 + l_2$).  
 
 ### Hamilton's principle of least action and Noether's theorem.
 
