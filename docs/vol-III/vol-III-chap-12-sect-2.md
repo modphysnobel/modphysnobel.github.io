@@ -26,9 +26,9 @@ https://en.wikipedia.org/wiki/Graviton
 
 The detection of a gravitational wave indicated that very far away in the past a violent change in the [structure of spacetime](https://en.wikipedia.org/wiki/Spacetime) was originated by the collision of two massive [black holes](https://en.wikipedia.org/wiki/Black_hole) during a few tenths of a second, more than a thousand million years ago. The difference in masses before the collision (29 and 36 solar masses) and after the collision (62 solar masses) resulted in dissipated energy (3 solar masses) in the form of gravitational waves. Such gravitational waves were produced because two black holes collided and merged.
 
-The LIGO detector was just a laser interferometer with two arms forming an L, a beam splitter in the corner of the L and mirrors at the beginning and end of each arm whose length was 4 km. It functioned as follows: light coming from an external laser arrived at the beam splitter after which two signals traveled in different directions and reflected back and forth many times along the interferometer arms. Finally, these signals overlapped in the beam-splitter from where it was registered in a photodetector (see steps 5 and 6 in Figure 10.2) 
+The LIGO detector was just a laser interferometer with two arms forming an L, a beam splitter in the corner of the L and mirrors at the beginning and end of each arm whose length was 4 km. It functioned as follows: light coming from an external laser arrived at the beam splitter after which two signals traveled in different directions and reflected back and forth many times along the interferometer arms. Finally, these signals overlapped in the beam-splitter from where it was registered in a photodetector (see steps 5 and 6 in Figure III.6) 
 
-When the interferometer’s arms did not change length, both signals traveled equal distances, and no interference pattern was formed. Nevertheless, gravitational waves shrink and lengthen spacetime and therefore modify the distances traveled by the laser radiation in the arms of the interferometer. Under these conditions the component waves arrived out of phase and produced an interference pattern. The compressions and expansions of space-time generated the observed gravitational wave interference pattern so much expected (Figure 10.2).
+When the interferometer’s arms did not change length, both signals traveled equal distances, and no interference pattern was formed. Nevertheless, gravitational waves shrink and lengthen spacetime and therefore modify the distances traveled by the laser radiation in the arms of the interferometer. Under these conditions the component waves arrived out of phase and produced an interference pattern. The compressions and expansions of space-time generated the observed gravitational wave interference pattern so much expected (Figure III.6).
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-10-sect-2-fig1.JPG?raw=true"> 
@@ -39,7 +39,7 @@ Source: Figure 3 taken from the document *Popular information: The Nobel Prize i
 </center>
 
 
-**Figure 10.2.** ***Figure 3.*** "How to catch a gravitational wave. The world’s first captured gravitational waves were created in a violent collision between two black holes, 1.3 billion lightyears away. When these waves passed the Earth, 1.3 billion years later, they had weakened considerably: the disturbance in spacetime that LIGO measured was thousands of times smaller than an atomic nucleus."
+**Figure III.6.** ***Figure 3.*** "How to catch a gravitational wave. The world’s first captured gravitational waves were created in a violent collision between two black holes, 1.3 billion lightyears away. When these waves passed the Earth, 1.3 billion years later, they had weakened considerably: the disturbance in spacetime that LIGO measured was thousands of times smaller than an atomic nucleus."
 
 According to the document Popular information, the detection of gravitational waves manifests three characteristics of how physics is done in our time:”
 
