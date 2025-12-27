@@ -56,7 +56,7 @@ Einstein used the two previous equations that define $D$ and $λ_x$ and predicte
 $<ΔX^2> =[(k_BT)/(3πηa)](t)$
 </center>
 
-In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure 7.1).
+In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Avogadro's number and $R$ is the universal gas constant (Figure II.15).
 	
 <p align="center" width="100%">
     <img width="380" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-7-sect-1-fig4.jpg?raw=true"> 
@@ -67,9 +67,9 @@ In the previous equation, the Boltzmann constant $k_B = R/N_A$ where $N_A$ is Av
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 7.1.** Graph of the equation obtained by Einstein.
+**Figure II.15.** Graph of the equation obtained by Einstein.
 
-In Figure 7.1, the time t on the horizontal axis indicates two moments: before the collisions (segment O to N) when the Brownian particle is placed in the liquid and moves freely until the collisions begin, and during the collisions (segment N to M) when the trajectory of the Brownian particle changes randomly satisfying Einstein's linear equation. In section 7.3 we obtain this equation by following Langevin procedure.
+In Figure II.15, the time t on the horizontal axis indicates two moments: before the collisions (segment O to N) when the Brownian particle is placed in the liquid and moves freely until the collisions begin, and during the collisions (segment N to M) when the trajectory of the Brownian particle changes randomly satisfying Einstein's linear equation. In section 7.3 we obtain this equation by following Langevin procedure.
 
 Einstein's theoretical work contributed to the following: (1) to demonstrate the discontinuous structure of matter and prove the existence of atoms; (2) to develop ideas and procedures of statistical mechanics, which lays the foundations of thermodynamics, and (3) to test experimentally ideas derived from statistical calculations that led to the exact measurement of quantities such as Avogadro's number and the mass of the hydrogen molecule.
 
@@ -79,7 +79,7 @@ The first observations of Brownian motion were made in 1785 by Jan Ingenhousz (1
 
 Many years later in 1910, [Jean Perrin](https://en.wikipedia.org/wiki/Jean_Baptiste_Perrin) (1870-1942) published the results of his work in the article *Brownian motion and molecular reality* and in the book *Les atoms* edited in French in 1914 and translated into English in 1916. The reported results verified Einstein's theory.
 
-Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure 7.2). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
+Perrin carried out experiments on sedimentation (the settling of suspended particles caused by gravity) and was able to prove the validity of the analogy between the molecules of a gas and the particles suspended in a liquid. He observed the movement of the particles through a microscope, whose eyepiece was equipped with a grid that served as a coordinate system (Figure II.16). He showed that the displacement of particles resulted in a certain vertical distribution and counted the number of particles contained in a drop of water located at different depths. The concentration of particles was higher at greater depths.
 	
 <div style="text-align:center;">
 	<table cellspacing="0" cellpadding="0">
@@ -101,7 +101,7 @@ Perrin carried out experiments on sedimentation (the settling of suspended parti
 </center>
 
 
-**Figure 7.2.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image).
+**Figure II.16.** Distribution of equilibrium heights of particles within a gravitational field (left image) and successive positions recorded every 30 seconds; the projections of displacements in the x-direction are also indicated (right image).
 
 To carry out his experiments, Perrin first very carefully prepared particles of the same radius ($0.53 \times 10^{-6}$ m)and then he marked on the microscope reticule the successive positions of a chosen particle. Then he plotted those points on a paper, determined the corresponding displacements of the particle and calculated the mean square value of those displacements. 
 	
