@@ -78,23 +78,23 @@ NOBEL LECTURE: *Interplay of Disorder and Interaction in Two-Dimensional Electro
 
 MLA style: Daniel C. Tsui – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 Feb 2024. https://www.nobelprize.org/prizes/physics/1998/tsui/lecture/
 
-In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. At very low temperatures the electrons moved as in two dimensions only, and changes in the magnetic field resulted in changes in the Hall conductance that does not vary in linear fashion, but “stepwise”. The quantized values of the Hall resistance $R_H$ were $(h/e2)/f$, where $h$ is Planck’s constant, $e$ is the elementary charge of the electron and $f$ (the filling factor) is an integer number. According to von Klitzing, the fact that normal Ohmic resistance disappeared was an indication that the material became a sort of a superconductor. Next Figures 12.8 and 12.9 come from his NOBEL LECTURE *The Quantized Hall Effect*.
+In 1980, Klaus von Klitzing discovered the quantum Hall effect in an interface between a metal and a semiconductor in a very clean material. At very low temperatures the electrons moved as in two dimensions only, and changes in the magnetic field resulted in changes in the Hall conductance that does not vary in linear fashion, but “stepwise”. The quantized values of the Hall resistance $R_H$ were $(h/e2)/f$, where $h$ is Planck’s constant, $e$ is the elementary charge of the electron and $f$ (the filling factor) is an integer number. According to von Klitzing, the fact that normal Ohmic resistance disappeared was an indication that the material became a sort of a superconductor. Next Figures III.16 and III.17 come from his NOBEL LECTURE *The Quantized Hall Effect*.
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-2-fig1.JPG?raw=true" width=520 align=center>
 	</p>
 
-**Figure 12.8.** Experimental conditions for observing the quantized Hall effect.
+**Figure III.16.** Experimental conditions for observing the quantized Hall effect.
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-12-sect-2-fig2.JPG?raw=true" width=520 align=center>
 	</p>
 
-**Figure 12.9.** Experimental results reported in von Klitzing Nobel Lecture; ($h$ is Planck constant and $e$ the charge of the electron).
+**Figure III.17.** Experimental results reported in von Klitzing Nobel Lecture; ($h$ is Planck constant and $e$ the charge of the electron).
 
 In experiments with the electron gas realized during 1982-1983, Störmer and Tsui worked on more severe conditions of temperatures and magnetic fields (around -272°C and nearly 30 T). Although the electrons are most reluctant to condense (they are fermions) they combine with the “flux quanta” of the magnetic field and form composite particles that can condense (they become bosons). Störmer and Tsui found Hall plateaus at high magnetic field strengths corresponding to fractional values of the filling factor $f$. This implied the existence of quasiparticles carrying fractional charge; for instance if $f=1/3$ this would correspond to a fractional charge of $e/3$.
 
-In his 1998 Nobel Lecture $The Fractional Quantum Hall Effect$ Störmer explains the main difference between IQHE (Integer Quantum Hall Effect) and FQHE (Fractional Quantum Hall Effect): “The IQHE can be understood solely on the basis of the quantized motion of individual 2D electrons in the presence of a magnetic field and random fluctuations of the interface potential which creates localized states. …. The origin of FQHE is interaction between electrons. It is therefore termed a many-particle effect or an [electron correlation](https://en.wikipedia.org/wiki/Electronic_correlation) effect, since the charged electrons avoid each other by correlating their relative motion in an intricate manner.” (See Figure 12.10 taken from Störmer´s Nobel Lecture.)
+In his 1998 Nobel Lecture $The Fractional Quantum Hall Effect$ Störmer explains the main difference between IQHE (Integer Quantum Hall Effect) and FQHE (Fractional Quantum Hall Effect): “The IQHE can be understood solely on the basis of the quantized motion of individual 2D electrons in the presence of a magnetic field and random fluctuations of the interface potential which creates localized states. …. The origin of FQHE is interaction between electrons. It is therefore termed a many-particle effect or an [electron correlation](https://en.wikipedia.org/wiki/Electronic_correlation) effect, since the charged electrons avoid each other by correlating their relative motion in an intricate manner.” (See Figure III.18 taken from Störmer´s Nobel Lecture.)
 
 
 <p align="center">
@@ -103,7 +103,7 @@ In his 1998 Nobel Lecture $The Fractional Quantum Hall Effect$ Störmer explains
 
 (Source: MLA style: Horst L. Störmer – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 19 Jun 2023. <https://www.nobelprize.org/prizes/physics/1998/stormer/lecture/>)	
 
-**Figure 12.10.** Hall Resistance ($R_H$) showing many fractional values.
+**Figure III.18.** Hall Resistance ($R_H$) showing many fractional values.
 
 Although the electrons usually repel each other because they are fermions, according to Laughlin the reported fractional quantization was because in the presence of very strong magnetic fields the electron gas behaved as a new type of [quantum fluid](https://en.wikipedia.org/wiki/Quantum_fluid) integrated by composite interacting fermions (the electrons) that behave as bosons and condense as fractionally charged “[quasiparticles](https://en.wikipedia.org/wiki/Quasiparticle)”. Laughlin, closed his Nobel lecture *Fractional Quantization* by saying: “Fractional quantum Hall quasiparticles are the elementary excitations of a distinct state of matter that cannot be deformed into noninteracting electrons without crossing a phase boundary. That means they are different from electrons in the only sensible way we have of defining different, and in particular are not adiabatic images of electrons the way quasiparticle excitations of metals and band insulators are.”
 
