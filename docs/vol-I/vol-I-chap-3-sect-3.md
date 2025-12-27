@@ -54,7 +54,7 @@ Newton could explain what Kepler predicted but without describing how the gravit
 
 **Comprehension procedure:** to describe the theories of special and general relativity created by [Albert Einstein](https://en.wikipedia.org/wiki/Isaac_Newton) where he explains the physical properties of the universe in terms of geometrical properties.
 
-Careful measurements have shown that the position of the [perihelion of Mercury](https://en.wikipedia.org/wiki/Tests_of_general_relativity#Perihelion_precession_of_Mercury) appeared to be delayed after completing one full year of revolution around the Sun. During a century the principal axe of the elliptic orbit of Mercury had a very small deviation of 43 seconds of arc (Figure 3.5). According to the theory of general relativity this physical effect was produced by the geometrical circumstance that a curvature of space was produced by the enormous concentration of matter existing in the Sun. This explanation indicates that the gravitational force has a geometrodynamic nature.
+Careful measurements have shown that the position of the [perihelion of Mercury](https://en.wikipedia.org/wiki/Tests_of_general_relativity#Perihelion_precession_of_Mercury) appeared to be delayed after completing one full year of revolution around the Sun. During a century the principal axe of the elliptic orbit of Mercury had a very small deviation of 43 seconds of arc (Figure I.12). According to the theory of general relativity this physical effect was produced by the geometrical circumstance that a curvature of space was produced by the enormous concentration of matter existing in the Sun. This explanation indicates that the gravitational force has a geometrodynamic nature.
 
 <p align="center">
 	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Nuevo3.6.PNG?raw=true" width=300 align=center> 
@@ -66,7 +66,7 @@ Careful measurements have shown that the position of the [perihelion of Mercury]
 
 https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Drehung_der_Apsidenlinie_light.svg/440px-Drehung_der_Apsidenlinie_light.svg.png
 
-**Figure 3.6.** Perihelion precession of planet Mercury showing the change of orientation of the orbital ellipse within its orbital plane as an effect of the curvature of spacetime. 
+**Figure I.13.** Perihelion precession of planet Mercury showing the change of orientation of the orbital ellipse within its orbital plane as an effect of the curvature of spacetime. 
 
 **Metacognition procedure:** to define the frontiers of ignorance after reviewing assumptions, procedures and results as well as contrasting them with the experimental tests of calculated predictions. Concerning the real structure of physical spaces, according to the available results of observations, experiments and calculations, it is now clear that the mathematical structure of such spaces is not Euclidean. Nevertheless, up to now a quantum gravity theory is still under development.
 
