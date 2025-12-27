@@ -7,7 +7,7 @@
 
 ## Appendix 4A. How the lever principle serves to justify that the postulate of the parallels is satisfied.
 
-In what follows we describe the explanation made by Lagrange. Figure 4.3 expresses the content of Euclid's fifth postulate and figures 4.4 to 4.7 correspond to the explanation attributed to Lagrange.
+In what follows we describe the explanation made by Lagrange. Figure I.16 expresses the content of Euclid's fifth postulate and figures I.17 to I.20 correspond to the explanation attributed to Lagrange.
 
 <figure markdown>
 ![Fig 4](./figs/Vol-I-chap-4-sect-1-Fig4.PNG){width="640"}
@@ -15,9 +15,9 @@ In what follows we describe the explanation made by Lagrange. Figure 4.3 express
 </figcaption>
 </figure>
 
-**Figure 4.3.** The two lines are parallel only when α + β = 180º.
+**Figure I.16.** The two lines are parallel only when α + β = 180º.
 
-Lagrange's triangle consists in the following (Figure 4.4):
+Lagrange's triangle consists in the following (Figure I.17):
 
 Let ABC be an isosceles triangle whose sides AB and AC are equal by construction.
 
@@ -31,9 +31,9 @@ Points M and N are in the middle of respective sides AB and AC so that BM = MA i
 </figcaption>
 </figure>
 
-**Figure 4.4.** Characteristics of the triangle ABC, the so-called Lagrange’s triangle.
+**Figure I.17.** Characteristics of the triangle ABC, the so-called Lagrange’s triangle.
 
-Now consider that Lagrange's triangle is suspended from point A and that a weight 2P is applied to point A and a weight P is applied to each endpoint B and C, as shown in Figure 4.5. Under such conditions, the triangle BAC is in equilibrium with respect to the axis that passes through the line AD: the weight 2P in A does not intervene because it is at a zero distance from the axis AD. The weights that hang from B and C satisfy the condition of the lever:
+Now consider that Lagrange's triangle is suspended from point A and that a weight 2P is applied to point A and a weight P is applied to each endpoint B and C, as shown in Figure I.18. Under such conditions, the triangle BAC is in equilibrium with respect to the axis that passes through the line AD: the weight 2P in A does not intervene because it is at a zero distance from the axis AD. The weights that hang from B and C satisfy the condition of the lever:
 
 Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D}.
 
@@ -43,9 +43,9 @@ Suspension point in A: (P) x (BD) {left side of D} = (P) x (DC) {right side of D
 </figcaption>
 </figure>
 
-**Figure 4.5.** Application of the principle of the lever when the suspension is in A: (P) x (BD) = (P) x (DC).
+**Figure I.18.** Application of the principle of the lever when the suspension is in A: (P) x (BD) = (P) x (DC).
 
-Now consider that the weight 2P that was hanging at A is divided in two parts: a weight P is applied at point A to a lever to be suspended from the point M (which is in the middle of segment BA) and the other weight P is applied at that same point A but to the lever that is suspended from point N (which is in the middle of segment AC) (Figures 4.6a and 4.6b). Under these conditions we obtain 
+Now consider that the weight 2P that was hanging at A is divided in two parts: a weight P is applied at point A to a lever to be suspended from the point M (which is in the middle of segment BA) and the other weight P is applied at that same point A but to the lever that is suspended from point N (which is in the middle of segment AC) (Figures I.19a and I.19b). Under these conditions we obtain 
 
 Suspension in M: (BM x P) {left side of M} = (MA x P) {right side of M}.
 
@@ -57,9 +57,9 @@ Suspension in N: (AN x P) {left side of N} = (NC x P) {right side of N}.
 </figcaption>
 </figure>
 
-**Figure 4.6.** Levers with suspension centers in M (a) and in N (b).
+**Figure I.19.** Levers with suspension centers in M (a) and in N (b).
 
-Then suppose that the weights on B and A in Figure 4.6a are applied to M and the weights on A and C in Figure 4.6b are applied to N. Superposing these two conditions, we have in the triangle ABC that each one of the weights on M and on N are 2P. The aforementioned distribution of weights also maintains the balance of triangle ABC with respect to an axis passing through points M, E, and N. This is shown in Figure 4.7 where the triangle is placed vertically and suspended from point E, which is the intersection of line AD. with the line MN.
+Then suppose that the weights on B and A in Figure I.19a are applied to M and the weights on A and C in Figure I.19b are applied to N. Superposing these two conditions, we have in the triangle ABC that each one of the weights on M and on N are 2P. The aforementioned distribution of weights also maintains the balance of triangle ABC with respect to an axis passing through points M, E, and N. This is shown in Figure I.20 where the triangle is placed vertically and suspended from point E, which is the intersection of line AD. with the line MN.
 
 <figure markdown>
 ![Fig 8](./figs/Vol-I-chap-4-sect-1-Fig8.PNG){width=250"}
@@ -67,7 +67,7 @@ Then suppose that the weights on B and A in Figure 4.6a are applied to M and the
 </figcaption>
 </figure>
 
-**Figure 4.7.** Redistribution of the weight on M and on N corresponding to the superpositions of previous figures 4.6a and 4.6b. Now the triangle ABC is suspended from E.
+**Figure I.20.** Redistribution of the weight on M and on N corresponding to the superpositions of previous figures I.19a and I.19b. Now the triangle ABC is suspended from E.
 
 The situation of the triangle ABC in a vertical position and in equilibrium with respect to the suspension point E is equivalent to a lever along the axis MN, with center in E and with weights equal to 2P on each side. If the distances from the center E to the ends M and N are $d_1 = ME$ y $d_2 = EN$. Applying the principle of the lever, we obtain:
 
