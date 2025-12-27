@@ -37,7 +37,7 @@ We apply the procedure Identification of concepts and [descriptions of models](h
 
 The simplest atom is the [hydrogen](https://en.wikipedia.org/wiki/Hydrogen): only one proton forms the nucleus, and one electron surrounds it. Hydrogen means *generator of water*. Antoine-Laurent de Lavoisier (1743-1794) named as such in 1783 because he observed that water was produced during hydrogen gas burning. The properties of hydrogen as a chemical element were first studied by Henry Cavendish (1731-1810); in 1766 he also discovered the composition of water, indicating that "water was composed of dephlogisticated air (oxygen) joined to phlogiston (hydrogen)".
 
-Isaac Newton was one of the firsts to demonstrate the scattering of light when he passed visible light through a prism and watched it break up into a continuous spectrum of bands of different colors (Figure 6.1). 
+Isaac Newton was one of the firsts to demonstrate the scattering of light when he passed visible light through a prism and watched it break up into a continuous spectrum of bands of different colors (Figure II.8). 
 
 <p align="center">
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig2.jpg?raw=true" width=480 align=center>
@@ -47,7 +47,7 @@ Isaac Newton was one of the firsts to demonstrate the scattering of light when h
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 6.1.** Production of three types of spectra: continuous, emission and absorption.
+**Figure II.8.** Production of three types of spectra: continuous, emission and absorption.
 
 The intensity and frequency (ν) or wavelength (λ) of the spectral lines determine the properties of the atomic structure of the corresponding element, once the observed regularities in each series of [spectral lines](https://en.wikipedia.org/wiki/Spectral_line) are interpreted. The different regions of the electromagnetic spectrum have the following wavelengths (λ) expressed in nanometers: X-rays ($λ<10$), ultraviolet ($10<λ<400$), visible ($400< λ<750$), infrared ($λ>750$). A nanometer is one billionth of a meter ($1 nm = 10^{-9} m$).
 
@@ -59,7 +59,7 @@ $ῦ = \frac{1}{λ} = \frac{1}{B} (\frac{m^2-2^2}{m^2}) =  \frac{1}{B} (1- \frac
 
 This is a particular case for $n = 2$ in the general equation $ῦ = \frac{1}{λ} = R_H (\frac{1}{n^2} - \frac{1}{m^2})$ where $m>n$.
 
-The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Rydberg constant for the hydrogen atom. Figure 6.2 shows the alpha lines of each hydrogen series as a function of the wavelength expressed in nanometers; the following abbreviations are used: Lyman (Ly- α), Balmer (Ba- α), Paschen (Pa- α), Brackett (Br- α), Pfund (Pf- α), and Humphreys (Hu- α).
+The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Rydberg constant for the hydrogen atom. Figure II.9 shows the alpha lines of each hydrogen series as a function of the wavelength expressed in nanometers; the following abbreviations are used: Lyman (Ly- α), Balmer (Ba- α), Paschen (Pa- α), Brackett (Br- α), Pfund (Pf- α), and Humphreys (Hu- α).
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Hydrogen_spectrum.svg" width=640 align=center>
@@ -69,7 +69,7 @@ The quantity $R_H = 4/B = 1.097 \times 10^7 m^{-1} = 0.01097 nm^{-1}$ is the Ryd
 (Images credit: CC Wikimedia Commons)
 </center>
 
-**Figure 6.2.** Spectral series of the hydrogen atom in logarithmic scale.
+**Figure II.9.** Spectral series of the hydrogen atom in logarithmic scale.
 
 The manifest regularity of the values of the spectral lines that satisfied the Rydberg formula posed serious problems of theoretical interpretation in the first decades of the 20th century. New approaches were necessary regarding the atomic structure and the processes by which the spectral lines were produced. It is here where [Niels Henrik David Bohr](https://en.wikipedia.org/wiki/Niels_Bohr) (1885-1962) makes his entrance.
 
@@ -93,7 +93,7 @@ By definition, the magnitude of the angular momentum is $L = m_evr$, whence $v =
 
 If the quantized radius $r_n$ is considered in the value of the total energy $E = - q^2/(2r)$ then the quantized energy is $E_n = - q^2/(2r_n) = -((m_eq^4)/(2 ђ^2))(1/n^2)= - R_H/(n^2)$, where the Rydberg constant for the hydrogen atom is $R_H = [(m_eq^4)/(2ђ^2)]$.
 
-If the energy of the initial state $E_i$ characterized by the quantum number $m$ is $E_m = - R_H/(m^2)$ and the energy of the final state $E_f$ characterized by the quantum number $n$ is $E_n = - R_H/(n^2)$, then the energy of the transition from the initial state to the final state $E_f- E_i$ will be $hν_{if}$. (See Figure 6.3.).
+If the energy of the initial state $E_i$ characterized by the quantum number $m$ is $E_m = - R_H/(m^2)$ and the energy of the final state $E_f$ characterized by the quantum number $n$ is $E_n = - R_H/(n^2)$, then the energy of the transition from the initial state to the final state $E_f- E_i$ will be $hν_{if}$. (See Figure II.10.).
 
 $hν_{if}= E_f- E_i = E_n- E_m = [\frac{-R_H}{n^2}]- [\frac{-R_H}{m^2}]=R_H [\frac{1}{m^2} - \frac{1}{n^2} ]$.
 
@@ -105,7 +105,7 @@ $hν_{if}= E_f- E_i = E_n- E_m = [\frac{-R_H}{n^2}]- [\frac{-R_H}{m^2}]=R_H [\fr
 	(Images credit: CC Wikimedia Commons)
 	</center>
 
-**Figure 6.3.**  First spectral emission lines in the Balmer series.
+**Figure II.10.**  First spectral emission lines in the Balmer series.
 
 However, the intensities of the atomic spectral lines of elements heavier than hydrogen were different from those predicted by Bohr's theory. These deficiencies were corrected in 1916 by [Arnold Sommerfeld](https://en.wikipedia.org/wiki/Arnold_Sommerfeld) (1868-1951), who considered that electrons moved at relativistic speeds (close to the value of the speed of light) and in quasi-elliptical orbits; he also incorporated the motion of the nucleus.
 
@@ -127,7 +127,7 @@ For the atomic system described above, in spontaneous emission the electron goes
 
 The stimulated emission is a completely quantum process that occurs when the electron is in the excited state $E_2$, the atom is in the presence of external photon of energy $hν_{ext}$ and a transition to the ground state $E_1$ is produced. This process is accompanied by the emission of a photon whose energy is $hν = E_2 - E_1 = hν_{ext}$. The incident external photon – a virtual photon- corresponds to the action of an effective electromagnetic field that is external to the atomic system. Virtual photons are generated by the quantum effect of [vacuum fluctuations](https://en.wikipedia.org/wiki/Quantum_fluctuation).
 
-In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure 6.4 shows the initial and final situations of these three radiative transitions.
+In the stimulated emission processes, there is synchronization in the frequency and phase of both photons, the incident photon and the one produced by the stimulated emission. This circumstance produces an amplification of the radiation because the number of photons increases in a final situation ($S_f$) with respect to an initial situation ($S_i$). The amplification occurs when the stimulated emission is greater than the absorption and this happens when there is a greater presence of atoms in excited states. Figure II.11 shows the initial and final situations of these three radiative transitions.
 
 <p align="center" width="100%">
     <img width="640" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/chap-6-sect-1-fig5.JPG?raw=true"> 
@@ -137,7 +137,7 @@ In the stimulated emission processes, there is synchronization in the frequency 
 	(Image credit: drawings made by the authors.)
 	</center>
 
-**Figure 6.4.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG){width="40"}) causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG){width="20"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG){width="40"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG){width="40"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG){width="40"}).
+**Figure II.11.**  Transition processes between levels where a photon (![Fig6](figs/chap-6-sect-1-fig6.JPG){width="40"}) causes an electron (![Fig7](figs/chap-6-sect-1-fig7.JPG){width="20"}) to pass from an initial level (![Fig8](figs/chap-6-sect-1-fig8.JPG){width="40"}) to a final level (![Fig9](figs/chap-6-sect-1-fig9.JPG){width="40"}); the electronic levels that remain unoccupied during the transition are indicated as (![Fig10](figs/chap-6-sect-1-fig10.JPG){width="40"}).
 
 Consider that the spectral density of electromagnetic radiation of frequency $ν$ is $ρ(ν)$; this function defines the time ratio of the transitions between the two quantized states under consideration. Let $R_{1—2}$ be the probability per unit time of a transition from the initial state $E_1$ to the final state $E_2$ (emission process) and $R_{2—1}$ the corresponding probability for the transition from the initial state $E_2$ to the final state $E_1$ (absorption process). For spontaneous emission and spontaneous absorption these probabilities will be proportional to the energy density $ρ(ν)$ of the radiation of energy $hν = E_2 - E_1$. The induced emission does not depend on the density $ρ(ν)$.
 
