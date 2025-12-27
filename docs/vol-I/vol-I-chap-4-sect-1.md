@@ -60,7 +60,7 @@ Some efforts have been dedicated to change the fifth postulate into a more satis
 
 According to Reichenbach (1958), in Euclidean geometry the theorems were known first, and the axiomatic foundation was developed later. Nevertheless, by following a sort of contradictory procedure, in non-Euclidean geometries the axiomatic constructions were the instruments for the discovery of geometrical proofs. Such a contradiction was a consequence of the required self-consistent reformulations of the fifth postulate of the parallels. 
 
-Two [non-Euclidean geometries](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) can be considered depending on the curvature of the space; therefore, the corresponding number of parallel lines will be different than just one when the curvature is zero as in Euclidean geometry. This number is infinite when the curvature is negative as in hyperbolic geometry where the lines never intersect (all the lines are parallel), or it is null when the curvature is positive as in elliptic geometry where all the lines converge (there are no parallel lines). In non-Euclidean geometries the internal angles of a triangle do not add exactly to 180° (Figure 4.1).
+Two [non-Euclidean geometries](https://en.wikipedia.org/wiki/Non-Euclidean_geometry) can be considered depending on the curvature of the space; therefore, the corresponding number of parallel lines will be different than just one when the curvature is zero as in Euclidean geometry. This number is infinite when the curvature is negative as in hyperbolic geometry where the lines never intersect (all the lines are parallel), or it is null when the curvature is positive as in elliptic geometry where all the lines converge (there are no parallel lines). In non-Euclidean geometries the internal angles of a triangle do not add exactly to 180° (Figure I.14).
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Comparison_of_geometries.svg" width=480 align=center>
@@ -70,7 +70,7 @@ Two [non-Euclidean geometries](https://en.wikipedia.org/wiki/Non-Euclidean_geome
 (Image credit: CC Wikimedia Commons)
 </center>
 
-**Figure 4.1.** Geometric properties of surfaces of different curvature; $C$ refers to the value of the circumference and $Σ$ indicates the addition of the three internal angles in a triangle.
+**Figure I.14.** Geometric properties of surfaces of different curvature; $C$ refers to the value of the circumference and $Σ$ indicates the addition of the three internal angles in a triangle.
 
 It is not clear who was the first mathematician writing about non-Euclidean geometries. The merit is shared by next four mathematicians:
 
@@ -89,7 +89,7 @@ The hyperbolic geometry was developed by Gauss, Bolyai and Lobachebsky, and the 
 [Archimedes](https://en.wikipedia.org/wiki/Archimedes) considered that mechanical experiments could be used to extend geometric knowledge, and he dedicated many efforts to build mechanisms to capture the principles of their operation. He contributed both to the development of technological applications and to an incipient mathematization of physics. Unlike Aristotle, Archimedes used geometric arguments to propose demonstrations about physical situations; he was the first to mathematically demonstrate the law of the lever by reasoning and not by experimenting.
 Archimedes stated the lever principle as follows: “commensurable magnitudes will balance at distances inversely proportional to their gravities”. The phrase *“Pa bo, kai tan gan kino”* is attributed to Archimedes, which in the Doric dialect spoken in Syracuse means *“Give me a foothold and I will move the world”*. The proof of this principle is presented below. 
 
-Consider a mechanical system made up of two bodies $A$ and $B$ of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point $C$ (Figure 4.2). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $\vec{P_A}$ and $\vec{P_B}$ with magnitudes $[\vec{P_A}] = m_Ag$ and $[\vec{P_B}] = m_Bg$, where $g$ is the constant of gravitational attraction.
+Consider a mechanical system made up of two bodies $A$ and $B$ of unequal masses $m_A$ and $m_B$ joined by a linear bar of zero mass and with the possibility of rotating about a turning point $C$ (Figure I.15). Since the masses are under the action of the same gravitational field, the points of suspension of the masses experience a downward vertical force corresponding to their weights $\vec{P_A}$ and $\vec{P_B}$ with magnitudes $[\vec{P_A}] = m_Ag$ and $[\vec{P_B}] = m_Bg$, where $g$ is the constant of gravitational attraction.
 
 <figure markdown>
 ![Fig 2](./figs/Vol-I-chap-4-sect-1-Fig3.PNG){width="300"}
@@ -97,11 +97,11 @@ Consider a mechanical system made up of two bodies $A$ and $B$ of unequal masses
 </figcaption>
 </figure>
 
-**Figure 4.2.** Diagram of distances and weights on the lever.
+**Figure I.15.** Diagram of distances and weights on the lever.
 
 The distances from each mass to the center of rotation $C$ are measured in the horizontal direction and correspond to the magnitudes $d_A$ and $d_B$, while the weights act in the vertical direction along lines that are parallel to each other. 
 
-The forces $\vec{P}$ acting on the ends of the lever produce torques $\vec{τ} = \vec{r} \times \vec{P}$. The magnitude of each vector is $[\vec{τ}] = [\vec{r}][\vec{P}](sinθ)$ where $θ$ is the angle between the vectors $\vec{r}$ and $\vec{P}$, where $\vec{r}$ is the vector that joins the center $C$ with the point where each weight $\vec{P}$ is applied. As can be seen in Figure 4.2, the angle $θ$ is 90° for each weight. To each torque $\vec{τ}$ produced by the force $\vec{P}$ corresponds a sign depending on the direction of the rotation: the clockwise rotation of the mass $m_B$ is positive and the leftward rotation of the mass $m_A$ is negative. Therefore, the magnitude of each torque is $[\vec{τ_B}]=(τ_B) = (+)[d_B][P_B]$ and $[\vec{τ_A}]=(τ_A) = (-)[d_A][P_A]$. 
+The forces $\vec{P}$ acting on the ends of the lever produce torques $\vec{τ} = \vec{r} \times \vec{P}$. The magnitude of each vector is $[\vec{τ}] = [\vec{r}][\vec{P}](sinθ)$ where $θ$ is the angle between the vectors $\vec{r}$ and $\vec{P}$, where $\vec{r}$ is the vector that joins the center $C$ with the point where each weight $\vec{P}$ is applied. As can be seen in Figure I.15, the angle $θ$ is 90° for each weight. To each torque $\vec{τ}$ produced by the force $\vec{P}$ corresponds a sign depending on the direction of the rotation: the clockwise rotation of the mass $m_B$ is positive and the leftward rotation of the mass $m_A$ is negative. Therefore, the magnitude of each torque is $[\vec{τ_B}]=(τ_B) = (+)[d_B][P_B]$ and $[\vec{τ_A}]=(τ_A) = (-)[d_A][P_A]$. 
 
 When the complete mechanical system is in equilibrium there is no translation and no rotation, and the resulting torque is null. Therefore, $\vec{τ_A}+\vec{τ_B} = 0$ which corresponds to $−d_AP_A +d_BP_B = 0$, From this, the principle of the lever can be obtained: the product of the distance of each mass to the center of balance $C$ multiplied by the magnitude of the corresponding weight is equal for both bodies:
 
@@ -127,7 +127,7 @@ If the works done by those falling bodies are equal, the expression that corresp
 
 **Variation of the first natural state of bodies in motion**: the uniform rotational movement of bodies on the Earth.
 
-The lever shown in Figure 4.2 contains bodies $A$ and $B$ at its ends, with weights $\vec{P_A}$ and $\vec{P_B}$ at distances $d_A$ and $d_B$ from the center of balance $C$, which will be considered fixed. If we assume now that the weight of each body acts independently because they are not joined by a rigid bar, there will be two rotational movements. Depending on the direction of rotation a different sign is usually assigned: the rotation of the body $A$ in the counterclockwise direction has a negative sign and the rotation of body $B$ in the clockwise direction has a positive sign.
+The lever shown in Figure I.15 contains bodies $A$ and $B$ at its ends, with weights $\vec{P_A}$ and $\vec{P_B}$ at distances $d_A$ and $d_B$ from the center of balance $C$, which will be considered fixed. If we assume now that the weight of each body acts independently because they are not joined by a rigid bar, there will be two rotational movements. Depending on the direction of rotation a different sign is usually assigned: the rotation of the body $A$ in the counterclockwise direction has a negative sign and the rotation of body $B$ in the clockwise direction has a positive sign.
 
 In a new consideration of the first natural state of moving bodies, the equilibrium condition of a lever whose weights are applied at each of its ends would produce rotations in opposite directions. From this condition the law of the lever can be obtained again. From the condition that the lever remains in equilibrium of rotation, it follows that the sum of the torques produced by such forces is zero, which corresponds to the law of conservation of angular momentum.
 
