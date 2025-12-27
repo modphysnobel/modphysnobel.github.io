@@ -57,7 +57,7 @@ We identify each Nobel Prize with the shorthand of the discipline (Ph for Physic
 (Source: Wikipedia common)
 </p>
 
-**Figure 13.1.** Original apparatus created by Röntgen and by Lawrence.
+**Figure IV.1.** Original apparatus created by Röntgen and by Lawrence.
 
 **Ph1901** to [Wilhelm Conrad Röntgen](https://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen) “in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him”.
 
@@ -99,7 +99,7 @@ MLA style: Cecil Powell – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 (Source: Wikipedia common)
 </p>
 
-**Figure 13.2.** Original cloud chamber created by Wilson and track of an alpha particle obtained in a diffusion cloud chamber.
+**Figure IV.2.** Original cloud chamber created by Wilson and track of an alpha particle obtained in a diffusion cloud chamber.
 
 **Ph1927** to [Charles Thomson Rees Wilson](https://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson) “for his method of making the paths of electrically charged particles visible by condensation of vapour”.
 
