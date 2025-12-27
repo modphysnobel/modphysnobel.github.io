@@ -70,7 +70,7 @@ Next we discuss each one of these experiments and then consider the quantum para
 
 *Haroche´s experiments.* The experimental procedure for controlling single photons in a trap consist in three steps: (1) Rydberg atoms  are specially prepared in a cavity in vacuum and at a temperature of almost absolute zero;  (2) the Rydberg atoms interact with microwave photons inside a small cavity between two superconducting mirrors, and (3) the microwave photons trapped inside the cavity bounce back and forth for almost a tenth of a second before they are lost or absorbed. 
 
-A Rydberg atom has electronically excited states quite close to ionization energy of the atom; this is the energy required to completely liberate an electron from the ionic core of an atom. When the Rydberg atom traverses the cavity, it interacts with the microwave photon and consequently the atom changes the phase of its quantum state. This phase shift can be measured when the atom exits the cavity, thereby revealing the presence or absence of an interaction with one photon inside the cavity. With no photon there is no phase shift. Many quantum manipulations can be performed with the trapped photons due to its long lifetime. (See Figure 11.1).
+A Rydberg atom has electronically excited states quite close to ionization energy of the atom; this is the energy required to completely liberate an electron from the ionic core of an atom. When the Rydberg atom traverses the cavity, it interacts with the microwave photon and consequently the atom changes the phase of its quantum state. This phase shift can be measured when the atom exits the cavity, thereby revealing the presence or absence of an interaction with one photon inside the cavity. With no photon there is no phase shift. Many quantum manipulations can be performed with the trapped photons due to its long lifetime. (See Figure III.7).
 
 <p align="center">
 <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/chap-11-sect-2-fig1.jpg?raw=true" width=640 align=center>
@@ -78,11 +78,11 @@ A Rydberg atom has electronically excited states quite close to ionization energ
 
 (Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
-**Figure 11.1.** Experimental setting for trapping individual photons. Reproduced from Figure 3 in *Information for the Public: Particle control in a quantum world*: 
+**Figure III.7.** Experimental setting for trapping individual photons. Reproduced from Figure 3 in *Information for the Public: Particle control in a quantum world*: 
 
 “**Figure 3.** In the Serge Haroche laboratory in Paris, in vacuum and at a temperature of almost absolute zero, the microwave photons bounce back and forth inside a small cavity between two mirrors. The mirrors are so reflective that a single photon stays for more than a tenth of a second before it is lost. During its long life time, many quantum manipulations can be performed with the trapped photon without destroying it. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
 
-*Wineland´s experiments.* The experimental procedure for controlling single ions in a trap consist in the following: (1) electrically charged atoms (ions) were trapped by electric fields produced by electrodes, and (2) a laser suppressed the ion’s thermal motion in the trap and generated a coherent quantum superposition of two ion’s energy states: one state is in a lowest energy level and the other one is in a higher energy level excited by a laser pulse. (See Figure 11.2).
+*Wineland´s experiments.* The experimental procedure for controlling single ions in a trap consist in the following: (1) electrically charged atoms (ions) were trapped by electric fields produced by electrodes, and (2) a laser suppressed the ion’s thermal motion in the trap and generated a coherent quantum superposition of two ion’s energy states: one state is in a lowest energy level and the other one is in a higher energy level excited by a laser pulse. (See Figure III.8).
 
 “A trapped ion has an oscillating movement, which is quantized at low temperature. An ion therefore has two sets of quantized levels: vibrational modes that characterize the motion in the trap (also called external states) and electronic levels that describe the internal quantum state of the ion. Individual ions can now be manipulated and observed in situ by using photons with only minimal interaction with the environment.”
 
@@ -93,7 +93,7 @@ A Rydberg atom has electronically excited states quite close to ionization energ
 
 (Source: MLA style: Popular information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 27 Jun 023. https://www.nobelprize.org/prizes/physics/2012/popular-information/ © Johan Jarnestad/The Royal Swedish Academy of Sciences)
 
-**Figure 11.2.** Experimental setting for trapping individual ions. Reproduced from Figure 2 in *Information for the Public: Particle control in a quantum world*: 
+**Figure III.8.** Experimental setting for trapping individual ions. Reproduced from Figure 2 in *Information for the Public: Particle control in a quantum world*: 
 
 “**Figure 2.** In David Wineland’s laboratory in Boulder, Colorado, electrically charged atoms or ions are kept inside a trap by surrounding electric fields. One of the secrets behind Wineland’s breakthrough is mastery of the art of using laser beams and creating laser pulses. A laser is used to put the ion in its lowest energy state and thus enabling the study of quantum phenomena with the trapped ion. © Johan Jarnestad/The Royal Swedish Academy of Sciences.”
 
