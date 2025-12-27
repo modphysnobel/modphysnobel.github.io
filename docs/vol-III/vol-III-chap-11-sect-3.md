@@ -33,7 +33,7 @@ Next, we analyze how the four previous communication forms can be used to descri
 
 Diffraction of electrons by crystals was independently observed by Davisson and Germer and by Thomson using quite different experimental settings. Both experiments demonstrated the physical existence of electron waves and therefore that electrons satisfy de Broglie’s equation  $p = h/λ$. They obtained equivalent experimental values: Davisson and Germer obtained $λ = 1.66 Å$ for the electron wavelength, and Thomson obtained $λ = 1.65 Å$.
 
-In Davisson-Germer experiment a gun produced an electron beam that was directed perpendicular onto the surface of a crystal that can be rotated about the beam axis. Afterwards, scattered waves were registered in a collector galvanometer (Figure 9.3a). Strong reflections were observed at an angle $θ = 50°$ when the accelerated voltage was 54 volts (Figure 9.3b). At this voltage the observed peak in the pattern of dispersed electrons was a qualitative demonstration of the validity of de Broglie´s hypothesis $p = h/λ$.
+In Davisson-Germer experiment a gun produced an electron beam that was directed perpendicular onto the surface of a crystal that can be rotated about the beam axis. Afterwards, scattered waves were registered in a collector galvanometer (Figure III.3a). Strong reflections were observed at an angle $θ = 50°$ when the accelerated voltage was 54 volts (Figure III.3b). At this voltage the observed peak in the pattern of dispersed electrons was a qualitative demonstration of the validity of de Broglie´s hypothesis $p = h/λ$.
 
 
 <p align="center" width="100%">
@@ -43,7 +43,7 @@ In Davisson-Germer experiment a gun produced an electron beam that was directed 
 
 Source: based on Figures 1 and 2 in Davisson’s Nobel Lecture. MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 Feb 2023. https://www.nobelprize.org/prizes/physics/1937/davisson/lecture/
 
-**Figure 9.3.** Davisson- Germer experiment: (a) experimental arrangement, (b) scattered intensity as a function of the angle $θ$ for two different values of the voltage V.
+**Figure III.3.** Davisson- Germer experiment: (a) experimental arrangement, (b) scattered intensity as a function of the angle $θ$ for two different values of the voltage V.
 
 Thomson experiments were different in two aspects: 
 
@@ -68,7 +68,7 @@ NOBEL LECTURE: *Carriers of Negative Electricity* by Thomson.
 
 ### (3). DIALOGUES between Bohr and Heisenberg about correspondence and uncertainty principles.
 
-This is a hypothetical dialogue between the two laureates that has been prepared by selecting and then quoting some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932 (Figure 9.4)
+This is a hypothetical dialogue between the two laureates that has been prepared by selecting and then quoting some paragraphs from Bohr´s Lecture presented in 1922 and from Heisenberg´s Lecture presented in 1932 (Figure III.4)
 
 <p align="center" width="100%">
     <img width="480" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3b.png?raw=true"> 
@@ -78,7 +78,7 @@ This is a hypothetical dialogue between the two laureates that has been prepared
 (Image credit: CC Wikimedia Commons)
 </center>
 
-**Figure 9.4.** Werner Heisenberg and Niels Bohr in 1934.
+**Figure III.4.** Werner Heisenberg and Niels Bohr in 1934.
 
 - Bohr´s Lecture *The Structure of the Atom* contains the section called *The correspondence principle.*
 	
