@@ -104,7 +104,7 @@ NOBEL LECTURE: *How I Found the Mechanism of Intracapsular Accomodation* by Gull
 MLA style: Allvar Gullstrand – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1911/gullstrand/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.1.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.1.png?raw=true" width=600 align=center> 
 	</p>
 
 ### **1967 Medicine Nobel Prize awarded to Granit.**
@@ -179,7 +179,7 @@ NOBEL LECTURE: *Visual Receptors and Retinal Interaction* by Hartline.
 MLA style: Keffer Hartline – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/hartline/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.3.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.3.png?raw=true" width=600 align=center> 
 	</p>
 
 
@@ -195,7 +195,7 @@ NOBEL LECTURE: *The Molecular Basis of Visual Excitation* by Wald.
 MLA style: George Wald – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/wald/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.4.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.4.png?raw=true" width=600 align=center> 
 	</p>
 
 
@@ -219,7 +219,7 @@ NOBEL LECTURE: *Evolution of ideas on the primary visual cortex, 1955-1978: a bi
 MLA style: David H. Hubel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/hubel/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.5.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.5.png?raw=true" width=600 align=center> 
 	</p>
 
 
@@ -240,7 +240,7 @@ NOBEL LECTURE: *The postnatal development of the visual cortex and the influence
 MLA style: Torsten N. Wiesel – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1981/wiesel/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.6.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.6.png?raw=true" width=600 align=center> 
 	</p>
 
 
