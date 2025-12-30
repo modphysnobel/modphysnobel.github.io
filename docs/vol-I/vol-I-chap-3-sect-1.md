@@ -141,7 +141,7 @@ NOBEL LECTURE: *The Development of Retinal Neurophysiology* by Granit.
 MLA style: Ragnar Granit – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 11 Mar 2023. <https://www.nobelprize.org/prizes/medicine/1967/granit/lecture/>
 
 <p align="center">
-	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.2.PNG?raw=true" width=600 align=center> 
+	<img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%203.2.png?raw=true" width=600 align=center> 
 	</p>
 
 
