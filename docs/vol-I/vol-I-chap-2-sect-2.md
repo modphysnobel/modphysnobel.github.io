@@ -39,7 +39,7 @@ NOBEL LECTURE: *The Electron and the Light-Quant from the Experimental Point of 
 MLA style: Robert A. Millikan – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. <https://www.nobelprize.org/prizes/physics/1923/millikan/lecture/>
  
 <p align="center" width="100%">
-    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/tabla%202.2.png?raw=true"> 
+    <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Tabla%202.2.png?raw=true"> 
 </p>
 
 ### **1925 Physics Nobel Prize awarded to Franck.**
