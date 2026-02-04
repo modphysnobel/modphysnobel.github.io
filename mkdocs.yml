@@ -139,7 +139,7 @@ extra_javascript:
 
 plugins:
     - search
-    - caption
+#    - caption
     - mkdocstrings
 #    - git-revision-date
 #    - mkdocs-jupyter:
