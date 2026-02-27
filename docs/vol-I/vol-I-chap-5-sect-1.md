@@ -34,8 +34,7 @@ Fundamental Phenomena and Electronic Dynamics
 Materials Science and Electronics
 Chemistry and Medical Diagnostics
 
-<p align="center" width="100%">
-<img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/3d46ee01-984d-4455-b2b9-401a0a039518" /></p>
+<p align="center" width="100%",img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/3d46ee01-984d-4455-b2b9-401a0a039518" </p>
 
 <style>
     table {
