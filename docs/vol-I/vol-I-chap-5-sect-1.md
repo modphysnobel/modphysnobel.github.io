@@ -37,37 +37,7 @@ Chemistry and Medical Diagnostics*
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d46ee01-984d-4455-b2b9-401a0a039518" width="931" height="521" alt="image">
 </p>
-<style>
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        font-family: Arial, sans-serif;
-    }
-    th, td {
-        border: 1px solid black;
-        padding: 12px;
-        text-align: left;
-        vertical-align: top;
-    }
-    th {
-        background-color: #f2f2f2;
-        font-weight: normal;
-    }
-    .table-title {
-        text-align: center;
-        padding: 8px;
-        font-weight: normal;
-        border-bottom: none;
-    }
-    ul {
-        margin: 0;
-        padding-left: 0;
-        list-style-type: none;
-    }
-</style>
-</head>
-<body>
- 
+
 <table>
     <thead>
         <tr>
