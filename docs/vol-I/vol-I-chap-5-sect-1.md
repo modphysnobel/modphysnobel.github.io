@@ -140,11 +140,6 @@ In the International System of Units (SI) the duration of the second corresponds
 Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a year with a duration of 315,576,600 s, the Moon´s orbital period around the Earth defines a month and corresponds to 12,629,800 s, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
-<center><img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" /></center>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
 <style>
     table {
         width: 100%;
@@ -239,11 +234,6 @@ Time is counted in the second context as a duration in terms of submultiples of 
         </tr>
     </tbody>
 </table>
-
-</body>
-</html>
-
-
 
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
