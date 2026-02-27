@@ -9,7 +9,7 @@ The ability to measure means to be able to understand and control. Attosecond sc
 
 ### **OBJECTIVES AND CONTENT OF SECTIONS.**
 
-5.1. Description of Motion at Different Timescales.
+<strong>5.1. Description of Motion at Different Timescales.</strong>
 
 Describe the duration in seconds of some physical phenomena and provide examples of physical systems where motions are considered in terms of different timescales.
 
