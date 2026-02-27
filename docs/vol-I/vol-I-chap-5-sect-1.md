@@ -141,6 +141,109 @@ Time is counted in the first context as a narrative in terms of multiples of man
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
 <center><img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" /></center>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+    table {
+        width: 100%;
+        max-width: 600px;
+        border-collapse: collapse;
+        font-family: sans-serif;
+        color: #333;
+        margin: 20px auto;
+    }
+    th, td {
+        border: 1px solid #000;
+        padding: 4px 8px;
+        text-align: left;
+        line-height: 1.2;
+    }
+    th {
+        text-align: center;
+        font-weight: normal;
+    }
+    .title-row {
+        text-align: center;
+    }
+    sup {
+        font-size: 0.8em;
+    }
+</style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr class="title-row">
+            <th colspan="2">Table 5.2. Physical phenomena described with different time units</th>
+        </tr>
+        <tr>
+            <th style="width: 40%;">Unit</th>
+            <th style="width: 60%;">Phenomenon</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Second (1 s)</td>
+            <td>The duration of a human heartbeat.</td>
+        </tr>
+        <tr>
+            <td>Decisecond (1 ds = 10<sup>-1</sup> s)</td>
+            <td>The length of a single blink of an eye: (1 – 4) s.</td>
+        </tr>
+        <tr>
+            <td>Centisecond (1 cs = 10<sup>-2</sup> s)</td>
+            <td>The human reflex response to visual stimuli: (10 – 20) cs.</td>
+        </tr>
+        <tr>
+            <td>Millisecond (1 ms = 10<sup>-3</sup> s)</td>
+            <td>The time for a neuron to fire one impulse and stop: 1 ms.</td>
+        </tr>
+        <tr>
+            <td>Microsecond (1 μs = 10<sup>-6</sup> s)</td>
+            <td>The lifetime of a muon: 2.2 μs.</td>
+        </tr>
+        <tr>
+            <td>Nanosecond (1 ns = 10<sup>-9</sup> s)</td>
+            <td>The time light takes to travel 30 cm: 1 ns.</td>
+        </tr>
+        <tr>
+            <td>Picosecond (1 ps = 10<sup>-12</sup> s)</td>
+            <td>The mean lifetime of a bottom quark: 1 ps.</td>
+        </tr>
+        <tr>
+            <td>Femtosecond (1 fs = 10<sup>-15</sup> s)</td>
+            <td>The period of vibration of a hydrogen molecule: 7.58 fs.</td>
+        </tr>
+        <tr>
+            <td>Attosecond (1 as = 10<sup>-18</sup> s)</td>
+            <td>The shortest electron laser pulse: 53 as.</td>
+        </tr>
+        <tr>
+            <td>Zeptosecond (1 zs = 10<sup>-21</sup> s)</td>
+            <td>A photon travers a hydrogen molecule: 247 zs.</td>
+        </tr>
+        <tr>
+            <td>Yoctosecond (1 ys = 10<sup>-24</sup> s)</td>
+            <td>The mean lifetime of a Higgs boson: 156 ys.</td>
+        </tr>
+        <tr>
+            <td>Rontosecond (1 rs = 10<sup>-27</sup> s)</td>
+            <td>The mean lifetime of W and Z bosons: 300 rs.</td>
+        </tr>
+        <tr>
+            <td>Planck time (t<sub>p</sub> = 5.39x10<sup>-44</sup> s)</td>
+            <td>The briefest physically meaningful span of time.</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
+
 
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
