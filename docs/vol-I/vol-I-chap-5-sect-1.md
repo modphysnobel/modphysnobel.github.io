@@ -98,16 +98,16 @@ Chemistry and Medical Diagnostics*
     </tbody>
 </table>
 
-**5.1. Description of Motions at Different Timescales.**
+## **5.1. Description of Motions at Different Timescales.**
 
 In the choreography of the universe, space and time serve as the fundamental axes upon which all phenomena are described. We will trace time evolution in Physics beginning with the standards derived from celestial rhythms, advancing through the quartz and atomic revolutions, and then exploring the use of lasers as quantum chronometers. 
 	
-**Definitions of time units.**
+### **Definitions of time units.**
 	
 To precisely quantify time durations, it is common to use the second (s) as a basic unit of time. 
 In the International System of Units (SI) the duration of the second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom. Humans relate to time in two primary contexts: first, as a sequential narrative that distinguishes the past, present, and future; and second, as the measurable duration between the beginning and end of an event. 
 
-Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a year with a duration of 315,576,600 s, the Moon´s orbital period around the Earth defines a month and corresponds to 12,629,800 s, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
+Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a *year* with a duration of *315,576,600 s*, the Moon´s orbital period around the Earth defines a *month* and corresponds to *12,629,800 s*, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
 <body>
@@ -178,7 +178,7 @@ Time is counted in the second context as a duration in terms of submultiples of 
     </tbody>
 </table>
 
-Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
+Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum tP = √([ħG]/c5 )  , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
 At scales near quantum fluctuations of spacetime become important, there is no well-defined causal order, and “before” and “after” lose meaning. Below Planck time, the concept of time itself may lose physical meaning. It marks the scale where quantum gravity effects become dominant, gravity disrupts quantum measurements, motion cannot be defined and cause and effect blur; all of this indicates where new physics is required. Planck time defines the earliest meaningful moment in the universe’s history. It is the shortest “tick” the universe can meaningfully have, not because time stops, but because our concepts of time stop working. 
 
