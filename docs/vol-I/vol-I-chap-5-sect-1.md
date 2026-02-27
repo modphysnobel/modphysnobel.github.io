@@ -140,7 +140,7 @@ In the International System of Units (SI) the duration of the second corresponds
 Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a year with a duration of 315,576,600 s, the Moon´s orbital period around the Earth defines a month and corresponds to 12,629,800 s, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
-<img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" />
+<center><img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" /></center>
 
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
@@ -187,7 +187,7 @@ This section 5.2 details the physical principles underlying the generation of at
 
 Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
 
-<img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" />
+<center><img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" /></center>
 
 Previous graph shows how transmitting intense infrared laser light through a noble gas resulted in the emission of many different "overtones" of light, also known as high-order harmonics. These harmonics are phase-coherent, meaning their waves are synchronized. This coherence is what allows them to be combined, or synthesized, to form an extremely short burst of light: an attosecond pulse. When this process is repeated every half-cycle of the laser field, a broad spectrum of high-order harmonics is produced. According to the principle of Fourier synthesis, the coherent superposition of these many high-frequency phase-locked light waves results in precise interference. The peaks of the many waves Adding these frequencies together build a train of extremely short and intense bursts of light, each with a duration measured in attoseconds. 
 
