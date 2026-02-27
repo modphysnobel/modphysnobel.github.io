@@ -13,26 +13,26 @@ The ability to measure means to be able to understand and control. Attosecond sc
 
 Describe the duration in seconds of some physical phenomena and provide examples of physical systems where motions are considered in terms of different timescales.
 
-Definitions of time units.
+*Definitions of time units.
 Attosecond as a new timescale.
 Clocks for measuring time.
-Lasers as devices for measuring time.
+Lasers as devices for measuring time*.
 
 **5.2. Attosecond Science and the Study of Electron Dynamics.**
 
 Explain the contributions made by the laureates of the 2023 Physics Nobel Prize Anne L’Huillier, Pierre Agostini, and Ferenc Krausz.
 
-The discovery was made by Anne L´Huillier.
+*The discovery was made by Anne L´Huillier.
 The birth of experimental attosecond science.
-Resolving the photoelectric effect delay.
+Resolving the photoelectric effect delay*.
 
 **Section 5.3. Applications of Attosecond Science.**
 
 Consider some practical applications in fields such as the following:
 
-Fundamental Phenomena and Electronic Dynamics
+*Fundamental Phenomena and Electronic Dynamics
 Materials Science and Electronics
-Chemistry and Medical Diagnostics
+Chemistry and Medical Diagnostics*
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3d46ee01-984d-4455-b2b9-401a0a039518" width="931" height="521" alt="image">
