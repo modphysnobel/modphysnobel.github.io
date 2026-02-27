@@ -142,6 +142,65 @@ Time is counted in the second context as a duration in terms of submultiples of 
 
 <center><img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" /></center>
 
+<table>
+    <thead>
+        <tr>
+            <th colspan="3" class="caption">Table 5.3. Time evolution of attosecond science.</th>
+        </tr>
+        <tr>
+            <th style="width: 15%;">PERIOD</th>
+            <th style="width: 25%;">DEVELOPMENT</th>
+            <th style="width: 60%;">SIGNIFICANCE</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1960</td>
+            <td>Birth of the Laser</td>
+            <td>Enabled the exploration of ultrafast light-matter interactions.</td>
+        </tr>
+        <tr>
+            <td>1980</td>
+            <td>Femtosecond Optics</td>
+            <td>The development of Ti:sapphire lasers and mode-locking allowed for femtosecond (10<sup>-15</sup> s) pulses made possible the study of the dynamics of atoms and molecules.</td>
+        </tr>
+        <tr>
+            <td>1987</td>
+            <td>High-Harmonic Generation (HHG)</td>
+            <td>Anne L’Huillier discovered that when a gas interacted with a strong laser field it emits light at very high multiples (overtones or harmonics) of the laser's original frequency.<br><br>
+            The laser's strong electric field rips an electron from an atom, accelerates it, and then drives it back to recombine with its parent ion. This recombination releases a burst of energy in the form of high-frequency light, and by combining many of these coherent bursts, an extremely short attosecond pulse can be synthesized.</td>
+        </tr>
+        <tr>
+            <td>1993</td>
+            <td>Lewenstein Model</td>
+            <td>A unified quantum model was proposed, explaining HHG through a three-step process of electron tunneling, acceleration, and recombination.</td>
+        </tr>
+        <tr>
+            <td>2001</td>
+            <td>First Attosecond Pulse Generation</td>
+            <td>Pierre Agostini's group produced a pulse train of ~250 attoseconds: the synthesis of high harmonics could produce light bursts on the attosecond timescale. Ferenc Krausz and his collaborators generated the first isolated pulse of ~650 attoseconds. This technique was essential for developing pump-probe experiments, where one pulse initiates a dynamic process and a second, delayed pulse captures a "snapshot" of the result.</td>
+        </tr>
+        <tr>
+            <td>2003-2006</td>
+            <td>First Attosecond Measurements</td>
+            <td>Techniques like attosecond streaking allowed real-time measurement of electron emission, tunneling delays, and ultrafast ionization dynamics.</td>
+        </tr>
+        <tr>
+            <td>2010</td>
+            <td>Expansion of Attosecond Science</td>
+            <td>Attosecond pulses began to be applied widely to study charge migration in molecules, electron correlation, and ultrafast processes in solids.</td>
+        </tr>
+        <tr>
+            <td>2023</td>
+            <td>Nobel Prize in Physics</td>
+            <td>The prize was awarded to L’Huillier, Agostini, and Krausz for developing experimental methods to generate, measure and apply ultrafast light pulses.</td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
+
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
 At scales near quantum fluctuations of spacetime become important, there is no well-defined causal order, and “before” and “after” lose meaning. Below Planck time, the concept of time itself may lose physical meaning. It marks the scale where quantum gravity effects become dominant, gravity disrupts quantum measurements, motion cannot be defined and cause and effect blur; all of this indicates where new physics is required. Planck time defines the earliest meaningful moment in the universe’s history. It is the shortest “tick” the universe can meaningfully have, not because time stops, but because our concepts of time stop working. 
