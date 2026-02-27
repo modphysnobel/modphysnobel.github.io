@@ -181,13 +181,6 @@ Two techniques are frequently used to measure time with lasers: Time of Flight r
 
 This section 5.2 details the physical principles underlying the generation of attosecond pulse trains and isolated pulses; it also outlines the key experimental techniques used to measure them.  For centuries, the ultrafast motion of electrons within atoms and molecules was beyond our observational capacity. Next Table summarizes such a scientific and technology journey. 
 
-<img width="607" height="796" alt="image" src="https://github.com/user-attachments/assets/1775991b-5363-4bf5-ba9c-9a270291bc46" />
-
-**The discovery was made by Anne L´Huillier.**
-
-Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
-
-<center><img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" /></center>
 <table>
     <thead>
         <tr>
@@ -244,8 +237,11 @@ Smaller objects require that light wavelength must be shorter than the size of t
     </tbody>
 </table>
 
-</body>
-</html>
+**The discovery was made by Anne L´Huillier.**
+
+Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
+
+<center><img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" /></center>
 
 Previous graph shows how transmitting intense infrared laser light through a noble gas resulted in the emission of many different "overtones" of light, also known as high-order harmonics. These harmonics are phase-coherent, meaning their waves are synchronized. This coherence is what allows them to be combined, or synthesized, to form an extremely short burst of light: an attosecond pulse. When this process is repeated every half-cycle of the laser field, a broad spectrum of high-order harmonics is produced. According to the principle of Fourier synthesis, the coherent superposition of these many high-frequency phase-locked light waves results in precise interference. The peaks of the many waves Adding these frequencies together build a train of extremely short and intense bursts of light, each with a duration measured in attoseconds. 
 
