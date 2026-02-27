@@ -13,13 +13,10 @@ The ability to measure means to be able to understand and control. Attosecond sc
 
 Describe the duration in seconds of some physical phenomena and provide examples of physical systems where motions are considered in terms of different timescales.
 
-*Definitions of time units.*
-
-*Attosecond as a new timescale*.
-
-*Clocks for measuring time.*
-
-*Lasers as devices for measuring time*.
+*Definitions of time units.\
+Attosecond as a new timescale.
+Clocks for measuring time.
+Lasers as devices for measuring time*.
 
 **5.2. Attosecond Science and the Study of Electron Dynamics.**
 
