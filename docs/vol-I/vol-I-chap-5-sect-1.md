@@ -142,6 +142,52 @@ Time is counted in the second context as a duration in terms of submultiples of 
 
 <center><img width="453" height="421" alt="image" src="https://github.com/user-attachments/assets/8aede8f1-7503-4410-af56-811844336083" /></center>
 
+Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
+
+At scales near quantum fluctuations of spacetime become important, there is no well-defined causal order, and “before” and “after” lose meaning. Below Planck time, the concept of time itself may lose physical meaning. It marks the scale where quantum gravity effects become dominant, gravity disrupts quantum measurements, motion cannot be defined and cause and effect blur; all of this indicates where new physics is required. Planck time defines the earliest meaningful moment in the universe’s history. It is the shortest “tick” the universe can meaningfully have, not because time stops, but because our concepts of time stop working. 
+
+Planck epoch refers to the first  after the big bang. During this epoch, spacetime itself is believed to have been highly quantum and fluctuating. No existing theory can reliably describe physics earlier than this time and our current physical theories no longer make reliable predictions. Before this epoch there is no classical spacetime and no known physical 
+
+ laws are useful; furthermore, quantum gravity dominates. At the scale of Planck length quantum 
+fluctuations of spacetime become so strong that classical geometry breaks down. 
+
+**Attosecond as a new timescale.** 	 	
+
+There is a quantitative connection between the attosecond timescale (1 as = 10-18 s) and the age of the universe which is estimated to be 13.8 x 109 years = 4.35 x 1018 s. This numerical equivalence does not imply that measuring in attoseconds directly influences descriptions of cosmic dynamics; it is a conceptual circumstance that places ultrafast physics in the whole context of time evolution.
+
+Atoms and nuclei are large and heavy, their motions are measured in femtoseconds, while electrons are light and agile; they move so fast that their changes are blurred on the femtosecond scale; they are measured in attoseconds, which are one thousand shorter. Attosecond timescale defines the limit necessary to study the dynamics of matter at its most intimate level, establishing a bridge between the quantum world and the macrocosm. This time window has made it possible to take images or "film" the internal processes of atoms and molecules in real time, as well as the exchanges of energy between light and matter.  At this timescale, it becomes possible to create attoecond science as a combination of ultrafast laser technology, quantum mechanics, and nonlinear optics serves to explore the microscopic world with very high temporal resolution.
+
+Different timescales can be defined by indicating comparative magnitudes (cosmic scale), physical necessities (atomic scale) or technological impacts (scientific scale). These timescales cover an enormous gap between the infinitesimally small (the attosecond) and the immensely large (the age of the universe). Electronic movements initiate essential processes that create and sustain life and are behind the exchange of energy between light and matter. Changes in the positions and energies of electrons occur at speeds in the order of tenths of an attosecond or in hundreds of attoseconds. Nowadays attosecond images can describe sharp details of the movement of electrons, overcoming those blurred descriptions obtained from femtosecond images.
+
+
+**Clocks for measuring time**
+
+Timekeeping requires to find a periodic event that repeats at a constant rate and to establish a basic unit of time interval like the second. To define a timescale as a system of timekeeping representing an unambiguous description to order events, we must proceed in two steps: to measure a selected time unit like the second and afterwards to count the number of elapsed seconds corresponding to the specific time interval in consideration. These numbers represent time measurements usually made by devices like clocks.
+
+A clock is a device that measures and displays duration, elapsed time or intervals of time; it is a timekeeper. Clocks display time in two main different ways: analog clocks consist in a set of moving arrows or hands that turn around a flat circular surface with imprinted numbers and marks; they indicate positions corresponding to hours, minutes and sometimes seconds. Digital clocks display numeric representations of time. 
+A timepiece is a clock that does not strike the hours audibly, a watch is a clock carried on one´s person, a carillon clock plays music simultaneously with the harmonized motion of figures or toys, and a chronometer is a very complicated clock working with extraordinarily accuracy, efficiency and precision, useful for measuring duration of events.
+Each clock has a resonator, a device that produces a well-controlled periodic event that consumes energy to ensure continuity and regularity. The resonator and the required energy source are the main components of an oscillator.  A clock contains also a counter of the number of oscillations and a converter indicating the number of seconds corresponding to the number of oscillations. Afterwards, this outcome of the counting of the clock needs to be visually displayed or recorded.
+The timekeeping element in every clock is a physical object that vibrates (oscillates) at a particular frequency: the number of times the oscillation is repeated in each period of duration. The fundamental principle behind timekeeping is always the same: consistent and equal intervals of time measurements. Originally, mechanical clocks were intended for administrative purposes, for instance signaling or notification of the timing of services and public events.
+
+Modern times have been characterized by important advances in digital clocks as well as in atomic clocks. Atomic clocks did not ground the definition of time in a mechanical or astronomical process, but in a fundamental, unchanging property of the universe at the atomic scale. The International System of Units (SI) now defines the second based on the quantum behavior of the caesium-133 atom. The second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom.
+
+Lasers as devices for measuring time.
+
+The following sequence describes the basic five steps operation process in lasers: (1) pumping an energy source excites atoms in a gain medium; (2) this creates a population inversion, where more atoms are in an excited state than in the ground state; (3) an incoming photon triggers stimulated emission, causing an excited atom to release an identical photon; (4) many of those produced photons bounce between mirrors in an optical cavity, causing exponential  amplification; and (5) a fraction of the amplified light escapes through a partially reflective mirror as the final laser output.
+                                                                                                                    
+Two techniques are frequently used to measure time with lasers: Time of Flight ranging and Pump–Probe Timing 
+                                                   
+**5.2. Attosecond Science and the Study of Electron Dynamics.**
+
+This section 5.2 details the physical principles underlying the generation of attosecond pulse trains and isolated pulses; it also outlines the key experimental techniques used to measure them.  For centuries, the ultrafast motion of electrons within atoms and molecules was beyond our observational capacity. Next Table summarizes such a scientific and technology journey. 
+
+<img width="607" height="796" alt="image" src="https://github.com/user-attachments/assets/1775991b-5363-4bf5-ba9c-9a270291bc46" />
+
+**The discovery was made by Anne L´Huillier.**
+
+Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
+
+<center><img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" /></center>
 <table>
     <thead>
         <tr>
@@ -200,53 +246,6 @@ Time is counted in the second context as a duration in terms of submultiples of 
 
 </body>
 </html>
-
-Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum   , where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length   marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
-
-At scales near quantum fluctuations of spacetime become important, there is no well-defined causal order, and “before” and “after” lose meaning. Below Planck time, the concept of time itself may lose physical meaning. It marks the scale where quantum gravity effects become dominant, gravity disrupts quantum measurements, motion cannot be defined and cause and effect blur; all of this indicates where new physics is required. Planck time defines the earliest meaningful moment in the universe’s history. It is the shortest “tick” the universe can meaningfully have, not because time stops, but because our concepts of time stop working. 
-
-Planck epoch refers to the first  after the big bang. During this epoch, spacetime itself is believed to have been highly quantum and fluctuating. No existing theory can reliably describe physics earlier than this time and our current physical theories no longer make reliable predictions. Before this epoch there is no classical spacetime and no known physical 
-
- laws are useful; furthermore, quantum gravity dominates. At the scale of Planck length quantum 
-fluctuations of spacetime become so strong that classical geometry breaks down. 
-
-**Attosecond as a new timescale.** 	 	
-
-There is a quantitative connection between the attosecond timescale (1 as = 10-18 s) and the age of the universe which is estimated to be 13.8 x 109 years = 4.35 x 1018 s. This numerical equivalence does not imply that measuring in attoseconds directly influences descriptions of cosmic dynamics; it is a conceptual circumstance that places ultrafast physics in the whole context of time evolution.
-
-Atoms and nuclei are large and heavy, their motions are measured in femtoseconds, while electrons are light and agile; they move so fast that their changes are blurred on the femtosecond scale; they are measured in attoseconds, which are one thousand shorter. Attosecond timescale defines the limit necessary to study the dynamics of matter at its most intimate level, establishing a bridge between the quantum world and the macrocosm. This time window has made it possible to take images or "film" the internal processes of atoms and molecules in real time, as well as the exchanges of energy between light and matter.  At this timescale, it becomes possible to create attoecond science as a combination of ultrafast laser technology, quantum mechanics, and nonlinear optics serves to explore the microscopic world with very high temporal resolution.
-
-Different timescales can be defined by indicating comparative magnitudes (cosmic scale), physical necessities (atomic scale) or technological impacts (scientific scale). These timescales cover an enormous gap between the infinitesimally small (the attosecond) and the immensely large (the age of the universe). Electronic movements initiate essential processes that create and sustain life and are behind the exchange of energy between light and matter. Changes in the positions and energies of electrons occur at speeds in the order of tenths of an attosecond or in hundreds of attoseconds. Nowadays attosecond images can describe sharp details of the movement of electrons, overcoming those blurred descriptions obtained from femtosecond images.
-
-
-**Clocks for measuring time**
-
-Timekeeping requires to find a periodic event that repeats at a constant rate and to establish a basic unit of time interval like the second. To define a timescale as a system of timekeeping representing an unambiguous description to order events, we must proceed in two steps: to measure a selected time unit like the second and afterwards to count the number of elapsed seconds corresponding to the specific time interval in consideration. These numbers represent time measurements usually made by devices like clocks.
-
-A clock is a device that measures and displays duration, elapsed time or intervals of time; it is a timekeeper. Clocks display time in two main different ways: analog clocks consist in a set of moving arrows or hands that turn around a flat circular surface with imprinted numbers and marks; they indicate positions corresponding to hours, minutes and sometimes seconds. Digital clocks display numeric representations of time. 
-A timepiece is a clock that does not strike the hours audibly, a watch is a clock carried on one´s person, a carillon clock plays music simultaneously with the harmonized motion of figures or toys, and a chronometer is a very complicated clock working with extraordinarily accuracy, efficiency and precision, useful for measuring duration of events.
-Each clock has a resonator, a device that produces a well-controlled periodic event that consumes energy to ensure continuity and regularity. The resonator and the required energy source are the main components of an oscillator.  A clock contains also a counter of the number of oscillations and a converter indicating the number of seconds corresponding to the number of oscillations. Afterwards, this outcome of the counting of the clock needs to be visually displayed or recorded.
-The timekeeping element in every clock is a physical object that vibrates (oscillates) at a particular frequency: the number of times the oscillation is repeated in each period of duration. The fundamental principle behind timekeeping is always the same: consistent and equal intervals of time measurements. Originally, mechanical clocks were intended for administrative purposes, for instance signaling or notification of the timing of services and public events.
-
-Modern times have been characterized by important advances in digital clocks as well as in atomic clocks. Atomic clocks did not ground the definition of time in a mechanical or astronomical process, but in a fundamental, unchanging property of the universe at the atomic scale. The International System of Units (SI) now defines the second based on the quantum behavior of the caesium-133 atom. The second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom.
-
-Lasers as devices for measuring time.
-
-The following sequence describes the basic five steps operation process in lasers: (1) pumping an energy source excites atoms in a gain medium; (2) this creates a population inversion, where more atoms are in an excited state than in the ground state; (3) an incoming photon triggers stimulated emission, causing an excited atom to release an identical photon; (4) many of those produced photons bounce between mirrors in an optical cavity, causing exponential  amplification; and (5) a fraction of the amplified light escapes through a partially reflective mirror as the final laser output.
-                                                                                                                    
-Two techniques are frequently used to measure time with lasers: Time of Flight ranging and Pump–Probe Timing 
-                                                   
-**5.2. Attosecond Science and the Study of Electron Dynamics.**
-
-This section 5.2 details the physical principles underlying the generation of attosecond pulse trains and isolated pulses; it also outlines the key experimental techniques used to measure them.  For centuries, the ultrafast motion of electrons within atoms and molecules was beyond our observational capacity. Next Table summarizes such a scientific and technology journey. 
-
-<img width="607" height="796" alt="image" src="https://github.com/user-attachments/assets/1775991b-5363-4bf5-ba9c-9a270291bc46" />
-
-**The discovery was made by Anne L´Huillier.**
-
-Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
-
-<center><img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/2f93741a-8e3a-4fb8-a2b2-012e6331433a" /></center>
 
 Previous graph shows how transmitting intense infrared laser light through a noble gas resulted in the emission of many different "overtones" of light, also known as high-order harmonics. These harmonics are phase-coherent, meaning their waves are synchronized. This coherence is what allows them to be combined, or synthesized, to form an extremely short burst of light: an attosecond pulse. When this process is repeated every half-cycle of the laser field, a broad spectrum of high-order harmonics is produced. According to the principle of Fourier synthesis, the coherent superposition of these many high-frequency phase-locked light waves results in precise interference. The peaks of the many waves Adding these frequencies together build a train of extremely short and intense bursts of light, each with a duration measured in attoseconds. 
 
