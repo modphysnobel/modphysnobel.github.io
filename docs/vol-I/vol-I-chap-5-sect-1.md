@@ -102,7 +102,7 @@ Chemistry and Medical Diagnostics*
 
 In the choreography of the universe, space and time serve as the fundamental axes upon which all phenomena are described. We will trace time evolution in Physics beginning with the standards derived from celestial rhythms, advancing through the quartz and atomic revolutions, and then exploring the use of lasers as quantum chronometers. 
 	
-### **Definitions of time units.**
+ **Definitions of time units.**
 	
 To precisely quantify time durations, it is common to use the second (s) as a basic unit of time. 
 In the International System of Units (SI) the duration of the second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom. Humans relate to time in two primary contexts: first, as a sequential narrative that distinguishes the past, present, and future; and second, as the measurable duration between the beginning and end of an event. 
