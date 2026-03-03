@@ -187,7 +187,7 @@ Planck epoch refers to the first  after the big bang. During this epoch, spaceti
  laws are useful; furthermore, quantum gravity dominates. At the scale of Planck length quantum 
 fluctuations of spacetime become so strong that classical geometry breaks down. 
 
-###  **Attosecond as a new timescale.** 	 	
+**Attosecond as a new timescale.** 	 	
 
 There is a quantitative connection between the attosecond timescale (1 as = 10<sup>-18</sup> s) and the age of the universe which is estimated to be 13.8 x 10<sup>9</sup> years = 4.35 x 10<sup>18</sup>s. This numerical equivalence does not imply that measuring in attoseconds directly influences descriptions of cosmic dynamics; it is a conceptual circumstance that places ultrafast physics in the whole context of time evolution.
 
@@ -196,7 +196,7 @@ Atoms and nuclei are large and heavy, their motions are measured in femtoseconds
 Different timescales can be defined by indicating comparative magnitudes (cosmic scale), physical necessities (atomic scale) or technological impacts (scientific scale). These timescales cover an enormous gap between the infinitesimally small (the attosecond) and the immensely large (the age of the universe). Electronic movements initiate essential processes that create and sustain life and are behind the exchange of energy between light and matter. Changes in the positions and energies of electrons occur at speeds in the order of tenths of an attosecond or in hundreds of attoseconds. Nowadays attosecond images can describe sharp details of the movement of electrons, overcoming those blurred descriptions obtained from femtosecond images.
 
 
-## **Clocks for measuring time**
+**Clocks for measuring time**
 
 Timekeeping requires to find a periodic event that repeats at a constant rate and to establish a basic unit of time interval like the second. To define a timescale as a system of timekeeping representing an unambiguous description to order events, we must proceed in two steps: to measure a selected time unit like the second and afterwards to count the number of elapsed seconds corresponding to the specific time interval in consideration. These numbers represent time measurements usually made by devices like clocks.
 
@@ -207,7 +207,7 @@ The timekeeping element in every clock is a physical object that vibrates (oscil
 
 Modern times have been characterized by important advances in digital clocks as well as in atomic clocks. Atomic clocks did not ground the definition of time in a mechanical or astronomical process, but in a fundamental, unchanging property of the universe at the atomic scale. The International System of Units (SI) now defines the second based on the quantum behavior of the caesium-133 atom. The second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom.
 
-## **Lasers as devices for measuring time.** 	
+ **Lasers as devices for measuring time.** 	
 
 The following sequence describes the basic five steps operation process in lasers: (1) pumping an energy source excites atoms in a gain medium; (2) this creates a population inversion, where more atoms are in an excited state than in the ground state; (3) an incoming photon triggers stimulated emission, causing an excited atom to release an identical photon; (4) many of those produced photons bounce between mirrors in an optical cavity, causing exponential  amplification; and (5) a fraction of the amplified light escapes through a partially reflective mirror as the final laser output.
                                                                                                                     
@@ -273,7 +273,7 @@ This section 5.2 details the physical principles underlying the generation of at
     </tbody>
 </table>
 
-## **The discovery was made by Anne L´Huillier.**
+**The discovery was made by Anne L´Huillier.**
 
 Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
 
@@ -281,19 +281,19 @@ Smaller objects require that light wavelength must be shorter than the size of t
 
 Previous graph shows how transmitting intense infrared laser light through a noble gas resulted in the emission of many different "overtones" of light, also known as high-order harmonics. These harmonics are phase-coherent, meaning their waves are synchronized. This coherence is what allows them to be combined, or synthesized, to form an extremely short burst of light: an attosecond pulse. When this process is repeated every half-cycle of the laser field, a broad spectrum of high-order harmonics is produced. According to the principle of Fourier synthesis, the coherent superposition of these many high-frequency phase-locked light waves results in precise interference. The peaks of the many waves Adding these frequencies together build a train of extremely short and intense bursts of light, each with a duration measured in attoseconds. 
 
-## **The birth of experimental attosecond science.**
+ **The birth of experimental attosecond science.**
 
 The theory behind the phenomenon of HHG was reasonably well understood in 1990 in terms of the Lewenstein model. Nevertheless, the breakthrough in identifying and testing attosecond pulses occurred until 2001 when this theoretical possibility was converted into experimental reality. Building on the foundation of HHG, two research groups, led by Pierre Agostini and Ferenc Krausz, reported parallel yet distinct achievements that officially launched the field of attosecond physics, afterwards extended into attosecond science. The group of Pierre Agostini successfully generated pulse train which had a duration of 250 attoseconds.  Simultaneously, the team led by Ferenc Krausz produced an isolated pulse with a duration of 650 attoseconds. This diversification in pulse generation, in turn, necessitated the development of specialized measurement methodologies, leading directly to the two primary metrology techniques that define the field: RABBITT and streaking.
 
-##  **Resolving the photoelectric effect delay.**
+  **Resolving the photoelectric effect delay.**
 
 When an atom absorbs sufficient energy from incoming light, it can transfer that energy to an electron, which is then emitted with kinetic energy equal to the photon energy minus the binding energy of the electron. This process, first explained by Einstein in 1905, was assumed to be instantaneous. Then, it was after a century that attosecond physics provided the first opportunity to experimentally test such assumption. One type of experiment was developed by the Krausz's group and the other by L'Huillier's group. Both experiments demonstrated conclusively that photoemission is not instantaneous and that the delay is a consequence of the collective dynamics of the atom's electron cloud. The maturation of attosecond science, from a foundational discovery to an applied metrology, constitutes a paradigm shift in our ability to probe nature.  
 
-## **Section 5.3. Applications for Attosecond Science.** 	
+ **Section 5.3. Applications for Attosecond Science.** 	
 
 We consider some characteristics of the emerging technological frontiers promoted by attosecond science. By manipulating the fastest component of matter, the electrons, scientists are addressing foundational questions in quantum mechanics and laying the groundwork for revolutionary advances in material sciences, electronics, chemistry, and medicine. Attosecond science is a "quantum stopwatch"; it is a sort of toolkit that highlights a trajectory moving from fundamental observation toward engineering and control at the quantum level.
 
-## **Fundamental Phenomena and Electronic Dynamics**
+ **Fundamental Phenomena and Electronic Dynamics**
 
     • Testing Strong-Field Quantum Dynamics: Characteristics of the HHG spectrum (High-Harmonic Generation) such as the intensity and phase of each harmonic, are extremely sensitive to the strong-field interactions of matter with external intense laser fields.  By comparing experimentally measured spectra with predictions from different theoretical models, physicists can validate or challenge the core assumptions of these models. 
 
@@ -306,7 +306,7 @@ We consider some characteristics of the emerging technological frontiers promote
 
 •    Real-Time Observation of Core-Level Processes: Sub-femtosecond dynamics govern core-electron motion. Attosecond transient absorption allows for real-time tracking of phenomenon such as autoionization and the evolution of inner-shell holes, as well as Auger decay. This phenomenon occurs when in atoms with an inner shell vacancy is filled by an electron, the releasing energy causes the emission of another electron from a different shell of the same atom.
 
-## **Materials Science and Electronics**
+ **Materials Science and Electronics**
 
 By tracking electron movement with attosecond precision, researchers can directly observe the processes that govern the properties of solids, liquids, and novel materials. Such extreme time resolution distinguishes purely electronic processes from slower lattice vibrations and, therefore, provides accurate descriptions of next phenomenon.
 
@@ -322,7 +322,7 @@ By tracking electron movement with attosecond precision, researchers can directl
 
     • Measuring the Influence of Environment: The environment around molecules changes how their electrons behave. By comparing photoemission from water in different states, it has been demonstrated that in solvation, the interaction with surrounding water molecules, the local chemical environment actively slows down electron emission.
 
-## **Chemistry and Medical Diagnostics**
+ **Chemistry and Medical Diagnostics**
 
 The first moments of a chemical reaction are dictated by charge migration: the ultrafast redistribution of electrons. By selectively targeting and manipulating specific bonds with precisely sculpted light fields, specific chemical reactions can be achieved. 
 
