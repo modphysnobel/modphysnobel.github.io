@@ -110,14 +110,7 @@ In the International System of Units (SI) the duration of the second corresponds
 Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a *year* with a duration of *315,576,600 s*, the Moon´s orbital period around the Earth defines a *month* and corresponds to *12,629,800 s*, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Attosecond Science - Time Units Table</title>
-    
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 
     <style>
         :root {
