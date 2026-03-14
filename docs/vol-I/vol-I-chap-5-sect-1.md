@@ -110,122 +110,46 @@ In the International System of Units (SI) the duration of the second corresponds
 Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a *year* with a duration of *315,576,600 s*, the Moon´s orbital period around the Earth defines a *month* and corresponds to *12,629,800 s*, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 5.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
+<div style="width: 100%; overflow-x: auto; margin: 20px 0; border: 1px solid #000;">
+    <table style="width: 100%; border-collapse: collapse; font-family: sans-serif; min-width: 500px; color: #000;">
+        <thead>
+            <tr>
+                <th colspan="2" style="border: 1px solid #000; padding: 12px; text-align: center; font-weight: bold; background-color: #ffffff;">
+                    Table 5.2. Physical phenomena described with different time units
+                </th>
+            </tr>
+            <tr style="background-color: #f2f2f2;">
+                <th style="border: 1px solid #000; padding: 10px; width: 40%; text-align: center;">Unit</th>
+                <th style="border: 1px solid #000; padding: 10px; width: 60%; text-align: center;">Phenomenon</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Second (1 s)</td><td style="border: 1px solid #000; padding: 8px;">The duration of a human heartbeat.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Decisecond (1 ds = 10<sup>-1</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The length of a single blink of an eye: (1 – 4) s.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Centisecond (1 cs = 10<sup>-2</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The human reflex response to visual stimuli: (10 – 20) cs.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Millisecond (1 ms = 10<sup>-3</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The time for a neuron to fire one impulse and stop: 1 ms.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Microsecond (1 &mu;s = 10<sup>-6</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The lifetime of a muon: 2.2 &mu;s.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Nanosecond (1 ns = 10<sup>-9</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The time light takes to travel 30 cm: 1 ns.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Picosecond (1 ps = 10<sup>-12</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The mean lifetime of a bottom quark: 1 ps.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Femtosecond (1 fs = 10<sup>-15</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The period of vibration of a hydrogen molecule: 7.58 fs.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Attosecond (1 as = 10<sup>-18</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The shortest electron laser pulse: 53 as.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Zeptosecond (1 zs = 10<sup>-21</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">A photon travers a hydrogen molecule: 247 zs.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Yoctosecond (1 ys = 10<sup>-24</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The mean lifetime of a Higgs boson: 156 ys.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Rontosecond (1 rs = 10<sup>-27</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The mean lifetime of W and Z bosons: 300 rs.</td></tr>
+            <tr><td style="border: 1px solid #000; padding: 8px;">Planck time (<i>t<sub>p</sub></i> = 5.39 x 10<sup>-44</sup> s)</td><td style="border: 1px solid #000; padding: 8px;">The briefest physically meaningful span of time.</td></tr>
+        </tbody>
+    </table>
+</div>
 
+<div style="text-align: center; font-family: sans-serif; padding: 20px; border: 1px solid #eee; margin-top: 10px;">
+    <p style="margin: 5px 0;"><strong>Planck Scale:</strong></p>
+    <p style="font-size: 1.2em; margin: 10px 0;"><i>t<sub>P</sub></i> = &radic;([&hbar;G]/<i>c</i><sup>5</sup>)</p>
+    <p style="font-size: 1.2em; margin: 10px 0;"><i>l<sub>P</sub></i> = &radic;([&hbar;G]/<i>c</i><sup>3</sup>) &asymp; 1.62 x 10<sup>-35</sup> m</p>
+    <hr style="border: 0; border-top: 1px solid #eee; width: 50%; margin: 15px auto;">
+    <p style="color: #444;">13.8 x 10<sup>9</sup> years = 4.35 x 10<sup>18</sup> s</p>
+</div>
 
-    <style>
-        :root {
-            --border-color: #222;
-            --bg-header: #f4f4f4;
-            --text-main: #1a1a1a;
-        }
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-            line-height: 1.6;
-            color: var(--text-main);
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-        }
-
-        .table-container {
-            width: 100%;
-            overflow-x: auto; /* Scroll horizontal en móviles */
-            margin-bottom: 30px;
-            border: 1px solid var(--border-color);
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            min-width: 550px; /* Evita que el texto se amontone */
-        }
-
-        th, td {
-            border: 1px solid var(--border-color);
-            padding: 12px;
-            text-align: left;
-        }
-
-        .main-title {
-            background-color: #fff;
-            text-align: center;
-            font-size: 1.2rem;
-            font-weight: bold;
-        }
-
-        .sub-header {
-            background-color: var(--bg-header);
-            text-align: center;
-            font-weight: 600;
-        }
-
-        /* Estilo para las fórmulas debajo de la tabla */
-        .math-section {
-            text-align: center;
-            padding: 20px;
-            background: #fafafa;
-            border-radius: 8px;
-            border: 1px solid #eee;
-        }
-
-        .info-text {
-            margin-top: 15px;
-            font-size: 0.95rem;
-            color: #444;
-        }
-
-        /* Ajuste fino de exponentes para GitHub */
-        sup {
-            line-height: 0;
-            font-size: 0.75em;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="table-container">
-        <table>
-            <thead>
-                <tr>
-                    <th colspan="2" class="main-title">Table 5.2. Physical phenomena described with different time units</th>
-                </tr>
-                <tr class="sub-header">
-                    <th style="width: 40%;">Unit</th>
-                    <th style="width: 60%;">Phenomenon</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr><td>Second (1 s)</td><td>The duration of a human heartbeat.</td></tr>
-                <tr><td>Decisecond (1 ds = 10<sup>-1</sup> s)</td><td>The length of a single blink of an eye: (1 – 4) s.</td></tr>
-                <tr><td>Centisecond (1 cs = 10<sup>-2</sup> s)</td><td>The human reflex response to visual stimuli: (10 – 20) cs.</td></tr>
-                <tr><td>Millisecond (1 ms = 10<sup>-3</sup> s)</td><td>The time for a neuron to fire one impulse and stop: 1 ms.</td></tr>
-                <tr><td>Microsecond (1 &mu;s = 10<sup>-6</sup> s)</td><td>The lifetime of a muon: 2.2 &mu;s.</td></tr>
-                <tr><td>Nanosecond (1 ns = 10<sup>-9</sup> s)</td><td>The time light takes to travel 30 cm: 1 ns.</td></tr>
-                <tr><td>Picosecond (1 ps = 10<sup>-12</sup> s)</td><td>The mean lifetime of a bottom quark: 1 ps.</td></tr>
-                <tr><td>Femtosecond (1 fs = 10<sup>-15</sup> s)</td><td>The period of vibration of a hydrogen molecule: 7.58 fs.</td></tr>
-                <tr><td>Attosecond (1 as = 10<sup>-18</sup> s)</td><td>The shortest electron laser pulse: 53 as.</td></tr>
-                <tr><td>Zeptosecond (1 zs = 10<sup>-21</sup> s)</td><td>A photon travers a hydrogen molecule: 247 zs.</td></tr>
-                <tr><td>Yoctosecond (1 ys = 10<sup>-24</sup> s)</td><td>The mean lifetime of a Higgs boson: 156 ys.</td></tr>
-                <tr><td>Rontosecond (1 rs = 10<sup>-27</sup> s)</td><td>The mean lifetime of W and Z bosons: 300 rs.</td></tr>
-                <tr><td>Planck time (<i>t<sub>p</sub></i> = 5.39 x 10<sup>-44</sup> s)</td><td>The briefest physically meaningful span of time.</td></tr>
-            </tbody>
-        </table>
-    </div>
-
-    <div class="math-section">
-        <p><strong>Planck Constants:</strong></p>
-        <div>
-            $$t_P = \sqrt{\frac{\hbar G}{c^5}}$$
-            $$l_P = \sqrt{\frac{\hbar G}{c^3}} \approx 1.62 \times 10^{-35} \text{ m}$$
-        </div>
-        <p class="info-text">
-            <strong>Equivalence:</strong> 13.8 x 10<sup>9</sup> years = 4.35 x 10<sup>18</sup> s
-        </p>
-    </div>
-
-</body>
+    
 
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum $t_P = \sqrt{([\hbar G]/c^5)}$, where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length $l_P = \sqrt{([\hbar G]/c^3)}$ ~ 1.62 x 10−35 m  marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
 
