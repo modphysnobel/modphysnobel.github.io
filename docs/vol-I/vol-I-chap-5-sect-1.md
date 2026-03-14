@@ -140,15 +140,6 @@ Time is counted in the second context as a duration in terms of submultiples of 
         </tbody>
     </table>
 </div>
-
-<div style="text-align: center; font-family: sans-serif; padding: 20px; border: 1px solid #eee; margin-top: 10px;">
-    <p style="margin: 5px 0;"><strong>Planck Scale:</strong></p>
-    <p style="font-size: 1.2em; margin: 10px 0;"><i>t<sub>P</sub></i> = &radic;([&hbar;G]/<i>c</i><sup>5</sup>)</p>
-    <p style="font-size: 1.2em; margin: 10px 0;"><i>l<sub>P</sub></i> = &radic;([&hbar;G]/<i>c</i><sup>3</sup>) &asymp; 1.62 x 10<sup>-35</sup> m</p>
-    <hr style="border: 0; border-top: 1px solid #eee; width: 50%; margin: 15px auto;">
-    <p style="color: #444;">13.8 x 10<sup>9</sup> years = 4.35 x 10<sup>18</sup> s</p>
-</div>
-
     
 
 Let us consider first physical phenomena at the extreme of cosmic times and explain the meaning of Planck time. It is the time it takes light to travel one Planck length in vacuum $t_P = \sqrt{([\hbar G]/c^5)}$, where  is the reduced Planck constant and represents quantum mechanics,  is the gravitational constant and represents gravitation, and the speed of light  represents relativity. Planck length $l_P = \sqrt{([\hbar G]/c^3)}$ ~ 1.62 x 10−35 m  marks the boundary where these three theories collide. Distances smaller than one Planck length cannot be meaningfully defined with current physics. 
