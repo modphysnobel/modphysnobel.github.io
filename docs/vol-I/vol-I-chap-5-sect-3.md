@@ -3,32 +3,16 @@
 We consider some characteristics of the emerging technological frontiers promoted by attosecond science. By manipulating the fastest component of matter, the electrons, scientists are addressing foundational questions in quantum mechanics and laying the groundwork for revolutionary advances in material sciences, electronics, chemistry, and medicine. Attosecond science is a "quantum stopwatch"; it is a sort of toolkit that highlights a trajectory moving from fundamental observation toward engineering and control at the quantum level.
 
  **Fundamental Phenomena and Electronic Dynamics**
+* **Testing Strong-Field Quantum Dynamics:** Characteristics of the HHG spectrum (High-Harmonic Generation) such as the intensity and phase of each harmonic, are extremely sensitive to the strong-field interactions of matter with external intense laser fields. By comparing experimentally measured spectra with predictions from different theoretical models, physicists can validate or challenge the core assumptions of these models.
 
-  <body>
+* **Measuring Tunneling Time and Probing Electron Correlation and Entanglement:** Multi-electron experiments, such as timing. The development of attosecond tools moved several foundational questions in quantum mechanics from the realm of thought experiments to the domain of direct experimental verification. Attophysics explains ultrafast processes such as the following:
 
-    <ul>
-        <li>
-            <strong>Testing Strong-Field Quantum Dynamics:</strong> Characteristics of the HHG spectrum (High-Harmonic Generation) such as the intensity and phase of each harmonic, are extremely sensitive to the strong-field interactions of matter with external intense laser fields. By comparing experimentally measured spectra with predictions from different theoretical models, physicists can validate or challenge the core assumptions of these models.
-        </li>
-        
-        <li>
-            <strong>Measuring Tunneling Time and Probing Electron Correlation and Entanglement:</strong> Multi-electron experiments, such as timing. The development of attosecond tools moved several foundational questions in quantum mechanics from the realm of thought experiments to the domain of direct experimental verification. Attophysics explains ultrafast processes such as the following:
-        </li>
+* **Timing the Photoelectric Effect:** For nearly a century, the emission of an electron after absorbing a photon was assumed to be instantaneous. Ferenc Krausz's group ionized neon atoms and reported that the relative emission time of electrons from different atomic orbitals corresponded to 21 attoseconds.
 
-        <li>
-            <strong>Timing the Photoelectric Effect:</strong> For nearly a century, the emission of an electron after absorbing a photon was assumed to be instantaneous. Ferenc Krausz's group ionized neon atoms and reported that the relative emission time of electrons from different atomic orbitals corresponded to 21 attoseconds.
-        </li>
+* **Probing Electron Correlation and Multi-Electron Dynamics:** The behavior of one electron in a multi-electron system is linked to the behavior of all the others. In the past, dynamic processes driven by correlation could only be inferred from their effect on static energy levels. Nowadays, nonsequential double ionization and multi-electron rearrangements can be timed and mapped.
 
-        <li>
-            <strong>Probing Electron Correlation and Multi-Electron Dynamics:</strong> The behavior of one electron in a multi-electron system is linked to the behavior of all the others. In the past, dynamic processes driven by correlation could only be inferred from their effect on static energy levels. Nowadays, nonsequential double ionization and multi-electron rearrangements can be timed and mapped.
-        </li>
-
-        <li>
-            <strong>Real-Time Observation of Core-Level Processes:</strong> Sub-femtosecond dynamics govern core-electron motion. Attosecond transient absorption allows for real-time tracking of phenomenon such as autoionization and the evolution of inner-shell holes, as well as Auger decay. This phenomenon occurs when in atoms with an inner shell vacancy is filled by an electron, the releasing energy causes the emission of another electron from a different shell of the same atom.
-        </li>
-    </ul>
-
-</body>
+* **Real-Time Observation of Core-Level Processes:** Sub-femtosecond dynamics govern core-electron motion. Attosecond transient absorption allows for real-time tracking of phenomenon such as autoionization and the evolution of inner-shell holes, as well as Auger decay. This phenomenon occurs when in atoms with an inner shell vacancy is filled by an electron, the releasing energy causes the emission of another electron from a different shell of the same atom.
+  
  **Materials Science and Electronics**
 
 By tracking electron movement with attosecond precision, researchers can directly observe the processes that govern the properties of solids, liquids, and novel materials. Such extreme time resolution distinguishes purely electronic processes from slower lattice vibrations and, therefore, provides accurate descriptions of next phenomenon.
