@@ -56,7 +56,7 @@ Chemistry and Medical Diagnostics*
             <td>
                 <ul>
                     <li>Measuring photoionization time delays.</li>
-                    <li>Probing electron correlation.</li>
+                    <li>Probing <a href="https://en.wikipedia.org/wiki/Electronic_correlation" title="here the definition">electron correlation</a>.</li>
                 </ul>
             </td>
             <td>How do electrons behave during the most basic quantum processes?</td>
