@@ -4,7 +4,7 @@
 
 # **5. ELECTRON DYNAMICS IN ATTOSECOND TIMESCALE.**
 
-<a href="https://en.wikipedia.org/wiki/Attosecond" title="here the definition">Attosecond</a>.science has fundamentally shifted our perspective from analyzing the static energy levels of the quantum world to observing, measuring and manipulating evolving ultrafast processes by “filming” electron motion in real time.  What was once deemed unobservable has been transformed into a tangible and dynamic field of exploration.
+<a href="https://en.wikipedia.org/wiki/Attosecond" title="here the definition">Attosecond</a>science has fundamentally shifted our perspective from analyzing the static energy levels of the quantum world to observing, measuring and manipulating evolving ultrafast processes by “filming” electron motion in real time.  What was once deemed unobservable has been transformed into a tangible and dynamic field of exploration.
 The ability to measure means to be able to understand and control. Attosecond science has provided a direct observational window into the previously inaccessible world of electron dynamics and unlocked the study of the fundamental processes that govern the behavior of matter. While the 20th century was defined by our understanding of the atom, the 21st century will be shaped by our mastery over the electron.
 
 ### **OBJECTIVES AND CONTENT OF SECTIONS.**
@@ -78,7 +78,7 @@ Chemistry and Medical Diagnostics*
             <td>
                 <ul>
                     <li>Observing charge transport in materials.</li>
-                    <li>Controlling currents with light (lightwave electronics).</li>
+                    <li>Controlling currents with light <a href="https://en.wikipedia.org/wiki/Attosecond" title="here the definition">(lightwave electronics).</a></li>
                 </ul>
             </td>
             <td>How do electrons move through materials that are key for technology?</td>
