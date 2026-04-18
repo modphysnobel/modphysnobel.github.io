@@ -26,7 +26,7 @@ This section 5.2 details the physical principles underlying the generation of at
         </tr>
         <tr>
             <td>1987</td>
-            <td>High-Harmonic Generation (HHG)</td>
+            <td><a href="https://en.wikipedia.org/wiki/High_harmonic_generation" title="here the definition">High-Harmonic Generation (HHG)</a></td>
             <td>Anne L’Huillier discovered that when a gas interacted with a strong laser field it emits light at very high multiples (overtones or harmonics) of the laser's original frequency.<br><br>
             The laser's strong electric field rips an electron from an atom, accelerates it, and then drives it back to recombine with its parent ion. This recombination releases a burst of energy in the form of high-frequency light, and by combining many of these coherent bursts, an extremely short attosecond pulse can be synthesized.</td>
         </tr>
@@ -70,6 +70,6 @@ Previous graph shows how transmitting intense infrared laser light through a nob
 
 The theory behind the phenomenon of HHG was reasonably well understood in 1990 in terms of the Lewenstein model. Nevertheless, the breakthrough in identifying and testing attosecond pulses occurred until 2001 when this theoretical possibility was converted into experimental reality. Building on the foundation of HHG, two research groups, led by Pierre Agostini and Ferenc Krausz, reported parallel yet distinct achievements that officially launched the field of attosecond physics, afterwards extended into attosecond science. The group of Pierre Agostini successfully generated pulse train which had a duration of 250 attoseconds.  Simultaneously, the team led by Ferenc Krausz produced an isolated pulse with a duration of 650 attoseconds. This diversification in pulse generation, in turn, necessitated the development of specialized measurement methodologies, leading directly to the two primary metrology techniques that define the field: RABBITT and streaking.
 
-  **Resolving the photoelectric effect delay.**
+  **Resolving the <a href="https://en.wikipedia.org/wiki/Photoelectric_effect" title="here the definition">photoelectric effect delay</a>**
 
 When an atom absorbs sufficient energy from incoming light, it can transfer that energy to an electron, which is then emitted with kinetic energy equal to the photon energy minus the binding energy of the electron. This process, first explained by Einstein in 1905, was assumed to be instantaneous. Then, it was after a century that attosecond physics provided the first opportunity to experimentally test such assumption. One type of experiment was developed by the Krausz's group and the other by L'Huillier's group. Both experiments demonstrated conclusively that photoemission is not instantaneous and that the delay is a consequence of the collective dynamics of the atom's electron cloud. The maturation of attosecond science, from a foundational discovery to an applied metrology, constitutes a paradigm shift in our ability to probe nature.  
