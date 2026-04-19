@@ -2,6 +2,8 @@
 
 We consider some characteristics of the emerging technological frontiers promoted by attosecond science. By manipulating the fastest component of matter, the electrons, scientists are addressing foundational questions in quantum mechanics and laying the groundwork for revolutionary advances in material sciences, electronics, chemistry, and medicine. Attosecond science is a "quantum stopwatch"; it is a sort of toolkit that highlights a trajectory moving from fundamental observation toward engineering and control at the quantum level.
 
+<img width="686" height="375" alt="image" src="https://github.com/user-attachments/assets/0650e1b0-f247-4be2-ac85-8171450bb172" />
+
  **Fundamental Phenomena and Electronic Dynamics**
 * **Testing Strong-Field Quantum Dynamics:** Characteristics of the HHG spectrum (High-Harmonic Generation) such as the intensity and phase of each harmonic, are extremely sensitive to the strong-field interactions of matter with external intense laser fields. By comparing experimentally measured spectra with predictions from different theoretical models, physicists can validate or challenge the core assumptions of these models.
 
@@ -12,7 +14,11 @@ We consider some characteristics of the emerging technological frontiers promote
 * **Probing Electron Correlation and Multi-Electron Dynamics:** The behavior of one electron in a multi-electron system is linked to the behavior of all the others. In the past, dynamic processes driven by correlation could only be inferred from their effect on static energy levels. Nowadays, nonsequential double ionization and multi-electron rearrangements can be timed and mapped.
 
 * **Real-Time Observation of Core-Level Processes:** Sub-femtosecond dynamics govern core-electron motion. Attosecond transient absorption allows for real-time tracking of phenomenon such as <a href="https://en.wikipedia.org/wiki/Autoionization" title="here the definition">autoionization </a> and the evolution of inner-shell holes, as well as <a href="https://en.wikipedia.org/wiki/Auger_effect" title="here the definition">Auger decay</a>. This phenomenon occurs when in atoms with an inner shell vacancy is filled by an electron, the releasing energy causes the emission of another electron from a different shell of the same atom.
-  
+
+<img width="348" height="261" alt="image" src="https://github.com/user-attachments/assets/d810e666-d638-412c-8ca4-303660afd5c2" />
+
+(Image credit: https://upload.wikimedia.org/wikipedia/commons/f/f1/Auger_Process.JPG)
+
  **Materials Science and Electronics**
 
 By tracking electron movement with attosecond precision, researchers can directly observe the processes that govern the properties of solids, liquids, and novel materials. Such extreme time resolution distinguishes purely electronic processes from slower lattice vibrations and, therefore, provides accurate descriptions of next phenomenon.
@@ -29,6 +35,8 @@ By tracking electron movement with attosecond precision, researchers can directl
 
 * **Measuring the Influence of Environment:** The environment around molecules changes how their electrons behave. By comparing photoemission from water in different states, it has been demonstrated that in solvation, the interaction with surrounding water molecules, the local chemical environment actively slows down electron emission. 
 
+<img width="681" height="381" alt="image" src="https://github.com/user-attachments/assets/d2f2bd4b-f5d8-475d-8673-57e06b0b028b" />
+
  **Chemistry and Medical Diagnostics**
 
 The first moments of a chemical reaction are dictated by <a href="https://en.wikipedia.org/wiki/Attosecond_physics" title="here the definition">charge migration</a>: the ultrafast redistribution of electrons. By selectively targeting and manipulating specific bonds with precisely sculpted light fields, specific chemical reactions can be achieved. 
@@ -39,3 +47,5 @@ The first moments of a chemical reaction are dictated by <a href="https://en.wik
 * **Resolving Proton-Electron Coupling:** In some reactions, electronic and nuclear motions are coupled on sub-femtosecond timescales. Attosecond spectroscopy can capture the moment when electrons "pull" nuclei out of their equilibrium positions.
 
 * **Molecular Identification:** As a result of the interaction of attosecond pulses with molecules in a biological sample, unique optical signals or fingerprints are produced and detected.
+
+<img width="674" height="376" alt="image" src="https://github.com/user-attachments/assets/1f7f83b4-aa1c-478f-901e-cd70d6ded34f" />
