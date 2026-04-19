@@ -106,6 +106,11 @@ In the choreography of the universe, space and time serve as the fundamental axe
 To precisely quantify time durations, it is common to use the second (s) as a basic unit of time. 
 In the International System of Units (SI) the duration of the second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom. Humans relate to time in two primary contexts: first, as a sequential narrative that distinguishes the past, present, and future; and second, as the measurable duration between the beginning and end of an event. 
 
+<img width="735" height="400" alt="image" src="https://github.com/user-attachments/assets/f481df8d-91a2-4199-9cd8-f5c5a2e6937d" />
+
+(image credit: https://www.examples.com/physics/units-of-time.html)
+
+
 Time is counted in the first context as a narrative in terms of multiples of many seconds, corresponding to movements of astronomical objects: the Earth´s orbital period around the sun defines a *year* with a duration of *315,576,600 s*, the Moon´s orbital period around the Earth defines a *month* and corresponds to *12,629,800 s*, and the time it takes the Earth to rotate on its own axis, relative to the Sun, as equal to a day of 86,400 s. A year contains 12 months of durations of 28, 29, 30 or 31 days; a day contains 24 hours, one hour 60 minutes and one minute 60 seconds.
 Time is counted in the second context as a duration in terms of submultiples of many fractions of seconds. Next Table 15.1 indicates in the first column different units of time, including name, scientific shorthand notation and equivalence in seconds; the second column describes a characteristic physical phenomenon measured in such unit, including an estimated value.
 
@@ -158,6 +163,8 @@ Atoms and nuclei are large and heavy, their motions are measured in <a href="htt
 
 Different timescales can be defined by indicating comparative magnitudes (cosmic scale), physical necessities (atomic scale) or technological impacts (scientific scale). These timescales cover an enormous gap between the infinitesimally small (the attosecond) and the immensely large (the age of the universe). Electronic movements initiate essential processes that create and sustain life and are behind the exchange of energy between light and matter. Changes in the positions and energies of electrons occur at speeds in the order of tenths of an attosecond or in hundreds of attoseconds. Nowadays attosecond images can describe sharp details of the movement of electrons, overcoming those blurred descriptions obtained from femtosecond images.
 
+<img width="439" height="307" alt="image" src="https://github.com/user-attachments/assets/e08644fe-6e9d-4e5e-a30b-b81d0a160b45" />
+
 
 **Clocks for measuring time**
 
@@ -169,6 +176,10 @@ Each clock has a resonator, a device that produces a well-controlled periodic ev
 The timekeeping element in every clock is a physical object that vibrates (oscillates) at a particular frequency: the number of times the oscillation is repeated in each period of duration. The fundamental principle behind timekeeping is always the same: consistent and equal intervals of time measurements. Originally, mechanical clocks were intended for administrative purposes, for instance signaling or notification of the timing of services and public events.
 
 Modern times have been characterized by important advances in digital clocks as well as in <a href="https://en.wikipedia.org/wiki/Atomic_clock" title="here the definition">atomic clocks</a>. Atomic clocks did not ground the definition of time in a mechanical or astronomical process, but in a fundamental, unchanging property of the universe at the atomic scale. The International System of Units (SI) now defines the second based on the quantum behavior of the caesium-133 atom. The second corresponds to 9,192,631,770 vibrations of the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom.
+
+<img width="517" height="397" alt="image" src="https://github.com/user-attachments/assets/f483df0f-3942-41f8-ae43-b96110def844" />
+
+(image credit: https://upload.wikimedia.org/wikipedia/commons/0/0c/Atomic_clocks.jpg)
 
  **Lasers as devices for measuring time.** 	
 
