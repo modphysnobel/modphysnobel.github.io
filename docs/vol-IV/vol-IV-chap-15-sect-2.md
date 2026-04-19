@@ -58,6 +58,9 @@ This section 15.2 details the physical principles underlying the generation of a
     </tbody>
 </table>
 
+<img width="921" height="501" alt="image" src="https://github.com/user-attachments/assets/5efa438f-2a9a-4952-95ec-059b469d27ad" />
+
+
 **The discovery was made by Anne L´Huillier.**
 
 Smaller objects require that light wavelength must be shorter than the size of the object to be observed. The ability to synchronize measurements with the astonishing speed of electronic events implied a complete rethinking of ultrafast optics. Breaking this femtosecond barrier was possible because Anne L´Huillier discovered, manipulated and explained a highly nonlinear optical phenomenon called High-Harmonic Generation (HHG).  
