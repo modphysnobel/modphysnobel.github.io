@@ -30,7 +30,7 @@ MLA style: J.J. Thomson – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach 
 
 ### **1923 Physics Nobel Prize awarded to Millikan.**
 	
-WORK: "During the 1890s the theory that electricity was conveyed by a miniscule unit, the electron, gained acceptance. In 1910 Robert Millikan (1868-1953) succeeded in precisely determining the magnitude of the electron’s charge. Small electrically charged drops of oil were suspended between two metal plates where they were subjected to the downward force of gravity and the upward attraction of an electrical field. By measuring how the various drops of oil moved about, Millikan showed that their charge always was a multiple of a precisely determined charge—the electron’s charge."
+WORK: "During the 1890s the theory that electricity was conveyed by a miniscule unit, the <a href="https://en.wikipedia.org/wiki/Electron" title="here the definition">electron</a>, gained acceptance. In 1910 Robert Millikan (1868-1953) succeeded in precisely determining the magnitude of the electron’s charge. Small electrically charged drops of oil were suspended between two metal plates where they were subjected to the downward force of gravity and the upward attraction of an electrical field. By measuring how the various drops of oil moved about, Millikan showed that their charge always was a multiple of a precisely determined charge—the electron’s charge."
 
 MLA style: Robert A. Millikan – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 2 Mar 2023. https://www.nobelprize.org/prizes/physics/1923/millikan/facts/
 
