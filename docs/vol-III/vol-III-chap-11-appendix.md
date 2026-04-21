@@ -14,7 +14,7 @@ Let us consider two waves of equal amplitude $A$ that differ slightly in the val
 
 Let us consider two waves of equal amplitude $A$ that differ slightly in the value of the wave number by an infinitesimal quantity $Δk$ and in the value of the angular frequency by $Δω$. If $y_1=Asin(kx−ωt)$ and $y_2=Asin[(k+Δk)x–(ω+Δω)t]$; their superposition will be $y=y_1+y_2=Asin(kx−ωt)+Asin[(k+Δk)x–(ω+Δω)t]$.
 
-The pulse or packet composed by the superposition of these two waves ($y=y_1+y_2$) travels with a velocity, the group velocity ($v_g$) defined as the limit of $Δω/Δk$, such that $v_g=dω/dk$. Group velocity is different from the characteristic velocities of each one of the component waves of the packet. These are the called phase velocity $v_f=ω/k$, defined in terms of the angular velocity $ω$ and the wave number $k=2π/λ$. Thus, for each of the waves in the packet, $v_{f1}=ω/k$ and $v_{f2}=(ω+Δω)/(k+Δk)$. Since it has been assumed that $Δω<<ω$ and that also $Δk<<k$, both phase velocities are almost equal; that is, $v_{f1}≈v_{f2}$.
+The pulse or packet composed by the superposition of these two waves ($y=y_1+y_2$) travels with a velocity, the group velocity ($v_g$) defined as the limit of $Δω/Δk$, such that $v_g=dω/dk$. Group velocity is different from the characteristic velocities of each one of the component waves of the packet. These are the called <a href="https://en.wikipedia.org/wiki/Phase_velocity" title="here the definition">phase velocity </a> $v_f=ω/k$, defined in terms of the angular velocity $ω$ and the wave number $k=2π/λ$. Thus, for each of the waves in the packet, $v_{f1}=ω/k$ and $v_{f2}=(ω+Δω)/(k+Δk)$. Since it has been assumed that $Δω<<ω$ and that also $Δk<<k$, both phase velocities are almost equal; that is, $v_{f1}≈v_{f2}$.
 
 If $C=(kx−ωt)$ and $D=[(k+Δk)x−(ω+Δω)t]$, the packet representing the superposition of waves $y_1$ and $y_2$ is expressed as $y=A[sinC+sinD]$. Considering the trigonometric identity $sinC+sinD=2sin[½(C+D)]cos[½(C−D)]$, we have the following relationships $C+D=[(2k+Δk)x−(2ω+Δω)t]$ and $C−D=[(−Δk)x−(−Δω)t]=−[(Δk)x−(Δω)t]$. Since $cos(−θ)=cos(θ)$, then $y=2Asin[(k+½Δk)x−(ω+½Δω)t]cos[(½Δk)x−(½Δω)t]$.
 
@@ -28,7 +28,7 @@ From $E=hν=mc^2=γm_0c^2=γhν_0$ it follows that $w=2πν=2π(γν_0)=γω_0$.
 
 According to the definition of the phase velocity $v_f=\frac{w}{k}=\frac{γw_0}{(\frac{β}{c})(γw_0)}=\frac{c}{β}=\frac{c^2}{v}$.
 
-On the other hand, the group velocity is $v_g=dω/dk=(dω/dβ)/(dk/dβ)$.
+On the other hand, the <a href="https://en.wikipedia.org/wiki/Group_velocity" title="here the definition">group velocity </a> is $v_g=dω/dk=(dω/dβ)/(dk/dβ)$.
 
 $\frac{dω}{dβ}=\frac{d(γω_0)}{dβ}=(ω_0)\frac{d(γ)}{dβ}$; $\frac{dγ}{dβ}=(−½)(−2β)[1−β^2]^{-\frac{3}{2}}=βγ^3$ then $\frac{dω}{dβ}=(ω_0)(βγ^3)$
 
