@@ -31,7 +31,7 @@ Section 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Com
 We comment on the Nobel Prizes for the physicists who were awarded in the following years:
 
 - in 1906 to [J.J. Thomson](https://en.wikipedia.org/wiki/J._J._Thomson) “in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases”,
-- in 1923 to [R.A. Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) “for his work on the elementary charge of electricity and on the photoelectric effect”,
+- in 1923 to [R.A. Millikan](https://en.wikipedia.org/wiki/Robert_Andrews_Millikan) “for his work on the elementary charge of electricity and on the <a href="https://en.wikipedia.org/wiki/Photoelectric_effect" title="here the definition">photoelectric effect </a>”,
 - in 1925 to [J. Franck](https://en.wikipedia.org/wiki/James_Franck) and [G.K. Hertz](https://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz) “for their discovery of the laws governing the impact of an electron upon an atom”,
 - in 1927 to [A.H. Compton](https://en.wikipedia.org/wiki/Arthur_Compton) “for his discovery of the effect named after him”.
 
