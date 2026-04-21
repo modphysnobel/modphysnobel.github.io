@@ -10,7 +10,7 @@ In what follows, we consider two kinds of documents that are available in the we
 
 ### **1906 Physics Nobel Prize awarded to Thomson.**
 	
-WORK: "The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson (1856-1940) managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that cathode rays (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms."
+WORK: "The idea that electricity is transmitted by a tiny particle related to the atom was first forwarded in the 1830s. In the 1890s, J.J. Thomson (1856-1940) managed to estimate its magnitude by performing experiments with charged particles in gases. In 1897 he showed that <a href="https://en.wikipedia.org/wiki/Cathode_ray" title="here the definition">cathode rays </a> (radiation emitted when a voltage is applied between two metal plates inside a glass tube filled with low-pressure gas) consist of particles— electrons—that conduct electricity. Thomson also concluded that electrons are part of atoms."
 
 MLA style: J.J. Thomson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 1 Mar 2023. https://www.nobelprize.org/prizes/physics/1906/thomson/facts/
 
