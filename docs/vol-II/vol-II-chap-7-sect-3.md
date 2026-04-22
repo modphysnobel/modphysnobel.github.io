@@ -3,7 +3,7 @@
 
 ***
 
-## 8.3. Procedures to solve problems and explain solutions. 
+## 7.3. Procedures to solve problems and explain solutions. 
 
 In this section we apply the TADIR procedure in the description of the seven steps of the statistical treatment used in 1908 by [Paul Langevin](https://en.wikipedia.org/wiki/Paul_Langevin) (1872 - 1946) to obtain [Einstein´s equation](https://en.wikipedia.org/wiki/Langevin_equation) for explaining Brownian motion $(λ_x)^2 = <ΔX^2> = bt$, when $b = (k_BT)/(3πηa)$. 
 
