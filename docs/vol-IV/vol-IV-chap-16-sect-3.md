@@ -4,7 +4,7 @@
 
 ***
 
-## 15.3.  Interpretation of natural experiments in Economic sciences.
+## 16.3.  Interpretation of natural experiments in Economic sciences.
 
 This Section refers to the 2021 Prize; it does not consider the Prize awarded to David Card “for his empirical contributions to labour economics”; it concentrates on the Prize awarded the same year to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”. In what follows we include excerpts from two documents *Press release* and *Popular information*. 
 
