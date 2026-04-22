@@ -1,10 +1,8 @@
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 7.1. Experimental results concerning the Brownian motion.**](./vol-II-chap-7-sect-1.md) 
-
 ***
 
-## 7.2.  Statistical mechanical calculations of the specific heat in solids.
+## 8.2.  Statistical mechanical calculations of the specific heat in solids.
 
 This section contains three examples of the calculation of the thermodynamic quantity known as specific heat at constant volume <br>  ($C_V$), following the procedures indicated by statistical mechanics. We analyze three models of a solid which assume that it is composed by: (1) free particles, (2) harmonic oscillators quantized with the same frequency, and (3) harmonic oscillators quantized with a frequency distribution.
 
@@ -46,7 +44,7 @@ From the definition $U= N_A〈E〉$ and the previous result $〈E〉 =k_B T$, it
 
 A similar result to the above ($C_V = 3R$) was obtained experimentally by Pierre-Louis Dulong (1785-1838) and Alexis-Thérèse Petit (1791-1820). These authors established that "the atoms of simple substances have exactly the same specific heat", as shown by the data they reported in their article *Recherches sur quelques points importants de la Théorie de la Chaleur*, published in 1819 in *Annales de Chimie et de Physique.*
 
-The following Table 7.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
+The following Table 8.3 indicates in the first column the materials studied, in the second column the measured values of the specific heats ($C_V$), in the third column the relative weights of the atoms ($P_R$) and in the fourth column the products of the two previous columns; that is, the products of the weights of each atom multiplied by the measured specific heats, which practically give a constant value.
 
 <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/7.3.jpg?raw=true"> 
@@ -141,5 +139,3 @@ $C_V= (9R)[(\frac{4T^3}{θ^3})(\frac{1}{3})(\frac{θ}{T})^3- 1]=$ $(9R)[(\frac{4
 For low temperatures, $C_V= (9R)(\frac{4T^3}{θ^3})(\frac{π^4}{15})= (\frac{12Rπ^4}{5}) (\frac{T}{θ})^3$. This dependence on $T^3$ describes much better the experimental results. If the model is improved, especially if more complicated quantum effects are introduced in the description of the solid, the agreement with the experimental results will improve even more, although the calculation procedures will require numerical methods.
 
 ***
-
-[**Next: 7.3.  Procedure to solve problems and explain solutions.**](./vol-II-chap-7-sect-3.md)
