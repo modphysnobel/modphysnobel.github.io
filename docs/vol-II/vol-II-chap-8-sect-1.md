@@ -1,18 +1,16 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 6.3. Identification of concepts and descriptions of models.**](./vol-II-chap-6-sect-3.md) 
-
 ***
 
-# 7.  Brownian motion and specific heats.
+# 8.  Brownian motion and specific heats.
 
 
 *Under what conditions is statistical mechanics necessary?*
 
 Physical systems can be characterized in terms of three of properties of their components: size (Siz), velocity (Vel), and number (Num). When Num is very large, it is impossible to solve the equations of motion for all the degrees of freedom of the system. Under such conditions, statistical mechanics applies different mathematical procedures, essentially probabilistic, to calculate values of macroscopic quantities describing the system. Given a microscopic [model of the system](https://en.wikipedia.org/wiki/Systems_modeling), a [statistical](https://en.wikipedia.org/wiki/Statistics) procedure is applied to calculate average values, fluctuations, deviations, correlations, and other mathematical functions of physical interest.
 
-### Learning objectives of Chapter 7.
+### Learning objectives of Chapter 8.
 
 After this Chapter you should be able to: 
 
@@ -20,21 +18,21 @@ After this Chapter you should be able to:
 - Describe the calculations of the [specific heat in solids](https://en.wikipedia.org/wiki/Specific_heat_capacity) according to the models proposed by Dulong and Petit, by Einstein and by Debye.
 - Describe the problem-solving steps proposed by Langevin to obtain Einstein´s Brownian motion equation.
 
-### Description of content of Chapter 7.
+### Description of content of Chapter 8.
 
-Section 7.1. Experimental results concerning the Brownian motion.**
+Section 8.1. Experimental results concerning the Brownian motion.**
 
 We discuss two contributions to the study of Brownian motion: the theoretical calculation made by Einstein and the experimental procedures reported by Perrin. We also consider the 1926 Physics Nobel Lecture *Discontinuous Structure of Matter* by J.B. Perrin. 
 
-Section 7.2. Statistical mechanical calculations of the specific heat in solids.**
+Section 8.2. Statistical mechanical calculations of the specific heat in solids.**
 
 We consider the calculations of the specific heat at constant volume in solids, according to three models: the classic model by Dulong and Petit where the solid is formed by independent classical harmonic oscillators, the quantum models by Einstein where the solid is composed by quantized harmonic oscillators all of them with the same frequency, and the quantum model by Deby where the solid is a continuous elastic body whose internal energy is due to quantized vibrational states of stationary elastic waves, the phonons.
 
-Section 7.3. Procedure to solve problems and explain solutions.
+Section 8.3. Procedure to solve problems and explain solutions.
 
 We apply the *Procedure to solve problems and explain solutions* in the description of the steps of [Langevin´s procedure](https://en.wikipedia.org/wiki/Langevin_equation) to obtain Einstein's equation of Brownian motion.
 
-## 7.1. Experimental results concerning the Brownian motion.
+## 8.1. Experimental results concerning the Brownian motion.
 
 To calculate average values of quantities related to physical observables, interpretation models and calculation procedures must be proposed and tested. The models describe with a certain level of approximation the probability distribution functions about the possible configurational states of the system or microstates. The procedures for counting and mathematically operating with the formal representations of these configurational states serve to calculate macroscopic quantities characterizing the physical system. 
 
@@ -143,7 +141,7 @@ In what follows, we include in three boxes information related to Brownian motio
 </p>
 
 
-!!! quote "Box 7.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
+!!! quote "Box 8.1. *Issues requiring explaining models in Perrin´s Lecture (1)*."
 
 	•	The appearance or disappearance of molecules in chemical reactions imply the existence of a small number of simple indestructible bodies which can always be recovered without any change in their nature: the atoms. <br>
 	•	The fundamental laws of chemistry concern the discontinuity between chemical species and their discontinuous variation according to the rule of multiple proportions. Understanding these laws requires that compounds molecules contain whole number of atoms. <br>
@@ -164,7 +162,7 @@ In what follows, we include in three boxes information related to Brownian motio
 	•	Einstein’s formulae were checked by seeing whether they led always to the same value for Avogadro’s number. <br>
 	•	Different values for the Avogadro’s number were obtained depending on the experimental procedure used: distribution of emulsions analogous to gases, emulsions analogous to liquids, fluctuations in concentrated emulsions, translational Brownian movement or rotational Brownian movement.
 
-!!! quote "Box 7.2. *Issues requiring explaining models in Perrin´s Lecture (2)*."
+!!! quote "Box 8.2. *Issues requiring explaining models in Perrin´s Lecture (2)*."
 
 	•	Avogadro’s number has been obtained by means of measurements relating other phenomena such as: critical opalescence, the blueness of the sky, light diffused by gases, black-body radiation, measurements of the electric charges of charged microscopic dust or radioactivity. <br>
 	•	The objective reality of molecules and atoms which was doubted twenty years ago, can today be accepted as a principle the consequences of which can always be proved. <br>
@@ -176,5 +174,3 @@ In what follows, we include in three boxes information related to Brownian motio
 	-- in 1923: interpretation of Rutherford transmutations of elements not as being the effect of an explosive disintegration but on the contrary, as an integration (the helium nucleus combines with the nucleus that it has hit, to form a radioactive atom which soon expels a proton, and that there finally remains an atom which is three units heavier than the atom that has been hit).
 
 ***
-
-[**Next: 7.2.  Statistical mechanical calculations of the specific heat in solids.**](./vol-II-chap-7-sect-2.md)
