@@ -2,13 +2,13 @@
 [**Volume III: Waves**](./volume-III.md)
 
 ***
-# 12. Interferences of electromagnetic waves and detection of gravitational waves.
+# 10. Interferences of electromagnetic waves and detection of gravitational waves.
 
 *When do electromagnetic waves and gravitational waves produce interferences?*
 
 When no interference was observed in electromagnetic waves it implied that the ether did not exist. When interference was observed because of the detection of gravitational waves it implied that some mass was transformed into gravitational radiation. Electromagnetic wave interferences were understood long time ago; however, gravitational waves were experimentally measured until recent times.
 
-### Learning objectives of Chapter 12.
+### Learning objectives of Chapter 10.
 
 After this Chapter you should be able to:
 
@@ -16,23 +16,23 @@ After this Chapter you should be able to:
 - Discuss the LIGO Project and analyze the contributions made by Weiss, Barish and Thorne.
 - Describe the organization and development of the LIGO Project as a learning community.
 
-### Description of content of Chapter 12.
+### Description of content of Chapter 10.
 
-Section 12.1. The Michelson interferometer and the Michelson-Morley experiment.
+Section 10.1. The Michelson interferometer and the Michelson-Morley experiment.
 
 We consider the interferometer designed and build in 1881 by [Albert Abraham Michelson](https://en.wikipedia.org/wiki/Albert_A._Michelson) (1852-1931). Starting in 1887, with the collaboration of [Edward Williams Morley](https://en.wikipedia.org/wiki/Edward_W._Morley) (1838-1923), they tried to prove experimentally that the ether existed as an absolute reference system. The 1907 Physics Nobel Prize was awarded to Michelson “for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid”.
 
-Section 12.2. Gravitational astronomy.
+Section 10.2. Gravitational astronomy.
 
 We deal with LIGO, the Laser Interferometer Gravitational-Wave Observatory. LIGO was not an instrument for seeing electromagnetic waves, it was for feeling gravitational waves. We refer to the 2017 Physics Nobel Prize, one half awarded to [Rainer Weiss](https://en.wikipedia.org/wiki/Rainer_Weiss) (1932) “for theoretical discoveries in physical cosmology” and the other half jointly awarded to [Barry C. Barish](https://en.wikipedia.org/wiki/Barry_Barish) (1936) and [Kip S. Thorne](https://en.wikipedia.org/wiki/Kip_Thorne) (1940) “for decisive contributions to the LIGO detector and the observation of gravitational waves”.
 
-Section 12.3. Organization and evaluation of learning communities.
+Section 10.3. Organization and evaluation of learning communities.
 
 We apply the process called *Organization and evaluation of learning communities* to the analysis of the activities related to the organization and development of the [LIGO Project](https://en.wikipedia.org/wiki/LIGO) as described in the Nobel Lectures by Weiss and by Barish. 
 
 All references to Nobel Prize documents are given in MLA format at the end of the chapter.
 
-## 12.1. The Michelson interferometer and the Michelson-Morley experiment.
+## 10.1. The Michelson interferometer and the Michelson-Morley experiment.
 
 An [interference pattern](https://en.wikipedia.org/wiki/Wave_interference) shows alternate regions where the component waves add or subtract their amplitudes. When two wave components are of the same frequency and phase, they vibrate at the same rate and are maximum or minimum at the same time, therefore constructive interference can be observed showing reinforcement in the combined wave amplitude. An interferometer serves for the observation of interference patterns and for the determination of the lengths of the trajectories covered by each component wave or their corresponding arrival velocities. Some of the most relevant contributions on this issue have been the following:
 
