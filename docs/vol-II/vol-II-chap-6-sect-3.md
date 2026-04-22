@@ -1,11 +1,8 @@
 
 [**Volume II: Energy**](./volume-II.md)
-
-[**Previous: 5.2.  The photon as a quantum of energy.**](./vol-II-chap-5-sect-2.md) 
-
 ***
 
-## 5.3.  Components of the explanation of scientific theories.
+## 6.3.  Components of the explanation of scientific theories.
 
 In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure II.7). 
 
