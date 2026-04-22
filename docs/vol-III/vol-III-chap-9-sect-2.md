@@ -3,7 +3,7 @@
 
 ***
 
-## 11.2. Correspondence and uncertainty principles in Quantum Physics.
+## 9.2. Correspondence and uncertainty principles in Quantum Physics.
 
 The mathematical treatment of the concept of matter wave proposed by de Broglie requires that the motion of a quantum particle at a point $\vec{r}$ and at time $t$ must be described by a function of wave nature, the so-called wave function, which is represented as $ψ(\vec{r},t)$. This wave function has no physical meaning. It is the square of its absolute value, the probability density $P = │ψ(\vec{r},t)│^2$, that determines experimentally when and where the particle described by the wave function $ψ(\vec{r},t)$ is at position $\vec{r}(t)$ at time $t$.
 
