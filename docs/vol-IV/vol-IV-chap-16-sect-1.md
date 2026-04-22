@@ -36,7 +36,7 @@
 	This section concerns the description of one of the last Prizes in Economic Sciences awarded in 2021 to David Card “for his empirical contributions to labour economics” and to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”. We will not deal with Card´s recognized works.
 
 
-## 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.
+## 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.
 
 
 Sciences are rational systems for explaining certain objects and phenomena. Sciences are not dry knowledge; they are embedded in social contexts. Natural sciences and social sciences look for describing and understanding structural properties and functional behaviors of diverse universes. They have distinct levels and degrees of development because they address different kinds of problems; they create, apply, and test their own concepts, models, and research methodologies. The universes of humans and societies are different from the universes of atoms, molecules, galaxies, and black holes.
