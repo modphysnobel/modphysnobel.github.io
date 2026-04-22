@@ -3,14 +3,14 @@
 
 ***
 
-# 9. Conservation and transformation of energy.
+# 8. Conservation and transformation of energy.
 
 
 *Why a metal generates electrons when it is radiated with light and a LED emits light when electrons flow through it?*
   
 This chapter deals with the production, conservation, dissipation and saving of energy. One of the most important practical problems to be faced in our time is [conservation of energy](https://en.wikipedia.org/wiki/Conservation_of_energy) in any process in which coming out energy must be equal to coming in energy minus what is spent to make the process possible and what is lost. Some missing energy is dissipated  meaning entropy increases. 
 
-### Learning objectives of Chapter 9.
+### Learning objectives of Chapter 8.
 
 After this Chapter you should be able to:
 
@@ -18,21 +18,21 @@ After this Chapter you should be able to:
 - Analyze Einstein´s explanation of the photoelectric effect and describe the 2014 Physics Nobel Prize awarded for the invention of LEDs.
 - Explain some conceptual developments and technological applications on energy connected with the four anthropological spaces related to the Earth, the Territory, the Merchandises and the Knowledge. 
 
-### Description of content of Chapter 9.
+### Description of content of Chapter 8.
 
-Section 9.1. Conservation laws and the existence of symmetries.
+Section 8.1. Conservation laws and the existence of symmetries.
 
 We relate conservation laws to invariant properties of mathematical transformations associated to translation and rotations in space and translation in time. Furthermore, we describe Hamilton's principle of least action and relate Noether's theorem with conservation laws.
 
-Section 9.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
+Section 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
 
 As a critical application of the conservation of energy we discuss theoretical and experimental aspects of the photoelectric effect. We also consider several documents related to the 2014 Physics Nobel Prize awarded to Isamu Akasaki (1929-2021), Hiroshi Amano (1960) and Shuji Nakamura (1954) “for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources".             
 
-Section 9.3. Anthropological spaces for the development of collective intelligence.**
+Section 8.3. Anthropological spaces for the development of collective intelligence.**
 
 We explain the meaning of Anthropological spaces for the development of collective intelligence and then consider the main conceptual developments and technological applications on energy connected with four anthropological spaces: the Earth, the Territory, the Merchandises and the Knowledge. 
 
-## 9.1. Conservation laws and the existence of symmetries.
+## 8.1. Conservation laws and the existence of symmetries.
 
 Since ancient times it has been assumed that the [Newtonian space](https://en.wikipedia.org/wiki/Absolute_space_and_time) has the properties of being homogeneous, that is, it is the same in every region and there are no privileged reference points (the origin of the coordinate system can be anywhere). Furthermore, space is isotropic because there are no preferred orientations, all directions are equally appropriate. Time is also homogeneous, because there are no favorite moments for the description of the evolution of phenomena; every origin of time is equally valid.
 
