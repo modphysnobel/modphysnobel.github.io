@@ -1,10 +1,8 @@
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 8.1. Conservation laws and the existence of symmetries.**](./vol-II-chap-8-sect-1.md) 
-
 ***
 
-## 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
+## 9.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
 
 Despite the existence of the first [law of Thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics) establishing the conservation of energy, the second law indicates that in any transformation of energy the entropy increases or at least is maintained equal. This is a serious but inevitable condition imposed on any practical application of energy transforming devices.  Photocells and LEDs are important technological devices that minimize in effective ways their corresponding dissipation processes.  
 
@@ -252,5 +250,3 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 
 
 ***
-
-[**Next: 8.3. Anthropological spaces for the development of collective intelligence.**](./vol-II-chap-8-sect-3.md)
