@@ -3,9 +3,9 @@
 
 ***
 
-## 11.3.  Communication forms for describing scientific texts.
+## 9.3.  Communication forms for describing scientific texts.
 
-Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 11.2 for a description of these communication forms.
+Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 9.2 for a description of these communication forms.
 
  <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3.png?raw=true"> 
