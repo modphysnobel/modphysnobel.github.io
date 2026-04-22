@@ -1,17 +1,15 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-3/) 
-
 ***
 
-## 9.  Matter waves and quantum mechanics principles. 
+## 11.  Matter waves and quantum mechanics principles. 
 
 *What is light made of?  Is it a wave or a corpuscle?*
 
 By following Maxwell's theory and the experimental confirmation made by Hertz, light is an electromagnetic radiation. It behaves like a wave when it propagates but interacts with matter as a quantum particle, the photon. Light behaves as a wave or as a corpuscle depending on the type of experiment where energy-matter is produced, detected, applied or transformed. 
 
-### Learning objectives of Chapter 9.
+### Learning objectives of Chapter 11.
 
 After this Chapter you should be able to:
 
@@ -19,23 +17,23 @@ After this Chapter you should be able to:
 - Analyze the content of the correspondence principle proposed by Bohr and the uncertainty principle proposed by Heisenberg.
 - Explain the content of the Nobel Lectures by L. de Broglie, C. J. Davisson, G. P. Thomson, N. Bohr, and W. Heisenberg.
 
-### Description of content of Chapter 9.
+### Description of content of Chapter 11.
 
-Section 9.1. From a theoretical proposition to an experimental demonstration.
+Section 11.1. From a theoretical proposition to an experimental demonstration.
 
 We consider the existence of [matter waves](https://en.wikipedia.org/wiki/Matter_wave), first from a theoretical point of view by explaining the de Broglie's hypothesis (Physics Nobel Prize in 1929) and then from an experimental point of view by analyzing the observations of [electron diffraction](https://en.wikipedia.org/wiki/Electron_diffraction) by Davison and Thomson (Physics Nobel Prize in 1937).
 
-Section 9.2. Correspondence and uncertainty principles in Quantum Physics.
+Section 11.2. Correspondence and uncertainty principles in Quantum Physics.
 
 We deal with the representation of the superposition of a sine waves packet, consider when light behaves as a wave or a corpuscle, and discuss the principles of correspondence and uncertainty. The formulation of the new mechanics of material waves and quantized states requires new principles: the [correspondence principle](https://en.wikipedia.org/wiki/Correspondence_principle) proposed by Niels Bohr (Physics Nobel Prize in 1922) and the [uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle) proposed by Werner Heisenberg (Physics Nobel Prize in 1932).
 
 
-Section 9.3. Communication forms for describing scientific texts.
+Section 11.3. Communication forms for describing scientific texts.
 
 We apply the Communication forms for describing scientific texts to consider the organization of contents in terms of diagrams and designs as well as the application of procedures in terms of dialogues and discourses. Examples of these communication forms are described in terms of  in connection with Nobel Lectures related to matter waves, diffraction of electrons, and correspondence and uncertainty principles.
 
 
-## 9.1. From a theoretical proposition to an experimental demonstration. 
+## 11.1. From a theoretical proposition to an experimental demonstration. 
 
 The quantization relationship $E = nhν$ connects the concept of energy ($E$), characteristic of particles, with frequency ($ν$) which is a typically wave property. The constant of proportionality is Planck's constant $h$, of the order of $10^{-27}$ erg.sec. The equation proposed by de Broglie $p = h/λ$ also connects a corpuscular property, the linear momentum (p), with a wave property, the wavelength (λ); again, the constant of proportionality is $h$. The equation $E = nhν$ refers to the quantization of energy and the equation $p = h/ λ$ concerns matter waves.
 
@@ -135,5 +133,3 @@ MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 
 
 
 ***
-
-[**Next: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-III-chap-9-sect-2.md)
