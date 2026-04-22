@@ -1,13 +1,11 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](./vol-III-chap-9-sect-2.md) 
-
 ***
 
-## 9.3.  Communication forms for describing scientific texts.
+## 11.3.  Communication forms for describing scientific texts.
 
-Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 9.2 for a description of these communication forms.
+Information contained in scientific texts to be shared can be expressed in terms of different communication forms. In this section we deal with four communication forms related to a couple of communication strategies: a strategy for the organization of contents to be communicated in terms of diagrams or designs, and a strategy for the application of procedures to be communicated in terms of dialogues or discourses. See Table 11.2 for a description of these communication forms.
 
  <p align="center" width="100%">
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-III/figs/Nuevo9.3.png?raw=true"> 
@@ -264,5 +262,3 @@ $W=hν$ $p=\frac{hν}{c}$
 FRENCH, A.P. TAYLOR, E.F. *Introduction to Quantum Physics*. The MIT Introductory Physics Series. New York, W.W. Norton, (1978)
 
 ***
-
-[**10.1. The Michelson interferometer and the Michelson-Morley experiment.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-1/)
