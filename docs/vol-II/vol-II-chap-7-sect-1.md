@@ -1,17 +1,15 @@
 
 [**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 5.3. Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md) 
-
 ***
 
-# 6.   Spectroscopic studies of electronic levels.	
+# 7.   Spectroscopic studies of electronic levels.	
 
 *What happens when an electron changes its energy levels?* 
 
 Spectroscopic studies have been very useful to determine, understand and practically use transitions between quantized electronic levels in atoms. [Atomic spectroscopy](https://en.wikipedia.org/wiki/Atomic_spectroscopy) studies began with the discovery made by Isaac Newton when he observed the decomposition of visible light in different colors produced when that radiation traversed a prism. 
 	
-### Learning objectives of Chapter 6.
+### Learning objectives of Chapter 7.
 
 After this Chapter you should be able to: 
 	
@@ -19,21 +17,21 @@ After this Chapter you should be able to:
 - Explain the experimental steps required to produce, measure and interpret the Lamb shift.
 - Describe the main concepts and models contained in the Nobel Lectures corresponding to the Physics Nobel Prizes awarded to Bohr, Lamb, Townes, and Schawlow.
 
-### Description of content of Chapter 6.
+### Description of content of Chapter 7.
 
-Section 6.1. Electronic energy levels according to atomic models.
+Section 7.1. Electronic energy levels according to atomic models.
 
 We deal with the spectroscopic description of the hydrogen electronic levels as well as the processes of emitting and absorbing radiation by considering Bohr´s atomic model. We also describe the production of the laser effect (LASER means Light Amplification by Stimulated Emission of Radiation).
 
-Section 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.
+Section 7.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.
     
 We consider how external perturbations split electronic levels even when there are no external photons present: the vacuum of the electromagnetic field is not empty because it is full of virtual photons. We describe the experiments realized by Lamb and Retherford showing that certain degenerated energy levels in the hydrogen atom are separated when the self-energy of the electron is considered. 
 
-Section 6.3. Identification of concepts and descriptions of models.
+Section 7.3. Identification of concepts and descriptions of models.
 	
 We apply the procedure Identification of concepts and [descriptions of models](https://en.wikipedia.org/wiki/Model) to the analysis of the content of the Physics Nobel Prizes awarded to: Niels Henrik David Bohr (1985-1962) in 1922 “for his services in the investigation of the structure of atoms and of the radiation emanating from them”, Willis Eugene Lamb (1985-1962) in 1955 “for his discoveries concerning the fine structure of the hydrogen spectrum” (Prize shared with Polykarp Kusch), Charles Hard Townes (1915-2015) in 1964 “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle” (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov) and Arthur Leonard Schawlow (1921-1999) in 1981 "for their contribution to the development of laser <a href="https://en.wikipedia.org/wiki/Spectroscopy" title="here the definition">spectroscopy</a>" (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 	
-## 6.1. Electronic energy levels according to atomic models.
+## 7.1. Electronic energy levels according to atomic models.
 
 The simplest atom is the [hydrogen](https://en.wikipedia.org/wiki/Hydrogen): only one proton forms the nucleus, and one electron surrounds it. Hydrogen means *generator of water*. Antoine-Laurent de Lavoisier (1743-1794) named as such in 1783 because he observed that water was produced during hydrogen gas burning. The properties of hydrogen as a chemical element were first studied by Henry Cavendish (1731-1810); in 1766 he also discovered the composition of water, indicating that "water was composed of dephlogisticated air (oxygen) joined to phlogiston (hydrogen)".
 
@@ -169,5 +167,3 @@ For $N_2 >> N_1$ it is required to invert the population, which is produced by o
 
 	
 ***
-
-[**Next: 6.2.  Splitting of degenerated electronic energy levels in the hydrogen atom.**](./vol-II-chap-6-sect-2.md)
