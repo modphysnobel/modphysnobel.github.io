@@ -2,7 +2,7 @@
 
 ***
 
-## 12.2.	Gravitational astronomy.
+## 10.2.	Gravitational astronomy.
 
 Until very recently the [gravitational force](https://en.wikipedia.org/wiki/Gravity) had resisted any experimental demonstration that the boson representing its quantum field really exists: the graviton. One of the problems is that the estimated interaction time of this particle is of the order of years. Such times are much shorter for the bosons that correspond to the other three [forces of nature](https://es.wikipedia.org/wiki/Forces_of_Nature). If we indicate these times in seconds, for the photon, the quantum of electromagnetic force, it is between $10^{-14}$ and $10^{-20}$, for the gluon, the quantum of the strong force, it is less than $10^{-22}$ and for the $W^+$, $W^-$ and $Z^0$ particles, the quanta of the weak force, it is between $10^{-8}$ and $10^{-13}$. 
 
