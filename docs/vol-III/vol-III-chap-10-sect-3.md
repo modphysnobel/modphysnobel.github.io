@@ -3,7 +3,7 @@
 
 ***
 
-## 12.3.	Organization and evaluation of learning communities.
+## 10.3.	Organization and evaluation of learning communities.
 
 In this section we describe what a [learning community](https://en.wikipedia.org/wiki/Learning_community) is about and explains that the organization of LIGO project can be interpreted in terms of  a learning community.
 
