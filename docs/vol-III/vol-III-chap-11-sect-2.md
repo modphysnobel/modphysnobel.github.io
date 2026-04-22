@@ -2,7 +2,7 @@
 
 ***
 
-## 13.2 Production of new materials and study of individual quantum systems.
+## 11.2 Production of new materials and study of individual quantum systems.
 
 This section deals with two issues that have been innovative and important in connection with the performance of critical experiments: materials describing what to study (the [graphene](https://en.wikipedia.org/wiki/Graphene)) and methods explaining how to proceed (control of [photons](https://en.wikipedia.org/wiki/Photon) and [ions](https://en.wikipedia.org/wiki/Ion)). 
 
