@@ -1,10 +1,8 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 12.1.Boson condensation.**](./vol-III-chap-12-sect-1.md) 
-
 ***
 
-## 12.2.	Quantum Hall effects.
+## 14.2.	Quantum Hall effects.
 
 The [Hall effect](https://en.wikipedia.org/wiki/Hall_effect) was discovered in 1879 by [Edwin H. Hall](https://en.wikipedia.org/wiki/Edwin_Hall) (1855-1938). When an electric current flows through a conductor like a thin gold plate which is located in a magnetic field, this field exerts a transverse force on the carrier of moving charges, which tends to push them to one side of the conductor. The accumulation of charges on the sides of the conductor will balance the magnetic force, producing a measurable voltage between the two sides of the conductor. Such a potential drop is at right angles both to the current and the magnetic field. Hall performed his experiments at room temperature and with moderate magnetic fields of less than one tesla (T). One century after, Hall effect has been observed at extremely low temperatures (only a few degrees from absolute zero, i.e. around -272°C) and very powerful magnetic fields (max approx. 30 T).
 
@@ -108,5 +106,3 @@ In his 1998 Nobel Lecture $The Fractional Quantum Hall Effect$ Störmer explains
 Although the electrons usually repel each other because they are fermions, according to Laughlin the reported fractional quantization was because in the presence of very strong magnetic fields the electron gas behaved as a new type of [quantum fluid](https://en.wikipedia.org/wiki/Quantum_fluid) integrated by composite interacting fermions (the electrons) that behave as bosons and condense as fractionally charged “[quasiparticles](https://en.wikipedia.org/wiki/Quasiparticle)”. Laughlin, closed his Nobel lecture *Fractional Quantization* by saying: “Fractional quantum Hall quasiparticles are the elementary excitations of a distinct state of matter that cannot be deformed into noninteracting electrons without crossing a phase boundary. That means they are different from electrons in the only sensible way we have of defining different, and in particular are not adiabatic images of electrons the way quasiparticle excitations of metals and band insulators are.”
 
 ***
-
-[**Next: 12.3.	Analysis of learning trajectories.**](./vol-III-chap-12-sect-3.md)
