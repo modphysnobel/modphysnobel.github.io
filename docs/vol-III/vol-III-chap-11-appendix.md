@@ -1,10 +1,8 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 9.3. Communication forms for describing scientific texts.**](./vol-III-chap-9-sect-2.md) 
-
 ***
 
-## APPENDIX 9A. Representation of the superposition of a sine waves packet.
+## APPENDIX 11A. Representation of the superposition of a sine waves packet.
 
 As in any wave description, the propagation velocity of the wave is $u=λν$, where $ν$ is its frequency and $λ$ its wavelength. According to Planck $E=hν$; however, de Broglie proposed that $p=mv=h/λ$ and Einstein that $E=mc^2$. Therefore $ν=E/h=mc^2/h$ and since $λ=h/mv$, $u=λν=(h/mv)(mc^2/h)=c^2/v$, implies that $u>>c$, which is contrary to Einstein's special theory of relativity.
 
@@ -22,7 +20,7 @@ If we consider that $Δk<<k$ and $Δω<<ω$, then the superposition of two waves
 
 In view of the previous results, it is convenient to review how group and phase velocities are now compared in the case of de Broglie matter waves and consider what happens with a packet formed by the superposition of matter waves.
 
-In Section 9.1 we have considered that the sinusoidal function $A(x,t)≈sin[2πν(t−\frac{x}{w})]$ represents a wave with frequency $ν$, wavelength $λ$ and phase velocity $w=λν$. The following relations were obtained $ν=γν_0$ and $w=\frac{c^2}{v}$.
+In Section 11.1 we have considered that the sinusoidal function $A(x,t)≈sin[2πν(t−\frac{x}{w})]$ represents a wave with frequency $ν$, wavelength $λ$ and phase velocity $w=λν$. The following relations were obtained $ν=γν_0$ and $w=\frac{c^2}{v}$.
 
 From $E=hν=mc^2=γm_0c^2=γhν_0$ it follows that $w=2πν=2π(γν_0)=γω_0$. As $w=\frac{c^2}{v}$ and $λ=w/ν=(\frac{c^2}{v})(\frac{1}{γν_0})$, then $k=\frac{2π}{λ}=2π(\frac{v(γν_0)}{c^2})=(\frac{γ}{c})(\frac{v}{c})(2πν_0)=(\frac{β}{c})(γw_0)$, where $β=\frac{v}{c}$ and $γ=\frac{1}{\sqrt{(1−β^2)}}$.
 
@@ -39,8 +37,3 @@ $[β^2γ^2+1]=\frac{β^2}{1−β^2}+1=\frac{(β^2+1−β^2)}{1−β^2}=\frac{1}{
 Summarizing $v_g=\frac{dω}{dk}=\frac{(\frac{dω}{dβ})}{(\frac{dk}{dβ})}=\frac{(ω_0)(βγ^3)}{(\frac{γ^3ω_0}{c})}=βc=(\frac{v}{c})(c)=v$. This means that the velocity of the group ($v_g$) is equal to the velocity of the particle $v$ and that the superposition of a packet of sine waves is an appropriate representation of the matter wave. It represents the localization amplitude of the particle; their corresponding localization probability is the square of that amplitude, which makes physical sense.
 
 ***
-
-[**Next: 10.1.  The Michelson interferometer and the Michelson-Morley experiment.**](./vol-III-chap-10-sect-1.md)
-
-
-
