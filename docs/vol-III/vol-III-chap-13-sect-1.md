@@ -1,11 +1,9 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 10.3.	Organization and evaluation of learning communities.**](./vol-III-chap-10-sect-3.md) 
-
 ***
 
-# 11.	Quantum waves in condensed matter physics.
+# 13.	Quantum waves in condensed matter physics.
 
 *What kind of waves characterize condensed matter?*
 
@@ -21,19 +19,19 @@ After this Chapter you should be able to:
 
 ### Description of content of Chapter 11.
 
-Section 11.1. Microscopic observation of solids.
+Section 13.1. Microscopic observation of solids.
 
 We deal with the Physics Nobel Prizes awarded in 1915 to [Sir William Henry Bragg](https://en.wikipedia.org/wiki/William_Henry_Bragg) (1862-1942) and [William Lawrence Bragg](https://en.wikipedia.org/wiki/Lawrence_Bragg) (1890-1971) “for their services in the analysis of crystal structure by means of X-rays”, in 1986 to [Ernst Ruska](https://en.wikipedia.org/wiki/Ernst_Ruska) (1906-1988) “for his fundamental work in electron optics, and for the design of the first electron microscope” and to [Gerds Binning](https://en.wikipedia.org/wiki/Gerd_Binnig) (1947) and [Heinrich Rohrer](https://en.wikipedia.org/wiki/Heinrich_Rohrer) (1933-2013) “for their design of the scanning tunneling microscope”, and in 1994 “for pioneering contributions to the development of neutron scattering techniques for studies of condensed matter”, to [Bertram N. Brockhouse](https://en.wikipedia.org/wiki/Bertram_Brockhouse) (1918-2003) “for the development of neutron spectroscopy” and to [Clifford G. Shull](https://en.wikipedia.org/wiki/Clifford_Shull) (1915-2001) “for the development of the neutron diffraction technique”.
 
-Section 11.2. Production of new materials and study of individual quantum systems.
+Section 13.2. Production of new materials and study of individual quantum systems.
 
 We refer to the Physics Nobel Prize awarded in  2010 to [Andre Geim](https://en.wikipedia.org/wiki/Andre_Geim) (1958) and [Konstantin Novoselov](https://en.wikipedia.org/wiki/Konstantin_Novoselov) (1974) “for groundbreaking experiments regarding the two-dimensional material graphene”, and in 2012 to [Serge Haroche](https://en.wikipedia.org/wiki/Serge_Haroche) (1944) and [David J. Wineland](https://en.wikipedia.org/wiki/David_J._Wineland) (1944) “for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems”.
 
-Section 11.3. Phases in learning and research processes.
+Section 13.3. Phases in learning and research processes.
 
 We apply the document *Phases in a learning and research process* to the description of Geim´s Nobel Lecture *Random Walk to Graphen* according to two structural phases, one for learning and another for research.
 
-## 11.1. Microscopic observation of solids.
+## 13.1. Microscopic observation of solids.
 
 [Water](https://en.wikipedia.org/wiki/Water) as vapor is a gas, as rain it is a liquid, and as ice it is a solid. Basically, the main differences in between these states of matter are the mobility of their components and their structural conformation. 
 
@@ -221,5 +219,3 @@ NOBEL LECTURE: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical Wo
 MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/
 
 ***
-
-[**Next: 11.2. Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md)
