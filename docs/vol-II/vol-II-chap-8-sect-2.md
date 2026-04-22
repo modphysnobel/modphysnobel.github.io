@@ -2,7 +2,7 @@
 
 ***
 
-## 9.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
+## 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).
 
 Despite the existence of the first [law of Thermodynamics](https://en.wikipedia.org/wiki/Laws_of_thermodynamics) establishing the conservation of energy, the second law indicates that in any transformation of energy the entropy increases or at least is maintained equal. This is a serious but inevitable condition imposed on any practical application of energy transforming devices.  Photocells and LEDs are important technological devices that minimize in effective ways their corresponding dissipation processes.  
 
