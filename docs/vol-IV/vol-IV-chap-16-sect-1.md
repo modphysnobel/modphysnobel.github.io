@@ -1,11 +1,9 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 14.3. Contextualization of learning about the universe.**](./vol-IV-chap-14-sect-3.md) 
-
 ***
 
-## 15. Universes composed by humans and societies.
+## 16. Universes composed by humans and societies.
 
 !!! abstract "Introduction."
 
