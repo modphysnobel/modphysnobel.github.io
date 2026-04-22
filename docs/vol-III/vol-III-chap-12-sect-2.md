@@ -1,10 +1,8 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 10.1. The Michelson interferometer and the Michelson-Morley experiment.**](./vol-III-chap-10-sect-1.md) 
-
 ***
 
-## 10.2.	Gravitational astronomy.
+## 12.2.	Gravitational astronomy.
 
 Until very recently the [gravitational force](https://en.wikipedia.org/wiki/Gravity) had resisted any experimental demonstration that the boson representing its quantum field really exists: the graviton. One of the problems is that the estimated interaction time of this particle is of the order of years. Such times are much shorter for the bosons that correspond to the other three [forces of nature](https://es.wikipedia.org/wiki/Forces_of_Nature). If we indicate these times in seconds, for the photon, the quantum of electromagnetic force, it is between $10^{-14}$ and $10^{-20}$, for the gluon, the quantum of the strong force, it is less than $10^{-22}$ and for the $W^+$, $W^-$ and $Z^0$ particles, the quanta of the weak force, it is between $10^{-8}$ and $10^{-13}$. 
 
@@ -182,5 +180,3 @@ MLA style: Kip S. Thorne – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 “When we contemplate the enormous revolution in our understanding of the universe that has come from electromagnetic astronomy over the four centuries since Galileo, we are led to wonder what revolution will come from gravitational astronomy, and from its multi-messenger partnerships, over the coming four centuries.”
 
 ***
-
-[**Next: 10.3.	Organization and evaluation of learning communities.**](./vol-III-chap-10-sect-3.md)
