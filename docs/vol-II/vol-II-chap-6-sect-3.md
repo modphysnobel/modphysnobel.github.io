@@ -3,7 +3,7 @@
 
 ***
 
-## 7.3. Identification of concepts and descriptions of models.
+## 6.3. Identification of concepts and descriptions of models.
 
 Physics looks for explanations of certain observed and measured phenomena that mainly requires concepts, models, and theories to be understood and explained. These are cognitive constructs in need of logical developments, significative mathematical treatments, careful calculations, and clear interpretations of experimental results. 
 
@@ -44,7 +44,7 @@ MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB
 </p>
 
 
-!!! quote "Box 7.1. . *Issues requiring explaining models in Bohr´s Lecture*."
+!!! quote "Box 6.1. . *Issues requiring explaining models in Bohr´s Lecture*."
 
 	- Atomic structures by Thomson and by Rutherford. 
 	- Classification of elements and existence of isotopes according to electronic level structures. 
@@ -76,7 +76,7 @@ MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 </p>
 
 
-!!! quote "Box 7.2. *Issues requiring explaining models in Lamb´s Lecture*."
+!!! quote "Box 6.2. *Issues requiring explaining models in Lamb´s Lecture*."
 
 	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
 	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
@@ -111,7 +111,7 @@ MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.3.jpg?raw=true"> 
 </p>
 
-!!! quote "Box 7.3. *Issues requiring explaining models in Townes´ Lecture*."
+!!! quote "Box 6.3. *Issues requiring explaining models in Townes´ Lecture*."
 
 	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
 	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
@@ -154,7 +154,7 @@ MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Out
     <img width="600" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-II/figs/6.4.jpg?raw=true"> 
 </p>
 
-!!! quote "Box 7.4. *Issues requiring explaining models in Schawlow´s Lecture*."
+!!! quote "Box 6.4. *Issues requiring explaining models in Schawlow´s Lecture*."
 
 	- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
 	- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
