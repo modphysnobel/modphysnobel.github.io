@@ -2,7 +2,7 @@
 [**Volume II: Energy**](./volume-II.md)
 ***
 
-## 6.3.  Components of the explanation of scientific theories.
+## 5.3.  Components of the explanation of scientific theories.
 
 In this section we apply the components of the explanation of scientific theories to describe the content of the Nobel Lectures by Wien and by Planck (see Figure II.7). 
 
