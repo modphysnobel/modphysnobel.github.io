@@ -1,11 +1,9 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 9.1. From a theoretical proposition to an experimental demonstration.**](./vol-III-chap-9-sect-1.md) 
-
 ***
 
-## 9.2. Correspondence and uncertainty principles in Quantum Physics.
+## 11.2. Correspondence and uncertainty principles in Quantum Physics.
 
 The mathematical treatment of the concept of matter wave proposed by de Broglie requires that the motion of a quantum particle at a point $\vec{r}$ and at time $t$ must be described by a function of wave nature, the so-called wave function, which is represented as $ψ(\vec{r},t)$. This wave function has no physical meaning. It is the square of its absolute value, the probability density $P = │ψ(\vec{r},t)│^2$, that determines experimentally when and where the particle described by the wave function $ψ(\vec{r},t)$ is at position $\vec{r}(t)$ at time $t$.
 
@@ -82,7 +80,7 @@ Besides, according to Bohr the energy of a stationary state is $E_n = -R/(n^2)$,
 
 The uncertainty principle is incompatible to classical physics because in that world there is no impediment to simultaneously describe the position and velocity of a particle. However, in the quantum world, the representation of waves that occupy large regions in space does not coincide with the representation that corresponds to well-located corpuscles in space. Suppose that $Δx$ and $Δp_x$ designate, respectively, the indeterminacies in the measurements of the position and of the component of the linear momentum ($p_x = mv_x$) of a particle in the direction of the X axis. Both measurements are made at the same time and for the same particle. Classically, the value of $Δx$ does not depend at all on that of $Δp_x$, but quantumly the so-called Heisenberg **indeterminacy or uncertainty principle** proposed by [Werner Heisenberg](https://en.wikipedia.org/wiki/Werner_Heisenberg) must be satisfied. This principle establishes that the product of such uncertainties is of the order of Planck's constant ($h ≈ 6.6 \times 10^{-34} Js$). This principle can be represented as follows: $Δx Δp_x  ≥ h/(2π)$.
 
-Next section 9.3 includes a hypothetical dialogue between Bohr and Heisenberg about correspondence and uncertainty principles; it has been prepared by selecting some excerpts of their respective Nobel Lectures.
+Next section 11.3 includes a hypothetical dialogue between Bohr and Heisenberg about correspondence and uncertainty principles; it has been prepared by selecting some excerpts of their respective Nobel Lectures.
 
 WORK: “The discovery of the electron and radioactivity in the late 19th century led to different models being proposed for the atom’s structure. In 1913, Niels Bohr proposed a theory for the hydrogen atom, based on quantum theory that some physical quantities only take discrete values. Electrons move around a nucleus, but only in prescribed orbits, and If electrons jump to a lower-energy orbit, the difference is sent out as radiation. Bohr’s model explained why atoms only emit light of fixed wavelengths, and later incorporated the theories on light quanta.”
 
@@ -102,5 +100,3 @@ MLA style: Werner Heisenberg – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 
 ***
-
-[**Next: 9.3.  Communication forms for describing scientific texts.**](./vol-III-chap-9-sect-3.md)
