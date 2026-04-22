@@ -3,7 +3,7 @@
 
 ***
 
-## 6.2.  The photon as a quantum of energy.
+## 5.2.  The photon as a quantum of energy.
 
 ### Quantization in classical Physics.
 
