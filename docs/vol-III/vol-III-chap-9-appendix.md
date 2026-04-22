@@ -2,7 +2,7 @@
 
 ***
 
-## APPENDIX 11A. Representation of the superposition of a sine waves packet.
+## APPENDIX 9A. Representation of the superposition of a sine waves packet.
 
 As in any wave description, the propagation velocity of the wave is $u=λν$, where $ν$ is its frequency and $λ$ its wavelength. According to Planck $E=hν$; however, de Broglie proposed that $p=mv=h/λ$ and Einstein that $E=mc^2$. Therefore $ν=E/h=mc^2/h$ and since $λ=h/mv$, $u=λν=(h/mv)(mc^2/h)=c^2/v$, implies that $u>>c$, which is contrary to Einstein's special theory of relativity.
 
