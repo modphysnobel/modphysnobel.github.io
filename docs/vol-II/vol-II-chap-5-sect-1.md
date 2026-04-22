@@ -1,11 +1,11 @@
-# 6.   Energy quantization in the black body radiation.
+# 5.   Energy quantization in the black body radiation.
 
 
 *Why the color of an object changes when it is heated?*
 
 This is the first chapter of the second volume on Energy: it deals with [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics) and the beginning of quantum physics. Thermodynamics is the study of the macroscopic transformations of energy and implies the use of concepts such as temperature, heat, and entropy. However, at the beginning of last century classical thermodynamics was not enough to solve the [black body](https://en.wikipedia.org/wiki/Black-body_radiation) radiation problem, making imperative the quantization of energy. 
 
-### Learning objectives of Chapter 6.
+### Learning objectives of Chapter 5.
 
 After this Chapter you should be able to: 
 
@@ -13,21 +13,21 @@ After this Chapter you should be able to:
 - Explain the meaning of [quantization](https://en.wikipedia.org/wiki/Quantization_(physics)) in classical Physics and in the black body radiation.
 - Describe the content of two Nobel Lectures: *On the Laws of Thermal Radiation* by Wien and *The Genesis and Present State of Development of the Quantum Theory* by Planck.
 
-### Description of content of Chapter 6.
+### Description of content of Chapter 5.
 
-Section 6.1. Kinetic theory of gases and Thermodynamics.
+Section 5.1. Kinetic theory of gases and Thermodynamics.
  
 We consider the main developments in the kinetic theory of gases, and the initial contributions to the development of Thermodynamics made by James Prescott Joule, Julius Robert Mayer, Nicolas Léonard Sadi Carnot, William Thomson - First Baron Kelvin, Rudolf Julius Emanuel Clausius and Walther Hermann Nernst. We review the statements of the laws of Thermodynamics. We also refer to the following Chemistry Nobel Prizes related to Thermodynamics: in 1920 to Walther Hermann Nernst, in 1949 to William Francis Giauque, in 1968 to Lars Onsager and in 1977 to Ilya Prigogine.
 
-Section 6.2.  The [photon](https://en.wikipedia.org/wiki/Photon) as a quantum of energy.
+Section 5.2.  The [photon](https://en.wikipedia.org/wiki/Photon) as a quantum of energy.
 
 We describe a simple case of quantization in classical Physics and analyze the first physical phenomena whose explanation required the quantization of energy: the electromagnetic radiation of a black body described in terms of photons.
  
-Section 6.3.  Components of the explanation of a scientific theory.
+Section 5.3.  Components of the explanation of a scientific theory.
 
 In 1911 Wilhelm Carl Werner Otto Fritz Franz Wien received the Physics Nobel Prize "for his discoveries regarding the laws governing the radiation of heat" and in 1918 Max Karl Ernst Ludwig Planck received that Prize “in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta”. In this Section we apply the Components of the explanation of scientific theories to describe the content of Wien´s Nobel Lecture *On the Laws of Thermal Radiation* and Planck´s Nobel Lecture *The Genesis and Present State of Development of the Quantum Theory*. 
 
-## 6.1.  Kinetic theory of gases and Thermodynamics.
+## 5.1.  Kinetic theory of gases and Thermodynamics.
 
 Key information: In 1811 [Amadeo Avogadro](https://en.wikipedia.org/wiki/Amedeo_Avogadro) (1776-1856) introduced the term molecule and formulated the hypothesis that is named after him: "Equal volumes of gas, under equal conditions of pressure and temperature, contain the same number of molecules.” Once Avogadro's hypothesis is accepted, the number of molecules that exist in a given mass of gas can be calculated. The value of the so-called Avogadro's number is $N_A = N_0 = 6.0225 \times 10^{23}$ (molecules/mol).
 
