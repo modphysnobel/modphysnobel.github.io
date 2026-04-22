@@ -2,7 +2,7 @@
 
 ***
 
-## 8.2.  Statistical mechanical calculations of the specific heat in solids.
+## 7.2.  Statistical mechanical calculations of the specific heat in solids.
 
 This section contains three examples of the calculation of the thermodynamic quantity known as specific heat at constant volume <br>  ($C_V$), following the procedures indicated by statistical mechanics. We analyze three models of a solid which assume that it is composed by: (1) free particles, (2) harmonic oscillators quantized with the same frequency, and (3) harmonic oscillators quantized with a frequency distribution.
 
