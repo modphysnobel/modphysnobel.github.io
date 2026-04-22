@@ -1,10 +1,5 @@
-[**Volume II: Energy**](./volume-II.md)
 
-[**Previous: 5.3.  Components of the explanation of scientific theories.**](./vol-II-chap-5-sect-3.md) 
-
-***
-
-## Appendix 5A. Transcription of Wien´s Nobel Lecture.
+## Appendix 6A. Transcription of Wien´s Nobel Lecture.
 
 ### *On the Laws of Thermal Radiation.*
 
@@ -76,7 +71,7 @@
 
 “We must admit that the result of radiation theory todate is not a very good one for theoretical physics. As we have seen, only the general thermodynami theories have proved satisfactory as yet. The theory of electrons has come to grief over the radiation problem, the Planck theory has not yet been brought into a definite form. Research is faced with exceptional difficulties and we cannot discern when and how they can be overcome. In science, the redeeming idea often comes from an entirely different direction, investigations in an entirely different field often throw unexpected light on the dark aspects of unresolved problems. We must base our hope in the future in the expectation that the present era which has proved so fruitful for physics may not pass without a complete solution being found for the problem of thermal radiation. Far-reaching and new thoughts will have to set to work, but the result will be great, because we shall obtain a profound insight into the world of the atom and the elementary processes within it.”
 
-## Appendix 5B. Transcription of Planck´s Nobel Lecture.
+## Appendix 6B. Transcription of Planck´s Nobel Lecture.
 
 ### *The Genesis and Present State of Development of the Quantum Theory.*
 
