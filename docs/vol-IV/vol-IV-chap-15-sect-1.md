@@ -1,4 +1,4 @@
-# **15. THE UNIVERSE OF ULTRAFAST PROCESSES**
+# **15. The Universe of ultrafast processes**
 
 Observation and explanation of the microscopic universe require new scientific theories and modern technological devices for measuring ultrafast processes.
 
@@ -6,7 +6,7 @@ Observation and explanation of the microscopic universe require new scientific t
 
 The ability to measure means to be able to understand and control. Attosecond science has provided a direct observational window into the previously inaccessible world of electron dynamics and unlocked the study of the fundamental processes that govern the behavior of matter. While the 20th century was defined by our understanding of the atom, the 21st century will be shaped by our mastery over the electron.
 
-### **OBJECTIVES AND CONTENT OF SECTIONS.**
+### **Objetives and content of sections.**
 
 <strong>15.1. Description of Motion at Different Timescales.</strong>
 
