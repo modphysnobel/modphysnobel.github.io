@@ -1,11 +1,9 @@
 
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 11.2 Production of new materials and study of individual quantum systems.**](./vol-III-chap-11-sect-2.md) 
-
 ***
 
-## 11.3. Phases in a learning and research process.
+## 13.3. Phases in a learning and research process.
 
 In this section we describe Geim´s Nobel Lecture *Random Walk to Graphene*: MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
 
@@ -1839,5 +1837,3 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 F
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/advanced-information/
 
 ***
-
-[**Next: 12.1.	Boson condensation.**](./vol-III-chap-12-sect-1.md)
