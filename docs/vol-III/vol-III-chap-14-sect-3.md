@@ -1,10 +1,8 @@
 [**Volume III: Waves**](./volume-III.md)
 
-[**Previous: 12.2.	Quantum Hall effects.**](./vol-III-chap-12-sect-2.md) 
-
 ***
 
-## 12.3. Types of schools and learning trajectories.
+## 14.3. Types of schools and learning trajectories.
 
 Albert Einstein predicted the phenomena of condensation in the following publication *Quantentheorie des einatomigen idealen gases*. Königliche Preußische Akademie der Wissenschaften. Sitzungsberichte, (1924), 261–267. At that time, he was a mature and well recognized physicist of 45 years of age. The phenomenon was experimentally discovered till 1994 by Eric Cornell, Carl Wieman and Wolfgang Ketterle. What did Einstein learn to be able to make a theoretical prediction that was experimentally verified after 70 years? An answer to this question can be related to the notion of [curriculum](https://es.wikipedia.org/wiki/Curr%C3%ADculo_(educaci%C3%B3n)) and two possible manifestations in Einstein´s life concerning [learning](https://en.wikipedia.org/wiki/Learning): prescriptive learning and [emergent learning](https://en.wikipedia.org/wiki/Emergent_curriculum). 
 
@@ -100,5 +98,3 @@ SCHILPP, PAUL ARTHUR, *Albert Einstein: Philosopher-Scientist*. The Library of L
 STACHEL, JOHN, *Einstein Miracolous Year. Five Papers that Changed the Face of Physics*. Princeton University Press, Princeton, New Jersey (1998).
 
 ***
-
-[**Next: 13.1. Descriptions of laboratory instruments.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-1/)
