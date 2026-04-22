@@ -3,7 +3,7 @@
 
 ***
 
-## 13.3. Phases in a learning and research process.
+## 11.3. Phases in a learning and research process.
 
 In this section we describe Geim´s Nobel Lecture *Random Walk to Graphene*: MLA style: Andre Geim – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 28 May 2023.https://www.nobelprize.org/prizes/physics/2010/geim/lecture/
 
