@@ -1,11 +1,9 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](./vol-IV-chap-15-sect-1.md) 
-
 ***
 
-## 15.2. Role of statistical analysis in the formulation of models.
+## 16.2. Role of statistical analysis in the formulation of models.
 
 In this Section we refer to the 1969 Prize in Economic Science as a recognition of the initial steps in econometry. We include excerpts from the *Award ceremony speech* presented by Professor Erik Lundberg of the Royal Academy of Sciences, and afterwards we present summaries and quotes related to the Prize Lectures given by Ragnar Frisch and by Jan Tinbergen.
 
