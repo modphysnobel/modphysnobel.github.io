@@ -25,7 +25,7 @@ After this Chapter you should be able to:
 
 !!! abstract "Description of content of Chapter 16."
 
-	Section 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.
+Section 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.
 
 This section describes a selection of 15 of the 54 Prizes in Economic Sciences in Memory of Alfred Nobel awarded since 1969 up to 2023. This selection only considers research in econometry and some applications of economic theories.
 
