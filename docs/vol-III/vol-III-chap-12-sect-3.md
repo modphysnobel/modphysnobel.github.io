@@ -1,5 +1,6 @@
 [**Volume III: Waves**](./volume-III.md)
-[**Previous: 12.2. Analysis of learning trajectories.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-2/) 
+
+[**Previous: 12.2. Quantum Hall effects.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-2/) 
 
 ***
 
