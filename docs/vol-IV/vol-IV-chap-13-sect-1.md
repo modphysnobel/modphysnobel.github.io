@@ -1,11 +1,11 @@
 
-[**Volume IV: Universe**](./volume-IV.md)
+[**Volume IV: Universes**](./volume-IV.md)
 
 [**Previous: 12.3. Analysis of learning trajectories.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-3/) 
 
 ***
 
-# 13. Development of knowledge in high energy physics.     
+# 13. Developments in high energy physics.     
 
 
 *What are the structures of atomic nuclei and of elementary particles?*
