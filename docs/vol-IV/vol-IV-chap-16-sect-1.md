@@ -7,19 +7,7 @@
 
 !!! abstract "Introduction."
 
-	*What kind of universes are described by some Prizes in Economic Sciences?*
-
-	Is it worthwhile to talk about universes in Economic Sciences? What can we learn from the descriptions of the Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel? 
-
-	Several mathematical ideas and procedures as well as physical concepts and models have been used and adapted to study social processes from a perspective based in Economic sciences. Furthermore, many economists have been former mathematicians and some of them studied Physics.
-
-	**Learning objectives of Chapter 15.**
- 	
-	After this Chapter you should be able to: 
-
-	- Analyze the meaning of Economic Sciences and describe a selection of Prizes in Economic Sciences in Memory of Alfred Nobel awarded since 1969 up to 2023.
-	- Describe the Prize in Economic Sciences awarded in 1969 recognizing the development of dynamic models in econometry. 
-	- Describe the Prize in Economic Sciences awarded in 2021 recognizing the analysis of causal relationships in the study of natural experiments. 
+	
 
 !!! abstract "Description of content of Chapter 16."
 
