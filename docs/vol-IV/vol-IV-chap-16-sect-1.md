@@ -81,13 +81,14 @@ Up to now, 54 Prizes in Economic Sciences in Memory of Alfred Nobel have been aw
 
 !!! tip "1969 Economic-sciences Nobel Prize awarded to Frisch."
 
-	WORK: “Ragnar Frisch, along with Jan Tinbergen, pioneered development of mathematical formulations of economics. He coined the term econometrics for studies in which he used statistical methods to describe economic systems. He is best known for his contributions to dynamic economic modeling, and in 1933 he presented the first mathematical economic model that could describe fluctuations in the business cycle. His later work concerned models for economic planning.”
-	
-	MLA style: Ragnar Frisch – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/facts/
+WORK: “Ragnar Frisch, along with Jan Tinbergen, pioneered development of mathematical formulations of economics. He coined the term econometrics for studies in which he used statistical methods to describe economic systems. He is best known for his contributions to dynamic economic modeling, and in 1933 he presented the first mathematical economic model that could describe fluctuations in the business cycle. His later work concerned models for economic planning.”
 
-	PRIZE LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Frisch.
+MLA style: Ragnar Frisch – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023.  https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/facts/ 
 
-	MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/lecture/
+PRIZE LECTURE: *From Utopian Theory to Practical Applications: The Case of Econometrics* by Frisch.
+
+MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/frisch/lecture/
+
 
 !!! tip "1969 Economic-sciences Nobel Prize awarded to Tinbergen."
 
