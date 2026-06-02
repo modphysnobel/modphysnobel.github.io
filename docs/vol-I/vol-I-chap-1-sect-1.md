@@ -41,7 +41,8 @@ According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954)
 <tbody>
    <tr>
       <td>
-       <img src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg "width=120 align=center>
+       <img src="https://raw.githubusercontent.com/modphysnobel/modphysnobel.github.io/refs/heads/main/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg
+		   "width=120 align=center>
      </td>
      <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg" width=120 align=center>
