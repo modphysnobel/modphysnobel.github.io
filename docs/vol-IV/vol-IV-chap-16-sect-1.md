@@ -6,6 +6,7 @@
 ## 16. Universes composed by humans and societies.
 
 !!! abstract "Introduction."
+
 What kind of universes are described by some Prizes in Economic Sciences?
 
 Is it worthwhile to talk about universes in Economic Sciences? What can we learn from the descriptions of the Sveriges Riksbank Prizes in Economic Sciences in Memory of Alfred Nobel? 
