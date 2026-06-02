@@ -21,17 +21,17 @@
 	- Describe the Prize in Economic Sciences awarded in 1969 recognizing the development of dynamic models in econometry. 
 	- Describe the Prize in Economic Sciences awarded in 2021 recognizing the analysis of causal relationships in the study of natural experiments. 
 
-!!! abstract "Description of content of Chapter 15."
+!!! abstract "Description of content of Chapter 16."
 
-	**Section 15.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**
+	**Section 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**
 	
 	This section describes a selection of 15 of the 54 Prizes in Economic Sciences in Memory of Alfred Nobel awarded since 1969 up to 2023. This selection only considers research in econometry and some applications of economic theories.
 
-	**Section 15.2. Role of statistical analysis in the formulation of models.**
+	**Section 16.2. Role of statistical analysis in the formulation of models.**
 
 	This section deals with the description of the first Prize in Economic Sciences awarded in 1969 to Ragnar Frisch and Jan Tinbergen “for having developed and applied dynamic models for the analysis of economic processes”.
 
-	**Section 15.3. Interpretation of natural experiments in Economic sciences.**
+	**Section 16.3. Interpretation of natural experiments in Economic sciences.**
 
 	This section concerns the description of one of the last Prizes in Economic Sciences awarded in 2021 to David Card “for his empirical contributions to labour economics” and to Joshua D. Angrist and Guido W. Imbens “for their methodological contributions to the analysis of causal relationships”. We will not deal with Card´s recognized works.
 
