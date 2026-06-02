@@ -100,4 +100,4 @@ SCHILPP, PAUL ARTHUR, *Albert Einstein: Philosopher-Scientist*. The Library of L
 STACHEL, JOHN, *Einstein Miracolous Year. Five Papers that Changed the Face of Physics*. Princeton University Press, Princeton, New Jersey (1998).
 
 ***
-[**Next: 13.1. Descriptions of laboratory instruments.**](./vol-IV-chap-13-sect-1.md)
+[**Next: 13.1. Descriptions of laboratory instruments.**](docs/vol-IV/vol-IV-chap-13-sect-1.md)
