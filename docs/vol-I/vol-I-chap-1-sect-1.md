@@ -41,7 +41,8 @@ According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954)
 <tbody>
    <tr>
       <td>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg" alt="Pitágoras" width="120">
+       <img src="![Uploading Pythagoras_in_the_Roman_Forum,_Colosseum.jpg…]()
+
      </td>
      <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg" width=120 align=center>
