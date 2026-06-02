@@ -6,7 +6,7 @@
 
 *What are the main characteristics of dictatorial or democratic conceptualizations?*
     
-We will understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas.
+We will understand by conceptualizati****on a style for creating concepts; it is a process concerning the formation of ideas.
     
 ### **Learning objectives of Chapter 1.**
     
@@ -41,7 +41,8 @@ According to [John D. Bernal](https://en.wikipedia.org/wiki/J._D._Bernal) (1954)
 <tbody>
    <tr>
       <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/332px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg" width=120 align=center>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg" 			
+			width=120 align=center>
      </td>
      <td>
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Pericles_Pio-Clementino_Inv269_n2.jpg" width=120 align=center>
