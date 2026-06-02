@@ -92,13 +92,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1969 Economic-sciences Nobel Prize awarded to Tinbergen."
 
-	WORK: “Ragnar Frisch before him, Jan Tinbergen was a pioneer in changing economics from a science formulated in words to one based on mathematics. During the 1930s he developed the first macroeconomic model that described in detail variables from the entire economy and placed them in a mathematical relationship with one another. Previously this could only be done in general terms, but now it could be done with concrete numbers. Tinbergen used his knowledge of statistics to test models in order to choose those that were most suitable.”
+WORK: “Ragnar Frisch before him, Jan Tinbergen was a pioneer in changing economics from a science formulated in words to one based on mathematics. During the 1930s he developed the first macroeconomic model that described in detail variables from the entire economy and placed them in a mathematical relationship with one another. Previously this could only be done in general terms, but now it could be done with concrete numbers. Tinbergen used his knowledge of statistics to test models in order to choose those that were most suitable.”
 	
-	MLA style: Jan Tinbergen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/facts/
+MLA style: Jan Tinbergen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/facts/>
 
-	PRIZE LECTURE: *The Use of Models: Experience and Prospects* by Tinbergen.
+PRIZE LECTURE: *The Use of Models: Experience and Prospects* by Tinbergen.
 
-	MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/>
+MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1969/tinbergen/lecture/>
 
 ***
 
@@ -106,13 +106,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1970 Economic-sciences Nobel Prize awarded to Samuelson."
 
-	WORK: “Where Ragnar Frisch and Jan Tinbergen had earlier focused on statistics and empirical data, Paul Samuelson devoted his time to theoretical methods and analysis of economics. He formalized economics research using mathematics and his work influences practically all branches of modern economics. He saw himself as the last generalist among increasingly specialized economists and was one of the foremost innovators in the New Keynesian school, which incorporated Keynes' ideas with market theories.”
+WORK: “Where Ragnar Frisch and Jan Tinbergen had earlier focused on statistics and empirical data, Paul Samuelson devoted his time to theoretical methods and analysis of economics. He formalized economics research using mathematics and his work influences practically all branches of modern economics. He saw himself as the last generalist among increasingly specialized economists and was one of the foremost innovators in the New Keynesian school, which incorporated Keynes' ideas with market theories.”
 
-	MLA style: Paul A. Samuelson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/facts/
+MLA style: Paul A. Samuelson – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/facts/>
 
-	PRIZE LECTURE: *Maximum Principles in Analytical Economics* by Samuelson.
+PRIZE LECTURE: *Maximum Principles in Analytical Economics* by Samuelson.
 
-	MLA style: Paul A. Samuelson – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/lecture/>
+MLA style: Paul A. Samuelson – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1970/samuelson/lecture/>
 
 ***
 
@@ -120,13 +120,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "Economic-sciences Nobel Prize awarded to Leontief."
 
-	WORK: “Wassily Leontief created the input-output analysis, which describes the interdependence in the production system as a network of deliveries between the various sectors of production. The method provided tools for a systematic analysis of the complicated interindustrial transactions in an economy. Leontieff is also distinguished for having developed linear programming, a mathematical technique for solving complex problems of economic operations.”
+WORK: “Wassily Leontief created the input-output analysis, which describes the interdependence in the production system as a network of deliveries between the various sectors of production. The method provided tools for a systematic analysis of the complicated interindustrial transactions in an economy. Leontieff is also distinguished for having developed linear programming, a mathematical technique for solving complex problems of economic operations.”
 
-	MLA style: Wassily Leontief – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/facts/
+MLA style: Wassily Leontief – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/facts/>
 
-	PRIZE LECTURE: *Structure of the World Economy* by Leontief.
+PRIZE LECTURE: *Structure of the World Economy* by Leontief.
 	
-	MLA style: Wassily Leontief – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/lecture/>
+MLA style: Wassily Leontief – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1973/leontief/lecture/>
 
 ***
 
@@ -134,13 +134,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "Economic-sciences Nobel Prize awarded to Simon."
 
-	WORK: “Herbert Simon combined different scientific disciplines and considered new factors in economic theories. Established economic theories held that enterprises and entrepreneurs all acted in completely rational ways, with the maximization of their own profit as their only goal. In contrast, Simon held that when making choices all people deviate from the strictly rational, and described companies as adaptable systems, with physical, personal, and social components. Through these perspectives, he was able to write about decision-making processes in modern society in an entirely new way.”
+WORK: “Herbert Simon combined different scientific disciplines and considered new factors in economic theories. Established economic theories held that enterprises and entrepreneurs all acted in completely rational ways, with the maximization of their own profit as their only goal. In contrast, Simon held that when making choices all people deviate from the strictly rational, and described companies as adaptable systems, with physical, personal, and social components. Through these perspectives, he was able to write about decision-making processes in modern society in an entirely new way.”
 
-	MLA style: Herbert A. Simon – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/>
+MLA style: Herbert A. Simon – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/>
 
-	PRIZE LECTURE: *Rational Decision-Making in Business Organizations* by Simon.
+PRIZE LECTURE: *Rational Decision-Making in Business Organizations* by Simon.
 
-	MLA style: Herbert A. Simon – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/lecture/>
+MLA style: Herbert A. Simon – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1978/simon/lecture/>
 
 ***
 
@@ -148,23 +148,23 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1979 Economic-sciences Nobel Prize awarded to Schultz."
 
-	WORK: “The main characteristic of Theodore Schultz’s studies is that he treated agricultural economy as an integral part of the entire economy. His analytical interest was focused on the imbalance between relative poverty and underdevelopment in agriculture compared with the higher productivity and higher income levels in industry and other urban economic activities.”
+WORK: “The main characteristic of Theodore Schultz’s studies is that he treated agricultural economy as an integral part of the entire economy. His analytical interest was focused on the imbalance between relative poverty and underdevelopment in agriculture compared with the higher productivity and higher income levels in industry and other urban economic activities.”
 
-	MLA style: Theodore W. Schultz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/facts/
+MLA style: Theodore W. Schultz – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/facts/>
 
-	PRIZE LECTURE: *The Economics of Being Poor* by Schultz.
+PRIZE LECTURE: *The Economics of Being Poor* by Schultz.
 
-	MLA style: Theodore W. Schultz – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/
+MLA style: Theodore W. Schultz – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1979/schultz/lecture/>
 
 !!! tip "1979 Economic-sciences Nobel Prize awarded to Lewis."
 
-	WORK: “Arthur Lewis was a leading figure and pioneer in the field of economic development. Lewis created two theoretical explanatory models designed to describe and explain the intrinsic problems of underdevelopment. The first model is based on the dual nature of a developing economy. Lewis’s other basic models relates to the determination of the terms of trade between developing and developed countries.”
+WORK: “Arthur Lewis was a leading figure and pioneer in the field of economic development. Lewis created two theoretical explanatory models designed to describe and explain the intrinsic problems of underdevelopment. The first model is based on the dual nature of a developing economy. Lewis’s other basic models relates to the determination of the terms of trade between developing and developed countries.”
 
-	MLA style: Sir Arthur Lewis – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/facts/
+MLA style: Sir Arthur Lewis – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/facts/>
 
-	PRIZE LECTURE: *The Slowing Down of the Engine of Growth* by Lewis.
+PRIZE LECTURE: *The Slowing Down of the Engine of Growth* by Lewis.
 
-	MLA style: Sir Arthur Lewis – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/lecture/>
+MLA style: Sir Arthur Lewis – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1979/lewis/lecture/>
 
 ***
 
@@ -172,13 +172,14 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1981 Economic-sciences Nobel Prize awarded to Tobin."
 
-	WORK: “James Tobin’s achievements cover a broad spectrum of economic research. He made substantial contributions in such widely differing areas as econometric methods and strictly formalized game theory, the theory of household and firm behavior, general macro theory and applied analysis of economic policy. His most outstanding and significant research contribution belongs to the theory of financial markets and their relation to consumption and investment decisions, production, employment and prices.”
+WORK: “James Tobin’s achievements cover a broad spectrum of economic research. He made substantial contributions in such widely differing areas as econometric methods and strictly formalized game theory, the theory of household and firm behavior, general macro theory and applied analysis of economic policy. His most outstanding and significant research contribution belongs to the theory of financial markets and their relation to consumption and investment decisions, production, employment and prices.”
 
-	MLA style: James Tobin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/facts/
+MLA style: James Tobin – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/facts/>
+
 	
-	PRIZE LECTURE: *Money and Finance in the Macro-Economic Process* by Tobin.
+PRIZE LECTURE: *Money and Finance in the Macro-Economic Process* by Tobin.
 
-	MLA style: James Tobin – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/lecture/>
+MLA style: James Tobin – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1981/tobin/lecture/>
 
 ***
 
@@ -186,13 +187,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1983 Economic-sciences Nobel Prize awarded to Debreu."
 
-	WORK: “Debreu’s classic monograph, The Theory of Value: An Axiomatic Analysis of Economic Equilibrium, was published in 1959. In it, Debreu provided the mathematical underpinnings for the phenomenon of equilibrium in supply and demand. Debreu also made significant contributions to the theory of consumer behavior.”
+WORK: “Debreu’s classic monograph, The Theory of Value: An Axiomatic Analysis of Economic Equilibrium, was published in 1959. In it, Debreu provided the mathematical underpinnings for the phenomenon of equilibrium in supply and demand. Debreu also made significant contributions to the theory of consumer behavior.”
 	
-	MLA style: Gerard Debreu – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/facts/
+MLA style: Gerard Debreu – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/facts/>
 
-	PRIZE LECTURE: *Economic Theory in the Mathematical Mode* by Debreu.
+PRIZE LECTURE: *Economic Theory in the Mathematical Mode* by Debreu.
 
-	MLA style: Gerard Debreu – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/lecture/>
+MLA style: Gerard Debreu – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1983/debreu/lecture/>
 
 ***
 
@@ -200,13 +201,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1989 Economic-sciences Nobel Prize awarded to Haavelmo."
 
-	WORK: “Trygve Haavelmo was a pioneer in what became the field of economic forecasting. His statistical techniques made possible the development of econometric models that predict how a change in one aspect of the economy will affect others; that is, he demonstrated that statistical probability theory could be integrated into economic formulations. Haavelmo’s method contributed to the techniques of national economic forecasting.”
+WORK: “Trygve Haavelmo was a pioneer in what became the field of economic forecasting. His statistical techniques made possible the development of econometric models that predict how a change in one aspect of the economy will affect others; that is, he demonstrated that statistical probability theory could be integrated into economic formulations. Haavelmo’s method contributed to the techniques of national economic forecasting.”
 
-	MLA style: Trygve Haavelmo – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/facts/
+MLA style: Trygve Haavelmo – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/facts/>
 
-	PRIZE LECTURE: *Econometrics and the Welfare State* by Haavelmo.
+PRIZE LECTURE: *Econometrics and the Welfare State* by Haavelmo.
 
-	MLA style: Trygve Haavelmo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/>
+MLA style: Trygve Haavelmo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1989/haavelmo/lecture/>
 
 ***
 
@@ -214,33 +215,33 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1994 Economic-sciences Nobel Prize awarded to Harsanyi."
 
-	WORK: “John C. Harsanyi was awarded the Economic Sciences Prize in for his work in game theory and its application to economics. He showed how games of incomplete information can be analyzed thereby providing a theoretical foundation for a lively field of research – the economics of information. He is also known for researching utilitarian ethics and is considered one of the most important exponents of the “rule utilitarianism”.
+WORK: “John C. Harsanyi was awarded the Economic Sciences Prize in for his work in game theory and its application to economics. He showed how games of incomplete information can be analyzed thereby providing a theoretical foundation for a lively field of research – the economics of information. He is also known for researching utilitarian ethics and is considered one of the most important exponents of the “rule utilitarianism”.
 
-	MLA style: John C. Harsanyi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/facts/
+MLA style: John C. Harsanyi – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/facts/>
 
-	PRIZE LECTURE: *Games with Incomplete Information* by Harsanyi.
+PRIZE LECTURE: *Games with Incomplete Information* by Harsanyi.
 
-	MLA style: John C. Harsanyi – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/lecture/
+MLA style: John C. Harsanyi – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1994/harsanyi/lecture/>
 
 !!! tip "1994 Economic-sciences Nobel Prize awarded to Nash."
 
-	WORK: “John F. Nash is the only person who has been awarded both the Economic Sciences Prize and the Abel Prize. He received the Economic Sciences Prize for his work in game theory, more specifically the Nash equilibrium theory. He introduced the distinction between cooperative games and non-cooperative games. He also did ground breaking work in other mathematics and developed the Nash embedding theorem.”
+WORK: “John F. Nash is the only person who has been awarded both the Economic Sciences Prize and the Abel Prize. He received the Economic Sciences Prize for his work in game theory, more specifically the Nash equilibrium theory. He introduced the distinction between cooperative games and non-cooperative games. He also did ground breaking work in other mathematics and developed the Nash embedding theorem.”
 
-	MLA style: John F. Nash Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/nash/facts/
+MLA style: John F. Nash Jr. – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1994/nash/facts/>
 
-	PRIZE LECTURE: *The Work of John Nash in Game Theory* by Nash.
+PRIZE LECTURE: *The Work of John Nash in Game Theory* by Nash.
 
-	MLA style: John F. Nash, Jr. – Prize Seminar. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/1994/nash/lecture/
+MLA style: John F. Nash, Jr. – Prize Seminar. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1994/nash/lecture/>
 
 !!! tip "1994 Economic-sciences Nobel Prize awarded to Selten."
 
-	WORK: “Reinhard Selten received the Economic Sciences Prize for his work in game theory, along with his co recipients John F. Nash Jr and John C. Harsanyi. He refined the Nash equilibrium concept for analyzing dynamic strategic interaction by getting rid of unlikely equilibria. He also applied the refined concept to analyses of oligopolistic competition. He is also well known for his work in bounded rationality. He also built the BonnEconLab at the University of Bonn.”
+WORK: “Reinhard Selten received the Economic Sciences Prize for his work in game theory, along with his co recipients John F. Nash Jr and John C. Harsanyi. He refined the Nash equilibrium concept for analyzing dynamic strategic interaction by getting rid of unlikely equilibria. He also applied the refined concept to analyses of oligopolistic competition. He is also well known for his work in bounded rationality. He also built the BonnEconLab at the University of Bonn.”
 
-	MLA style: Reinhard Selten – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1994/selten/facts/
+MLA style: Reinhard Selten – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1994/selten/facts/>
 
-	PRIZE LECTURE: *Multistage Game Models and Delay Supergames* by Selten.
+PRIZE LECTURE: *Multistage Game Models and Delay Supergames* by Selten.
 
-	MLA style: Reinhard Selten – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1994/selten/lecture/>
+MLA style: Reinhard Selten – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1994/selten/lecture/>
 
 ***
 
@@ -248,13 +249,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "1998 Economic-sciences Nobel Prize awarded to Sen."
 
-	WORK: “Which are the most important and fundamental resources in a community and how should we divide them? One focus of Amartya Sen's research is how individuals' values can be considered in collective decision-making and how welfare and poverty can be measured. His efforts stem from his interest in questions of distribution and, in particular, the lot of society's poorest members. Sen's studies have included famines, to create a deeper understanding of the economic reasons behind famine and poverty.”
+WORK: “Which are the most important and fundamental resources in a community and how should we divide them? One focus of Amartya Sen's research is how individuals' values can be considered in collective decision-making and how welfare and poverty can be measured. His efforts stem from his interest in questions of distribution and, in particular, the lot of society's poorest members. Sen's studies have included famines, to create a deeper understanding of the economic reasons behind famine and poverty.”
 
-	MLA style: Amartya Sen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/1998/sen/facts/
+MLA style: Amartya Sen – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/1998/sen/facts/>
 
-	PRIZE LECTURE: *The Possibility of Social Choice* by Sen.
+PRIZE LECTURE: *The Possibility of Social Choice* by Sen.
 
-	MLA style: Amartya Sen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1998/sen/lecture/>
+MLA style: Amartya Sen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/1998/sen/lecture/>
 
 ***
 
@@ -262,23 +263,23 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "2002 Economic-sciences Nobel Prize awarded to Kahneman."
 
-	WORK: “Daniel Kahneman began his prize-awarded research in the late 1960s. In order to increase understanding of how people make economic decisions, he drew on cognitive psychology in relation to the mental process used in forming judgements and making choices. His research on decision-making under uncertainty resulted in the formulation of a new branch of economics, prospect theory.”
+WORK: “Daniel Kahneman began his prize-awarded research in the late 1960s. In order to increase understanding of how people make economic decisions, he drew on cognitive psychology in relation to the mental process used in forming judgements and making choices. His research on decision-making under uncertainty resulted in the formulation of a new branch of economics, prospect theory.”
 
-	MLA style: Daniel Kahneman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/
+MLA style: Daniel Kahneman – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/>
 
-	PRIZE LECTURE: *Maps of Bounded Rationality* by Kahneman.
+PRIZE LECTURE: *Maps of Bounded Rationality* by Kahneman.
 
-	MLA style: Daniel Kahneman – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/
+MLA style: Daniel Kahneman – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/lecture/>
 
 !!! tip "2002 Economic-sciences Nobel Prize awarded to Smith."
 
-	WORK: “Vernon Smith has laid the foundation for the field of experimental economics. He has developed an array of experimental methods, setting standards for what constitutes a reliable laboratory experiment in economics. In his own experimental work, he has demonstrated the importance of alternative market institutions, e.g., how the revenue expected by a seller depends on the choice of auction method.”
+WORK: “Vernon Smith has laid the foundation for the field of experimental economics. He has developed an array of experimental methods, setting standards for what constitutes a reliable laboratory experiment in economics. In his own experimental work, he has demonstrated the importance of alternative market institutions, e.g., how the revenue expected by a seller depends on the choice of auction method.”
 	
-	MLA style: Vernon L. Smith – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2002/smith/facts/
+MLA style: Vernon L. Smith – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2002/smith/facts/>
 
-	PRIZE LECTURE: *Constructivist and Ecological Rationality in Economics* by Smith.
+PRIZE LECTURE: *Constructivist and Ecological Rationality in Economics* by Smith.
 
-	MLA style: Vernon L. Smith – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2002/smith/lecture/>
+MLA style: Vernon L. Smith – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2002/smith/lecture/>
 
 ***
 
@@ -286,23 +287,23 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "2005 Economic-sciences Nobel Prize awarded to Aumann."
 
-	WORK: “Aumann was awarded the Prize in Economic Sciences for his theory of repeated games, which enhances our understanding of the prerequisites for cooperation. Insights into these issues help explain economic conflicts, such as price wars and trade wars. He was educated at MIT in Boston, where he received his Ph. D. in 1955. After moving to Israel in 1956, he was a member of the mathematics faculty at the Hebrew University of Jerusalem.”
+WORK: “Aumann was awarded the Prize in Economic Sciences for his theory of repeated games, which enhances our understanding of the prerequisites for cooperation. Insights into these issues help explain economic conflicts, such as price wars and trade wars. He was educated at MIT in Boston, where he received his Ph. D. in 1955. After moving to Israel in 1956, he was a member of the mathematics faculty at the Hebrew University of Jerusalem.”
 
-	MLA style: Robert J. Aumann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/facts/
+MLA style: Robert J. Aumann – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/facts/>
 
-	PRIZE LECTURE: *War and Peace* by Aumann.
+PRIZE LECTURE: *War and Peace* by Aumann.
 
-	MLA style: Robert J. Aumann – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/lecture/
+MLA style: Robert J. Aumann – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2005/aumann/lecture/>
 
 !!! tip "2005 Economic-sciences Nobel Prize awarded to Schelling."
 
-	WORK: “Thomas Schelling specialized in the application of game theory to cases in which adversaries must repeatedly interact, especially in international trade, treaties and conflicts. His work prompted new developments in game theory and accelerated its use and application throughout the social sciences. Schelling’s analysis of strategic commitments has explained a wide range of phenomena, from the competitive strategies of firms to the delegation of political decision power.”
+WORK: “Thomas Schelling specialized in the application of game theory to cases in which adversaries must repeatedly interact, especially in international trade, treaties and conflicts. His work prompted new developments in game theory and accelerated its use and application throughout the social sciences. Schelling’s analysis of strategic commitments has explained a wide range of phenomena, from the competitive strategies of firms to the delegation of political decision power.”
 
-	MLA style: Thomas C. Schelling – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/facts/
+MLA style: Thomas C. Schelling – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/facts/>
 
-	PRIZE LECTURE: *An Astonishing Sixty Years: The Legacy of Hiroshima* by Schelling.
+PRIZE LECTURE: *An Astonishing Sixty Years: The Legacy of Hiroshima* by Schelling.
 
-	MLA style: Thomas C. Schelling – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/lecture/>
+MLA style: Thomas C. Schelling – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2005/schelling/lecture/>
 
 ***
 
@@ -310,13 +311,13 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "2017 Economic-sciences Nobel Prize awarded to Thaler."
 
-	WORK: “How do human traits govern individual economic decisions and what effect do they have on markets as a whole? Since the 1980s, Richard Thaler has analyzed economic decision-making with the aid of insights from psychology. He has paid special attention to three psychological factors: the tendency to not behave completely rationally, notions of fairness and reasonableness, and lack of self-control. His findings have had a profound influence on many areas of economic research and policy.”
+WORK: “How do human traits govern individual economic decisions and what effect do they have on markets as a whole? Since the 1980s, Richard Thaler has analyzed economic decision-making with the aid of insights from psychology. He has paid special attention to three psychological factors: the tendency to not behave completely rationally, notions of fairness and reasonableness, and lack of self-control. His findings have had a profound influence on many areas of economic research and policy.”
 
-	MLA style: Richard H. Thaler – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/
+MLA style: Richard H. Thaler – Facts. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/>
 	
-	PRIZE LECTURE: *From Cashews to Nudges: The Evolution of Behavioral Economics* by Thaler.
+PRIZE LECTURE: *From Cashews to Nudges: The Evolution of Behavioral Economics* by Thaler.
 
-	MLA style: Richard H. Thaler – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/lecture/>
+MLA style: Richard H. Thaler – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/lecture/>
 
 ***
 
@@ -324,21 +325,21 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "2019 Economic-sciences Nobel Prize awarded to Banerjee, Duflo and Kremer."
 
-	WORK: “One of humanity’s most urgent issues is the reduction of global poverty, in all its forms. Abhijit Banerjee, Esther Duflo, and Michael Kremer have introduced a new approach to obtaining reliable answers about the best ways to fight global poverty. It involves dividing this issue into smaller, more manageable, questions. Since the mid-1990s, they have been able to test a range of interventions in different areas using field experiments, for example for improving educational outcomes or child health.”
+WORK: “One of humanity’s most urgent issues is the reduction of global poverty, in all its forms. Abhijit Banerjee, Esther Duflo, and Michael Kremer have introduced a new approach to obtaining reliable answers about the best ways to fight global poverty. It involves dividing this issue into smaller, more manageable, questions. Since the mid-1990s, they have been able to test a range of interventions in different areas using field experiments, for example for improving educational outcomes or child health.”
 
-	MLA style: Abhijit Banerjee – Facts – 2019. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/facts/
+MLA style: Abhijit Banerjee – Facts – 2019. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/facts/>
 
-	PRIZE LECTURE: *Field Experiments and the Practice of Economics* by Banerjee.
+PRIZE LECTURE: *Field Experiments and the Practice of Economics* by Banerjee.
 
-	MLA style: Abhijit Banerjee – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/lecture/
+MLA style: Abhijit Banerjee – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2019/banerjee/lecture/>
 
-	PRIZE LECTURE: *Field Experiments and the Practice of Policy* by Duflo.
+PRIZE LECTURE: *Field Experiments and the Practice of Policy* by Duflo.
 
-	MLA style: Esther Duflo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/lecture/
+MLA style: Esther Duflo – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/lecture/>
 
-	PRIZE LECTURE: *Experimentation, Innovation, and Economics* by Kremer.
+PRIZE LECTURE: *Experimentation, Innovation, and Economics* by Kremer.
 
-	MLA style: Michael Kremer – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2019/kremer/lecture/>
+MLA style: Michael Kremer – Prize Lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2019/kremer/lecture/>
 
 ***
 
@@ -346,27 +347,27 @@ MLA style: Ragnar Frisch – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 !!! tip "2021 Economic-sciences Nobel Prize awarded to Card."
 
-	WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. Using natural experiments, David Card has analysed the labour market effects of minimum wages, immigration and education. The results showed, among other things, that increasing the minimum wage does not necessarily lead to fewer jobs, as was previously thought.”
+WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. Using natural experiments, David Card has analysed the labour market effects of minimum wages, immigration and education. The results showed, among other things, that increasing the minimum wage does not necessarily lead to fewer jobs, as was previously thought.”
 
-	MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/
+MLA style: David Card – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Wed. 18 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2021/card/facts/>
 
-	PRIZE LECTURE: *Design‐based research in empirical microeconomics* by Card.
+PRIZE LECTURE: *Design‐based research in empirical microeconomics* by Card.
 
-	MLA style: David Card – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/card/lecture/>
+MLA style: David Card – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Sat. 3 Aug 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/card/lecture/>
 
 !!! tip "2021 Economic-sciences Nobel Prize awarded to Angrist and Imbens."
 
-	WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. In 1994, Joshua Angrist and Guido Imbens showed what conclusions about causation can be drawn from natural experiments in which people cannot be either forced or forbidden to participate in the programme being studied.”
+WORK: “Many of the big questions in the social sciences deal with cause and effect. Some of these questions are possible to answer using natural experiments, in which chance events or policy changes result in groups of people being treated differently. In 1994, Joshua Angrist and Guido Imbens showed what conclusions about causation can be drawn from natural experiments in which people cannot be either forced or forbidden to participate in the programme being studied.”
 
-	MLA style: Guido W. Imbens – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/facts/
+MLA style: Guido W. Imbens – Facts – 2021. NobelPrize.org. Nobel Prize Outreach AB 2023. Thu. 19 Oct 2023. <https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/facts/>
 
-	PRIZE LECTURE: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
+PRIZE LECTURE: *Empirical strategies in economics: Illuminating the path from cause to effect* by Angrist.
 
-	MLA style: Joshua D. Angrist – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. https://www.nobelprize.org/prizes/economic-sciences/2021/angrist/lecture/
+MLA style: Joshua D. Angrist – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/angrist/lecture/>
 
-	PRIZE LECTURE: *Causality in econometrics: methods in conversation with practice* by Imbens.
+PRIZE LECTURE: *Causality in econometrics: methods in conversation with practice* by Imbens.
 
-	MLA style: Guido W. Imbens – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/lecture/>
+MLA style: Guido W. Imbens – Prize lecture. NobelPrize.org. Nobel Prize Outreach AB 2024. Mon. 22 Jul 2024. <https://www.nobelprize.org/prizes/economic-sciences/2021/imbens/lecture/>
 
 ***
 
