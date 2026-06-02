@@ -1,7 +1,7 @@
 
 [**Volume IV: Universes**](./volume-IV.md)
 
-[**Previous: 13.3. Levels of operation of the mechanisms of knowing.**](./vol-IV-chap-13-sect-3.md) 
+[**Previous: 13.3. Contributions made by theoretical approaches.**](./vol-IV-chap-13-sect-3.md) 
 
 ***
 
