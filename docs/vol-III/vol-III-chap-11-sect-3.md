@@ -1,5 +1,6 @@
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Volume III: Waves**](./volume-III.md)
+[**Previous: 11.2. Production of new materials and study of individual quantum systems.**](https://modphysnobel.github.io/vol-III/vol-III-chap-11-sect-2/)
 
 ***
 
@@ -1837,3 +1838,4 @@ MLA style: Press release. NobelPrize.org. Nobel Prize Outreach AB 2024. Tue. 6 F
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 10 Jun 2023. https://www.nobelprize.org/prizes/physics/2012/advanced-information/
 
 ***
+[**Next: 12.1. Boson condensation.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-1/)
