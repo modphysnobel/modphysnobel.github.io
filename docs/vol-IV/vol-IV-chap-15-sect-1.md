@@ -1,3 +1,5 @@
+[**Previous: 14.3. Contextualization of learning about the universe.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-14-sect-3/)
+
 # **15. Electron dynamics in attosecond timescale**
 
 Observation and explanation of the microscopic universe require new scientific theories and modern technological devices for measuring ultrafast processes.
@@ -186,3 +188,5 @@ Modern times have been characterized by important advances in digital clocks as 
 The following sequence describes the basic five steps operation process in lasers: (1) pumping an energy source excites atoms in a gain medium; (2) this creates a population inversion, where more atoms are in an excited state than in the ground state; (3) an incoming photon triggers stimulated emission, causing an excited atom to release an identical photon; (4) many of those produced photons bounce between mirrors in an optical cavity, causing exponential  amplification; and (5) a fraction of the amplified light escapes through a partially reflective mirror as the final laser output.
                                                                                                                     
 Two techniques are frequently used to measure time with lasers: Time of Flight ranging and <a href="https://en.wikipedia.org/wiki/Pump%E2%80%93probe_microscopy" title="here the definition">Pump–Probe Timing</a>
+
+[**Next: 15.2. Attosecond Science and the Study of Electron Dynamics.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-2/) 
