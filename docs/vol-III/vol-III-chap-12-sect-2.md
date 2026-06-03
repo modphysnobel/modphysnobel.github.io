@@ -1,4 +1,6 @@
-[**Volume III: Waves**](./volume-III.md)
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
+
+[**Previous: 12.1. Boson condensation.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-1 /) 
 
 ***
 
@@ -106,3 +108,4 @@ In his 1998 Nobel Lecture $The Fractional Quantum Hall Effect$ Störmer explains
 Although the electrons usually repel each other because they are fermions, according to Laughlin the reported fractional quantization was because in the presence of very strong magnetic fields the electron gas behaved as a new type of [quantum fluid](https://en.wikipedia.org/wiki/Quantum_fluid) integrated by composite interacting fermions (the electrons) that behave as bosons and condense as fractionally charged “[quasiparticles](https://en.wikipedia.org/wiki/Quasiparticle)”. Laughlin, closed his Nobel lecture *Fractional Quantization* by saying: “Fractional quantum Hall quasiparticles are the elementary excitations of a distinct state of matter that cannot be deformed into noninteracting electrons without crossing a phase boundary. That means they are different from electrons in the only sensible way we have of defining different, and in particular are not adiabatic images of electrons the way quasiparticle excitations of metals and band insulators are.”
 
 ***
+[**Next: 12.3. Types of schools and learning trajectories.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-3/)
