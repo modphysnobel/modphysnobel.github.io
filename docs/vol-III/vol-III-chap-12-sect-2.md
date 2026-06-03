@@ -1,6 +1,6 @@
 [**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Previous: 12.1. Boson condensation.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-1 /) 
+[**Previous: 12.1. Boson condensation.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-1/) 
 
 ***
 
