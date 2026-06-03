@@ -1,5 +1,6 @@
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Volume III: Waves**](./volume-III.md)
+[**Previous: 11.3. Phases in a learning and research process.**](https://modphysnobel.github.io/vol-III/vol-III-chap-11-sect-3/) 
 
 ***
 
@@ -259,3 +260,4 @@ MLA style: *Advanced information*. NobelPrize.org. Nobel Prize Outreach AB 2023.
 In 2018 Pablo Jarillo-Herrero (1976) and collaborators reported the discovery of superconductivity on twisted bilayer graphene. This is one example of [Twistronics](https://en.wikipedia.org/wiki/Twistronics), the study of how the angle (the twist) between layers of two-dimensional materials can change their electrical properties from conductors to superconductors. 
 
 ***
+[**Next: 12.2. Quantum Hall effects.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-2/)
