@@ -1,5 +1,6 @@
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Volume III: Waves**](./volume-III.md)
+[**Previous: 10.3. Organization and evaluation of learning communities.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-3/)
 
 ***
 
@@ -219,3 +220,4 @@ NOBEL LECTURE: *Slow Neutron Spectroscopy and the Grand Atlas of the Physical Wo
 MLA style: Bertram N. Brockhouse – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sat. 27 May 2023. https://www.nobelprize.org/prizes/physics/1994/brockhouse/lecture/
 
 ***
+[**Next: 11.2. Production of new materials and study of individual quantum systems.**](https://modphysnobel.github.io/vol-III/vol-III-chap-11-sect-2/)
