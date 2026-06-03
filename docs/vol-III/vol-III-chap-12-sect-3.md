@@ -1,4 +1,4 @@
-[**Volume III: Waves**](./volume-III.md)
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
 [**Previous: 12.2. Quantum Hall effects.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-2/) 
 
