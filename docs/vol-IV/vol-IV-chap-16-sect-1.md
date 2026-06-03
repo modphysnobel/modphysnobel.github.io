@@ -1,5 +1,6 @@
+[**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
 
-[**Volume IV: Universe**](./volume-IV.md)
+[**Previous: 15.3. Applications for Attosecond Science.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-3/)
 
 ***
 
@@ -371,4 +372,4 @@ MLA style: Guido W. Imbens – Prize lecture. NobelPrize.org. Nobel Prize Outrea
 
 ***
 
-[**Next: 15.2. Role of statistical analysis in the formulation of models.**](./vol-IV-chap-15-sect-2.md)
+[**Next: 16.2. Role of statistical analysis in the formulation of models.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-2/)
