@@ -1,7 +1,7 @@
 
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md) 
+[**Previous: 14.1. Stars, pulsars, and black holes.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-14-sect-1/) 
 
 ***
 
@@ -413,5 +413,5 @@ MLA style: Didier Queloz – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 
 ***
 
-[**Next: 14.3. Contextualization of learning about the universe.**](./vol-IV-chap-14-sect-3.md)
+[**Next: 14.3. Contextualization of learning about the universe.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-14-sect-3/) 
 
