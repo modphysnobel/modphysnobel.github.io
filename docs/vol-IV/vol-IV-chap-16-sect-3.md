@@ -1,6 +1,6 @@
 [**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
 
-[**Previous: 16.2. Role of statistical analysis in the formulation of models.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-2 /)
+[**Previous: 16.2. Role of statistical analysis in the formulation of models.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-2/)
 
 ***
 
