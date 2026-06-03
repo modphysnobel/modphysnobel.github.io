@@ -1,5 +1,6 @@
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Volume III: Waves**](./volume-III.md)
+[**Previous: 10.2. Gravitational astronomy.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-2/)
 
 ***
 
@@ -145,3 +146,4 @@ Linn, M.C. and His, S. (2000). *Computers, Teachers, Peers: Science learning par
 	
 
 ***
+[**Next: 11.1. Microscopic observation of solids.**](https://modphysnobel.github.io/vol-III/vol-III-chap-11-sect-1/)
