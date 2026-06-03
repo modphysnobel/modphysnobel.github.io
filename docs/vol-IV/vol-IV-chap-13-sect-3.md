@@ -1,6 +1,6 @@
 [**Volume IV: Universe**](./volume-IV.md)
 
-[**Previous: 13.2. Accounts of experimental results.**](./vol-IV-chap-13-sect-2.md) 
+[**Previous: 13.2. Accounts of experimental results.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-2/) 
 
 ***
 
@@ -258,5 +258,5 @@ J. Piaget and R. Garcia. (1988). *Psychogenesis and the History of Science*. Col
 
 ***
 
-[**Next: 14.1. Stars, pulsars, and black holes.**](./vol-IV-chap-14-sect-1.md)
+[**Next: 14.1. Stars, pulsars, and black holes.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-14-sect-1/) 
 
