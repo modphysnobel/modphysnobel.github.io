@@ -1,5 +1,6 @@
-   
-[**Volume III: Waves**](./volume-III.md)
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
+
+[**Previous: 9.3. Communication forms for describing scientific texts.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-3/)
 
 ***
 # 10. Interferences of electromagnetic waves and detection of gravitational waves.
@@ -112,3 +113,4 @@ Michelson and Morley's experiments failed to demonstrate the existence of the et
 The system of transformations proposed by Lorentz represented the possibility of predicting that distances and times could be modified according to the direction in which one reference frame moved with respect to another. If such a modification existed, that would explain the negative result of the experiment by Michelson and Morley, implying that the principle of superposition of velocities implicit in Galileo's transformations did not apply to the case of light. To solve this conflict Einstein proposed two [theories of relativity](https://en.wikipedia.org/wiki/Principle_of_relativity): while special relativity is a [kinematic theory of motion](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence), general relativity is a dynamical theory with new properties such as distortion of space and dilation of time: gravitation was the cause that affects motion. Einstein´s theories of relativity have already been considered in Section 4.2 of Volume I.
 
 ***
+[**Next: 10.2. Gravitational astronomy..**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-2/)
