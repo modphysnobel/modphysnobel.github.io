@@ -133,4 +133,4 @@ MLA style: Georges Charpak – Nobel Lecture. NobelPrize.org. Nobel Prize Outrea
 
 ***
 
-[**Next: 13.2. Accounts of experimental results.**](./vol-IV-chap-13-sect-2.md)
+[**Next: 13.2. Accounts of experimental results.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-2/) 
