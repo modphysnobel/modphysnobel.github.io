@@ -1,4 +1,6 @@
-[**Volume III: Waves**](./volume-III.md)
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
+
+[**Previous: 10.1. The Michelson interferometer and the Michelson-Morley experiment.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-1/)
 
 ***
 
@@ -180,3 +182,4 @@ MLA style: Kip S. Thorne – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach
 “When we contemplate the enormous revolution in our understanding of the universe that has come from electromagnetic astronomy over the four centuries since Galileo, we are led to wonder what revolution will come from gravitational astronomy, and from its multi-messenger partnerships, over the coming four centuries.”
 
 ***
+[**Next: 10.3. Organization and evaluation of learning communities.**](https://modphysnobel.github.io/vol-III/vol-III-chap-11-sect-1/)
