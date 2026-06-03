@@ -1,3 +1,8 @@
+[**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
+
+[**Previous: 15.2. Attosecond Science and the Study of Electron Dynamics.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-2/) 
+
+
 ## **Section 15.3. Applications for Attosecond Science.** 	
 
 We consider some characteristics of the emerging technological frontiers promoted by attosecond science. By manipulating the fastest component of matter, the electrons, scientists are addressing foundational questions in quantum mechanics and laying the groundwork for revolutionary advances in material sciences, electronics, chemistry, and medicine. Attosecond science is a "quantum stopwatch"; it is a sort of toolkit that highlights a trajectory moving from fundamental observation toward engineering and control at the quantum level.
@@ -49,3 +54,5 @@ The first moments of a chemical reaction are dictated by <a href="https://en.wik
 * **Molecular Identification:** As a result of the interaction of attosecond pulses with molecules in a biological sample, unique optical signals or fingerprints are produced and detected.
 
 <img width="674" height="376" alt="image" src="https://github.com/user-attachments/assets/1f7f83b4-aa1c-478f-901e-cd70d6ded34f" />
+
+[**Next: 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-1/)
