@@ -1,5 +1,5 @@
 
-[**Volume IV: Universes**](./volume-IV.md)
+[**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
 
 [**Previous: 12.3. Analysis of learning trajectories.**](https://modphysnobel.github.io/vol-III/vol-III-chap-12-sect-3/) 
 
