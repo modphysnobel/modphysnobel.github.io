@@ -1,7 +1,7 @@
 
 [**Volume IV: Universes**](./volume-IV.md)
 
-[**Previous: 13.3. Contributions made by theoretical approaches.**](./vol-IV-chap-13-sect-3.md) 
+[**Previous: 13.3. Contributions made by theoretical approaches.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-13-sect-3/)  
 
 ***
 
@@ -281,4 +281,4 @@ MLA style: Andrea Ghez – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach A
 
 ***
 
-[**Next: 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**](./vol-IV-chap-14-sect-2.md)
+[**Next: 14.2. Neutrino oscillations, background radiations, accelerating expansion, and exoplanets.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-14-sect-2/)
