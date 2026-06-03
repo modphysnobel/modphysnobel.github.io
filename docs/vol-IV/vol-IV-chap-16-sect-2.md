@@ -1,5 +1,6 @@
+[**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
 
-[**Volume IV: Universe**](./volume-IV.md)
+[**Previous: 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-1/) 
 
 ***
 
@@ -242,4 +243,4 @@ MLA style: Jan Tinbergen – Prize Lecture. NobelPrize.org. Nobel Prize Outreach
 
 ***
 
-[**Next: 15.3. Interpretation of natural experiments in Economic sciences.**](./vol-IV-chap-15-sect-3.md)
+[**Next: 16.3. Interpretation of natural experiments in Economic sciences.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-3/)
