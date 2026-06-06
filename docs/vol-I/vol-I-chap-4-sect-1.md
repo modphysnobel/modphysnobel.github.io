@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 3.3. Cognitive procedures for creating scientific knowledge.**](./vol-I-chap-3-sect-3.md) 
+[**Previous: 3.3. Cognitive procedures for creating conceptual models.**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-3/)
 
 ***
 
@@ -132,5 +131,4 @@ The lever shown in Figure I.15 contains bodies $A$ and $B$ at its ends, with wei
 In a new consideration of the first natural state of moving bodies, the equilibrium condition of a lever whose weights are applied at each of its ends would produce rotations in opposite directions. From this condition the law of the lever can be obtained again. From the condition that the lever remains in equilibrium of rotation, it follows that the sum of the torques produced by such forces is zero, which corresponds to the law of conservation of angular momentum.
 
 ***
-
-[**Next: 4.2. Einstein´s theories of relativity.**](./vol-I-chap-4-sect-2.md)
+[**Next: 4.2. Einstein´s theories of relativity.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-2/)
