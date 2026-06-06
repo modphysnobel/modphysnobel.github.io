@@ -1,4 +1,4 @@
-[**Home**](https://modphysnobel.github.io/docs/index/)
+[**Home**](https://modphysnobel.github.io/docs/index.md/)
 
 ***
 
