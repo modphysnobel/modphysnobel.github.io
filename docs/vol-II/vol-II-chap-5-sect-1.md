@@ -84,7 +84,7 @@ The founding fathers of Thermodynamics are shown in next Figure II.1.
 			<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Clausius.jpg" width=180 align=center>
 		</td>
 		<td>
-			<img src="https://es.wikipedia.org/wiki/William_Thomson" width=180 align=center>
+			<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Lord_Kelvin_photograph.jpg" width=180 align=center>
 		</td>
 		<td>
 			<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Walther_Nernst_1900s.jpg" width=180 align=center>
