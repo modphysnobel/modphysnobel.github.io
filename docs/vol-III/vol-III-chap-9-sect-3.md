@@ -1,5 +1,6 @@
+[**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Volume III: Waves**](./volume-III.md)
+[**Previous: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-2/)
 
 ***
 
@@ -262,3 +263,4 @@ $W=hν$ $p=\frac{hν}{c}$
 FRENCH, A.P. TAYLOR, E.F. *Introduction to Quantum Physics*. The MIT Introductory Physics Series. New York, W.W. Norton, (1978)
 
 ***
+[**Next: 10.1. The Michelson interferometer and the Michelson-Morley experiment.**](https://modphysnobel.github.io/vol-III/vol-III-chap-10-sect-1/)
