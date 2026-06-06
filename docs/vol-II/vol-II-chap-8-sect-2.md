@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 8.1. Conservation laws and the existence of symmetries.**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-1/)
+[**Previous: 8.1. Conservation laws and the existence of symmetries.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-1/)
 
 ***
 
@@ -252,4 +252,4 @@ MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. W
 
 
 ***
-[**Next: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-3/)
+[**Next: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-3/)
