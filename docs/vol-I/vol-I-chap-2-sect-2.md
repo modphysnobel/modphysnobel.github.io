@@ -1,6 +1,6 @@
-[**Volume I: Motion**](./volume-I.md)
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Previous: 2.1. Regions for doing experiments.**](./vol-I-chap-2-sect-1.md) 
+[**Previous: 2.1. Regions for doing experiments.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-1/)
 
 ***
 
@@ -89,5 +89,4 @@ MLA style: Arthur H. Compton – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 </p>
 
 *** 
-
-[**Next: 2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md)
+**[**Next: 2.3. Knowledge domains for understanding.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-3/)**
