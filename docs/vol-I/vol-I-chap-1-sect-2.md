@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 1.1. Mathematics and science in ancient Greece.**](./vol-I-chap-1-sect-1.md)
+[**Previous: 1.1 . Mathematics and science in ancient Greece.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-1/)
 
 ***
 
@@ -163,5 +162,4 @@ MLA style: Max Born – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2
 	
 
 ***
-
-[**Next: 1.3.  Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md)
+[**Next: 1.3. Context learning for conceptualizing cognitive spaces.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-3/)
