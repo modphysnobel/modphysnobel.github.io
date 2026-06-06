@@ -1,6 +1,6 @@
 [**Volume III: Waves**](https://modphysnobel.github.io/vol-III/volume-III/)
 
-[**Previous: 9.1. Correspondence and uncertainty principles in Quantum Physics.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-1/)
+[**Previous: 8.3. Anthropological spaces for the development of collective intelligence.**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-3/)
 
 ***
 
@@ -134,4 +134,4 @@ MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 
 
 
 ***
-[**Next: 9.3. Communication forms for describing scientific texts.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-3/)
+[**Next: 9.2. CCorrespondence and uncertainty principles in Quantum Physics.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-2/)
