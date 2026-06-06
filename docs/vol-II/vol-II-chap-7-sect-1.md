@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 6.3. Identification of concepts and descriptions of models.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-3/)
+[**Previous: 6.3. Identification of concepts and descriptions of models.**](https://modphysnobel.github.io/vol-II/vol-II-chap-6-sect-3/)
 
 ***
 
@@ -175,4 +175,4 @@ In what follows, we include in three boxes information related to Brownian motio
 	-- in 1923: interpretation of Rutherford transmutations of elements not as being the effect of an explosive disintegration but on the contrary, as an integration (the helium nucleus combines with the nucleus that it has hit, to form a radioactive atom which soon expels a proton, and that there finally remains an atom which is three units heavier than the atom that has been hit).
 
 ***
-[**Next: 7.2. Statistical mechanical calculations of the specific heat in solids.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-2/)
+[**Next: 7.2. Statistical mechanical calculations of the specific heat in solids.**](https://modphysnobel.github.io/vol-II/vol-II-chap-7-sect-2/)
