@@ -1,5 +1,6 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Volume II: Energy**](./volume-II.md)
+[**Previous: 7.3. Procedures to solve problems and explain solutions.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-3/)
 
 ***
 
@@ -83,3 +84,4 @@ Let's look at three application cases:
 3. The [isotropy](https://en.wikipedia.org/wiki/Isotropy) of space indicates that there are no privileged orientations, so that the system is invariant against a rotation in space, which implies that there is a law of conservation of angular momentum.
 
 ***
+[**Next: 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-2/)
