@@ -1,3 +1,8 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
+
+[**Previous: 4.3. Aspects and Factors distinguishing scientific theories.**](https://modphysnobel.github.io/vol-III/vol-I-chap-4-sect-3/)
+***
+
 # 5.   Energy quantization in the black body radiation.
 
 
@@ -303,3 +308,4 @@ NOBEL LECTURE: *Time, Structure and Fluctuations* by Prigogine.
 MLA style: Ilya Prigogine – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Sun. 29 Jan 2023. https://www.nobelprize.org/prizes/chemistry/1977/prigogine/lecture/
 
 ***
+[**Next: 5.2. The photon as a quantum of energy.**](https://modphysnobel.github.io/vol-III/vol-II-chap-5-sect-2/)
