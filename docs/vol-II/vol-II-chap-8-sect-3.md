@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-2/)
+[**Previous: 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-2/)
 
 ***
 
