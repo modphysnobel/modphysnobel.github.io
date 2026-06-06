@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 5.2. The photon as a quantum of energy.**](https://modphysnobel.github.io/vol-III/vol-II-chap-5-sect-2/)
+[**Previous: 5.2. The photon as a quantum of energy.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-sect-2/)
 ***
 
 ## 5.3.  Components of the explanation of scientific theories.
@@ -111,4 +111,4 @@ KUHN, T. The Structure of Scientific Revolutions. University of Chicago Press. (
 
 ***
 
-[**Next: 6.1. Electronic energy levels according to atomic models.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-1/)
+[**Next: 6.1. Electronic energy levels according to atomic models.**](https://modphysnobel.github.io/vol-II/vol-II-chap-6-sect-1/)
