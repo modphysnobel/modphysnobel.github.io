@@ -1,5 +1,6 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Volume II: Energy**](./volume-II.md)
+[**Previous: 5.3. Components of the explanation of scientific theories.**](https://modphysnobel.github.io/vol-III/vol-II-chap-5-sect-3/)
 
 ***
 
@@ -167,3 +168,4 @@ For $N_2 >> N_1$ it is required to invert the population, which is produced by o
 
 	
 ***
+[**Next: 6.2. Splitting of degenerated electronic energy levels in the hydrogen atom.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-2/)
