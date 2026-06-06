@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 3.1.  Understanding the mechanisms of vision.**](./vol-I-chap-3-sect-1.md) 
+[**Previous: 3.1. Understanding the mechanisms of vision.**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-1/)
 
 ***
 
@@ -96,6 +95,4 @@ MLA style: Edvard Moser – Biographical. NobelPrize.org. Nobel Prize Outreach A
 
 
 ***
-
-[**Next: 3.3.  Cognitive procedures for creating scientific knowledge.**](./vol-I-chap-3-sect-3.md)
-
+[**Next: 3.3. Cognitive procedures for creating conceptual models.**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-3/)
