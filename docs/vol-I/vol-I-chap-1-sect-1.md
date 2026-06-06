@@ -150,14 +150,14 @@ Archimedes had great mechanical skills for designing and building machines while
 As an example of diametral approaches for interpreting mathematical concepts and procedures let us consider two possibilities for explaining the meaning of the equation of a circumference: (1) in a *dictatorial* approach all the distances between the center and any point in the curve must be a constant, and (2) in a *democratic* approach all the points in a circumference are at equal distances to the center. Dictatorial approaches are repulsive, restrictive, centrifugal and go from the center to the periphery. Democratic approaches are attractive, liberating, centripetal and go from the periphery to the center.  
 
 !!! example "A geometrical example."
-	The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$. The corresponding solution procedure is now described.
+The equation of a circumference can be obtained by applying Pythagoras theorem: in cartesian coordinates we have $x^2 + y^2 = R^2$. This equation could be described according to the previously mentioned approaches: in a dictatorial approach the distance from any point $P(x,y)$ to the center in $O$ must be equal to $R$; in a democratic approach the coordinates of all points $P(x,y)$ equally satisfy the same equation $x^2 + y^2 = R^2$. The corresponding solution procedure is now described.
 
-	- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
-	- Draw a circumference of radio $R$ with center in $O$.
-	- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
-	- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
-	- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
-	- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
+- Consider two perpendicular axes intersecting at point $O$: the horizontal axe $X$ for the abscissas and the vertical axe $Y$ for the ordinates.  
+- Draw a circumference of radio $R$ with center in $O$.
+- Select a point $P(x,y)$ whose coordinates are $x$ and $y$; then draw a parallel to axe $Y$ from point $P$ to the intersection $Q$ in axe $X$. 
+- In the rectangular triangle $OQP$ segments $OQ$ and $QP$ correspond to the legs and segment $OP$ is the hypotenuse. 
+- Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
+- Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
   
       <center>
       <!-- HTML Table 1.1.1-->
