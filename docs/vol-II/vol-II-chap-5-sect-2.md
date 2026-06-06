@@ -1,5 +1,6 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Volume II: Energy**](./volume-II.md)
+[**Previous: 5.1. Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-III/vol-II-chap-5-sect-1/)
 
 ***
 
@@ -159,3 +160,4 @@ NOBEL LECTURE: *The Genesis and Present State of Development of the Quantum Theo
 MLA style: Max Planck – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 10 Jan 2023. https://www.nobelprize.org/prizes/physics/1918/planck/lecture/
 
 ***
+[**Next: 5.3. Components of the explanation of scientific theories.**](https://modphysnobel.github.io/vol-III/vol-II-chap-5-sect-3/)
