@@ -1,4 +1,5 @@
-[**Home**](https://modphysnobel.github.io/vol-IV/index/)
+[**Home**](../index.md)
+
 ***
 
 # III.  WAVES
