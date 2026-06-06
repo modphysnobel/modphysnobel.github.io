@@ -1,5 +1,6 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Volume II: Energy**](./volume-II.md)
+[**Previous: 8.2. Energy transformations in photocells and in Light Emitting Diodes (LED).**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-2/)
 
 ***
 
@@ -77,3 +78,4 @@ FEYNMAN, R. P., LEIGHTON R. B., and SANDS, M. *The Feynman Lectures on Physics. 
 HELLEMANS, A, and BUNCH, B. *The Timetables of Science. A Chronology of the Most Important People and Events in the History of Science*. New York. Simon and Schuster. (1988).
 
 ***
+[**Next: 9.1. From a theoretical proposition to an experimental demonstration.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-1/)
