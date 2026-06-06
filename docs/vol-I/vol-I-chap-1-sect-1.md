@@ -1,4 +1,4 @@
-[**Volume I: Motion**](./volume-I.md)
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
 ***
 
@@ -180,7 +180,4 @@ As an example of diametral approaches for interpreting mathematical concepts and
 	</center>
 
 ***
-
-[**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-2.md)
-
-
+[**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-2/)
