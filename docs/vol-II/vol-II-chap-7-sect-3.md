@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 7.2. Statistical mechanical calculations of the specific heat in solids.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-2/)
+[**Previous: 7.2. Statistical mechanical calculations of the specific heat in solids.**](https://modphysnobel.github.io/vol-II/vol-II-chap-7-sect-2/)
 
 ***
 
@@ -202,4 +202,4 @@ PERRIN, J. *Les atomes*, Cuarta edición, Librairie Alcan, París, (1914).
 PERRIN, J. *Atoms*, (D.L. Hammick, Traductor), Van Nostrand, New York, (1916).
 
 ***
-[**Next: 8.1. Conservation laws and the existence of symmetries.**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-1/)
+[**Next: 8.1. Conservation laws and the existence of symmetries.**](https://modphysnobel.github.io/vol-II/vol-II-chap-8-sect-1/)
