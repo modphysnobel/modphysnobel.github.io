@@ -160,7 +160,6 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
 - Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
   
       <center>
-      <!-- HTML Table 1.1.1-->
       <table width="100%">
       <tr>
       <th width="50%" style="text-align: center">
