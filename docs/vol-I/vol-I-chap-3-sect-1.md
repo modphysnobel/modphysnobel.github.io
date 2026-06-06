@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 2.3. Knowledge domains for understanding.**](./vol-I-chap-2-sect-3.md) 
+[**Previous: 2.3. Knowledge domains for understanding.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-3/)
 
 ***
 
@@ -245,5 +244,4 @@ MLA style: Torsten N. Wiesel – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 
 ***
-
- [**Next: 3.2. Generation of a mental Global Positioning System (GPS).**](./vol-I-chap-3-sect-2.md)
+[**Next: 3.2. Generation of a mental Global Positioning System (GPS).**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-2/)
