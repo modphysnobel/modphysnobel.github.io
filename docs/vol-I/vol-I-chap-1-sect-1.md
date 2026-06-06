@@ -159,7 +159,7 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
 - Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
 - Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
   
-  <center>
+  
   <table width="100%" style="max-width: 800px; border-collapse: collapse; border: none;">
     <tr>
       <td width="50%" style="text-align: center; border: none; padding: 10px;">
@@ -173,7 +173,7 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
 </div>
 
 	(Image credit: drawings made by the authors.)
-</center>
+
 
 ***
 [**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-2/)
