@@ -164,11 +164,11 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
       <tr>
       <th width="50%" style="text-align: center">
       <figure markdown>
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig8.PNG?raw=true"> 
+      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig8.PNG" raw="true"> 
       </figure>
       </th>
       <th width="50%" style="text-align: center">
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG?raw=true"> 
+      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG" raw="true"> 
       </th>
       </tr>
       </table>
