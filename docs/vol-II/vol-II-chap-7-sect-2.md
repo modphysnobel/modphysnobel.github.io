@@ -1,7 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 7.2. Statistical mechanical calculations of the specific heat in solids.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-3/)
-
+[**Previous: 7.1. Experimental results concerning the Brownian motion.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-1/)
 ***
 
 ## 7.2.  Statistical mechanical calculations of the specific heat in solids.
@@ -141,4 +140,4 @@ $C_V= (9R)[(\frac{4T^3}{θ^3})(\frac{1}{3})(\frac{θ}{T})^3- 1]=$ $(9R)[(\frac{4
 For low temperatures, $C_V= (9R)(\frac{4T^3}{θ^3})(\frac{π^4}{15})= (\frac{12Rπ^4}{5}) (\frac{T}{θ})^3$. This dependence on $T^3$ describes much better the experimental results. If the model is improved, especially if more complicated quantum effects are introduced in the description of the solid, the agreement with the experimental results will improve even more, although the calculation procedures will require numerical methods.
 
 ***
-[**Next: 8.1. Conservation laws and the existence of symmetries.**](https://modphysnobel.github.io/vol-III/vol-II-chap-8-sect-1/)
+[**Next: 7.3. Procedures to solve problems and explain solutions.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-3/)
