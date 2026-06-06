@@ -134,4 +134,4 @@ MLA style: Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB 2023. Mon. 20 
 
 
 ***
-[**Next: 9.2. CCorrespondence and uncertainty principles in Quantum Physics.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-2/)
+[**Next: 9.2. Correspondence and uncertainty principles in Quantum Physics.**](https://modphysnobel.github.io/vol-III/vol-III-chap-9-sect-2/)
