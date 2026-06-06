@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 1.3. Contexts learning for conceptualizing cognitive spaces.**](./vol-I-chap-1-sect-3.md) 
+[**Previous: 1.3. Context learning for conceptualizing cognitive spaces.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-3/)
 
 ***
 
@@ -251,6 +250,4 @@ If $\Delta\lambda= \lambda- \lambda_0$ is the Compton shift and $\Lambda_C=\frac
 Taking into account the values of the Planck constant $h = 6.63 \times 10^{-34} Js$, the mass at rest of the electron $m_0 = 9.11 \times 10^{-31} kg$ and the velocity of light $c = 3 \times 10^8 m/s$, the calculated Compton length $\Lambda_C = 0.02426 Å = 2.426 \times 10^{-12} m$ is quite in agreement with experimental data.  Previous equation can be interpreted in another way: the Compton length $\Lambda_C=\frac{h}{m_0c}$ can be obtained if $\Delta\lambda$ is measured for different values of the angle $\theta$, then introducing the values of $m_0$ and $c$ the Planck constant can be determined.
 
 ***
-
-[**Next: 2.2. Physics Noble Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](./vol-I-chap-2-sect-2.md)
-
+[**Next: 2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-2/)
