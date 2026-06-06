@@ -1,6 +1,6 @@
 [**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Previous: 4.2. Einstein´s theories of relativity.**](https://modphysnobel.github.io/vol-III/vol-I-chap-4-sect-2/)
+[**Previous: 4.2. Einstein´s theories of relativity.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-2/)
 
 ***
 
