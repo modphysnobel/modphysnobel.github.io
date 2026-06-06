@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion.**](./volume-I.md)
-
-[**Previous: 1.2.  Conceptualizations of spaces and quantum statistics.**](./vol-I-chap-1-sect-2.md)
+[**Previous: 1.2 . Conceptualizations of spaces and quantum statistics.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-2/)
 
 ***
 
@@ -72,7 +71,4 @@ KLEIN, M., Mathematical Thought from Ancient to Modern Times, Vol. 1 1st Edition
 VERNANT, Jean-Pierre. Géométrie et astronomie sphérique dans la première cosmologie grecque. La Pensée (1963),109, p.82.<br>
 
 ***
-
-[**Next: 2.1 Regions for doing experiments.**](./vol-I-chap-2-sect-1.md)
-
-
+[**Next: 2.1. Regions for doing experiments.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-1/)
