@@ -1,6 +1,7 @@
-[**Volume I: Motion**](./volume-I.md)
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Previous: 3.2.  Generation of a mental Global Positioning System (GPS).**](./vol-I-chap-3-sect-2.md) 
+[**Previous: 3.2. Generation of a mental Global Positioning System (GPS).**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-2/)
+
 
 ***
 
@@ -74,4 +75,4 @@ The explanations given by Kepler, Newton and Einstein are elements in a chain of
 
 ***
 
-[**Appendices.**](./vol-I-chap-3-apendix.md)
+[**Next: 4.1. On Euclidean geometry and non-Euclidean geometries.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-1/)
