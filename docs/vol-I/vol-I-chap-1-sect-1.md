@@ -159,20 +159,18 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
 - Apply the theorem by Pythagoras to triangle $OQP$ and then get $(OQ)^2 + (QP)^2 = (OP)^2$.
 - Consider that any point $P(x,y)$ belonging to the circumference forms rectangular triangles similar to $OQP$ where the leg $OQ$ corresponds to the abscissa $x$, the leg $QP$ to the ordinate $y$ and the radio is $R$. Therefore $x^2 + y^2 = R^2$.
   
-      <center>
-      <table width="100%">
-      <tr>
-      <th width="50%" style="text-align: center">
-      <figure markdown>
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig8.PNG" raw="true"> 
-      </figure>
-      </th>
-      <th width="50%" style="text-align: center">
-      <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG" raw="true"> 
-      </th>
-      </tr>
-      </table>
-     	</center>
+      <div align="center">
+  <table width="100%" style="max-width: 800px; border-collapse: collapse; border: none;">
+    <tr>
+      <td width="50%" style="text-align: center; border: none; padding: 10px;">
+        <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/raw/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig8.PNG" alt="Figura 8">
+      </td>
+      <td width="50%" style="text-align: center; border: none; padding: 10px;">
+        <img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/raw/main/docs/vol-I/figs/Vol-I-chap-1-sect-1-Fig9.PNG" alt="Figura 9">
+      </td>
+    </tr>
+  </table>
+</div>
 
 	<center>
 	(Image credit: drawings made by the authors.)
