@@ -1,6 +1,6 @@
 [**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Previous: 6.2. Splitting of degenerated electronic energy levels in the hydrogen atom.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-2/)
+[**Previous: 6.2. Splitting of degenerated electronic energy levels in the hydrogen atom.**](https://modphysnobel.github.io/vol-II/vol-II-chap-6-sect-2/)
 
 ***
 
@@ -181,4 +181,4 @@ MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Out
 	- Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
 
 ***
-[**Next: 7.1. Experimental results concerning the Brownian motion.**](https://modphysnobel.github.io/vol-III/vol-II-chap-7-sect-1/)
+[**Next: 7.1. Experimental results concerning the Brownian motion.**](https://modphysnobel.github.io/vol-II/vol-II-chap-7-sect-1/)
