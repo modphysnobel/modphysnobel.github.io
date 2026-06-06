@@ -1,6 +1,6 @@
-[**Volume I: Motion**](./volume-I.md)
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Previous: 2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](./vol-I-chap-2-sect-2.md) 
+[**Previous: 2.2. Physics Nobel Lectures by Thomson, Millikan, Franck, Hertz, and Compton.**](https://modphysnobel.github.io/vol-I/vol-I-chap-2-sect-2/)
 
 ***
 
@@ -36,5 +36,4 @@ The knowledge obtained from analyzing the information described previously in Se
 FEYNMAN, R. P., LEIGHTON, R. B., and SANDS, M. The Feynman Lectures on Physics, Mainly Mechanics, Radiation and Heat. Volume I, Chapter 2. Reading, Massachusetts, Addisson Wesley. (1963).
 
 ***
-
-[**Next: 3.1.  Understanding the mechanisms of vision.**](./vol-I-chap-3-sect-1.md)
+[**Next: 3.1. Understanding the mechanisms of vision.**](https://modphysnobel.github.io/vol-I/vol-I-chap-3-sect-1/)
