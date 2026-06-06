@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 4.1.  On Euclidean geometry and non-Euclidean geometries.**](./vol-I-chap-4-sect-1.md) 
+[**Previous: 4.1. On Euclidean geometry and non-Euclidean geometries.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-1/)
 
 ***
 
@@ -142,10 +141,4 @@ $ds^2=Σg_{μν}dx_μdx_ν$, ($g_{μν}=g_{νμ}$)
 Another reference is the English version of Einstein´s book *Über die spezielle und die allgemeine Relativitätstheorie (Relativity: The Special and General Theory*, published in 1920).
 
 ***
-
-[**Next: 4.3. Aspects and Factors distinguishing scientific theories.**](./vol-I-chap-4-sect-3.md)
-
-
-
-
-
+[**Next: 4.3. Aspects and Factors distinguishing scientific theories.**](https://modphysnobel.github.io/vol-I/vol-I-chap-4-sect-3/)
