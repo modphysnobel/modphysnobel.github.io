@@ -1,7 +1,6 @@
+[**Volume I: Motion**](https://modphysnobel.github.io/vol-I/volume-I/)
 
-[**Volume I: Motion**](./volume-I.md)
-
-[**Previous: 4.2. Einstein´s theories of relativity.**](./vol-I-chap-4-sect-2.md) 
+[**Previous: 4.2. Einstein´s theories of relativity.**](https://modphysnobel.github.io/vol-III/vol-I-chap-4-sect-2/)
 
 ***
 
@@ -111,5 +110,4 @@ REICHENBACH, H. *The Philosophy of Space and Time*. New York. Dover Publications
 PIAGET J. and Garcia R. *Psychogenesis and the History of Science*. New York. Columbia University Press. (1989).
 
 ***
-
-[**Appendices.**](./vol-I-chap-4-apendix.md)
+[**Next: 5.1. Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-III/vol-I-chap-5-sect-1/)
