@@ -1,5 +1,7 @@
+[**Volume II: Energy**](https://modphysnobel.github.io/vol-II/volume-II/)
 
-[**Volume II: Energy**](./volume-II.md)
+[**Previous: 6.1. Electronic energy levels according to atomic models.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-1/)
+
 
 ***
 
@@ -89,3 +91,4 @@ Quantum electrodynamics considers in a quantized way both, the energy levels of 
 **Figure II.14.** Feynman diagram showing how a photon is emitted by one electron (the left one) and then absorbed by the second electron (the right one).
 
 ***
+[**Next: 6.3. Identification of concepts and descriptions of models.**](https://modphysnobel.github.io/vol-III/vol-II-chap-6-sect-3/)
