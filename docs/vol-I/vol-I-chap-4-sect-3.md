@@ -110,4 +110,4 @@ REICHENBACH, H. *The Philosophy of Space and Time*. New York. Dover Publications
 PIAGET J. and Garcia R. *Psychogenesis and the History of Science*. New York. Columbia University Press. (1989).
 
 ***
-[**Next: 5.1. Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-III/vol-I-chap-5-sect-1/)
+[**Next: 5.1. Kinetic theory of gases and Thermodynamics.**](https://modphysnobel.github.io/vol-II/vol-II-chap-5-sect-1/)
