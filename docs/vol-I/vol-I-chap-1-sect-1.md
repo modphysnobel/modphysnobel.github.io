@@ -133,7 +133,7 @@ Archimedes had great mechanical skills for designing and building machines while
 
 	
 <p align="center">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg/800px-How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=480 align=center>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/How_Archimedes_of_Syracuse_used_sunlight_to_burn_enemy_ships%2C_from_%E2%80%9CArs_Magna_Lucis_et_Umbrae%E2%80%9D_11.jpg" width=480 align=center>
 	</p>
 	
 <center>
