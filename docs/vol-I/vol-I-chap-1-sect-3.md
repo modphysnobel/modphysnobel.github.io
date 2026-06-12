@@ -52,9 +52,9 @@ By applying his buoyancy principle, Archimedes knew that the crown to be tested 
 The solution obtained by Archimedes can be summarized in terms of two processes: the analysis of the problem and the solution of the problem.
 
 <figure markdown>
-![Fig 1.3.1](./figs/Figura 1.3.1.PNG){width=480}
+![Fig 1.3.1](./figs/Figura 1.3.1.jpg){width=480}
 
-![Fig 1.3.2](./figs/Figura 1.3.2.PNG){width=480}
+![Fig 1.3.2](./figs/Figura 1.3.2.jpg){width=480}
 
 </figure>
 
