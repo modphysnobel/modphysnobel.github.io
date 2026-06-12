@@ -108,7 +108,7 @@ Just for comparison, it is interesting to observe the presence of meeting region
 <img src="https://es.wikipedia.org/wiki/Teotihuac%C3%A1n#/media/Archivo:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg" width=300 align=center> 
 
 <center>
-<img src="https://raw.githubusercontent.com/modphysnobel/modphysnobel.github.io/refs/heads/main/Teotihucan_layout0.png"  width=380 align=center>
+<img src="https://raw.githubusercontent.com/modphysnobel/modphysnobel.github.io/refs/heads/main/Teotihucan_layout.png"  width=380 align=center>
 
 
 [Sun pyramid in Teotihuacan](https://upload.wikimedia.org/wikipedia/commons/1/14/Teotihucan_layout.gif inside https://en.wikipedia.org/wiki/Teotihuacan), Mexico, nearby 450 AC.
