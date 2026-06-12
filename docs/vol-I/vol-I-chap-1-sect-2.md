@@ -107,7 +107,7 @@ Just for comparison, it is interesting to observe the presence of meeting region
       
 <img src="https://es.wikipedia.org/wiki/Teotihuac%C3%A1n#/media/Archivo:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg" width=300 align=center> 
 
-<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Teotihucan_layout0.GIF?raw=true">
+<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/Teotihucan_layout0.pngF?raw=true">
 
 
 
