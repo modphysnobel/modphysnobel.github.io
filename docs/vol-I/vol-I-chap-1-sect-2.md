@@ -107,6 +107,10 @@ Just for comparison, it is interesting to observe the presence of meeting region
       
 <img src="https://es.wikipedia.org/wiki/Teotihuac%C3%A1n#/media/Archivo:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg" width=300 align=center> 
 
+Por <a href="//commons.wikimedia.org/wiki/User:Pimpinellus" title="User:Pimpinellus">Burkhard Mücke</a> - <span class="int-own-work" lang="es">Trabajo propio</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=96444687">Enlace</a>
+
+
+
 [Sun pyramid in Teotihuacan](https://upload.wikimedia.org/wikipedia/commons/1/14/Teotihucan_layout.gif inside https://en.wikipedia.org/wiki/Teotihuacan), Mexico, nearby 450 AC.
               
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=420 align=center> 
