@@ -79,15 +79,15 @@ MLA style: Willis E. Lamb – Nobel Lecture. NobelPrize.org. Nobel Prize Outreac
 
 !!! quote "Box 6.2. *Issues requiring explaining models in Lamb´s Lecture*."
 
-	- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
-	- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
-	- The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. 
-	- Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. 
-	- As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. 
-	- Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. 
-	- Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. 
-	- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. 
-	- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
+- Spectroscopic studies of the hydrogen fine structure served to test the Dirac theory; however some unexplained discrepancy appeared between calculations and measurements. 
+- According to the solution of Dirac´s equation for the hydrogen atom, in the Hα line of the Balmer series the levels $2S_{1/2}$ and $2P_{1/2}$ must have the same energy. 
+- The $2S_{1/2}$ state of hydrogen is metastable because it has a long-time life against radiative transition to the ground state; furthermore, the state can be excited without destroying its metastability. 
+- Depending on the intensity of the external magnetic field transitions between states $2S → 2P → 1S$ occur when the radiofrequency is fixed; then some metastable atoms lose their excitation energy. 
+- As atoms in the ground state are unable to eject electrons from the detector, the electrometer current decreases. A reduction in the number of atoms detected indicates a radiofrequency resonance. 
+- Using analogous microwave methods further experiments have been reported in other materials such as helium and in states of hydrogen like $3P$ which have a higher excitation energy. 
+- Direct determination of the fine structure constant  $α=  \frac{q_e^2}{ђc}=7.297 \times 10^{-3} ≈ \frac{1 }{137}$. 
+- To obtain a finite mass of the electron on a purely electromagnetic basis, spontaneous emission could be regarded as emission stimulated by the quantum zero-point fluctuations in the electromagnetic field. 
+- The fluctuating zero-point electric field of the quantized vacuum acts on an electron bound producing an erratic motion in its unperturbed position. This fact is equivalent to a mass renormalization.
 
 To [Townes](https://en.wikipedia.org/wiki/Charles_H._Townes) “for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle”. (Prize shared with Nicolay Gennadiyevich Basov and Aleksandr Mikhailovich Prokhorov). 
 
@@ -114,24 +114,24 @@ MLA style: Charles H. Townes – Nobel Lecture. NobelPrize.org. Nobel Prize Outr
 
 !!! quote "Box 6.3. *Issues requiring explaining models in Townes´ Lecture*."
 
-	- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
-	- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
-	- Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. 
-	- Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics.
-	- Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. 
-	- Production of very short waves coherent oscillators by generating molecular or atomic resonances with positive feedback.  
-	- Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. 
-	- The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. 
-	- During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. 
-	- The background noise fluctuation is determined by the spontaneous emission. 
-	- The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. 
-	- Paramagnetic resonances are produced in three-level solid-state maser. 
-	- A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. 
-	- Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. 
-	- As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. 
-	- Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… 
-	- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. 
-	- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
+- The Planck’s black-body radiation law for hot objects indicates that radio waves emissions from hot sources will be of very weak intensity and require very high temperatures. 
+- According to Maxwell’s electromagnetic theory, radio waves and light are governed by identical equations. Therefore, in principle it would be possible to build oscillators and amplifiers by applying radio electronics as in optics. 
+- Coherent microwave oscillators is a high-resolution technique used in microwave spectroscopy for studying interactions between microwaves and molecules. 
+- Interaction between electromagnetic waves and matter at any temperature cannot produce amplification without violating the second law of thermodynamics.
+- Einstein´s constants are required for describing absorption and spontaneous and stimulated emissions in the interaction of electromagnetic energy with confined molecules. 
+- Production of very short waves coherent oscillators by generating molecular or atomic resonances with positive feedback.  
+- Resonance inside a microwave cavity between an external electric field’s frequency and the frequency corresponding to a transition from one excited molecular state to one of lesser quantized energy. 
+- The uncertainty principle indicates that it is impossible to make precise and simultaneous determinations of the electric and magnetic fields of a propagating electromagnetic wave. 
+- During amplification the phase and total energy of an input wave present uncertainties or fluctuations in intensity: $(∆n)(∆φ) ≥ ½$, where $∆n$  is the uncertainty in the number of photons and $∆φ$ is the uncertainty in phase. 
+- The background noise fluctuation is determined by the spontaneous emission. 
+- The maser is a good amplifier because it operates under low noise conditions that implies a minimum of random frequency fluctuations. 
+- Paramagnetic resonances are produced in three-level solid-state maser. 
+- A laser is a maser working in far-infrared, optical, and ultraviolet regions of the electromagnetic spectrum. 
+- Semiconductor lasers were p-n junctions in gallium arsenide through which the passage of a current produced an emission in the near-infrared. 
+- As Raman scattering can be regarded as spontaneous emission from a virtual state, Raman masers were built by using spontaneous emission processes. 
+- Factors producing improvement in lasers: extension of the frequency range of the coherent amplifiers and oscillators, shorter wavelengths stretching beyond the near-ultraviolet, monochromaticity of the emitted radiation, use the spatial coherence across the beam to focus it by a microscope, the intensity or brightness of the radiation… 
+- Technological applications: radar, surgery, welding, surveying, microscopy, measurement of time and length and of the velocity of light, experimental verification of Lorentz transformations, detailed examination of the structure of atoms, molecules, or solids, as well as nonlinear optics. 
+- Maser action for acoustic waves will be produced if molecules are sufficiently coupled to an acoustic field and appropriate excitation can be obtained to meet the threshold condition.
 
 To [Schawlow](https://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow) "for their contribution to the development of laser spectroscopy". (Half of the Prize was shared with Nicolaas Bloembergen and the other half was awarded to Kai M. Siegbahn "for his contribution to the development of high-resolution electron spectroscopy").
 
@@ -157,28 +157,28 @@ MLA style: Arthur L. Schawlow – Nobel Lecture. NobelPrize.org. Nobel Prize Out
 
 !!! quote "Box 6.4. *Issues requiring explaining models in Schawlow´s Lecture*."
 
-	- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
-	- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
-	- Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. <br>
-	- Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. <br>
-	- At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. <br>
-	- Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. <br>
-	- Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. <br>
-	- Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. <br>
-	- Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. <br>
-	- Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. <br>
-	- Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. <br>
-	- Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. <br>
-	- Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. <br>
-	- Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. <br>
-	- Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. <br>
-	- Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. <br>
-	- The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. <br>
-	- Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. <br>
-	- Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. <br>
-	- In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in $10^{15}$. <br>
-	- Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. <br>
-	- Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
+- Some spectrum lines of an electric spark come from the metal electrodes and others from the gas between them. <br>
+- Balmer formula reproduces the wavelengths of the spectral lines and compares with Angström’s measurements. <br>
+- Strength of the binding between electrons and nuclei in atoms measured by Rydberg constant. <br>
+- Use of high-resolution optical spectroscopy to measure nuclear properties from their effects on the shifts and splittings of spectral lines of atoms. <br>
+- At low gas density the principal source of the line widths is the Doppler-broadening that comes from the thermal motions of the atoms. <br>
+- Observation of spectra could work without a spectrograph by using a laser for tuning a narrowband source across the spectrum. <br>
+- Production of a narrow resonance at the Lamb dip (power output at the center of the atomic line), free from Doppler-broadening. <br>
+- Stabilization of the wavelength of lasers by using the optical resonances revealed by the Lamb dip and its inverse in Doppler-free conditions. <br>
+- Laser light properties: monochromaticity, intensity and directionality; observation of spectral details without Doppler-broadening. <br>
+- Observation of Doppler-free spectra of gases external to the laser: production of saturated absorption in Doppler-free spectroscopy. <br>
+- Hyperfine structures provide information about the distribution of electrons in the molecule when there is no Doppler-broadening. <br>
+- Increase in the sensitivity for measuring the vapor density of sodium metal by applying a continuous wave broadly tunable laser; possibility to observe and study a single atom or molecule of a substance. <br>
+- Production of laser action under optical excitation, as well as electrical discharges in gases and semiconductors; operation at characteristic wavelength determined by the properties of the material. <br>
+- Use intense flashlamps to excite laser action in organic dyes whose emission bands could be very wide. <br>
+- Use of the high light intensity of one laser to pump broadband materials in a tunable dye laser; possibilities to give laser action at all wavelengths in the visible, extending into the near ultraviolet and infrared. <br>
+- Observation of Balmer series spectral lines, in particular the fine structure of the red Hα line, where the Lamb shift between $2S_{1/2}$ and $2P_{1/2}$ levels was clearly detected. Improved values of the Rydberg constant were obtained. <br>
+- The sensitivity of the saturation method for avoiding Doppler-broadening increased by using a polarized pump beam that preferentially excites molecules with some particular orientation, leaving the remainder with a complementary orientation. <br>
+- Use of laser labeling to simplify molecular spectra so as to identify their specific molecular excited states: the lines from the labeled level could be recognized by their modulation. <br>
+- Measurement of energy levels and transitions for the Lamb shift of the 1s level of atomic hydrogen. <br>
+- In the 1s to 2s transition the lower state is stable and the upper state is metastable (it has a lifetime of l/7 second). The lifetime width need to be no more than one Hertz, or a part in $10^{15}$. <br>
+- Short broadband laser pulses were used to produce quantum beats in fluorescence by exciting a coherent superposition of several hyperfine levels. <br>
+- Laser spectroscopy extends from the submillimeter wavelengths in the far infrared to the vacuum ultraviolet and soft x-ray regions. It has been observed fine details hitherto obscured by thermal broadening, very small numbers of atoms and complex spectra. Measurements of simple atoms have achieved a very high precision.
 
 ***
 [**Next: 7.1. Experimental results concerning the Brownian motion.**](https://modphysnobel.github.io/vol-II/vol-II-chap-7-sect-1/)
