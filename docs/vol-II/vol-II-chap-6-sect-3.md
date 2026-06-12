@@ -47,20 +47,20 @@ MLA style: Niels Bohr – Nobel Lecture. NobelPrize.org. Nobel Prize Outreach AB
 
 !!! quote "Box 6.1. . *Issues requiring explaining models in Bohr´s Lecture*."
 
-	- Atomic structures by Thomson and by Rutherford. 
-	- Classification of elements and existence of isotopes according to electronic level structures. 
-	- Splitting of absorption lines in molecules in gases due to distinct possibilities of rotation. 
-	- Quantum postulates by Bohr concerning atomic stability and transitions between stationary states. 
-	- Hydrogen spectrum manifests the bounding condition of the electron to the nucleus. 
-	- Radius and energies of electronic orbits are quantized: $r_n = a_0(n^2)$ and $E_n = - R_H/(n^2)$ 
-	- X-ray spectra of different elements quite resemble their optical spectra. 
-	- External collisions with electrons produce quantized energy levels transitions (Franck-Hertz) 
-	- Complex atomic systems are characterized by sets of "quantum numbers". 
-	- Only certain orientations of the atom relative to an external magnetic field are possible because spin orientations with respect to that field are quantized (Stern and Gerlach). 
-	- Formulation of the correspondence principle by Bohr: for higher values of the principal quantum number the energy levels transitions approach classical electromagnetic results. 
-	- Modifications of spectral lines under the influence of external fields (Zeeman effect: splitting under a magnetic field and Stark effect: shifting and splitting under an electric field). 
-	- Explanations of band spectra in solids. 
-	- Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
+- Atomic structures by Thomson and by Rutherford. 
+- Classification of elements and existence of isotopes according to electronic level structures. 
+- Splitting of absorption lines in molecules in gases due to distinct possibilities of rotation. 
+- Quantum postulates by Bohr concerning atomic stability and transitions between stationary states. 
+- Hydrogen spectrum manifests the bounding condition of the electron to the nucleus. 
+- Radius and energies of electronic orbits are quantized: $r_n = a_0(n^2)$ and $E_n = - R_H/(n^2)$ 
+- X-ray spectra of different elements quite resemble their optical spectra. 
+- External collisions with electrons produce quantized energy levels transitions (Franck-Hertz) 
+- Complex atomic systems are characterized by sets of "quantum numbers". 
+- Only certain orientations of the atom relative to an external magnetic field are possible because spin orientations with respect to that field are quantized (Stern and Gerlach). 
+- Formulation of the correspondence principle by Bohr: for higher values of the principal quantum number the energy levels transitions approach classical electromagnetic results. 
+- Modifications of spectral lines under the influence of external fields (Zeeman effect: splitting under a magnetic field and Stark effect: shifting and splitting under an electric field). 
+- Explanations of band spectra in solids. 
+- Connection between the properties of the elements and the grouping in shells of the electrons in atoms formed by successive capture and binding of electrons.
  
 To [Lamb](https://en.wikipedia.org/wiki/Willis_Lamb) “for his discoveries concerning the fine structure of the hydrogen spectrum”. (Prize shared with Polykarp Kusch).
 
