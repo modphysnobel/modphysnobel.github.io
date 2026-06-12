@@ -86,4 +86,5 @@ When an atom absorbs sufficient energy from incoming light, it can transfer that
 
 <img width="668" height="361" alt="image" src="https://github.com/user-attachments/assets/44616f29-5119-4d7b-9292-53e17f30d0fa" />
 
+***
 [**Next: 15.3. Applications for Attosecond Science.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-3/) 
