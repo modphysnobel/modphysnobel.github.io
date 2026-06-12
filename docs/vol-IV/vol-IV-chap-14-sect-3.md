@@ -284,4 +284,5 @@ MLA style: Award ceremony speech. NobelPrize.org. Nobel Prize Outreach AB 2023. 
 
 MLA style: Advanced information. NobelPrize.org. Nobel Prize Outreach AB 2023. Tue. 29 Aug 2023. https://www.nobelprize.org/prizes/physics/2019/advanced-information/
 
+***
 [**Next: 15.1. Description of Motions at Different Timescales.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-1/) 
