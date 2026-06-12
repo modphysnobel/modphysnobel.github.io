@@ -55,4 +55,5 @@ The first moments of a chemical reaction are dictated by <a href="https://en.wik
 
 <img width="674" height="376" alt="image" src="https://github.com/user-attachments/assets/1f7f83b4-aa1c-478f-901e-cd70d6ded34f" />
 
+***
 [**Next: 16.1. Selection of Prizes in Economic Sciences in Memory of Alfred Nobel.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-16-sect-1/)
