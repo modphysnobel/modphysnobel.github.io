@@ -105,7 +105,6 @@ Just for comparison, it is interesting to observe the presence of meeting region
     
 [Plan of Milet in the Classical period](https://en.wikipedia.org/wiki/File:Miletos_stadsplan_400.jpg inside https://en.wikipedia.org/wiki/Miletus), nearby 490 BC.
       
-<img src="https://es.wikipedia.org/wiki/Teotihuac%C3%A1n#/media/Archivo:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg" width=300 align=center> 
 
 <center>
 <img src="https://raw.githubusercontent.com/modphysnobel/modphysnobel.github.io/refs/heads/main/Teotihucan_layout.png"  width=380 align=center>
