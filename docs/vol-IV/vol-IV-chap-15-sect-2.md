@@ -1,7 +1,7 @@
 [**Volume IV: Universes**](https://modphysnobel.github.io/vol-IV/volume-IV/)
 
 [**Previous: 15.1. Description of Motions at Different Timescales.**](https://modphysnobel.github.io/vol-IV/vol-IV-chap-15-sect-1/)
-
+***
 ## **15.2. Attosecond Science and the Study of Electron Dynamics.**
 
 This section 15.2 details the physical principles underlying the generation of attosecond pulse trains and isolated pulses; it also outlines the key experimental techniques used to measure them.  For centuries, the ultrafast motion of electrons within atoms and molecules was beyond our observational capacity. Next Table summarizes such a scientific and technology journey. 
