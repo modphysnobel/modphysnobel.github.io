@@ -107,7 +107,7 @@ Just for comparison, it is interesting to observe the presence of meeting region
       
 <img src="https://es.wikipedia.org/wiki/Teotihuac%C3%A1n#/media/Archivo:2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg" width=300 align=center> 
 
-Por <a href="//commons.wikimedia.org/wiki/User:Pimpinellus" title="User:Pimpinellus">Burkhard Mücke</a> - <span class="int-own-work" lang="es">Trabajo propio</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=96444687">Enlace</a>
+<img width="300" src="https://github.com/modphysnobel/modphysnobel.github.io/blob/main/docs/vol-I/figs/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pirámide_del_Sol.jpg.jpg?raw=true">
 
 
 
