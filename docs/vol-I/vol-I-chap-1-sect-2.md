@@ -96,27 +96,27 @@ Astronomy in Babylon characterized a religion believing that stars were diviniti
 
 !!! question "The agora."
 
-    As a part of a demystification and rationalization process of the social life, [the agora](https://en.wikipedia.org/wiki/Agora) was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions. 
+As a part of a demystification and rationalization process of the social life, [the agora](https://en.wikipedia.org/wiki/Agora) was a center for political actions and decisions with social, urban and cultural implications for the community. In that place democracy and law application were expressions of equality, equilibrium, symmetry and reciprocity. This was an indication of the appearance of new politically centralized institutions. 
 
-    Just for comparison, it is interesting to observe the presence of meeting regions in the following archeological sites: 
+Just for comparison, it is interesting to observe the presence of meeting regions in the following archeological sites: 
     
-    <center>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=380 align=center> 
+<center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Miletos_stadsplan_400.jpg" width=380 align=center> 
     
-    [Plan of Milet in the Classical period](https://en.wikipedia.org/wiki/File:Miletos_stadsplan_400.jpg inside https://en.wikipedia.org/wiki/Miletus), nearby 490 BC.
+[Plan of Milet in the Classical period](https://en.wikipedia.org/wiki/File:Miletos_stadsplan_400.jpg inside https://en.wikipedia.org/wiki/Miletus), nearby 490 BC.
       
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=300 align=center> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Teotihuacan_completo.jpg/280px-Teotihuacan_completo.jpg" width=300 align=center> 
 
-    [Sun pyramid in Teotihuacan](https://upload.wikimedia.org/wikipedia/commons/1/14/Teotihucan_layout.gif inside https://en.wikipedia.org/wiki/Teotihuacan), Mexico, nearby 450 AC.
+[Sun pyramid in Teotihuacan](https://upload.wikimedia.org/wikipedia/commons/1/14/Teotihucan_layout.gif inside https://en.wikipedia.org/wiki/Teotihuacan), Mexico, nearby 450 AC.
               
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=420 align=center> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Karta_MachuPicchu.PNG" width=420 align=center> 
 
-    [Residential palace in Machu Pichu](https://en.wikipedia.org/wiki/File:Karta_MachuPicchu.PNG inside https://en.wikipedia.org/wiki/Machu_Picchu), Peru, nearby 1500 AC.
+[Residential palace in Machu Pichu](https://en.wikipedia.org/wiki/File:Karta_MachuPicchu.PNG inside https://en.wikipedia.org/wiki/Machu_Picchu), Peru, nearby 1500 AC.
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=480 align=center> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Map_of_Masada.svg" width=480 align=center> 
 
-    [Massada](https://en.wikipedia.org/wiki/File:Map_of_Masada.svg inside https://en.wikipedia.org/wiki/Masada) in Israel, nearby 20 BC    
-    </center>                          
+[Massada](https://en.wikipedia.org/wiki/File:Map_of_Masada.svg inside https://en.wikipedia.org/wiki/Masada) in Israel, nearby 20 BC    
+</center>                          
 
 For a broader treatment concerning conceptualization of spaces, see the following references: 
 
