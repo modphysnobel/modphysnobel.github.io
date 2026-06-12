@@ -172,7 +172,7 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
   </table>
 </div>
 
-	(Image credit: drawings made by the authors.)
+(Image credit: drawings made by the authors.)
 
 
 ***
