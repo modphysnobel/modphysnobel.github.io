@@ -173,7 +173,6 @@ The equation of a circumference can be obtained by applying Pythagoras theorem: 
 </div>
 
 (Image credit: drawings made by the authors.)
-
-
 ***
+
 [**Next: 1.2. Conceptualizations of spaces and quantum statistics.**](https://modphysnobel.github.io/vol-I/vol-I-chap-1-sect-2/)
