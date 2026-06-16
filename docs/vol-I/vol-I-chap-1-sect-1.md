@@ -6,7 +6,7 @@
 
 *What are the main characteristics of dictatorial or democratic conceptualizations?*
     
-We will understand by conceptualizati****on a style for creating concepts; it is a process concerning the formation of ideas.
+We will understand by conceptualization a style for creating concepts; it is a process concerning the formation of ideas.
     
 ### **Learning objectives of Chapter 1.**
     
